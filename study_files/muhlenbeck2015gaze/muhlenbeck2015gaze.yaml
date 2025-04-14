@@ -1,0 +1,65 @@
+study_id: muhlenbeck2015gaze
+year: 2015
+reference: 'Mühlenbeck, C., Liebal, K., Pritsch, C., & Jacobsen, T. (2015). Gaze duration
+  biases for colours in combination with dissonant and consonant sounds: a comparative
+  eye-tracking study with orangutans. PLoS One, 10(10), e0139894. '
+abstract: Research on colour preferences in humans and non-human primates suggests
+  similar patterns of biases for and avoidance of specific colours, indicating that
+  these colours are connected to a psychological reaction. Similarly, in the acoustic
+  domain, approach reactions to consonant sounds (considered as positive) and avoidance
+  reactions to dissonant sounds (considered as negative) have been found in human
+  adults and children, and it has been demonstrated that non-human primates are able
+  to discriminate between consonant and dissonant sounds. Yet it remains unclear whether
+  the visual and acoustic approach-avoidance patterns remain consistent when both
+  types of stimuli are combined, how they relate to and influence each other, and
+  whether these are similar for humans and other primates. Therefore, to investigate
+  whether gaze duration biases for colours are similar across primates and whether
+  reactions to consonant and dissonant sounds cumulate with reactions to specific
+  colours, we conducted an eye-tracking study in which we compared humans with one
+  species of great apes, the orangutans. We presented four different colours either
+  in isolation or in combination with consonant and dissonant sounds. We hypothesised
+  that the viewing time for specific colours should be influenced by dissonant sounds
+  and that previously existing avoidance behaviours with regard to colours should
+  be intensified, reflecting their association with negative acoustic information.
+  The results showed that the humans had constant gaze durations which were independent
+  of the auditory stimulus, with a clear avoidance of yellow. In contrast, the orangutans
+  did not show any clear gaze duration bias or avoidance of colours, and they were
+  also not influenced by the auditory stimuli. In conclusion, our findings only partially
+  support the previously identified pattern of biases for and avoidance of specific
+  colours in humans and do not confirm such a pattern for orangutans.
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Cordelia Mühlenbeck
+  corr_author: true
+- author_no: 2
+  name: Katja Liebal
+  corr_author: false
+- author_no: 3
+  name: Carla Pritsch
+  corr_author: false
+- author_no: 4
+  name: Thomas Jacobsen
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: partial
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan
+  group_id_excluded: berlin_adults
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2013-2013
+  data_collection_date_comments: ''
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: features_and_categories
+  specific_domain: discrimination_learning
+cognitive_domain:
+  social: false
+  physical: true
