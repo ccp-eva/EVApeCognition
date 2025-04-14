@@ -1,0 +1,59 @@
+study_id: muhlenbeck2017cultural
+year: 2017
+reference: 'Mühlenbeck, C., Jacobsen, T., Pritsch, C., & Liebal, K. (2017). Cultural
+  and species differences in gazing patterns for marked and decorated objects: a comparative
+  eye-tracking study. Frontiers in psychology, 8, 6.'
+abstract: Objects from the Middle Paleolithic period colored with ochre and marked
+  with incisions represent the beginning of non-utilitarian object manipulation in
+  different species of the Homo genus. To investigate the visual effects caused by
+  these markings, we compared humans who have different cultural backgrounds (Namibian
+  hunter–gatherers and German city dwellers) to one species of non-human great apes
+  (orangutans) with respect to their perceptions of markings on objects. We used eye-tracking
+  to analyze their fixation patterns and the durations of their fixations on marked
+  and unmarked stones and sticks. In an additional test, humans evaluated the objects
+  regarding their aesthetic preferences. Our hypotheses were that colorful markings
+  help an individual to structure the surrounding world by making certain features
+  of the environment salient, and that aesthetic appreciation should be associated
+  with this structuring. Our results showed that humans fixated on the marked objects
+  longer and used them in the structural processing of the objects and their background,
+  but did not consistently report finding them more beautiful. Orangutans, in contrast,
+  did not distinguish between object and background in their visual processing and
+  did not clearly fixate longer on the markings. Our results suggest that marking
+  behavior is characteristic for humans and evolved as an attention-directing rather
+  than aesthetic benefit.
+keywords: object manipulation, ochre, eye-tracking, external symbolic storage, orangutans
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Cordelia Mühlenbeck
+  corr_author: true
+- author_no: 2
+  name: Thomas Jacobsen
+  corr_author: false
+- author_no: 3
+  name: Carla Pritsch
+  corr_author: false
+- author_no: 4
+  name: Katja Liebal
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: partial
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan
+  group_id_excluded: hai_adolescents, hamburg_adolescents, hamburg_adolescents
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: age_in_years provided by author in data file
+domains:
+- domain_no: 1
+  general_domain: features_and_categories
+  specific_domain: discrimination_learning
+cognitive_domain:
+  social: false
+  physical: true
