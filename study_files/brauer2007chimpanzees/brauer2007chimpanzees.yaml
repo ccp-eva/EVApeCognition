@@ -1,0 +1,61 @@
+study_id: brauer2007chimpanzees
+year: 2007
+reference: Bräuer, J., Call, J., & Tomasello, M. (2007). Chimpanzees Really Know What
+  Others Can See in a Competitive Situation. Animal Cognition, 10(4), 439-448. doi:10.1007/s10071-007-0088-1.
+abstract: Chimpanzee’s perspective-taking abilities are currently disputed. Here we
+  show that in some food competition contexts, subordinate chimpanzees do take the
+  visual perspective of dominant individuals, preferentially targeting a hidden piece
+  of the food that the dominant cannot see over a piece that is visible to both individuals.
+  However, the space where the animals compete is critical in determining whether
+  subjects demonstrate this skill. We suggest that competition intensity, as mediated
+  by these spatial factors, may play an important role in determining the strategy
+  chimpanzees utilize in competitive contexts. Since some strategies may not require
+  visual perspective taking in order to be successful, chimpanzees may not always
+  demonstrate this skill. Differences in spatial arrangement may therefore account
+  for the conflicting results of past studies.
+keywords: Social cognition, Food competition, Visual perspective taking
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Juliane Braeuer
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2003
+  data_collection_date_comments: 2003/02/05 to 2003/07/05
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: dyads
+  droupouts_no: 1
+  dropout_names: Dorien
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2003
+  data_collection_date_comments: 2003/10/14 to 2003/12/20
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: theory_of_mind_and_metacognition
+  specific_domain: understanding_perception_knowledge_and_beliefs
+cognitive_domain:
+  social: true
+  physical: false

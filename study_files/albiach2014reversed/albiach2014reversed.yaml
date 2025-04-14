@@ -1,0 +1,64 @@
+study_id: albiach2014reversed
+year: 2014
+reference: Albiach-Serrano, A., & Call, J. (2014). A reversed-reward contingency task
+  reveals causal knowledge in chimpanzees (Pan troglodytes). Animal Cognition, 17(5),
+  1167-1176. doi:10.1007/s10071-014-0749-9.
+abstract: In the reversed-reward contingency task, subjects are required to choose
+  the less preferred of two options in order to obtain the more preferred one. Usually,
+  this task is used to measure inhibitory skills, but it could also be used to measure
+  how strong the subjects’ preferences are. We presented chimpanzees with support
+  tasks where only one of two paper strips could physically bring food into reach.
+  Subjects were rewarded for choosing the non-functional strip. In Experiment 1, subjects
+  failed to pick the non-baited strip. In Experiment 2, subjects failed to pick the
+  broken strip. Chimpanzees performed worse in these tasks than in other similar tasks
+  where instead of paper strips, there were similar shapes painted on a platform.
+  The fact that subjects found the reversed-reward contingency task based on causality
+  more difficult to solve than a perceptually similar task with no causality involved
+  (i.e., arbitrary) suggests that they did not treat real strips as an arbitrary task.
+  Instead, they must have had some causal knowledge of the support problem that made
+  them prefer functional over non-functional strips despite the contrary reward regime.
+keywords: Reversed-reward contingency, Inhibition, Support, Causal knowledge, Chimpanzees
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Anna Albiach Serrano
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: publication
+  data_collection_date: 2009 - 2010
+  data_collection_date_comments: note that both sets of data were collected by the
+    same experimenter, using the same materials, and simultaneously (2009–2010)
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: publication
+  data_collection_date: 2011 - 2012
+  data_collection_date_comments: (data were taken between 2011 and 2012)
+  age_source: data_file
+  age_source_comments: age_in_years provided in data file, age_original also provided
+    in exp2 data file in months
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: tool_features_and_functions
+cognitive_domain:
+  social: false
+  physical: true

@@ -1,0 +1,73 @@
+study_id: hribar2011great
+year: 2011
+reference: Hribar, A., & Call, J. (2011). Great apes use landmark cues over spatial
+  relations to find hidden food. Animal Cognition, 14(5), 623-635. doi:10.1007/s10071-011-0397-2.
+abstract: We investigated whether chimpanzees, bonobos, and orangutans encoded the
+  location of a reward hidden underneath one of three identical cups in relation to
+  (1) the other cups in the array—i.e., the relative position of the baited cup within
+  the array; or (2) the landmarks surrounding the cups—e.g., the edge of the table.
+  Apes witnessed the hiding of a food reward under one of three cups forming a straight
+  line on a platform. After 30 s, they were allowed to search for the reward. In three
+  different experiments, we varied the distance of the cups to the edge of the platform
+  and the distance between the cups. Results showed that both manipulated variables
+  affected apes’ retrieval accuracy. Subjects’ retrieval accuracy was higher for the
+  outer cups compared with the Middle cup, especially if the outer cups were located
+  next to the platform’s edge. Additionally, the larger the distance between the cups,
+  the better performance became.
+keywords: Landmark use, Spatial encoding, Spatial cognition, Spatial memory, Spatial
+  frames of reference, Spatial relations
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Alenka Hribar
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: true
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_b, wkprc_bonobo, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2009'
+  data_collection_date_comments: 2009/02/28 to 2009/03/10
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_b, wkprc_bonobo, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2009'
+  data_collection_date_comments: 2009/09/24 to 2009/09/30
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_b, wkprc_bonobo, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: space_and_objects
+  specific_domain: space_landmarks_and_relations
+cognitive_domain:
+  social: false
+  physical: true

@@ -1,0 +1,453 @@
+﻿study_id,experiment,participant,age_in_years,sex,species,trial,condition,food_on_left,food_on_left_codes,food_on_right,food_on_right_codes,choice,choice_codes,success
+call2004inferences,4,vimoto,6.0,m,gorilla,1.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,vimoto,6.0,m,gorilla,2.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,3.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,4.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,5.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,6.0,2.0,yes,stirred_baited,no,shaken_empty,2.0,left,0.0
+call2004inferences,4,vimoto,6.0,m,gorilla,7.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,8.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,vimoto,6.0,m,gorilla,9.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,10.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,11.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,12.0,2.0,yes,stirred_baited,no,shaken_empty,2.0,left,0.0
+call2004inferences,4,vimoto,6.0,m,gorilla,13.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,14.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,15.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,vimoto,6.0,m,gorilla,16.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,17.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,18.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,vimoto,6.0,m,gorilla,19.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,20.0,3.0,no,stirred_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,vimoto,6.0,m,gorilla,21.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,22.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,23.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,24.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,25.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,26.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,27.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,28.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,29.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,30.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,vimoto,6.0,m,gorilla,31.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,32.0,3.0,no,stirred_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,vimoto,6.0,m,gorilla,33.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,34.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,vimoto,6.0,m,gorilla,35.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,36.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,37.0,3.0,no,stirred_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,vimoto,6.0,m,gorilla,38.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,39.0,2.0,yes,stirred_baited,no,shaken_empty,2.0,left,0.0
+call2004inferences,4,vimoto,6.0,m,gorilla,40.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,vimoto,6.0,m,gorilla,41.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,42.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,43.0,2.0,yes,stirred_baited,no,shaken_empty,2.0,left,0.0
+call2004inferences,4,vimoto,6.0,m,gorilla,44.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vimoto,6.0,m,gorilla,45.0,3.0,no,stirred_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,vimoto,6.0,m,gorilla,46.0,2.0,yes,stirred_baited,no,shaken_empty,2.0,left,0.0
+call2004inferences,4,vimoto,6.0,m,gorilla,47.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,vimoto,6.0,m,gorilla,48.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,1.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,2.0,3.0,no,stirred_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,viringika,6.0,f,gorilla,3.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,4.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,5.0,1.0,no,stirred_empty,yes,shaken_baited,1.0,right,0.0
+call2004inferences,4,viringika,6.0,f,gorilla,6.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,7.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,viringika,6.0,f,gorilla,8.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,viringika,6.0,f,gorilla,9.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,10.0,3.0,no,stirred_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,viringika,6.0,f,gorilla,11.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,12.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,13.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,14.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,15.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,16.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,17.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,viringika,6.0,f,gorilla,18.0,3.0,no,stirred_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,viringika,6.0,f,gorilla,19.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,20.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,viringika,6.0,f,gorilla,21.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,22.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,23.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,24.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,25.0,1.0,no,stirred_empty,yes,shaken_baited,1.0,right,0.0
+call2004inferences,4,viringika,6.0,f,gorilla,26.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,viringika,6.0,f,gorilla,27.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,28.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,29.0,3.0,no,stirred_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,viringika,6.0,f,gorilla,30.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,31.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,viringika,6.0,f,gorilla,32.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,33.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,34.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,35.0,1.0,no,stirred_empty,yes,shaken_baited,1.0,right,0.0
+call2004inferences,4,viringika,6.0,f,gorilla,36.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,37.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,38.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,viringika,6.0,f,gorilla,39.0,3.0,no,stirred_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,viringika,6.0,f,gorilla,40.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,41.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,viringika,6.0,f,gorilla,42.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,viringika,6.0,f,gorilla,43.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,44.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,45.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,viringika,6.0,f,gorilla,46.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,viringika,6.0,f,gorilla,47.0,3.0,no,stirred_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,viringika,6.0,f,gorilla,48.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,1.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,2.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,3.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,4.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,5.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,vizuri,6.0,f,gorilla,6.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,7.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,8.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,9.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,10.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,11.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,12.0,2.0,yes,stirred_baited,no,shaken_empty,2.0,left,0.0
+call2004inferences,4,vizuri,6.0,f,gorilla,13.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,14.0,1.0,yes,shaken_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,vizuri,6.0,f,gorilla,15.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,vizuri,6.0,f,gorilla,16.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,17.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,18.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,19.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,20.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,21.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,22.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,23.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,24.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,25.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,26.0,3.0,no,stirred_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,vizuri,6.0,f,gorilla,27.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,28.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,29.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,30.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,vizuri,6.0,f,gorilla,31.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,32.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,33.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,34.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,35.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,36.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,37.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,38.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,39.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,40.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,41.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,42.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,43.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,44.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,45.0,3.0,no,stirred_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,vizuri,6.0,f,gorilla,46.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,47.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,vizuri,6.0,f,gorilla,48.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,sandra,8.0,f,chimpanzee,1.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,2.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,3.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,4.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,5.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,6.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,7.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,8.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,9.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,10.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,11.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,12.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,13.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,14.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,15.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,16.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,17.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,18.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,19.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,20.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,21.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,22.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,23.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,24.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,25.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,26.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,27.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,28.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,29.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,30.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,31.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,32.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,33.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,34.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,35.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,36.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,37.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,38.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,39.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,40.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,41.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,42.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,43.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,44.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,45.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,46.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,47.0,,no, ,no, ,,,
+call2004inferences,4,sandra,8.0,f,chimpanzee,48.0,,no, ,no, ,,,
+call2004inferences,4,jahaga,8.0,f,chimpanzee,1.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,2.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,3.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,4.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,5.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,6.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,7.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,8.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,9.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,10.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,11.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,12.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,13.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,14.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,15.0,2.0,yes,stirred_baited,no,shaken_empty,2.0,left,0.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,16.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,17.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,18.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,19.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,20.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,21.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,22.0,2.0,yes,stirred_baited,no,shaken_empty,2.0,left,0.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,23.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,24.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,25.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,26.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,27.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,28.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,29.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,30.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,31.0,2.0,yes,stirred_baited,no,shaken_empty,2.0,left,0.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,32.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,33.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,34.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,35.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,36.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,37.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,38.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,39.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,40.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,41.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,42.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,43.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,44.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,45.0,3.0,no,stirred_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,46.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,47.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,jahaga,8.0,f,chimpanzee,48.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,1.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,limbuko,6.0,m,bonobo,2.0,3.0,no,stirred_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,limbuko,6.0,m,bonobo,3.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,4.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,5.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,6.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,7.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,8.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,9.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,10.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,11.0,1.0,no,stirred_empty,yes,shaken_baited,1.0,right,0.0
+call2004inferences,4,limbuko,6.0,m,bonobo,12.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,13.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,14.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,15.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,16.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,17.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,18.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,19.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,limbuko,6.0,m,bonobo,20.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,21.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,22.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,23.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,24.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,25.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,26.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,27.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,28.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,29.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,limbuko,6.0,m,bonobo,30.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,31.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,32.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,33.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,34.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,35.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,36.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,37.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,38.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,39.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,limbuko,6.0,m,bonobo,40.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,41.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,42.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,43.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,44.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,45.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,46.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,47.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,48.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,1.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,2.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,3.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,4.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,5.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,6.0,2.0,no,shaken_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,kuno,5.0,m,bonobo,7.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,8.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,9.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,10.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,11.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,kuno,5.0,m,bonobo,12.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,13.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,14.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,15.0,2.0,yes,stirred_baited,no,shaken_empty,2.0,left,0.0
+call2004inferences,4,kuno,5.0,m,bonobo,16.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,17.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,18.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,19.0,2.0,yes,stirred_baited,no,shaken_empty,2.0,left,0.0
+call2004inferences,4,kuno,5.0,m,bonobo,20.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,kuno,5.0,m,bonobo,21.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,22.0,2.0,yes,stirred_baited,no,shaken_empty,2.0,left,0.0
+call2004inferences,4,kuno,5.0,m,bonobo,23.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,24.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,25.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,26.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,27.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,28.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,29.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,30.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,kuno,5.0,m,bonobo,31.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,32.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,33.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,kuno,5.0,m,bonobo,34.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,35.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,36.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,37.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,38.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,39.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,40.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,41.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,42.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,kuno,5.0,m,bonobo,43.0,2.0,yes,stirred_baited,no,shaken_empty,2.0,left,0.0
+call2004inferences,4,kuno,5.0,m,bonobo,44.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,45.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,46.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,47.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,kuno,5.0,m,bonobo,48.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,n’kwango,,m,gorilla,1.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,2.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,3.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,4.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,5.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,6.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,7.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,8.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,9.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,10.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,11.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,12.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,13.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,14.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,15.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,16.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,17.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,18.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,19.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,20.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,21.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,22.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,23.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,24.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,25.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,26.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,27.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,28.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,29.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,30.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,31.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,32.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,33.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,34.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,35.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,36.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,37.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,38.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,39.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,40.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,41.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,42.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,43.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,44.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,45.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,46.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,47.0,,no, ,no, ,,,
+call2004inferences,4,n’kwango,,m,gorilla,48.0,,no, ,no, ,,,
+call2004inferences,4,n’diki,24.0,f,gorilla,1.0,2.0,yes,stirred_baited,no,shaken_empty,2.0,left,0.0
+call2004inferences,4,n’diki,24.0,f,gorilla,2.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,3.0,1.0,yes,shaken_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,n’diki,24.0,f,gorilla,4.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,5.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,6.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,n’diki,24.0,f,gorilla,7.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,8.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,9.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,n’diki,24.0,f,gorilla,10.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,11.0,2.0,yes,stirred_baited,no,shaken_empty,2.0,left,0.0
+call2004inferences,4,n’diki,24.0,f,gorilla,12.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,13.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,14.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,15.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,16.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,17.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,18.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,19.0,2.0,yes,stirred_baited,no,shaken_empty,2.0,left,0.0
+call2004inferences,4,n’diki,24.0,f,gorilla,20.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,21.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,22.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,23.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,24.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,n’diki,24.0,f,gorilla,25.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,26.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,27.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,28.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,29.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,n’diki,24.0,f,gorilla,30.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,31.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,32.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,33.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,34.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,35.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,36.0,2.0,yes,stirred_baited,no,shaken_empty,2.0,left,0.0
+call2004inferences,4,n’diki,24.0,f,gorilla,37.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,38.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,39.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,n’diki,24.0,f,gorilla,40.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,41.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,42.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,43.0,2.0,no,shaken_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,44.0,1.0,yes,shaken_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,45.0,2.0,yes,stirred_baited,no,shaken_empty,1.0,right,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,46.0,1.0,no,stirred_empty,yes,shaken_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,47.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,n’diki,24.0,f,gorilla,48.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,1.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,2.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,3.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,4.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,5.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,limbuko,6.0,m,bonobo,6.0,3.0,no,stirred_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,limbuko,6.0,m,bonobo,7.0,3.0,no,stirred_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,limbuko,6.0,m,bonobo,8.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,9.0,3.0,yes,stirred_baited,no,stirred_empty,1.0,right,1.0
+call2004inferences,4,limbuko,6.0,m,bonobo,10.0,3.0,no,stirred_empty,yes,stirred_baited,1.0,right,0.0
+call2004inferences,4,n’diki,24.0,f,gorilla,1.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,2.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,n’diki,24.0,f,gorilla,3.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,4.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,n’diki,24.0,f,gorilla,5.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,n’diki,24.0,f,gorilla,6.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,7.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,8.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0
+call2004inferences,4,n’diki,24.0,f,gorilla,9.0,3.0,no,stirred_empty,yes,stirred_baited,2.0,left,1.0
+call2004inferences,4,n’diki,24.0,f,gorilla,10.0,3.0,yes,stirred_baited,no,stirred_empty,2.0,left,0.0

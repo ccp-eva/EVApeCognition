@@ -1,0 +1,51 @@
+study_id: bohn2016role
+year: 2016
+reference: Bohn, M., Call, J., & Tomasello, M. (2016). The role of past interactions
+  in great apes' communication about absent entities. Journal of Comparative Psychology,
+  130(4), 351-357. doi:10.1037/com0000042.
+abstract: Recent evidence suggests that great apes can use the former location of
+  an entity to communicate about it. In this study we built on these findings to investigate
+  the social– cognitive foundations of great apes’ communicative abilities. We tested
+  whether great apes (n   35) would adjust their requests for absent entities to previous
+  interactions they had with their interlocutor. We manipulated the apes’ experience
+  with respect to the interlocutor’s knowledge about the previous content of the now-empty
+  location as well as their experience with the interlocutor’s competence to provide
+  additional food items. We found that apes adjusted their requests to both of these
+  aspects but failed to integrate them with one another. These results demonstrate
+  a surprising amount of flexibility in great apes’ communicative abilities while
+  at the same time suggesting some important limitations in their social communicative
+  skills.
+keywords: communication, common ground, displacement, social cognition, great apes
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Manuel Bohn
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: Brigitta, Kisha, Swela, Bimbo
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_orangutan,
+    wkprc_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2014
+  data_collection_date_comments: ''
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: social_strategies_and_communication
+  specific_domain: communication_with_humans
+cognitive_domain:
+  social: true
+  physical: false

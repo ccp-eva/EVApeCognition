@@ -1,0 +1,16 @@
+column_name,description
+study_id,personal study ID composed by the first authors’ first surname_year of publication_first title word 
+participant,name of the participant 
+age_in_years,age presented in years – see metadata for source of age 
+sex,sex of the participant 
+species,species of individuals participating in the study -bonobo/chimpanzee/gorilla/orangutan 
+zoo,zoo in which the study was conducted – berlin / dortmund / leipzig
+condition,condition in which the two presented objects differ – colour (green / red) / shape (cuboid / spherical) / texture (hard / soft). Note that we had to exclude all sessions with soft objects in the colour and shape condition because the apes unwrapped the objects 
+texture,texture of objects – hard / soft
+shape,shape of objects – cuboid / spherical
+colour,colour of objects – green / red
+contact_time_sec,total duration the ape touched the object with any part of her body [in sec]
+contact_proportion,proportion of touching the object calculated by summing the durations for both objects within a session and then determining each objects proportion relative to the total – this is independent of session length
+trial_time_sec,duration of the trial (one trial or session was conducted per day) [in sec]/ 300 seconds or until a soft object was unwrapped/ max. 300 seconds or until a soft object was unwrapped
+manipul_count,total number of applied manipulations (see paper)
+manipul_proportion,proportion of manipulating the object – calculated by summing the number of manipulations for both objects within a session and then determining each objects proportional manipulation time relative to the total – this is independent of the total number of manipulations

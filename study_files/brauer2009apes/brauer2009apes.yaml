@@ -1,0 +1,54 @@
+study_id: brauer2009apes
+year: 2009
+reference: Bräuer, J., Call, J., & Tomasello, M. (2009). Are apes inequity averse?
+  New data on the token-exchange paradigm. American Journal of Primatology, 71(2),
+  175-181. doi:10.1002/ajp.20639.
+abstract: Recent studies have produced mixed evidence about inequity aversion in nonhuman
+  primates. Brosnan et al. [Proceedings of the Royal Society of London. Series B.
+  Biological Sciences 272:253–258, 2005] found inequity aversion in chimpanzees and
+  argued that effort is crucial, if subjects are to evaluate how they are rewarded
+  in comparison to a competitor for an identical performance. In this study we investigated
+  inequity aversion with chimpanzees, bonobos and orangutans, using the method of
+  Brosnan et al. [Proceedings of the Royal Society of London. Series B. Biological
+  Sciences 272:253–258, 2005] after introducing some methodological improvements.
+  Subjects always received a less-preferred food in exchange for a token, whereas
+  the competitor received either the same type of food for their token (equity) or
+  a more favored food for it (inequity). Apes did not refuse more of the less-preferred
+  food when a competitor had received the more favored food. Thus, with an improved
+  methodology we failed to reproduce the findings of Brosnan et al. [Proceedings of
+  the Royal Society of London. Series B. Biological Sciences 272:253–258, 2005] that
+  apes show inequity aversion. Am. J. Primatol. 71:175–181, 2009
+keywords: inequity aversion, social cognition, prosocial behavior, other regarding
+  preferences, fairness
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Juliane Braeuer
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 2
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_orangutan, wkprc_bonobo,
+  group_id_excluded: null
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: prosocial_behavior
+cognitive_domain:
+  social: true
+  physical: false

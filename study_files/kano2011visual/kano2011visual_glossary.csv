@@ -1,0 +1,8 @@
+"column_name","description"
+"study_id","personal study ID composed by the first authors’ first surname_year of publication_first title word "
+"participant","name of the participant "
+"sex","sex of the participant "
+"species","species of individuals participating in the study -chimpanzee/gorilla/orangutan "
+"group_id","the facility participants are from – mpi(WKPRC) -gari (Great Ape Research Center) -pri (Primate Research Institute)"
+"gap","saccade latency in miliseconds during gap condition (central fixation stimulus disappear)"
+"overlap","saccade latency in miliseconds during overlap condition (central fixation stimulus remaind)"

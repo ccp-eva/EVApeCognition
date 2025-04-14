@@ -1,0 +1,96 @@
+study_id: haun2009great
+year: 2009
+reference: Haun, D. B. M., & Call, J. (2009). Great apes’ capacities to recognize
+  relational similarity. Cognition, 110(2), 147-159. doi:10.1016/j.cognition.2008.10.012.
+abstract: Recognizing relational similarity relies on the ability to understand that
+  defining object properties might not lie in the objects individually, but in the
+  relations of the properties of various object to each other. This aptitude is highly
+  relevant for many important human skills such as language, reasoning, categorization
+  and understanding analogy and metaphor. In the current study, we investigated the
+  ability to recognize relational similarities by testing five species of great apes,
+  including human children in a spatial task. We found that all species performed
+  better if related elements are connected by logico-causal as opposed to non-causal
+  relations. Further, we find that only children above 4 years of age, bonobos and
+  chimpanzees, unlike younger children, gorillas and orangutans display some mastery
+  of reasoning by non-causal relational similarity. We conclude that recognizing relational
+  similarity is not in its entirety unique to the human species. The lack of a capability
+  for language does not prohibit recognition of simple relational similarities. The
+  data are discussed in the light of the phylogenetic tree of relatedness of the great
+  apes.
+keywords: Relational similarity, Great apes, Spatial cognition, Cognitive development,
+  Cognitive evolution
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Daniel B.M. Haun
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: age_in_years at arrival provided by author in exp4/ age calculated
+    for exp 2-3
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 5
+  dropout_names: null
+  group_id: wkprc_gorilla, wkprc_orangutan, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2007'
+  data_collection_date_comments: 22/02/2007 to 18/04/2007
+  age_source: calculated
+  age_source_comments: age_in_years at arrival provided by author in exp4/ age calculated
+    for exp 2-3
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2007'
+  data_collection_date_comments: 16/04/2007 to 19/04/2007
+  age_source: calculated
+  age_source_comments: age_in_years at arrival provided by author in exp4/ age calculated
+    for exp 2-3
+- experiment_no: 4
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 8
+  dropout_names: null
+  group_id: occq_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: calculated
+  age_source_comments: age_in_years at arrival provided by author in exp4/ age calculated
+    for exp 2-3
+domains:
+- domain_no: 1
+  general_domain: features_and_categories
+  specific_domain: relational_categories
+- domain_no: 2
+  general_domain: space_and_objects
+  specific_domain: .nan
+cognitive_domain:
+  social: false
+  physical: true

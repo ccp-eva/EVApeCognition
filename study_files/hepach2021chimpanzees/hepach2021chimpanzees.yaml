@@ -1,0 +1,77 @@
+study_id: hepach2021chimpanzees
+year: 2021
+reference: Hepach, R., Vaish, A., Kano, F., Benziad, L., Call, J., & Tomasello, M.
+  (2021). Chimpanzees’ (Pan troglodytes) internal arousal remains elevated if they
+  cannot themselves help a conspecific. Journal of Comparative Psychology, 135(2),
+  196-207. doi:10.1037/com0000255.
+abstract: Chimpanzees help conspecifics achieve their goals in instrumental situations,
+  but neither their immediate motivation nor the evolutionary basis of their motivation
+  is clear. In the current study, we gave chimpanzees the opportunity to instrumentally
+  help a conspecific to obtain food. Following recent studies with human children,
+  we measured their pupil diameter at various points in the process. Like young children,
+  chimpanzees’ pupil diameter decreased soon after they had helped. However, unlike
+  children, chimpanzees’ pupils remained more dilated upon watching a third party
+  provide the needed help instead of them. Our interpretation is that chimpanzees
+  are motivated to help others, and the evolutionary basis is direct or indirect reciprocity,
+  as providing help oneself sets the conditions for a payback. This is in contrast
+  to young children whose goal is to see others being helped—by whomever—presumably
+  because their helping is not based on reciprocity.
+keywords: chimpanzees, helping, internal arousal, pupil dilation
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Robert Hepach
+  corr_author: true
+- author_no: 2
+  name: Amrisha Vaish
+  corr_author: false
+- author_no: 3
+  name: Fumihiro Kano
+  corr_author: false
+- author_no: 4
+  name: Anna Albiach-Serrano
+  corr_author: false
+- author_no: 5
+  name: Leïla Benziad
+  corr_author: false
+- author_no: 6
+  name: Josep Call
+  corr_author: false
+- author_no: 7
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: dyads
+  droupouts_no: 5
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 2014 - 2015
+  data_collection_date_comments: study was conducted between February 2014 and February
+    2015.
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: dyads
+  droupouts_no: 7
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 2016 - 2016
+  data_collection_date_comments: February 2016 and June 2016
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: prosocial_behavior
+cognitive_domain:
+  social: true
+  physical: false

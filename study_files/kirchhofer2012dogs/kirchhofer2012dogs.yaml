@@ -1,0 +1,57 @@
+study_id: kirchhofer2012dogs
+year: 2012
+reference: 'Kirchhofer, K. C., Zimmermann, F., Kaminski, J., & Tomasello, M. (2012).
+  Dogs (Canis familiaris), but Not Chimpanzees (Pan troglodytes), Understand Imperative
+  Pointing. PLoS One, 7(2): e30913. doi:10.1371/journal.pone.0030913.'
+abstract: Chimpanzees routinely follow the gaze of humans to outside targets. However,
+  in most studies using object choice they fail to use communicative gestures (e.g.
+  pointing) to find hidden food. Chimpanzees' failure to do this may be due to several
+  difficulties with this paradigm. They may, for example, misinterpret the gesture
+  as referring to the opaque cup instead of the hidden food. Or perhaps they do not
+  understand informative communicative intentions. In contrast, dogs seem to be skilful
+  in using human communicative cues in the context of finding food, but as of yet
+  there is not much data showing whether they also use pointing in the context of
+  finding non-food objects. Here we directly compare chimpanzees' (N = 20) and dogs'
+  (N = 32) skills in using a communicative gesture directed at a visible object out
+  of reach of the human but within reach of the subject. Pairs of objects were placed
+  in view of and behind the subjects. The task was to retrieve the object the experimenter
+  wanted. To indicate which one she desired, the experimenter pointed imperatively
+  to it and directly rewarded the subject for handing over the correct one. While
+  dogs performed well on this task, chimpanzees failed to identify the referent. Implications
+  for great apes' and dogs' understanding of human communicative intentions are discussed
+keywords: ''
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Katharina C. Kirchhofer
+  corr_author: true
+- author_no: 2
+  name: Felizitas Zimmermann
+  corr_author: false
+- author_no: 3
+  name: Juliane Kaminski
+  corr_author: false
+- author_no: 4
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 3
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: leipzig_dog, ngamba_chimpanzee
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2008'
+  data_collection_date_comments: 2008/03/13 to 2008/04/04
+  age_source: data_file_calculated
+  age_source_comments: age_in_years calculated - age_original from data_file
+domains:
+- domain_no: 1
+  general_domain: social_strategies_and_communication
+  specific_domain: communication_with_humans
+cognitive_domain:
+  social: true
+  physical: false

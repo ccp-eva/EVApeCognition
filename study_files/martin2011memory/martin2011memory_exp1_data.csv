@@ -1,0 +1,10 @@
+﻿study_id,experiment,participant,age_in_years,sex,species,two_min,one_hour,two_hours,twentyfour_h
+martin2011memory,1,ulindi,17.0,f,bonobo,100.0,33.33,0.0,100.0
+martin2011memory,1,joey,28.0,m,bonobo,100.0,100.0,33.33,100.0
+martin2011memory,1,yasa,13.0,f,bonobo,100.0,66.66,33.33,100.0
+martin2011memory,1,bimbo,20.0,m,orangutan,66.66,0.0,33.33,66.66
+martin2011memory,1,gertrudia,17.0,f,chimpanzee,100.0,66.66,33.33,100.0
+martin2011memory,1,patrick,13.0,m,chimpanzee,100.0,66.66,66.66,100.0
+martin2011memory,1,tai,8.0,f,chimpanzee,100.0,33.33,0.0,66.66
+martin2011memory,1,frodo,17.0,m,chimpanzee,100.0,33.33,33.33,66.66
+martin2011memory,1,sandra,17.0,f,chimpanzee,100.0,100.0,100.0,66.66

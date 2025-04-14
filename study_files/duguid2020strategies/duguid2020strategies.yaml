@@ -1,0 +1,67 @@
+study_id: duguid2020strategies
+year: 2020
+reference: Duguid, S., Wyman, E., Grueneisen, S., & Tomasello, M. (2020). The strategies
+  used by chimpanzees (Pan troglodytes) and children (Homo sapiens) to solve a simple
+  coordination problem. Journal of Comparative Psychology, 134(4), 401-411. doi:10.1037/com0000220.
+abstract: One of the challenges of collaboration is to coordinate decisions with others,
+  and recent theories have proposed that humans, in particular, evolved skills to
+  address this challenge. To test this hypothesis, we compared the coordination abilities
+  of 4-year-old children and chimpanzees with a simple coordination problem. To retrieve
+  a reward from a 'puzzle box', pairs of individuals were simply required to choose
+  the same 1 of 4 options. If successful, they each received the same reward, so there
+  were no conflicts of interest. Individuals were paired with multiple partners over
+  time. Both species were able to coordinate, but there were marked differences in
+  the way they did so. Children were able to coordinate quickly and flexibly, adjusting
+  easily to new partners, suggesting an understanding of the coordination process.
+  In contrast, chimpanzees took time to converge on a single solution with each new
+  partner, with no gains across partners, suggesting that their coordination was based
+  only on repeating successful past choices. Together, these results support the hypothesis
+  that humans have evolved unique skills for coordinating decisions and actions with
+  others in the pursuit of common interests.
+keywords: cooperation, coordination, communication, chimpanzees, children
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Shona Duguid
+  corr_author: true
+- author_no: 2
+  name: Emily Wyman
+- author_no: 3
+  name: Sebastian Grueneisen
+- author_no: 4
+  name: Michael Tomasello
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: dyads
+  droupouts_no: 7 across training and testing, 2 additional drops due to pressing
+    more than one button
+  dropout_names: Federike, Dorien, Kara, Tai, Natascha, Fraukje, Brigitta
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: datset
+  data_collection_date: 2013,2014
+  data_collection_date_comments: 2013-06-1 to 2014-4-28
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: collaboration
+cognitive_domain:
+  social: true
+  physical: false

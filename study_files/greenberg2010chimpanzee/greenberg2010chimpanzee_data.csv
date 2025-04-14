@@ -1,0 +1,961 @@
+﻿study_id,participant,age_in_years,sex,role,participant_2,age_in_years_2,sex_2,role_2,dyad,species,session,condition,block,focal_participant_a_side,focal_participant_b_side,helper,pull_to_middle_position,pull_to_end_position
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,4,baseline,2,right,left,,0,
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,1,baseline,1,left,right ,,0,
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,6,baseline,1,right ,left,,0,
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,8,baseline,2,right ,left,,0,
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,3,baseline,1,left,right,,0,
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,8,baseline,1,right ,left,,0,
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,7,baseline,1,left,right ,,0,
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,3,baseline,2,left,right,,0,
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,5,baseline,2,left,right ,,0,
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,6,baseline,2,right,left,,0,
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,8,baseline,1,right,left,,0,
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,2,baseline,1,right,left,,0,
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,5,baseline,1,left,right,,0,
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,6,baseline,1,right ,left,,0,
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,1,baseline,1,left,right ,,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,1,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,2,baseline,1,right ,left,,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,2,baseline,1,right,left,,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,3,baseline,1,left,right ,,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,3,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,4,baseline,1,right ,left,,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,4,baseline,1,right,left,,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,5,baseline,1,left,right ,,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,5,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,6,baseline,1,right ,left,,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,6,baseline,1,right,left,,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,7,baseline,1,left,right ,,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,7,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,8,baseline,1,right ,left,,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,8,baseline,1,right,left,,1,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,5,baseline,2,left,right,,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,8,baseline,1,right,left,,1,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,4,baseline,2,right ,left,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,2,baseline,1,right ,left,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,3,baseline,1,left,right ,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,4,baseline,1,right ,left,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,5,baseline,1,left,right ,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,6,baseline,1,right ,left,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,8,baseline,1,right ,left,,1,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,1,baseline,2,left,right ,,1,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,1,baseline,2,left,right,,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,7,baseline,1,left,right ,,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,1,baseline,2,left,right ,,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,5,baseline,2,left,right ,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,8,baseline,1,right,left,,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,7,baseline,2,left,right ,,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,1,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,1,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,2,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,2,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,3,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,3,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,5,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,6,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,6,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,7,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,8,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,8,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,1,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,2,baseline,1,right ,left,,1,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,2,baseline,1,right,left,,1,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,3,baseline,1,left,right ,,1,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,3,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,4,baseline,1,right ,left,,1,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,4,baseline,1,right,left,,1,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,5,baseline,1,left,right ,,1,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,5,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,6,baseline,1,right,left,,1,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,7,baseline,1,left,right ,,1,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,7,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,8,baseline,1,right ,left,,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,1,baseline,2,left,right ,,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,1,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,2,baseline,2,right ,left,,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,2,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,3,baseline,2,left,right ,,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,3,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,4,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,5,baseline,2,left,right ,,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,5,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,6,baseline,2,right ,left,,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,6,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,7,baseline,2,left,right ,,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,7,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,8,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,1,baseline,1,left,right ,,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,1,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,2,baseline,1,right ,left,,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,2,baseline,1,right,left,,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,3,baseline,1,left,right ,,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,4,baseline,1,right ,left,,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,4,baseline,1,right,left,,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,5,baseline,1,left,right ,,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,5,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,6,baseline,1,right ,left,,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,6,baseline,1,right,left,,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,7,baseline,1,left,right ,,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,7,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,8,baseline,1,right,left,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,1,baseline,2,left,right ,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,1,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,2,baseline,2,right ,left,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,2,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,3,baseline,2,left,right ,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,3,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,4,baseline,2,right ,left,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,4,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,5,baseline,2,left,right ,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,5,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,6,baseline,2,right ,left,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,6,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,7,baseline,2,left,right ,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,7,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,8,baseline,2,right ,left,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,8,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,1,baseline,1,left,right ,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,1,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,2,baseline,1,right,left,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,4,baseline,1,right,left,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,5,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,6,baseline,1,right,left,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,7,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,2,baseline,2,right ,left,,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,2,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,3,baseline,2,left,right ,,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,4,baseline,2,right ,left,,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,4,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,5,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,6,baseline,2,right ,left,,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,6,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,7,baseline,2,left,right ,,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,7,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,8,baseline,2,right ,left,,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,8,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,1,baseline,2,left,right ,,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,1,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,2,baseline,2,right ,left,,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,2,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,3,baseline,2,left,right ,,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,3,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,4,baseline,2,right ,left,,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,4,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,5,baseline,2,left,right ,,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,5,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,6,baseline,2,right ,left,,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,7,baseline,2,left,right ,,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,7,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,8,baseline,2,right ,left,,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,1,baseline,1,left,right ,,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,1,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,2,baseline,1,right ,left,,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,2,baseline,1,right,left,,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,3,baseline,1,left,right ,,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,3,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,4,baseline,1,right ,left,,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,4,baseline,1,right,left,,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,5,baseline,1,left,right ,,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,5,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,6,baseline,1,right ,left,,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,6,baseline,1,right,left,,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,7,baseline,1,left,right ,,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,7,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,8,baseline,1,right ,left,,1,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,1,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,2,baseline,1,right ,left,,1,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,3,baseline,1,left,right ,,1,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,3,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,4,baseline,1,right ,left,,1,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,4,baseline,1,right,left,,1,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,5,baseline,1,left,right ,,1,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,6,baseline,1,right,left,,1,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,7,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,8,baseline,1,right ,left,,1,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,8,baseline,1,right,left,,1,0
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,1,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,2,baseline,2,right ,left,,1,0
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,2,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,3,baseline,2,left,right ,,1,0
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,3,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,4,baseline,2,right ,left,,1,0
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,4,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,5,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,6,baseline,2,right ,left,,1,0
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,6,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,7,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,4,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,7,baseline,2,left,right,,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,3,baseline,1,left,right,,1,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,1,baseline,1,left,right ,,1,0
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,8,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,8,baseline,2,right ,left,,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,8,baseline,2,right,left,,1,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,1,helping_during_collaboration,2,left,right,gertrudia,1,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,3,helping_during_collaboration,2,left,right,gertrudia,1,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,4,helping_during_collaboration,2,right,left,gertrudia,1,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,5,helping_during_collaboration,2,left,right,gertrudia,1,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,7,helping_during_collaboration,2,left,right,gertrudia,1,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,4,helping_during_collaboration,2,right,left,alex,1,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,2,helping_during_collaboration,1,right,left,alex,1,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,5,helping_during_collaboration,1,left,right,alex,1,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,1,helping_during_collaboration,1,left,right,fifi,1,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,2,helping_during_collaboration,1,right,left,fifi,1,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,4,helping_during_collaboration,1,right,left,fifi,1,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,6,helping_during_collaboration,1,right,left,fifi,1,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,7,helping_during_collaboration,1,left,right,fifi,1,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,8,helping_during_collaboration,1,right,left,fifi,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,1,helping_during_collaboration,2,left,right,fifi,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,2,helping_during_collaboration,2,right,left,fifi,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,3,helping_during_collaboration,2,left,right,fifi,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,4,helping_during_collaboration,2,right,left,fifi,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,5,helping_during_collaboration,2,left,right,fifi,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,6,helping_during_collaboration,2,right,left,fifi,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,7,helping_during_collaboration,2,left,right,fifi,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,8,helping_during_collaboration,2,right,left,fifi,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,1,helping_during_collaboration,2,left,right,jahaga,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,2,helping_during_collaboration,2,right,left,jahaga,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,3,helping_during_collaboration,2,left,right,jahaga,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,5,helping_during_collaboration,2,left,right,jahaga,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,6,helping_during_collaboration,2,right,left,jahaga,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,7,helping_during_collaboration,2,left,right,jahaga,1,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,8,helping_during_collaboration,2,right,left,jahaga,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,1,helping_during_collaboration,1,left,right,jahaga,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,2,helping_during_collaboration,1,right,left,jahaga,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,3,helping_during_collaboration,1,left,right,jahaga,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,4,helping_during_collaboration,1,right,left,jahaga,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,6,helping_during_collaboration,1,right,left,jahaga,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,7,helping_during_collaboration,1,left,right,jahaga,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,8,helping_during_collaboration,1,right,left,jahaga,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,2,helping_during_collaboration,1,right,left,gertrudia,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,4,helping_during_collaboration,1,right,left,gertrudia,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,5,helping_during_collaboration,1,left,right,gertrudia,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,6,helping_during_collaboration,1,right,left,gertrudia,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,7,helping_during_collaboration,1,left,right,gertrudia,1,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,8,helping_during_collaboration,1,right,left,gertrudia,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,1,helping_during_collaboration,2,left,right,ulla,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,2,helping_during_collaboration,2,right,left,ulla,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,3,helping_during_collaboration,2,left,right,ulla,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,4,helping_during_collaboration,2,right,left,ulla,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,5,helping_during_collaboration,2,left,right,ulla,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,7,helping_during_collaboration,2,left,right,ulla,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,8,helping_during_collaboration,2,right,left,ulla,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,2,helping_during_collaboration,2,right,left,pia,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,3,helping_during_collaboration,2,left,right,pia,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,4,helping_during_collaboration,2,right,left,pia,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,5,helping_during_collaboration,2,left,right,pia,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,6,helping_during_collaboration,2,right,left,pia,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,7,helping_during_collaboration,2,left,right,pia,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,8,helping_during_collaboration,2,right,left,pia,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,6,helping_during_collaboration,1,right,left,lome,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,8,helping_during_collaboration,1,right,left,lome,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,3,helping_during_collaboration,1,left,right,pia,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,6,helping_during_collaboration,1,right,left,pia,1,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,7,helping_during_collaboration,1,left,right,pia,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,2,helping_during_collaboration,2,right,left,patrick,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,3,helping_during_collaboration,2,left,right,patrick,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,4,helping_during_collaboration,2,right,left,patrick,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,6,helping_during_collaboration,2,right,left,patrick,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,7,helping_during_collaboration,2,left,right,patrick,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,8,helping_during_collaboration,2,right,left,patrick,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,1,helping_during_collaboration,2,left,right,robert,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,2,helping_during_collaboration,2,right,left,robert,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,3,helping_during_collaboration,2,left,right,robert,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,4,helping_during_collaboration,2,right,left,robert,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,6,helping_during_collaboration,2,right,left,robert,1,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,7,helping_during_collaboration,2,left,right,robert,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,1,helping_during_collaboration,2,left,right,sandra,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,3,helping_during_collaboration,2,left,right,sandra,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,4,helping_during_collaboration,2,right,left,sandra,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,5,helping_during_collaboration,2,left,right,sandra,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,6,helping_during_collaboration,2,right,left,sandra,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,7,helping_during_collaboration,2,left,right,sandra,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,8,helping_during_collaboration,2,right,left,sandra,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,1,helping_during_collaboration,2,left,right,frodo,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,2,helping_during_collaboration,2,right,left,frodo,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,3,helping_during_collaboration,2,left,right,frodo,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,6,helping_during_collaboration,2,right,left,frodo,1,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,7,helping_during_collaboration,2,left,right,frodo,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,1,helping_during_collaboration,1,left,right,robert,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,2,helping_during_collaboration,1,right,left,robert,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,3,helping_during_collaboration,1,left,right,robert,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,4,helping_during_collaboration,1,right,left,robert,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,6,helping_during_collaboration,1,right,left,robert,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,7,helping_during_collaboration,1,left,right,robert,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,8,helping_during_collaboration,1,right,left,robert,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,1,helping_during_collaboration,1,left,right,sandra,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,2,helping_during_collaboration,1,right,left,sandra,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,4,helping_during_collaboration,1,right,left,sandra,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,5,helping_during_collaboration,1,left,right,sandra,1,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,8,helping_during_collaboration,1,right,left,sandra,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,2,helping_during_collaboration,1,right,left,frodo,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,3,helping_during_collaboration,1,left,right,frodo,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,5,helping_during_collaboration,1,left,right,frodo,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,6,helping_during_collaboration,1,right,left,frodo,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,7,helping_during_collaboration,1,left,right,frodo,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,8,helping_during_collaboration,1,right,left,frodo,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,1,helping_during_collaboration,1,left,right,patrick,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,2,helping_during_collaboration,1,right,left,patrick,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,5,helping_during_collaboration,1,left,right,patrick,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,6,helping_during_collaboration,1,right,left,patrick,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,7,helping_during_collaboration,1,left,right,patrick,1,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,8,helping_during_collaboration,1,right,left,patrick,1,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,1,helping_during_collaboration,1,left,right,ulla,1,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,2,helping_during_collaboration,1,right,left,ulla,1,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,3,helping_during_collaboration,1,left,right,ulla,1,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,4,helping_during_collaboration,1,right,left,ulla,1,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,6,helping_during_collaboration,1,right,left,corrie,1,0
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,6,helping_during_collaboration,2,right,left,corrie,1,0
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,7,helping_during_collaboration,2,left,right,corrie,1,0
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,3,helping_during_collaboration,2,left,right,lome,1,0
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,7,helping_during_collaboration,2,left,right,lome,1,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,2,helping_during_collaboration,2,right,left,gertrudia,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,6,helping_during_collaboration,2,right,left,gertrudia,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,8,helping_during_collaboration,2,right,left,gertrudia,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,1,helping_during_collaboration,2,left,right,alex,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,2,helping_during_collaboration,2,right,left,alex,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,3,helping_during_collaboration,2,left,right,alex,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,5,helping_during_collaboration,2,left,right,alex,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,6,helping_during_collaboration,2,right,left,alex,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,7,helping_during_collaboration,2,left,right,alex,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,8,helping_during_collaboration,2,right,left,alex,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,1,helping_during_collaboration,1,left,right,alex,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,3,helping_during_collaboration,1,left,right,alex,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,4,helping_during_collaboration,1,right,left,alex,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,7,helping_during_collaboration,1,left,right,alex,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,8,helping_during_collaboration,1,right,left,alex,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,3,helping_during_collaboration,1,left,right,fifi,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,5,helping_during_collaboration,1,left,right,fifi,1,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,4,helping_during_collaboration,2,right,left,jahaga,1,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,3,helping_during_collaboration,1,left,right,gertrudia,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,1,helping_during_collaboration,2,left,right,pia,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,1,helping_during_collaboration,1,left,right,lome,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,2,helping_during_collaboration,1,right,left,lome,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,3,helping_during_collaboration,1,left,right,lome,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,4,helping_during_collaboration,1,right,left,lome,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,5,helping_during_collaboration,1,left,right,lome,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,7,helping_during_collaboration,1,left,right,lome,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,1,helping_during_collaboration,1,left,right,pia,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,2,helping_during_collaboration,1,right,left,pia,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,4,helping_during_collaboration,1,right,left,pia,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,5,helping_during_collaboration,1,left,right,pia,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,8,helping_during_collaboration,1,right,left,pia,1,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,1,helping_during_collaboration,2,left,right,patrick,1,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,2,helping_during_collaboration,2,right,left,sandra,1,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,4,helping_during_collaboration,2,right,left,frodo,1,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,5,helping_during_collaboration,2,left,right,frodo,1,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,5,helping_during_collaboration,1,left,right,robert,1,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,6,helping_during_collaboration,1,right,left,sandra,1,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,7,helping_during_collaboration,1,left,right,sandra,1,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,1,helping_during_collaboration,1,left,right,frodo,1,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,4,helping_during_collaboration,1,right,left,patrick,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,5,helping_during_collaboration,1,left,right,ulla,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,6,helping_during_collaboration,1,right,left,ulla,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,7,helping_during_collaboration,1,left,right,ulla,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,8,helping_during_collaboration,1,right,left,ulla,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,1,helping_during_collaboration,1,left,right,corrie,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,2,helping_during_collaboration,1,right,left,corrie,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,4,helping_during_collaboration,1,right,left,corrie,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,5,helping_during_collaboration,1,left,right,corrie,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,7,helping_during_collaboration,1,left,right,corrie,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,8,helping_during_collaboration,1,right,left,corrie,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,1,helping_during_collaboration,2,left,right,corrie,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,2,helping_during_collaboration,2,right,left,corrie,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,4,helping_during_collaboration,2,right,left,corrie,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,5,helping_during_collaboration,2,left,right,corrie,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,8,helping_during_collaboration,2,right,left,corrie,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,1,helping_during_collaboration,2,left,right,lome,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,2,helping_during_collaboration,2,right,left,lome,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,4,helping_during_collaboration,2,right,left,lome,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,5,helping_during_collaboration,2,left,right,lome,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,6,helping_during_collaboration,2,right,left,lome,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,8,helping_during_collaboration,2,right,left,lome,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,6,helping_during_collaboration,1,right,left,alex,0,
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,5,helping_during_collaboration,1,left,right,jahaga,0,
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,1,helping_during_collaboration,1,left,right,gertrudia,0,
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,6,helping_during_collaboration,2,right,left,ulla,0,
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,5,helping_during_collaboration,2,left,right,patrick,0,
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,5,helping_during_collaboration,2,left,right,robert,0,
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,8,helping_during_collaboration,2,right,left,robert,0,
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,8,helping_during_collaboration,2,right,left,frodo,0,
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,3,helping_during_collaboration,1,left,right,sandra,0,
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,4,helping_during_collaboration,1,right,left,frodo,0,
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,3,helping_during_collaboration,1,left,right,patrick,0,
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,3,helping_during_collaboration,1,left,right,corrie,0,
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,3,helping_during_collaboration,2,left,right,corrie,0,
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,1,helping_without_collaboration,2,left,right,gertrudia,,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,2,helping_without_collaboration,2,right,left,gertrudia,,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,3,helping_without_collaboration,2,left,right,gertrudia,,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,4,helping_without_collaboration,2,right,left,gertrudia,,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,5,helping_without_collaboration,2,left,right,gertrudia,,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,6,helping_without_collaboration,2,right,left,gertrudia,,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,7,helping_without_collaboration,2,left,right,gertrudia,,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,8,helping_without_collaboration,2,right,left,gertrudia,,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,2,helping_without_collaboration,2,right,left,alex,,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,8,helping_without_collaboration,2,right,left,alex,,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,1,helping_without_collaboration,1,left,right,alex,,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,2,helping_without_collaboration,1,right,left,alex,,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,3,helping_without_collaboration,1,left,right,alex,,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,2,helping_without_collaboration,1,right,left,fifi,,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,7,helping_without_collaboration,1,left,right,fifi,,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,2,helping_without_collaboration,2,right,left,fifi,,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,3,helping_without_collaboration,2,left,right,fifi,,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,4,helping_without_collaboration,2,right,left,fifi,,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,5,helping_without_collaboration,2,left,right,fifi,,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,7,helping_without_collaboration,2,left,right,fifi,,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,8,helping_without_collaboration,2,right,left,fifi,,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,1,helping_without_collaboration,2,left,right,jahaga,,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,2,helping_without_collaboration,2,right,left,jahaga,,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,4,helping_without_collaboration,2,right,left,jahaga,,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,5,helping_without_collaboration,2,left,right,jahaga,,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,6,helping_without_collaboration,2,right,left,jahaga,,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,7,helping_without_collaboration,2,left,right,jahaga,,0
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,8,helping_without_collaboration,2,right,left,jahaga,,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,1,helping_without_collaboration,1,left,right,jahaga,,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,2,helping_without_collaboration,1,right,left,jahaga,,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,3,helping_without_collaboration,1,left,right,jahaga,,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,4,helping_without_collaboration,1,right,left,jahaga,,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,5,helping_without_collaboration,1,left,right,jahaga,,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,6,helping_without_collaboration,1,right,left,jahaga,,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,7,helping_without_collaboration,1,left,right,jahaga,,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,8,helping_without_collaboration,1,right,left,jahaga,,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,1,helping_without_collaboration,1,left,right,gertrudia,,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,2,helping_without_collaboration,1,right,left,gertrudia,,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,3,helping_without_collaboration,1,left,right,gertrudia,,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,4,helping_without_collaboration,1,right,left,gertrudia,,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,5,helping_without_collaboration,1,left,right,gertrudia,,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,6,helping_without_collaboration,1,right,left,gertrudia,,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,7,helping_without_collaboration,1,left,right,gertrudia,,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,1,helping_without_collaboration,2,left,right,ulla,,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,3,helping_without_collaboration,2,left,right,ulla,,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,4,helping_without_collaboration,2,right,left,ulla,,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,5,helping_without_collaboration,2,left,right,ulla,,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,7,helping_without_collaboration,2,left,right,ulla,,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,8,helping_without_collaboration,2,right,left,ulla,,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,2,helping_without_collaboration,2,right,left,pia,,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,3,helping_without_collaboration,2,left,right,pia,,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,4,helping_without_collaboration,2,right,left,pia,,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,6,helping_without_collaboration,2,right,left,pia,,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,7,helping_without_collaboration,2,left,right,pia,,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,8,helping_without_collaboration,2,right,left,pia,,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,2,helping_without_collaboration,1,right,left,lome,,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,1,helping_without_collaboration,1,left,right,pia,,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,3,helping_without_collaboration,1,left,right,pia,,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,4,helping_without_collaboration,1,right,left,pia,,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,5,helping_without_collaboration,1,left,right,pia,,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,1,helping_without_collaboration,2,left,right,patrick,,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,4,helping_without_collaboration,2,right,left,patrick,,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,5,helping_without_collaboration,2,left,right,patrick,,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,6,helping_without_collaboration,2,right,left,patrick,,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,7,helping_without_collaboration,2,left,right,patrick,,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,8,helping_without_collaboration,2,right,left,patrick,,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,1,helping_without_collaboration,2,left,right,robert,,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,2,helping_without_collaboration,2,right,left,robert,,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,3,helping_without_collaboration,2,left,right,robert,,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,4,helping_without_collaboration,2,right,left,robert,,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,5,helping_without_collaboration,2,left,right,robert,,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,7,helping_without_collaboration,2,left,right,robert,,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,8,helping_without_collaboration,2,right,left,robert,,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,1,helping_without_collaboration,2,left,right,sandra,,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,2,helping_without_collaboration,2,right,left,sandra,,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,5,helping_without_collaboration,2,left,right,sandra,,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,8,helping_without_collaboration,2,right,left,sandra,,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,3,helping_without_collaboration,1,left,right,robert,,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,4,helping_without_collaboration,1,right,left,robert,,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,8,helping_without_collaboration,1,right,left,robert,,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,1,helping_without_collaboration,1,left,right,sandra,,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,4,helping_without_collaboration,1,right,left,sandra,,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,5,helping_without_collaboration,1,left,right,sandra,,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,6,helping_without_collaboration,1,right,left,sandra,,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,7,helping_without_collaboration,1,left,right,sandra,,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,8,helping_without_collaboration,1,right,left,sandra,,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,1,helping_without_collaboration,1,left,right,frodo,,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,2,helping_without_collaboration,1,right,left,frodo,,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,3,helping_without_collaboration,1,left,right,frodo,,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,4,helping_without_collaboration,1,right,left,frodo,,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,5,helping_without_collaboration,1,left,right,frodo,,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,7,helping_without_collaboration,1,left,right,frodo,,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,8,helping_without_collaboration,1,right,left,frodo,,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,1,helping_without_collaboration,1,left,right,patrick,,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,2,helping_without_collaboration,1,right,left,patrick,,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,3,helping_without_collaboration,1,left,right,patrick,,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,5,helping_without_collaboration,1,left,right,patrick,,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,7,helping_without_collaboration,1,left,right,patrick,,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,8,helping_without_collaboration,1,right,left,patrick,,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,2,helping_without_collaboration,1,right,left,ulla,,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,3,helping_without_collaboration,1,left,right,ulla,,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,4,helping_without_collaboration,1,right,left,ulla,,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,7,helping_without_collaboration,1,left,right,ulla,,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,8,helping_without_collaboration,1,right,left,ulla,,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,2,helping_without_collaboration,1,right,left,corrie,,0
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,3,helping_without_collaboration,2,left,right,corrie,,0
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,4,helping_without_collaboration,2,right,left,corrie,,0
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,5,helping_without_collaboration,2,left,right,corrie,,0
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,6,helping_without_collaboration,2,right,left,corrie,,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,1,helping_without_collaboration,2,left,right,alex,,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,3,helping_without_collaboration,2,left,right,alex,,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,4,helping_without_collaboration,2,right,left,alex,,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,5,helping_without_collaboration,2,left,right,alex,,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,6,helping_without_collaboration,2,right,left,alex,,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,7,helping_without_collaboration,2,left,right,alex,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,4,helping_without_collaboration,1,right,left,alex,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,5,helping_without_collaboration,1,left,right,alex,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,6,helping_without_collaboration,1,right,left,alex,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,7,helping_without_collaboration,1,left,right,alex,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,8,helping_without_collaboration,1,right,left,alex,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,3,helping_without_collaboration,1,left,right,fifi,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,4,helping_without_collaboration,1,right,left,fifi,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,5,helping_without_collaboration,1,left,right,fifi,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,6,helping_without_collaboration,1,right,left,fifi,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,8,helping_without_collaboration,1,right,left,fifi,,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,1,helping_without_collaboration,2,left,right,fifi,,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,6,helping_without_collaboration,2,right,left,fifi,,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,3,helping_without_collaboration,2,left,right,jahaga,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,2,helping_without_collaboration,2,right,left,ulla,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,6,helping_without_collaboration,2,right,left,ulla,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,1,helping_without_collaboration,2,left,right,pia,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,5,helping_without_collaboration,2,left,right,pia,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,1,helping_without_collaboration,1,left,right,lome,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,4,helping_without_collaboration,1,right,left,lome,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,5,helping_without_collaboration,1,left,right,lome,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,6,helping_without_collaboration,1,right,left,lome,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,7,helping_without_collaboration,1,left,right,lome,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,8,helping_without_collaboration,1,right,left,lome,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,2,helping_without_collaboration,1,right,left,pia,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,6,helping_without_collaboration,1,right,left,pia,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,7,helping_without_collaboration,1,left,right,pia,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,8,helping_without_collaboration,1,right,left,pia,,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,2,helping_without_collaboration,2,right,left,patrick,,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,3,helping_without_collaboration,2,left,right,patrick,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,3,helping_without_collaboration,2,left,right,sandra,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,4,helping_without_collaboration,2,right,left,sandra,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,6,helping_without_collaboration,2,right,left,sandra,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,7,helping_without_collaboration,2,left,right,sandra,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,1,helping_without_collaboration,2,left,right,frodo,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,2,helping_without_collaboration,2,right,left,frodo,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,3,helping_without_collaboration,2,left,right,frodo,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,4,helping_without_collaboration,2,right,left,frodo,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,5,helping_without_collaboration,2,left,right,frodo,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,6,helping_without_collaboration,2,right,left,frodo,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,7,helping_without_collaboration,2,left,right,frodo,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,8,helping_without_collaboration,2,right,left,frodo,,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,1,helping_without_collaboration,1,left,right,robert,,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,2,helping_without_collaboration,1,right,left,robert,,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,5,helping_without_collaboration,1,left,right,robert,,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,6,helping_without_collaboration,1,right,left,robert,,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,2,helping_without_collaboration,1,right,left,sandra,,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,6,helping_without_collaboration,1,right,left,frodo,,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,4,helping_without_collaboration,1,right,left,patrick,,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,6,helping_without_collaboration,1,right,left,patrick,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,1,helping_without_collaboration,1,left,right,ulla,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,5,helping_without_collaboration,1,left,right,ulla,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,1,helping_without_collaboration,1,left,right,corrie,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,3,helping_without_collaboration,1,left,right,corrie,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,4,helping_without_collaboration,1,right,left,corrie,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,5,helping_without_collaboration,1,left,right,corrie,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,6,helping_without_collaboration,1,right,left,corrie,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,7,helping_without_collaboration,1,left,right,corrie,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,8,helping_without_collaboration,1,right,left,corrie,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,1,helping_without_collaboration,2,left,right,corrie,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,2,helping_without_collaboration,2,right,left,corrie,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,7,helping_without_collaboration,2,left,right,corrie,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,8,helping_without_collaboration,2,right,left,corrie,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,1,helping_without_collaboration,2,left,right,lome,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,3,helping_without_collaboration,2,left,right,lome,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,4,helping_without_collaboration,2,right,left,lome,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,5,helping_without_collaboration,2,left,right,lome,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,6,helping_without_collaboration,2,right,left,lome,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,7,helping_without_collaboration,2,left,right,lome,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,8,helping_without_collaboration,2,right,left,lome,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,1,helping_without_collaboration,1,left,right,fifi,,2
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,8,helping_without_collaboration,1,right,left,gertrudia,,2
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,3,helping_without_collaboration,1,left,right,lome,,2
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,6,helping_without_collaboration,2,right,left,robert,,2
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,7,helping_without_collaboration,1,left,right,robert,,2
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,3,helping_without_collaboration,1,left,right,sandra,,2
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,6,helping_without_collaboration,1,right,left,ulla,,2
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,2,helping_without_collaboration,2,right,left,lome,,2
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,1,mutualism_1,1,left,right,,0,0
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,4,mutualism_1,1,right,left,,0,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,3,mutualism_1,1,left,right,,0,0
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,6,mutualism_1,1,right,left,,0,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,1,mutualism_1,1,left,right ,,0,0
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,2,mutualism_1,1,right ,left,,0,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,5,mutualism_1,2,left,right,,0,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,7,mutualism_1,2,left,right ,,0,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,3,mutualism_1,2,left,right ,,0,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,6,mutualism_1,2,right,left,,0,0
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,8,mutualism_1,2,right ,left,,0,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,1,mutualism_1,1,left,right ,,0,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,4,mutualism_1,1,right ,left,,0,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,5,mutualism_1,1,left,right ,,0,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,7,mutualism_1,1,left,right,,0,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,3,mutualism_1,1,left,right ,,0,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,7,mutualism_1,1,left,right,,0,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,1,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,1,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,2,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,2,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,3,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,3,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,4,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,4,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,5,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,5,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,6,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,6,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,7,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,7,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,8,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,8,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,1,mutualism_1,1,left,right ,,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,2,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,2,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,3,mutualism_1,1,left,right ,,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,3,mutualism_1,1,left,right,,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,4,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,5,mutualism_1,1,left,right ,,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,5,mutualism_1,1,left,right,,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,6,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,6,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,7,mutualism_1,1,left,right ,,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,7,mutualism_1,1,left,right,,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,8,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,8,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,1,mutualism_1,2,left,right ,,1,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,1,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,2,mutualism_1,2,right ,left,,1,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,2,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,3,mutualism_1,2,left,right ,,1,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,3,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,4,mutualism_1,2,right ,left,,1,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,4,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,5,mutualism_1,2,left,right ,,1,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,5,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,6,mutualism_1,2,right ,left,,1,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,6,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,7,mutualism_1,2,left,right ,,1,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,7,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,8,mutualism_1,2,right ,left,,1,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,8,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,1,mutualism_1,1,left,right ,,1,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,1,mutualism_1,1,left,right,,1,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,2,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,2,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,3,mutualism_1,1,left,right ,,1,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,4,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,4,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,5,mutualism_1,1,left,right ,,1,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,5,mutualism_1,1,left,right,,1,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,6,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,7,mutualism_1,1,left,right ,,1,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,7,mutualism_1,1,left,right,,1,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,8,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,8,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,1,mutualism_1,2,left,right ,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,1,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,2,mutualism_1,2,right ,left,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,2,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,3,mutualism_1,2,left,right ,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,3,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,4,mutualism_1,2,right ,left,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,4,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,5,mutualism_1,2,left,right ,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,5,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,6,mutualism_1,2,right ,left,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,6,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,7,mutualism_1,2,left,right ,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,7,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,8,mutualism_1,2,right ,left,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,8,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,1,mutualism_1,1,left,right,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,2,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,3,mutualism_1,1,left,right ,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,3,mutualism_1,1,left,right,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,4,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,4,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,5,mutualism_1,1,left,right ,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,5,mutualism_1,1,left,right,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,6,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,6,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,7,mutualism_1,1,left,right ,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,7,mutualism_1,1,left,right,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,8,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,8,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,1,mutualism_1,2,left,right ,,1,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,1,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,2,mutualism_1,2,right ,left,,1,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,2,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,3,mutualism_1,2,left,right ,,1,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,3,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,4,mutualism_1,2,right ,left,,1,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,4,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,5,mutualism_1,2,left,right ,,1,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,6,mutualism_1,2,right ,left,,1,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,6,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,7,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,8,mutualism_1,2,right ,left,,1,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,8,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,1,mutualism_1,2,left,right ,,1,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,1,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,2,mutualism_1,2,right ,left,,1,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,2,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,3,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,4,mutualism_1,2,right ,left,,1,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,4,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,5,mutualism_1,2,left,right ,,1,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,5,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,6,mutualism_1,2,right ,left,,1,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,7,mutualism_1,2,left,right ,,1,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,7,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,8,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,1,mutualism_1,1,left,right,,1,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,2,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,2,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,3,mutualism_1,1,left,right ,,1,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,3,mutualism_1,1,left,right,,1,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,4,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,5,mutualism_1,1,left,right,,1,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,6,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,6,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,7,mutualism_1,1,left,right ,,1,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,8,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,8,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,1,mutualism_1,1,left,right ,,1,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,1,mutualism_1,1,left,right,,1,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,2,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,2,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,3,mutualism_1,1,left,right ,,1,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,3,mutualism_1,1,left,right,,1,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,4,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,4,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,5,mutualism_1,1,left,right ,,1,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,5,mutualism_1,1,left,right,,1,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,6,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,6,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,7,mutualism_1,1,left,right ,,1,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,7,mutualism_1,1,left,right,,1,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,8,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,8,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,1,mutualism_1,1,left,right ,,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,1,mutualism_1,1,left,right,,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,2,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,2,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,3,mutualism_1,1,left,right,,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,4,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,4,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,5,mutualism_1,1,left,right ,,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,5,mutualism_1,1,left,right,,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,6,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,6,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,7,mutualism_1,1,left,right ,,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,8,mutualism_1,1,right ,left,,1,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,8,mutualism_1,1,right,left,,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,1,mutualism_1,2,left,right ,,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,1,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,2,mutualism_1,2,right ,left,,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,2,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,3,mutualism_1,2,left,right ,,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,3,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,4,mutualism_1,2,right ,left,,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,4,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,5,mutualism_1,2,left,right ,,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,5,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,6,mutualism_1,2,right ,left,,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,6,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,7,mutualism_1,2,left,right ,,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,7,mutualism_1,2,left,right,,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,8,mutualism_1,2,right ,left,,1,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,8,mutualism_1,2,right,left,,1,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,1,mutualism_2,1,left,right ,,,0
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,5,mutualism_2,2,left,right ,,,0
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,8,mutualism_2,1,right ,left,,,0
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,2,mutualism_2,1,right ,left,,,0
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,5,mutualism_2,1,left,right ,,,0
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,1,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,1,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,2,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,2,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,3,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,3,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,4,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,4,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,5,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,5,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,6,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,6,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,7,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,7,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,8,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,alex,7,m,focal_participant_a,gertrudia,15,f,focal_participant_b,alex_gertrudia,chimpanzee,8,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,1,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,1,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,2,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,2,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,3,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,3,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,4,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,4,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,5,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,5,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,6,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,6,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,7,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,7,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,8,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,fifi,15,f,focal_participant_a,alex,7,m,focal_participant_b,fifi_alex,chimpanzee,8,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,1,mutualism_2,2,left,right ,,,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,1,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,2,mutualism_2,2,right ,left,,,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,2,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,3,mutualism_2,2,left,right ,,,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,3,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,4,mutualism_2,2,right ,left,,,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,4,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,5,mutualism_2,2,left,right ,,,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,5,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,6,mutualism_2,2,right ,left,,,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,6,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,7,mutualism_2,2,left,right ,,,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,7,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,8,mutualism_2,2,right ,left,,,1
+greenberg2010chimpanzee,jahaga,16,f,focal_participant_a,fifi,15,f,focal_participant_b,jahaga_fifi,chimpanzee,8,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,1,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,2,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,2,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,3,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,3,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,4,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,4,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,5,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,5,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,6,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,6,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,7,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,7,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,8,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,gertrudia,15,f,focal_participant_a,jahaga,16,f,focal_participant_b,gertrudia_jahaga,chimpanzee,8,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,1,mutualism_2,2,left,right ,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,1,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,2,mutualism_2,2,right ,left,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,2,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,3,mutualism_2,2,left,right ,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,3,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,4,mutualism_2,2,right ,left,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,4,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,5,mutualism_2,2,left,right ,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,5,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,6,mutualism_2,2,right ,left,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,6,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,7,mutualism_2,2,left,right ,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,7,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,8,mutualism_2,2,right ,left,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,ulla,31,f,focal_participant_b,pia_ulla,chimpanzee,8,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,1,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,1,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,2,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,2,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,3,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,3,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,4,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,4,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,5,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,5,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,6,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,6,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,7,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,7,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,8,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,pia,9,f,focal_participant_a,lome,7,m,focal_participant_b,pia_lome,chimpanzee,8,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,1,mutualism_2,2,left,right ,,,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,1,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,2,mutualism_2,2,right ,left,,,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,2,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,3,mutualism_2,2,left,right ,,,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,3,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,4,mutualism_2,2,right ,left,,,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,4,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,5,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,6,mutualism_2,2,right ,left,,,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,6,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,7,mutualism_2,2,left,right ,,,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,7,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,8,mutualism_2,2,right ,left,,,1
+greenberg2010chimpanzee,robert,33,m,focal_participant_a,patrick,11,m,focal_participant_b,robert_patrick,chimpanzee,8,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,1,mutualism_2,2,left,right ,,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,1,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,2,mutualism_2,2,right ,left,,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,2,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,3,mutualism_2,2,left,right ,,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,3,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,4,mutualism_2,2,right ,left,,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,4,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,5,mutualism_2,2,left,right ,,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,5,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,6,mutualism_2,2,right ,left,,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,6,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,7,mutualism_2,2,left,right ,,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,7,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,8,mutualism_2,2,right ,left,,,1
+greenberg2010chimpanzee,frodo,15,m,focal_participant_a,sandra,15,f,focal_participant_b,frodo_sandra,chimpanzee,8,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,1,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,1,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,2,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,2,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,3,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,3,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,4,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,4,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,5,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,5,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,6,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,6,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,7,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,7,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,sandra,15,f,focal_participant_a,robert,33,m,focal_participant_b,sandra_robert,chimpanzee,8,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,1,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,1,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,2,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,3,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,3,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,4,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,4,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,5,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,5,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,6,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,6,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,7,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,7,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,8,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,patrick,11,m,focal_participant_a,frodo,15,m,focal_participant_b,patrick_frodo,chimpanzee,8,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,1,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,1,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,2,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,2,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,3,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,3,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,4,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,4,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,5,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,6,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,6,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,7,mutualism_2,1,left,right ,,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,7,mutualism_2,1,left,right,,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,8,mutualism_2,1,right ,left,,,1
+greenberg2010chimpanzee,corry,32,f,focal_participant_a,ulla,31,f,focal_participant_b,corry_ulla,chimpanzee,8,mutualism_2,1,right,left,,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,1,mutualism_2,2,left,right ,,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,1,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,2,mutualism_2,2,right ,left,,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,2,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,3,mutualism_2,2,left,right ,,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,3,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,4,mutualism_2,2,right ,left,,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,4,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,5,mutualism_2,2,left,right ,,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,5,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,6,mutualism_2,2,right ,left,,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,6,mutualism_2,2,right,left,,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,7,mutualism_2,2,left,right ,,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,7,mutualism_2,2,left,right,,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,8,mutualism_2,2,right ,left,,,1
+greenberg2010chimpanzee,lome,7,m,focal_participant_a,corry,32,f,focal_participant_b,lome_corry,chimpanzee,8,mutualism_2,2,right,left,,,1

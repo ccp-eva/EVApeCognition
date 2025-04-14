@@ -1,0 +1,66 @@
+study_id: amici2014lack
+year: 2014
+reference: 'Amici, F., Visalberghi, E., & Call, J. (2014). Lack of prosociality in
+  great apes, capuchin monkeys and spider monkeys: Convergent evidence from two different
+  food distribution tasks. Proceedings of the Royal Society B: Biological Sciences,
+  281(1793): 20141699. doi:10.1098/rspb.2014.1699.'
+abstract: Prosociality can be defined as any behaviour performed to alleviate the
+  needs of others or to improve their welfare. Prosociality has probably played an
+  essential role in the evolution of cooperative behaviour and sev eral studies have
+  already investigated it in primates to understand the evolutionary origins of human
+  prosociality. Two main tasks have been used to test prosociality in a food context.
+  In the Platforms task, subjects can prosocially provide food to a partner by selecting
+  a prosocial platform over a selfish one. In the Tokens task, subjects can prosocially
+  provide food to a partner by selecting a prosocial token over a selfish one. As
+  these tasks have provided mixed results, we used both tasks to test prosoci ality
+  in great apes, capuchin monkeys and spider monkeys. Our results provided no compelling
+  evidence of prosociality in a food context in any of the species tested. Additionally,
+  our study revealed serious limitations of the Tokens task as it has been previously
+  used. These results highlight the importance of controlling for confounding variables
+  and of using multiple tasks to address inconsistencies present in the literature
+keywords: prosocial behaviour, primates, other-regarding, preferences, apes, monkeys
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Federica Amici
+  corr_author: true
+- author_no: 2
+  name: Elisabetta Visalberghi
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: partial
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_bonobo, wkprc_orangutan
+  group_id_excluded: animaya_spidermonkey, istccnr_capuchinmonkey
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2013,2014
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: partial
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_bonobo, wkprc_orangutan
+  group_id_excluded: animaya_spidermonkey, istccnr_capuchinmonkey
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2013-2014
+  data_collection_date_comments: ''
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: prosocial_behavior
+cognitive_domain:
+  social: true
+  physical: false

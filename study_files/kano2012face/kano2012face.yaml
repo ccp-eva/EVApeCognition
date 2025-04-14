@@ -1,0 +1,59 @@
+study_id: kano2012face
+year: 2012
+reference: 'Kano, F., Call, J., & Tomonaga, M. (2012). Face and eye scanning in gorillas
+  (Gorilla gorilla), orangutans (Pongo abelii), and humans (Homo sapiens): Unique
+  eye-viewing patterns in humans among hominids. Journal of Comparative Psychology,
+  126(4), 388-398. doi:10.1037/a0029615.'
+abstract: Because the faces and eyes of primates convey a rich array of social information,
+  the way in which primates view faces and eyes reflects species-specific strategies
+  for facial communication. How are humans and closely related species such as great
+  apes similar and different in their viewing patterns for faces and eyes? Following
+  previous studies comparing chimpanzees (Pan troglodytes) with humans (Homo sapiens),
+  this study used the eye-tracking method to directly compare the patterns of face
+  and eye scanning by humans, gorillas (Gorilla gorilla), and orangutans (Pongo abelii).
+  Human and ape participants freely viewed pictures of whole bodies and full faces
+  of conspecifics and allospecifics under the same experimental conditions. All species
+  were strikingly similar in that they viewed predominantly faces and eyes. No particular
+  difference was identified between gorillas and orangutans, and they also did not
+  differ from the chimpanzees tested in previous studies. However, humans were somewhat
+  different from apes, especially with respect to prolonged eye viewing. We also examined
+  how species-specific facial morphologies, such as the male flange of orangutans
+  and the black-white contrast of human eyes, affected viewing patterns. Whereas the
+  male flange of orangutans affected viewing patterns, the color contrast of human
+  eyes did not. Humans showed prolonged eye viewing independently of the eye color
+  of presented faces, indicating that this pattern is internally driven rather than
+  stimulus dependent. Overall, the results show general similarities among the species
+  and also identify unique eye-viewing patterns in humans.
+keywords: 'Keywords: eye-tracking, face, eye contact, species comparison'
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Fumihiro Kano
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Masaki Tomonaga
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_gorilla, wkprc_orangutan
+  group_id_excluded: leipzig_adults
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: age_original from author and age_in_years adjusted
+domains:
+- domain_no: 1
+  general_domain: features_and_categories
+  specific_domain: face_perception
+cognitive_domain:
+  social: false
+  physical: true

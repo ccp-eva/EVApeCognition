@@ -1,0 +1,79 @@
+study_id: amici2012aversion
+year: 2012
+reference: 'Amici, F., Call, J., & Aureli, F. (2012). Aversion to violation of expectations
+  of food distribution: the role of social tolerance and relative dominance in seven
+  primate species. Behaviour, 149(3-4), 345-368. doi:10.1163/156853912X637833.'
+abstract: Studies on how animals behave when two partners receive different amounts
+  of food have produced variable results, with individuals responding negatively to
+  specific food distributions in some cases (e.g., when food is distributed unequally
+  between partners), but not in others. In this study, we used a simple experimental
+  approach to (i) assess the strictness of dominance relationships based on the degree
+  of social tolerance and (ii) compare the behavioural responses of seven primate
+  species (chimpanzees, Pan troglodytes; bonobos, Pan paniscus; gorillas, Gorilla
+  gorilla; orangutans, Pongo pygmaeus; brown capuchin monkeys, Cebus apella; spider
+  monkeys, Ateles geoffroyi; long-tailed macaques, Macaca fascicularis), when two
+  partners received different amounts of food and no effort was required.We predicted
+  that negative responses (i.e., refusal to participate in the task or avoidance of
+  proximity to the food source) would be elicited by food distributions that violate
+  the individual expectations based on tolerance levels and subject’s dominance rank
+  relative to the partner. In the ‘tolerance’ task, we found that species with less
+  strict dominance relationships were chimpanzees and bonobos, followed by orangutans,
+  spider monkeys, gorillas, brown capuchin monkeys and long-tailed macaques. In the
+  ‘food distribution’ task, capuchin monkeys and especially macaques showed their
+  aversion by refusing to participate in most conditions, including the ones with
+  equal food distribution. When dominants received more food than the partner, subjects
+  of all species maintained a comparable amount of proximity to the food source, possibly
+  reflecting the general acceptance of such a food distribution across species. When
+  dominants received less than or as much as their partners, dominant capuchin monkeys
+  maintained less proximity than other species, possibly because having different
+  expectations of food distributions (i.e., more/all food to the dominant). Our study
+  highlights the importance of the species’ degree of social tolerance and the relative
+  dominance rank between partners in the study of violation of expectations of different
+  food distributions
+keywords: social tolerance, comparative cognition, great apes, spider monkeys, capuchin
+  monkeys, longtailed macaques.
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Federica Amici
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Filippo Aureli
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: partial
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_bonobo, wkprc_orangutan
+  group_id_excluded: centenario_spidermonkey, istccnr_capuchinmonkey, utrecht_longtailedmacaque
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2004-2005
+  data_collection_date_comments: ''
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: partial
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_bonobo, wkprc_orangutan
+  group_id_excluded: centenario_spidermonkey, istccnr_capuchinmonkey, utrecht_longtailedmacaque
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2005
+  data_collection_date_comments: ''
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: prosocial_behavior
+cognitive_domain:
+  social: true
+  physical: false

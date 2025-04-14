@@ -1,0 +1,12 @@
+column_name,description
+study_id,personal study ID composed by the first authors’ first surname_year of publication_first title word 
+experiment,number of experiment from publication 
+ape,the name of the participant
+sex,sex of the participant 
+species,species of individuals participating in the study -bonobo/chimpanzee/gorilla/orangutan 
+group_id,the facility participants are from – mpi(WKPRC)/ ks(kumamoto sanctuary) – ks 1 had more extensive early experiences with media and cognitive experiments/ ks2 had little early experience with media and cognitive experiments
+eye,viewing time in seconds for eye as an area-of-interest
+mouth,viewing time in seconds for mouth as an area-of-interest
+head,viewing time in seconds for head as an area-of-interest
+in-hand_action_targets,viewing time in seconds for in-hand action as an area-of-interest
+distal_action_targets,viewing time in seconds for distal hand action as an area-of-interest

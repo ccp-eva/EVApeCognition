@@ -1,0 +1,87 @@
+study_id: grueneisen2017children
+year: 2017
+reference: 'Grüneisen, S., Duguid, S., Saur, H., & Tomasello, M. (2017). Children,
+  chimpanzees, and bonobos adjust the visibility of their actions for cooperators
+  and competitors. Scientific Reports, 7: 8504. doi:10.1038/s41598-017-08435-7.'
+abstract: 'Chimpanzees and bonobos are highly capable of tracking other’s mental states.
+  It has been proposed, however, that in contrast to humans, chimpanzees are only
+  able to do this in competitive interactions but this has rarely been directly tested.
+  Here, pairs of chimpanzees or bonobos (Study 1) and 4-yearold children (Study 2)
+  were presented with two almost identical tasks differing only regarding the social
+  context. In the cooperation condition, players’ interests were matched: they had
+  to make corresponding choices to be mutually rewarded. To facilitate coordination,
+  subjects should thus make their actions visible to their partner whose view was
+  partially occluded. In the competition condition, players’ interests were directly
+  opposed: the partner tried to match the subject’s choice but subjects were only
+  rewarded if they chose differently, so that they benefited from hiding their actions.
+  The apes successfully adapted their decisions to the social context and their performance
+  was markedly better in the cooperation condition. Children also distinguished between
+  the two contexts, but somewhat surprisingly, performed better in the competitive
+  condition. These findings demonstrate experimentally that chimpanzees and bonobos
+  can take into account what others can see in cooperative interactions. Their social-cognitive
+  skills are thus more flexible than previously assumed.'
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Sebastian Gruneisen
+  corr_author: true
+- author_no: 2
+  name: Shona Duguid
+  corr_author: false
+- author_no: 3
+  name: Heiko Saur
+  corr_author: false
+- author_no: 4
+  name: Michael Tomasello
+  corr_author: true
+experiments:
+- experiment_no: 1a
+  data_provided: true
+  grouping: dyads
+  droupouts_no: 8
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2015
+  data_collection_date_comments: ''
+  age_source: calculated
+  age_source_comments: ''
+- experiment_no: 1b
+  data_provided: true
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2015
+  data_collection_date_comments: ''
+  age_source: calculated
+  age_source_comments: ''
+- experiment_no: 2
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: collaboration
+- domain_no: 2
+  general_domain: theory_of_mind_and_metacognition
+  specific_domain: understanding_goals_and_intentions
+cognitive_domain:
+  social: true
+  physical: false

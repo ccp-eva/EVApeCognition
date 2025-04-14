@@ -1,0 +1,58 @@
+study_id: greenberg2010chimpanzee
+year: 2010
+reference: Greenberg, J. R., Hamann, K., Warneken, F., & Tomasello, M. (2010). Chimpanzee
+  helping in collaborative and noncollaborative contexts. Animal Behaviour, 80(5),
+  873-880. doi:10.1016/j.anbehav.2010.08.008.
+abstract: Chimpanzees, Pan troglodytes, help others in a variety of contexts. Some
+  researchers have claimed that this only occurs when food is not involved and the
+  recipient actively solicits help. In the current study, however, we found that chimpanzees
+  often helped conspecifics obtain food in a pulling task with no solicitation whatsoever,
+  in a situation in which, based on past experience, the conspecific’s desire for
+  the food was apparent.We also assessed whether the collaborative context of the
+  situation impacted helping rates. Specifically, we compared how often both partners
+  obtained rewards when one partner needed the help of the other, who had already
+  received a reward for free (helping without collaboration), and when one partner
+  needed the other’s help after they had already begun collaborating (helping during
+  collaboration). Partners provided assistance significantly more often in both of
+  these helping conditions than in a control condition in which partners could provide
+  unneeded help. However, unlike human children who have been tested in a similar
+  task, chimpanzees did not help their partner more during (than without) collaboration.
+  These results suggest that chimpanzees’ helping behaviour is more robust than previously
+  believed, but at the same time may have different evolutionary roots from the helping
+  behaviour of humans.
+keywords: altruism, chimpanzee, cooperation, Pan troglodytes, solicitation
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Julia Greenberg
+  corr_author: true
+- author_no: 2
+  name: Katharina Hamann
+  corr_author: false
+- author_no: 3
+  name: Felix Warneken
+  corr_author: false
+- author_no: 4
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: collaboration
+cognitive_domain:
+  social: true
+  physical: false

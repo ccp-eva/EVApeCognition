@@ -1,0 +1,95 @@
+﻿study_id,experiment_name,participant,sex,species,facility,condition,first_look,target_duration,distractor_duration,look_diff
+krupenye2017test,2017_follow_up,alex,m,chimpanzee,mpi,fb2,tgt,233.3333333,0.0,233.3333333
+krupenye2017test,2017_follow_up,bangolo,m,chimpanzee,mpi,fb2,-,0.0,0.0,0.0
+krupenye2017test,2017_follow_up,batak,m,orangutan,mpi,fb2,tgt,433.3333333,933.3333333,-500.0
+krupenye2017test,2017_follow_up,daza,f,chimpanzee,mpi,fb1,tgt,616.6666667,900.0,-283.3333333
+krupenye2017test,2017_follow_up,dokana,f,orangutan,mpi,fb2,tgt,883.3333333,850.0,33.33333333
+krupenye2017test,2017_follow_up,fimi,f,bonobo,mpi,fb1,tgt,333.3333333,0.0,333.3333333
+krupenye2017test,2017_follow_up,fraukje,f,chimpanzee,mpi,fb2,tgt,2516.666667,0.0,2516.666667
+krupenye2017test,2017_follow_up,frederike,f,chimpanzee,mpi,fb1,-,0.0,0.0,0.0
+krupenye2017test,2017_follow_up,gemena,f,bonobo,mpi,fb1,-,0.0,0.0,0.0
+krupenye2017test,2017_follow_up,jeudi,f,chimpanzee,mpi,fb2,tgt,766.6666667,533.3333333,233.3333333
+krupenye2017test,2017_follow_up,kasai_II,m,bonobo,mpi,fb1,tgt,383.3333333,0.0,383.3333333
+krupenye2017test,2017_follow_up,kofi,m,chimpanzee,mpi,fb2,-,0.0,0.0,0.0
+krupenye2017test,2017_follow_up,kuno,m,bonobo,mpi,fb2,-,0.0,0.0,0.0
+krupenye2017test,2017_follow_up,lexi,f,bonobo,mpi,fb2,tgt,450.0,0.0,450.0
+krupenye2017test,2017_follow_up,lobo,m,chimpanzee,mpi,fb1,dist,0.0,116.6666667,-116.6666667
+krupenye2017test,2017_follow_up,lome,m,chimpanzee,mpi,fb1,-,0.0,0.0,0.0
+krupenye2017test,2017_follow_up,luiza,f,bonobo,mpi,fb2,dist,0.0,300.0,-300.0
+krupenye2017test,2017_follow_up,padana,f,orangutan,mpi,fb2,-,0.0,0.0,0.0
+krupenye2017test,2017_follow_up,pini,f,orangutan,mpi,fb1,tgt,200.0,550.0,-350.0
+krupenye2017test,2017_follow_up,raja,f,orangutan,mpi,fb1,-,0.0,0.0,0.0
+krupenye2017test,2017_follow_up,riet,f,chimpanzee,mpi,fb1,dist,533.3333333,600.0,-66.66666667
+krupenye2017test,2017_follow_up,robert,m,chimpanzee,mpi,fb1,tgt,366.6666667,100.0,266.6666667
+krupenye2017test,2017_follow_up,suaq,m,orangutan,mpi,fb1,dist,1650.0,350.0,1300.0
+krupenye2017test,2017_follow_up,tanah,f,orangutan,mpi,fb1,-,0.0,0.0,0.0
+krupenye2017test,2017_follow_up,yaro,m,bonobo,mpi,fb1,dist,0.0,50.0,-50.0
+krupenye2017test,2017_follow_up,yasa,f,bonobo,mpi,fb2,dist,0.0,466.6666667,-466.6666667
+krupenye2017test,2017_follow_up,bambari,f,chimpanzee,mpi,fb2,-,0.0,0.0,0.0
+krupenye2017test,2017_follow_up,frodo,m,chimpanzee,mpi,fb2,-,0.0,0.0,0.0
+krupenye2017test,2017_follow_up,hatsuka,f,chimpanzee,ks,fb2,tgt,630.0,370.0,260.0
+krupenye2017test,2017_follow_up,hope,f,chimpanzee,mpi,fb1,-,0.0,0.0,0.0
+krupenye2017test,2017_follow_up,ikela,f ,bonobo,ks,fb1,-,0.0,0.0,0.0
+krupenye2017test,2017_follow_up,iroha,f ,chimpanzee,ks,fb1,-,0.0,0.0,0.0
+krupenye2017test,2017_follow_up,jr,m ,bonobo,ks,fb2,tgt,183.3333333,0.0,183.3333333
+krupenye2017test,2017_follow_up,kisha,f,chimpanzee,mpi,fb2,-,0.0,0.0,0.0
+krupenye2017test,2017_follow_up,lenore,f ,bonobo,ks,fb1,-,0.0,0.0,0.0
+krupenye2017test,2017_follow_up,loleta,f ,bonobo,ks,fb2,-,0.0,0.0,0.0
+krupenye2017test,2017_follow_up,louise,f ,bonobo,ks,fb2,-,0.0,0.0,0.0
+krupenye2017test,2017_follow_up,mizuki,f ,chimpanzee,ks,fb1,dist,0.0,193.3333333,-193.3333333
+krupenye2017test,2017_follow_up,natascha,f,chimpanzee,mpi,fb2,-,0.0,0.0,0.0
+krupenye2017test,2017_follow_up,natsuki,f ,chimpanzee,ks,fb2,dist,0.0,1140.0,-1140.0
+krupenye2017test,2017_follow_up,swela,f,chimpanzee,mpi,fb1,-,0.0,0.0,0.0
+krupenye2017test,2017_follow_up,azibo,m,chimpanzee,mpi,fb2,-,0.0,0.0,0.0
+krupenye2017test,2017_follow_up,vijay,m ,bonobo,ks,fb1,tgt,373.3333333,196.6666667,176.6666667
+krupenye2017test,2017_follow_up,jahaga,f,chimpanzee,mpi,,,,,
+krupenye2017test,2017_follow_up,jasongo,m,bonobo,mpi,,,,,
+krupenye2017test,2017_follow_up,kara,f,chimpanzee,mpi,,,,,
+krupenye2017test,2017_follow_up,sandra,f,chimpanzee,mpi,,,,,
+krupenye2017test,2016_original,alex,m,chimpanzee,mpi,fb2,-,0.0,0.0,0.0
+krupenye2017test,2016_original,bangolo,m,chimpanzee,mpi,fb2,tgt,533.3333333,233.3333333,300.0
+krupenye2017test,2016_original,batak,m,orangutan,mpi,fb2,tgt,250.0,0.0,250.0
+krupenye2017test,2016_original,daza,f,chimpanzee,mpi,fb1,-,0.0,0.0,0.0
+krupenye2017test,2016_original,dokana,f,orangutan,mpi,fb2,tgt,183.3333333,0.0,183.3333333
+krupenye2017test,2016_original,fimi,f,bonobo,mpi,fb1,tgt,383.3333333,283.3333333,100.0
+krupenye2017test,2016_original,fraukje,f,chimpanzee,mpi,fb2,tgt,66.66666667,0.0,66.66666667
+krupenye2017test,2016_original,frederike,f,chimpanzee,mpi,fb1,tgt,300.0,0.0,300.0
+krupenye2017test,2016_original,gemena,f,bonobo,mpi,fb1,dist,0.0,500.0,-500.0
+krupenye2017test,2016_original,jeudi,f,chimpanzee,mpi,fb2,tgt,333.3333333,0.0,333.3333333
+krupenye2017test,2016_original,kasai_II,m,bonobo,mpi,fb1,-,0.0,0.0,0.0
+krupenye2017test,2016_original,kofi,m,chimpanzee,mpi,fb2,-,0.0,0.0,0.0
+krupenye2017test,2016_original,kuno,m,bonobo,mpi,fb2,dist,516.6666667,200.0,316.6666667
+krupenye2017test,2016_original,lexi,f,bonobo,mpi,fb2,dist,416.6666667,200.0,216.6666667
+krupenye2017test,2016_original,lobo,m,chimpanzee,mpi,fb1,tgt,100.0,0.0,100.0
+krupenye2017test,2016_original,lome,m,chimpanzee,mpi,fb1,tgt,683.3333333,700.0,-16.66666667
+krupenye2017test,2016_original,luiza,f,bonobo,mpi,fb2,tgt,550.0,316.6666667,233.3333333
+krupenye2017test,2016_original,padana,f,orangutan,mpi,fb2,tgt,666.6666667,333.3333333,333.3333333
+krupenye2017test,2016_original,pini,f,orangutan,mpi,fb1,-,0.0,0.0,0.0
+krupenye2017test,2016_original,raja,f,orangutan,mpi,fb1,-,0.0,0.0,0.0
+krupenye2017test,2016_original,riet,f,chimpanzee,mpi,fb1,-,0.0,0.0,0.0
+krupenye2017test,2016_original,robert,m,chimpanzee,mpi,fb1,-,0.0,0.0,0.0
+krupenye2017test,2016_original,suaq,m,orangutan,mpi,fb1,tgt,1950.0,0.0,1950.0
+krupenye2017test,2016_original,tanah,f,orangutan,mpi,fb1,tgt,416.6666667,0.0,416.6666667
+krupenye2017test,2016_original,yaro,m,bonobo,mpi,fb1,tgt,166.6666667,0.0,166.6666667
+krupenye2017test,2016_original,yasa,f,bonobo,mpi,fb2,dist,216.6666667,216.6666667,0.0
+krupenye2017test,2016_original,bambari,f,chimpanzee,mpi,,,,,
+krupenye2017test,2016_original,frodo,m,chimpanzee,mpi,,,,,
+krupenye2017test,2016_original,hatsuka,f,chimpanzee,ks,,,,,
+krupenye2017test,2016_original,hope,f,chimpanzee,mpi,,,,,
+krupenye2017test,2016_original,ikela,f ,bonobo,ks,,,,,
+krupenye2017test,2016_original,iroha,f ,chimpanzee,ks,,,,,
+krupenye2017test,2016_original,jr,m ,bonobo,ks,,,,,
+krupenye2017test,2016_original,kisha,f,chimpanzee,mpi,,,,,
+krupenye2017test,2016_original,lenore,f ,bonobo,ks,,,,,
+krupenye2017test,2016_original,loleta,f ,bonobo,ks,,,,,
+krupenye2017test,2016_original,louise,f ,bonobo,ks,,,,,
+krupenye2017test,2016_original,mizuki,f ,chimpanzee,ks,,,,,
+krupenye2017test,2016_original,natascha,f,chimpanzee,mpi,,,,,
+krupenye2017test,2016_original,natsuki,f ,chimpanzee,ks,,,,,
+krupenye2017test,2016_original,swela,f,chimpanzee,mpi,,,,,
+krupenye2017test,2016_original,azibo,m,chimpanzee,mpi,,,,,
+krupenye2017test,2016_original,vijay,m ,bonobo,ks,,,,,
+krupenye2017test,2016_original,jahaga,f,chimpanzee,mpi,fb2,tgt,633.3333333,0.0,633.3333333
+krupenye2017test,2016_original,jasongo,m,bonobo,mpi,fb1,tgt,350.0,233.3333333,116.6666667
+krupenye2017test,2016_original,kara,f,chimpanzee,mpi,fb1,dist,0.0,466.6666667,-466.6666667
+krupenye2017test,2016_original,sandra,f,chimpanzee,mpi,fb2,tgt,416.6666667,0.0,416.6666667

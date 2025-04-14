@@ -1,0 +1,8 @@
+﻿study_id,experiment,participant,age_in_years,sex,species,no_interference-day,early_interference-test_day,early_interference-interference_day,late_interference-test_day,late_interference-interference_day,no_interference-night,early_interference-test_night,early_interference-interference_night,late_interference-test_night,late_interference-interference_night
+martin2011memory,3,dokana,21.0,f,orangutan,66.66,33.33,66.66,0.0,100.0,66.66,100.0,66.66,100.0,66.66
+martin2011memory,3,padana,13.0,f,orangutan,0.0,0.0,33.33,33.33,66.66,66.66,100.0,100.0,33.33,66.66
+martin2011memory,3,joey,28.0,m,bonobo,66.66,33.33,0.0,33.33,100.0,100.0,100.0,33.33,100.0,66.66
+martin2011memory,3,kuno,14.0,m,bonobo,100.0,33.33,100.0,0.0,100.0,100.0,100.0,100.0,100.0,100.0
+martin2011memory,3,limbuko,15.0,m,bonobo,33.33,0.0,33.33,33.33,66.66,100.0,66.66,66.66,100.0,66.66
+martin2011memory,3,pini,22.0,f,orangutan,100.0,66.66,66.66,0.0,100.0,100.0,50.0,100.0,100.0,100.0
+martin2011memory,3,bimbo,20.0,m,orangutan,100.0,0.0,50.0,50.0,50.0,50.0,50.0,100.0,100.0,100.0

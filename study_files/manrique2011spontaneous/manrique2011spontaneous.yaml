@@ -1,0 +1,92 @@
+study_id: manrique2011spontaneous
+year: 2011
+reference: Manrique, H. M., & Call, J. (2011). Spontaneous use of tools as straws
+  in great apes. Animal Cognition, 14(2), 213-226. doi:10.1007/s10071-010-0355-4.
+abstract: Great apes can use multiple tools to extract food embedded in substrates
+  and can invent new ways to exploit those resources. We tested five bonobos, five
+  chimpanzees, and six orangutans in a task in which they had to use (and modify)
+  a tool as a straw to drink the juice located inside a container. Experiment 1 showed
+  that four orangutans and one chimpanzee invented the use of a piece of electric
+  cable to get the juice. Experiment 2 investigated whether subjects could transform
+  a non-functional hose into a functional one by removing blockages that impeded the
+  free flow of juice. Orangutans outperformed chimpanzees and bonobos by differentially
+  removing those blockages that prevented the flow of juice, often doing so before
+  attempting to extract the juice. In Experiment 3, we presented chimpanzees and orangutans
+  with four 3-tool sets (each tool set contained a single straw-like tool) and allowed
+  them to select one tool. Unlike chimpanzees, orangutans succeeded in selecting the
+  straw-like tool above chance levels without having to physically manipulate it.
+  We suggest that orangutans' superior performance is related to their greater reliance
+  on mouth actions during foraging. Experiment 4 investigated whether orangutans were
+  also capable of selecting the suitable tool not by its appearance, but by the effects
+  that it produced. After witnessing the experimenter blow bubbles or absorb liquid
+  with a functional tool but fail to accomplish the same thing with the non-functional
+  tool, orangutans failed to select the functional tool above chance levels.
+keywords: Problem solving, Innovation, Tool, properties, Tool making
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Hector Marin-Manrique
+  corr_author: null
+- author_no: 2
+  name: Josep Call
+  corr_author: null
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_b, wkprc_bonobo, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2003,2009
+  data_collection_date_comments: 2003/01/24, 2009/01/12 to 2009/06/2
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 5
+  dropout_names: Joey, Kuno, Ulindi, Limbuko, Yasa
+  group_id: wkprc_chimpanzee_b, wkprc_bonobo, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2009'
+  data_collection_date_comments: 2009/02/10 to 2009/06/14
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_b, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2009'
+  data_collection_date_comments: 2009/04/03 to 2009/06/17
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 4
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: Dunja
+  group_id: wkprc_chimpanzee_b, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2009, 2010
+  data_collection_date_comments: 2009/11/12 to 2010/01/11
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: ontogeny_innovation_and_planning
+cognitive_domain:
+  social: false
+  physical: true

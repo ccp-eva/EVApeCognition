@@ -1,0 +1,59 @@
+study_id: amici2008fission
+year: 2008
+reference: Amici, F., Aureli, F., & Call, J. (2008). Fission-fusion dynamics, behavioral
+  flexibility, and inhibitory control in primates. Current Biology, 18(18), 1415-1419.
+  doi:10.1016/j.cub.2008.08.020.
+abstract: The Machiavellian Intelligence or Social Brain Hypothesis explains the evolution
+  of increased brain size as mainly driven by living in complex organized social systems
+  1, 2, 3, 4 in which individuals represent 'moving targets' who can adopt multiple
+  strategies to respond to one another [5]. Frequently splitting and merging in subgroups
+  of variable composition (fission-fusion or FF dynamics) has been proposed as one
+  aspect of social complexity (2, 6, 7, 8, 9; compare with [10]) that may be associated
+  with an enhancement of cognitive skills like inhibition [11], which allows the suppression
+  of prepotent but ineffective responses in a changing social environment [7]. We
+  compared the performance of primates experiencing high levels of FF dynamics (chimpanzees,
+  bonobos, orangutans, and spider monkeys) to that of species living in more cohesive
+  groups (gorillas, capuchin monkeys, and long-tailed macaques) 12, 13 on five inhibition
+  tasks. Testing species differing in diet, phylogenetic relatedness, and levels of
+  FF dynamics allowed us to contrast ecological, phylogenetic, and socioecological
+  explanations for interspecific differences. Spider monkeys performed at levels comparable
+  to chimpanzees, bonobos, and orangutans, and better than gorillas. A two-cluster
+  analysis grouped all species with higher levels of FF dynamics together. These findings
+  confirmed that enhanced inhibitory skills are positively associated with FF dynamics,
+  more than to phylogenetic relations or feeding ecology.
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Federica Amici
+- author_no: 2
+  name: Filippo Aureli
+  corr_author: true
+- author_no: 3
+  name: Josep Call
+  corr_author: true
+experiments:
+- experiment_no: 1
+  data_provided: partial
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan, wkprc_gorilla
+  group_id_excluded: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo, centenario_spidermonkey,
+    istccnr_capuchinmonkey, utrecht_longtailedmacaque
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2007-2008
+  data_collection_date_comments: null
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: quantities_and_time
+  specific_domain: timing_discounting_and_delayed_gratification
+- domain_no: 2
+  general_domain: space_and_objects
+  specific_domain: tracking_object_displacements
+cognitive_domain:
+  social: false
+  physical: true

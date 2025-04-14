@@ -1,0 +1,71 @@
+study_id: bohn2020learning
+year: 2020
+reference: 'Bohn, M., Kordt, C., Braun, M., Call, J., & Tomasello, M. (2020). Learning
+  novel skills from iconic gestures: A developmental and evolutionary perspective.
+  Psychological Science,31(7), 873-880.'
+abstract: Cumulative cultural learning has been argued to rely on high-fidelity copying
+  of other individuals’ actions. Iconic gestures of actions have no physical effect
+  on objects in the world but merely represent actions that would have an effect.
+  Learning from iconic gestures thus requires paying close attention to the teacher’s
+  precise bodily movements—a prerequisite for high-fidelity copying. In three studies,
+  we investigated whether 2- and 3-year-old children (N = 122) and great apes (N =
+  36) learn novel skills from iconic gestures. When faced with a novel apparatus,
+  participants watched an experimenter perform either an iconic gesture depicting
+  the action necessary to open the apparatus or a gesture depicting a different action.
+  Children, but not great apes, profited from iconic gestures, with older children
+  doing so to a larger extent. These results suggest that high-fidelity copying abilities
+  are firmly in place in humans by at least 3 years of age.
+keywords: cultural learning, imitation, evolution, gesture, iconicity, open data,
+  open materials, preregistered
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Manuel Bohn
+  corr_author: true
+- author_no: 2
+  name: Clara Kordt
+  corr_author: false
+- author_no: 3
+  name: Maren Braun
+  corr_author: false
+- author_no: 4
+  name: Josep Call
+  corr_author: false
+- author_no: 5
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: null
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 2016 - 2017
+  data_collection_date_comments: Data collection took place between September 2016
+    and January 2017
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: social_strategies_and_communication
+  specific_domain: communication_with_humans
+cognitive_domain:
+  social: true
+  physical: false

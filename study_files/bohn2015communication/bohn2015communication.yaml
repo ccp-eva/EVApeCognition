@@ -1,0 +1,75 @@
+study_id: bohn2015communication
+year: 2015
+reference: Bohn, M., Call, J., & Tomasello, M. (2015). Communication about absent
+  entities in great apes and human infants. Cognition, 145, 63-72. doi:10.1016/j.cognition.2015.08.009.
+abstract: There is currently debate about the extent to which non-linguistic beings
+  such as human infants and great apes are capable of absent reference. In a series
+  of experiments we investigated the flexibility and specificity of great apes’ (N
+  = 36) and 12 month-old infants’ (N = 40) requests for absent entities. Subjects
+  had the choice between requesting visible objects directly and using the former
+  location of a depleted option to request more of these now-absent entities. Importantly,
+  we systematically varied the quality of the present and absent options. We found
+  that great apes as well as human infants flexibly adjusted their requests for absent
+  entities to these contextual variations and only requested absent entities when
+  the visible option was of lower quality than the absent option. These results suggest
+  that the most basic cognitive capacities for absent reference do not depend on language
+  and are shared by humans and their closest living relatives.
+keywords: Comparative psychology, Pointing, Language development, Displacement
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Manuel Bohn
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 3
+  dropout_names: null
+  group_id: wkprc_orangutan, wkprc_gorilla, wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2013,2014
+  data_collection_date_comments: 2013/17/10 to 2014/01/24
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: null
+  group_id: wkprc_orangutan, wkprc_gorilla, wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2014'
+  data_collection_date_comments: 2014/02/14 to 2014/05/07
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: social_strategies_and_communication
+  specific_domain: communication_with_humans
+cognitive_domain:
+  social: true
+  physical: false

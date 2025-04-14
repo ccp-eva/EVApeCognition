@@ -1,0 +1,80 @@
+study_id: kano2018primate
+year: 2018
+reference: 'Kano, F., Shepherd, S. V., Hirata, S., & Call, J. (2018). Primate social
+  attention: Species differences and effects of individual experience in humans, great
+  apes, and macaques. PLoS One, 13(2): e0193283. doi:10.1371/journal.pone.0193283.'
+abstract: When viewing social scenes, humans and nonhuman primates focus on particular
+  features, such as the models’ eyes, mouth, and action targets. Previous studies
+  reported that such viewing patterns vary significantly across individuals in humans,
+  and also across closely-related primate species. However, the nature of these individual
+  and species differences remains unclear, particularly among nonhuman primates. In
+  large samples of human and nonhuman primates, we examined species differences and
+  the effects of experience on patterns of gaze toward social movies. Experiment 1
+  examined the species differences across rhesus macaques, nonhuman apes (bonobos,
+  chimpanzees, and orangutans), and humans while they viewed movies of various animals’
+  species-typical behaviors. We found that each species had distinct viewing patterns
+  of the models’ faces, eyes, mouths, and action targets. Experiment 2 tested the
+  effect of individuals’ experience on chimpanzee and human viewing patterns. We presented
+  movies depicting natural behaviors of chimpanzees to three groups of chimpanzees
+  (individuals from a zoo, a sanctuary, and a research institute) differing in their
+  early social and physical experiences. We also presented the same movies to human
+  adults and children differing in their expertise with chimpanzees (experts vs. novices)
+  or movie-viewing generally (adults vs. preschoolers). Individuals varied within
+  each species in their patterns of gaze toward models’ faces, eyes, mouths, and action
+  targets depending on their unique individual experiences. We thus found that the
+  viewing patterns for social stimuli are both individual- and species-specific in
+  these closely-related primates. Such individual/species-specificities are likely
+  related to both individual experience and species-typical temperament, suggesting
+  that primate individuals acquire their unique attentional biases through both ontogeny
+  and evolution. Such unique attentional biases may help them learn efficiently about
+  their particular social environments.
+keywords: ''
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Fumihiro Kano
+  corr_author: true
+- author_no: 2
+  name: Stephen V. Shepherd
+  corr_author: true
+- author_no: 3
+  name: Satoshi Hirata
+  corr_author: false
+- author_no: 4
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: partial
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_orangutan,
+    kumamoto_chimpanzee, kumamoto_bonobo, rockefeller_rhesusmacaque
+  group_id_excluded: leipzig_adults
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: partial
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, kumamoto_chimpanzee
+  group_id_excluded: leipzig_children, european_adults, japan_adults
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: features_and_categories
+  specific_domain: face_perception
+cognitive_domain:
+  social: false
+  physical: true

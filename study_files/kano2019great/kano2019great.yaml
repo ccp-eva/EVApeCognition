@@ -1,0 +1,67 @@
+study_id: kano2019great
+year: 2019
+reference: Kano, F., Krupenye, C., Hirata, S., Tomonaga, M., & Call, J. (2019). Great
+  apes use self-experience to anticipate an agent’s action in a false-belief test.
+  Proceedings of the National Academy of Sciences, 116(42), 20904-20909. doi:10.1073/pnas.1910095116.
+abstract: Human social life depends on theory of mind, the ability to attribute mental
+  states to oneself and others. A signature of theory of mind, false belief understanding,
+  requires representing others’ views of the world, even when they conflict with one’s
+  own. After decades of research, it remains controversial whether any nonhuman species
+  possess a theory of mind. One challenge to positive evidence of animal theory of
+  mind, the behavior-rule account, holds that animals solve such tasks by responding
+  to others’ behavioral cues rather than their mental states. We distinguish these
+  hypotheses by implementing a version of the “goggles” test, which asks whether,
+  in the absence of any additional behavioral cues, animals can use their own self-experience
+  of a novel barrier being translucent or opaque to determine whether another agent
+  can see through the same barrier. We incorporated this paradigm into an established
+  anticipatory-looking false-belief test for great apes. In a between-subjects design,
+  apes experienced a novel barrier as either translucent or opaque, although both
+  looked identical from afar. While being eye tracked, all apes then watched a video
+  in which an actor saw an object hidden under 1 of 2 identical boxes. The actor then
+  scuttled behind the novel barrier, at which point the object was relocated and then
+  removed. Only apes who experienced the barrier as opaque visually anticipated that
+  the actor would mistakenly search for the object in its previous location. Great
+  apes, therefore, appeared to attribute differential visual access based specifically
+  on their own past perceptual experience to anticipate an agent’s actions in a false-belief
+  test
+keywords: anticipatory looking, behavior rule, goggles test, nonhuman animals, theory
+  of mind
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Fumihiro Kano
+  corr_author: true
+- author_no: 2
+  name: Christopher Krupenye
+  corr_author: false
+- author_no: 3
+  name: Satoshi Hirata
+  corr_author: false
+- author_no: 4
+  name: Masaki Tomonaga
+  corr_author: false
+- author_no: 5
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_orangutan,
+    kumamoto_bonobo, kumamoto_chimpanzee, kupri_chimpanzee
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: theory_of_mind_and_metacognition
+  specific_domain: understanding_perception_knowledge_and_beliefs
+cognitive_domain:
+  social: true
+  physical: false

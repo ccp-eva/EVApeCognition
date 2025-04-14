@@ -1,0 +1,37 @@
+column_name,description
+study_id,personal study ID composed by the first authors’ first surname_year of publication_first title word 
+participant,name of the participant 
+sex,sex of the participant 
+role,role of the participant 1 - giver
+participant_2,name of the participant_2
+sex_2,sex of the participant_2
+role_2,role of the participant_2 - receiver 
+present,another individual present but not participating – can be an infant or in rare cases an adult  
+species,species of individuals participating in the study - orangutan 
+dyad,name of the two participants that compose the dyad 
+session,set of trials - usually numerical 
+trial,presentation of the experiment to the ape participants - usually numerical 
+transfer_direct_partner_value,variable referring to the number of transfers of a valuable token directly to the mouth or the hand of the participant_2
+transfer_direct_no_value_token,variable referring to the number of transfers of a token without value directly to the mouth or the hand of participant_2
+transfer_direct_banana_peel,variable referring to the number of transfers of a banana peel directly to the mouth or the hand of  participant_2
+transfer_indirect_partner_value,variable referring to the number of transfers of a valuable token placed in the cage of the participant_2 but not directly to the mouth or the hand of participant_2
+transfer_indirect_no_value_token,variable referring to the number of transfers of a token without value  in the cage of the participant_2 but not directly to the mouth or the hand of participant_2 
+transfer_indirect_banana_peel,variable referring to the number of transfers of a banana peel  in the cage of participant_2 but not directly to the mouth or the hand of the participant_2
+transfer_passive_partner_value,variable referring to the number of tokens of value for the participant_2 taken by the participant_2 from the participant side without the help of the participant
+transfer_passive_no_value_token,variable referring to the number of tokens without value taken by participant_2 from the participant side without the help of the participant
+transfer_passive_banana_peel,variable referring to the number of banana peels taken by participant_2 from the participant side without the help of the participant
+catch_partner_value_token,variable referring to the number of valuable tokens taken by participant_2 from the participant side while the participant prevents the transfer
+catch_partner_no_value_token,variable referring to the number of tokens without value taken by participant_2 from the participant side while the participant prevents the transfer
+catch_banana_peel,variable referring to the number of banana peels taken by participant_2 from the participant side while the participant prevents the transfer
+pointing_followed_by_valuable_token_transfer,variable referring to the number of pointing gestures followed by a number of tokens. Integers refer to X occurrence of the pointing each followed by the transfer of 1 valuable token.  For example the code 2x_1gesture_1token_and_1x_1gesture_and_2tokens should be read as 2 times 1 pointing gesture followed by the transfer of one token  and then 1 time 1 pointing gesture followed by the transfer of two tokens. When only one integer is introduced (eg. 3) it means there were 3 pointing occurrences followed by the transfer of one token
+pointing_followed_by_nonvaluable_token_transfer,variable referring to the number of pointing gestures followed by a number of non value tokens. Integers refer to X occurrence of the pointing each followed by the transfer of 1 non valuable token.  For example the code 2x_1gesture_1token_and_1x_1gesture_and_2tokens should be read as 2 times 1 pointing gesture followed by the transfer of one token  and then 1 time 1 pointing gesture followed by the transfer of two tokens. When only one integer is introduced (eg. 3) it means there were 3 pointing occurrences followed by the transfer of one token
+pointing_followed_by_nothing,variable referring to the number of pointing gestures followed by nothing
+hand_beg_followed_by_valuable_token,variable referring to the number of begging gestures followed by a number of tokens. Integers refer to X occurrence of the hand begging each followed by the transfer of 1 valuable token. For example the code 2x_1gesture_1token_and_1x_1gesture_and_2tokens should be read as 2 times 1 pointing gesture followed by the transfer of one token  and then 1 time 1 pointing gesture followed by the transfer of two tokens. When only one integer is introduced (eg. 3) it means there were 3 pointing occurrences followed by the transfer of one token
+hand_beg_followed_by_nonvaluable_token,variable referring to the number of begging gestures followed by a number of non value tokens. Integers refer to X occurrence of the hand begging each followed by the transfer of 1 non valuable token.  For example the code 2x_1gesture_1token_and_1x_1gesture_and_2tokens should be read as 2 times 1 pointing gesture followed by the transfer of one token  and then 1 time 1 pointing gesture followed by the transfer of two tokens. When only one integer is introduced (eg. 3) it means there were 3 pointing occurrences followed by the transfer of one token
+hand_beg_followed_by_nothing,variable referring to the number of begging gestures followed by nothing
+no_gesture_followed_by_valuable_token,variable referring to the number of no gestures followed by the transfer of tokens
+no_gesture_followed_by_nonvaluable_token,variable referring to the number of no gestures followed by the transfer of non-value tokens
+alternations_general ,number of times in which one transfer (valuable or not) is followed by a return – includes passive and excludes catches
+alternations_valuable ,number of times in which one valuable transfer is followed by a valuable return (including banana peel)– includes passive and excludes catches
+pagai_to_bimbo,transfers between two particular individuals( from pagai to bimbo) with a different type of behavior and which is presented different from the rest of the data 
+bimbo_to_pagai ,transfers between two particular individuals( from bimbo to pagai) with a different type of behavior and which is presented different from the rest of the data 

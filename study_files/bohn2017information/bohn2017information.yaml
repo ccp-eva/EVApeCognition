@@ -1,0 +1,50 @@
+study_id: bohn2017information
+year: 2017
+reference: 'Bohn, M., Allritz, M., Call, J., & Völter, C. J. (2017). Information seeking
+  about tool properties in great apes. Scientific Reports, 7: 10923. doi:10.1038/s41598-017-11400-z.'
+abstract: Evidence suggests that great apes engage in metacognitive information seeking
+  for food items. To support the claim that a domain-general cognitive process underlies
+  ape metacognition one needs to show that selective information seeking extends to
+  non-food items. In this study, chimpanzees (Pan troglodytes) and orangutans (Pongo
+  abelii) either had to determine the location of a desired food item or a property
+  of a non-food item (length of a tool). We manipulated whether subjects received
+  prior information about the item’s location or property. During the test, subjects
+  had the opportunity to seek the respective information. Results show that apes engaged
+  in more information seeking when they had no prior knowledge. Importantly, this
+  selective pattern of information seeking applied to food as well as to tools.
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Manuel Bohn
+  corr_author: true
+- author_no: 2
+  name: Matthias Allritz
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+- author_no: 4
+  name: Christoph J. Völter
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2016
+  data_collection_date_comments: ''
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: theory_of_mind_and_metacognition
+  specific_domain: understanding_the_self_and_metacognition
+cognitive_domain:
+  social: true
+  physical: false

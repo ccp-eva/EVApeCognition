@@ -1,0 +1,95 @@
+study_id: hanus2011comparing
+year: 2011
+reference: 'Hanus, D., Mendes, N., Tennie, C., & Call, J. (2011). Comparing the performances
+  of apes (Gorilla gorilla, Pan troglodytes, Pongo pygmaeus) and human children (Homo
+  sapiens) in the floating peanut task. PLoS ONE, 6(6): e19555. doi:10.1371/journal.pone.0019555.'
+abstract: Recently, Mendes et al. [1] described the use of a liquid tool (water) in
+  captive orangutans. Here, we tested chimpanzees and gorillas for the first time
+  with the same ‘‘floating peanut task.’’ None of the subjects solved the task. In
+  order to better understand the cognitive demands of the task, we further tested
+  other populations of chimpanzees and orangutans with the variation of the peanut
+  initially floating or not. Twenty percent of the chimpanzees but none of the orangutans
+  were successful. Additional controls revealed that successful subjects added water
+  only if it was necessary to obtain the nut. Another experiment was conducted to
+  investigate the reason for the differences in performance between the unsuccessful
+  (Experiment 1) and the successful (Experiment 2) chimpanzee populations. We found
+  suggestive evidence for the view that functional fixedness might have impaired the
+  chimpanzees’ strategies in the first experiment. Finally, we tested how human children
+  of different age classes perform in an analogous experimental setting. Within the
+  oldest group (8 years), 58 percent of the children solved the problem, whereas in
+  the youngest group (4 years), only 8 percent were able to find the solution
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Daniel Hanus
+  corr_author: true
+- author_no: 2
+  name: Natacha Mendes
+  corr_author: false
+- author_no: 3
+  name: Claudio Tennie
+  corr_author: false
+- author_no: 4
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: ' '
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: occq_orangutan, ngamba_chimpanzee
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: ' '
+  age_source_comments: ' Kalema age in publication incorrect - actual age is 18'
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 3
+  dropout_names: Frodo, Robert, Natascha
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b,
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: ' '
+  age_source_comments: ' '
+- experiment_no: 4
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: ' '
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: ontogeny_innovation_and_planning
+cognitive_domain:
+  social: false
+  physical: true

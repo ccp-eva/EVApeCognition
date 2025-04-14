@@ -1,0 +1,57 @@
+study_id: liebal2014does
+year: 2014
+reference: 'Liebal, K., Vaish, A., Haun, D., & Tomasello, M. (2014). Does sympathy
+  motivate prosocial behaviour in great apes? PLoS One, 9(1): e84299. doi:doi:10.1371/journal.pone.0084299.   OA'
+abstract: Prosocial behaviours such as helping, comforting, or sharing are central
+  to human social life. Because they emerge early in ontogeny, it has been proposed
+  that humans are prosocial by nature and that from early on empathy and sympathy
+  motivate such behaviours. The emerging question is whether humans share these abilities
+  to feel with and for someone with our closest relatives, the great apes. Although
+  several studies demonstrated that great apes help others, little is known about
+  their underlying motivations. This study addresses this issue and investigates whether
+  four species of great apes (Pongo pygmaeus, Gorilla gorilla, Pan troglodytes, Pan
+  paniscus) help a conspecific more after observing the conspecific being harmed (a
+  human experimenter steals the conspecific’s food) compared to a condition where
+  no harming occurred. Results showed that in regard to the occurrence of prosocial
+  behaviours, only orangutans, but not the African great apes, help others when help
+  is needed, contrasting prior findings on chimpanzees. However, with the exception
+  of one population of orangutans that helped significantly more after a conspecific
+  was harmed than when no harm occurred, prosocial behaviour in great apes was not
+  motivated by concern for others.
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Katja Liebal
+  corr_author: true
+- author_no: 2
+  name: Amrisha Vaish
+  corr_author: false
+- author_no: 3
+  name: Daniel Haun
+  corr_author: false
+- author_no: 4
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_orangutan, occq_orangutan,
+    ngamba_chimpanzee
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: prosocial_behavior
+cognitive_domain:
+  social: true
+  physical: false

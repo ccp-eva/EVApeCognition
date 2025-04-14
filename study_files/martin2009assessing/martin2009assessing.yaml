@@ -1,0 +1,69 @@
+study_id: martin2009assessing
+year: 2009
+reference: Martin-Ordas, G., & Call, J. (2009). Assessing Generalization Within and
+  Between Trap Tasks in the Great Apes. International Journal of Comparative Psychology,
+  22(1), 43-60.
+abstract: Considerable research has been devoted to investigate the type of information
+  that subjects use to solve tool-using tasks in which they have to avoid certain
+  obstacles (e.g., traps) to retrieve a reward. Much of the debate has centered on
+  whether subjects simply use certain stimulus features (e.g., the position of the
+  trap) or instead use more functionally-relevant information regarding the effect
+  that certain features may have on a moving reward. We tested eight apes (that in
+  a previous study had succeeded in a trap-tube task) with one functional and two
+  nonfunctional traps to investigate the features that they used to solve the task.
+  Four of the eight subjects used functional features. Additionally, we presented
+  31 apes with a trap task that did not involve tools but required subjects to make
+  an inference about the position of a hidden reward based on its displacement over
+  a substrate with or without a trap. Subjects performed above chance levels (including
+  from the first trial) in the experimental condition (unlike in the control conditions),
+  suggesting that they took into account the effect that a trap may have on a reward.
+  Third, we correlated the subjects performance in four trap tasks (3 involving tool-use
+  and one without tool-use) and found positive correlations between some of the tasks.
+  Our results suggest that apes possess some knowledge about the effects that traps
+  have on slow moving unsupported objects. However, this knowledge was not robust
+  enough to prevent the influence of certain practice and task effects. Moreover,
+  subjects’ knowledge may not have been abstract enough to allow them to establish
+  broad analogies between tasks.
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Gemma Martin Ordas
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_gorilla, wkprc_orangutan, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file_calculated
+  age_source_comments: age_original in months from author and age_in_years calculated
+- experiment_no: 2
+  data_provided: false
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: tool_features_and_functions
+cognitive_domain:
+  social: false
+  physical: true

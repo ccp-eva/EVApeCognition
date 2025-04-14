@@ -1,0 +1,57 @@
+study_id: kano2011visual
+year: 2011
+reference: 'Kano, F., Hirata, S., Call, J., & Tomonaga, M. (2011). The visual strategy
+  specific to humans among hominids: A study using the gap–overlap paradigm. Vision
+  Research, 51(23-24), 2348-2355. doi:10.1016/j.visres.2011.09.006.'
+abstract: 'Although an extensive body of literature exists on the cognitive underpinnings
+  of gaze movements in macaques and humans, few studies have investigated this topic
+  from a broader evolutionary perspective. This study used the gap–overlap paradigm
+  to examine the timing of the gaze movements by four hominid species: humans, chimpanzees,
+  gorillas, and orangutans. The saccade latency involved in shifting the gaze from
+  central to peripheral stimuli was measured and compared under two conditions, gap
+  and overlap. The central stimulus disappeared shortly before the onset of the peripheral
+  stimulus under the gap condition, but it remained under the overlap condition. Although
+  all species demonstrated similar saccade latencies under the gap condition, the
+  species clearly differed from one another under the overlap condition, which may
+  suggest their similar perceptual and motor mechanism of making a saccade on the
+  one hand and their differential strategies for coping with the competition between
+  two activities involving fixation and initiation of a saccade (i.e. central vs.
+  peripheral visual stimuli) on the other hand. In particular, humans showed longer
+  saccade latency under the overlap condition compared to the other great apes, which
+  may reflect this species’ unique means of visual processing.'
+keywords: Eye-tracking, Gap–overlap, Great ape, Saccade latency
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Fumihiro Kano
+  corr_author: true
+- author_no: 2
+  name: Satoshi Hirata
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+- author_no: 4
+  name: Masaki Tomonaga
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_gorilla, wkprc_orangutan, gari_chimpanzee, kupri_chimpanzee
+  group_id_excluded: okayama_adults, kyoto_adults, leipzig_adults
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: features_and_categories
+  specific_domain: face_perception
+cognitive_domain:
+  social: false
+  physical: true

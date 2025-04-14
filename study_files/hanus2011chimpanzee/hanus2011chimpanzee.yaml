@@ -1,0 +1,75 @@
+study_id: hanus2011chimpanzee
+year: 2011
+reference: 'Hanus, D., & Call, J. (2011). Chimpanzee problem-solving: contrasting
+  the use of causal and arbitrary cues. Animal Cognition, 14(6), 871-878. doi:10.1007/s10071-011-0421-6.'
+abstract: Humans are able to benefit from a causally structured problem-solving context
+  rather than arbitrarily structured situations. In order to better understand nonhuman
+  causal cognition, it is therefore important to isolate crucial factors that might
+  differentiate between events that follow a purely spatial and temporal contingency
+  and those that hold a 'true' causal relationship. In the first of two experiments,
+  chimpanzee subjects were required to detect a bottle containing juice from five
+  opaque bottles of equal shape and size. In the causal condition, the juice bottle
+  looked identical to the other four bottles, only it was much heavier than the others.
+  In the arbitrary condition, the weight of all five bottles was identical, but the
+  juice bottle was color-marked differently. Since bottle opening was made difficult
+  (and therefore costly), the question was whether subject's manipulative behavior
+  would be random or somehow influenced by the nature of the provided information.
+  Our results show that subjects detected and opened the juice bottle significantly
+  faster when weight was the discriminating feature (causal condition) compared to
+  situations in which the discrimination was necessarily based on a color-cue (arbitrary
+  condition). Experiment 2 ruled out the possibility of a general learning bias toward
+  tactile rather than visual information in chimpanzees. When tested in a simple exchange
+  paradigm that prevented any use of causal information, no predominance of a tactile
+  cue (weight) over a visual cue (color) could be found. Furthermore—and in contrast
+  to the causal condition in Experiment 1—no learning occurred during the course of
+  Experiment 2, neither in the weight nor in the color condition. We therefore conclude
+  that chimpanzees can more easily determine the content of an object based on its
+  causal properties compared to situations in which the only available information
+  is a pure arbitrary regularity. This supports the view that chimpanzees' causal
+  cognition does not rely on mere perceptual information but also on structural abstraction
+  about their physical environment.
+keywords: Problem-solving, Causal cognition, Chimpanzees, Arbitrary cues, Causal cues
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Daniel Hanus
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: ngamba_chimpanzee
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 2007
+  data_collection_date_comments: All data were collected between November and December
+    2007.
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 2010
+  data_collection_date_comments: All data were collected between October and November
+    2010.
+  age_source: data_file_calculated
+  age_source_comments: age_in_years calculated – age_original from data_file
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: causal_inferences
+cognitive_domain:
+  social: false
+  physical: true

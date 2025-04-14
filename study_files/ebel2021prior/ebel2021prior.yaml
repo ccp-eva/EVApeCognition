@@ -1,0 +1,56 @@
+study_id: ebel2021prior
+year: 2021
+reference: Ebel, S. J., Völter, C. J., & Call, J. (2021). Prior experience mediates
+  the usage of food items as tools in great apes (Pan paniscus, Pan troglodytes, Gorilla
+  gorilla, and Pongo abelii).Journal of Comparative Psychology,135(1), 64-73.
+abstract: 'Humans use tools with specific functions to solve tasks more efficiently.
+  However, functional specialization often comes at a cost: It can hinder the production
+  of actions that are not usually performed with those tools, thus resulting in a
+  fixation effect (functional fixedness). Little is known about whether our closest
+  living relatives, the nonhuman great apes, are vulnerable to this detrimental effect
+  of experience. We examined whether great apes from 4 species (N _ 35) would become
+  fixated on the familiar action with an object. More precisely, some subjects experienced
+  a novel food item (grissini), either whole or broken into pieces, whereas others
+  did not. Then, subjects faced a task that required them to use the food item to
+  rake in an out-of-reach food reward. Results indicated that all 4 species could
+  use a food item as a tool. Apes were more likely to do so in the first trial when
+  they had not experienced the tool as food before, even though they tasted the food
+  before using it as a tool. Orangutans and bonobos used the food item more often
+  as a tool than chimpanzees. A preference test ruled out that performance was dependent
+  on individual or species food preferences. Our results suggest that apes might have
+  represented one object in two different ways (i.e., as “food” and as “tool”) and
+  then became fixated on one of these two representations. However, it is unclear
+  whether the fixation occurred because of the item’s prior function or its identity..'
+keywords: functional fixedness, object identity, Einstellung effect, tool use, self-control
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Sona Ebel
+  corr_author: true
+- author_no: 2
+  name: Christoph J. Völter
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 2
+  dropout_names: Raja, Abeeku
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2016-2017
+  data_collection_date_comments: ''
+  age_source: data_file_calculated
+  age_source_comments: age_in_years calculated – age_original from data_file
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: ontogeny_innovation_and_planning
+cognitive_domain:
+  social: false
+  physical: true

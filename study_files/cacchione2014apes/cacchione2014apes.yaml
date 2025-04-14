@@ -1,0 +1,68 @@
+study_id: cacchione2014apes
+year: 2014
+reference: Cacchione, T., Hrubesch, C., & Call, J. (2014). Apes' tracking of objects
+  and collections. Swiss Journal of Psychology, 73(1), 47-52. doi:10.1024/1421-0185/a000120.
+abstract: Recent research suggests that great apes are less vulnerable to cohesion
+  violations than human infants are. In contrast to human infants, apes successfully
+  track nonsolid substances or split solid objects through occlusion (Cacchione &
+  Call, 2010a; Cacchione, Hrubesch, & Call, 2012, 2013). The present study aims to
+  investigate whether the lower vulnerability of great apes to cohesion violations
+  also manifests when they are tracking collections. While even very young human infants
+  appreciate the continuous existence of solid bound objects, they fail to show similar
+  intuitions when tracking collections of objects (Chiang & Wynn, 2000). In a manual
+  search task inspired by recent infant research, we tested whether humans’ closest
+  relatives, the great apes, showed a similar contrast in their reasoning about single
+  solid objects and objects within collections. The results suggest that, in contrast
+  to human infants, great apes appreciate the continuous existence of objects within
+  collections and successfully track them through occlusion. This confirms the view
+  that great apes are generally less vulnerable to cohesion violations than human
+  infants
+keywords: objects, collections, continuity, comparative research
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Trix Cacchione
+  corr_author: true
+- author_no: 2
+  name: Christine Hrubesch
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_gorilla, wkprc_orangutan, wkprc_bonobo, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2011'
+  data_collection_date_comments: 2011-04-5 to 2011-04-20
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_gorilla, wkprc_orangutan, wkprc_bonobo, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2011'
+  data_collection_date_comments: 2011-05-25 to 2011-06-07
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: quantities_and_time
+  specific_domain: conservation_of_quantities
+- domain_no: 2
+  general_domain: quantities_and_time
+  specific_domain: counting_summation_and_proportions
+cognitive_domain:
+  social: false
+  physical: true

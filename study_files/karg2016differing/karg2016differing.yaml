@@ -1,0 +1,70 @@
+study_id: karg2016differing
+year: 2016
+reference: 'Karg, K., Schmelz, M., Call, J., & Tomasello, M. (2016). Differing views:
+  Can chimpanzees do Level 2 perspective-taking? Animal Cognition, 19(3), 555-564.
+  doi:10.1007/s10071-016-0956-7.   OA'
+abstract: Although chimpanzees understand what others may see, it is unclear whether
+  they understand how others see things (Level 2 perspective-taking). We investigated
+  whether chimpanzees can predict the behavior of a conspecific which is holding a
+  mistaken perspective that differs from their own. The subject competed with a conspecific
+  over two food sticks. While the subject could see that both were the same size,
+  to the competitor one appeared bigger than the other. In a previously established
+  game, the competitor chose one stick in private first and the subject chose thereafter,
+  without knowing which of the sticks was gone. Chimpanzees and 6-year-old children
+  chose the ‘riskier’ stick (that looked bigger to the competitor) significantly less
+  in the game than in a nonsocial control. Children chose randomly in the control,
+  thus showing Level 2 perspective-taking skills; in contrast, chimpanzees had a preference
+  for the ‘riskier’ stick here, rendering it possible that they attributed their own
+  preference to the competitor to predict her choice. We thus run a follow-up in which
+  chimpanzees did not have a preference in the control. Now, they also chose randomly
+  in the game. We conclude that chimpanzees solved the task by attributing their own
+  preference to the other, while children truly understood the other’s mistaken perspective.
+keywords: Perspective-taking, Appearance–reality, Deception, False belief, Chimpanzee
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Katja Karg
+  corr_author: true
+- author_no: 2
+  name: Martin Schmelz
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+- author_no: 4
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: dyads
+  droupouts_no: 2
+  dropout_names: Corrie, Annett
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: leipzig_children
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: false
+  grouping: dyads
+  droupouts_no: 5
+  dropout_names: Pasa, Kalema, Kisembo, Nani, Sally
+  group_id: ngamba_chimpanzee
+  group_id_excluded: null
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: theory_of_mind_and_metacognition
+  specific_domain: understanding_perception_knowledge_and_beliefs
+cognitive_domain:
+  social: true
+  physical: false

@@ -1,0 +1,56 @@
+study_id: manrique2013repeated
+year: 2013
+reference: Manrique, H. M., Völter, C. J., & Call, J. (2013). Repeated innovation
+  in great apes. Animal Behaviour, 85(1), 195-202. doi:10.1016/j.anbehav.2012.10.026.
+abstract: Innovation has been defined as a solution to a novel problem or a novel
+  solution to an old problem. The second part of this definition requires the inhibition
+  of previously learnt solution strategies before a novel solution can be found. Therefore,
+  inventing novel solutions for an old problem is considered to be particularly difficult.
+  We investigated the ability of great apes to produce multiple new solutions to a
+  task after each of those solutions became obsolete. We presented all four nonhuman
+  great ape species with a task consisting of extracting a food reward from a puzzle
+  box. Initially, the task could be solved in three different ways that varied in
+  difficulty. After subjects discovered the first solution, we allowed them to use
+  it for some trials and then it became obsolete. If the apes could overcome their
+  initial response and find the next solution, we again allowed them to use it for
+  some time and once again it became obsolete. The final step consisted of finding
+  the third solution to secure the food reward. We found that all species except orang-utans,
+  Pongo abelii, were able to solve all versions of the problem. Furthermore, they
+  overcame the obsolete techniques quickly and efficiently, indicating high degrees
+  of behavioural flexibility and inhibitory control. In contrast to previous research
+  on social learning, our results suggest that great apes are not conservative and
+  adjust their behaviour flexibly when the physical constraints of a task change.
+keywords: cognitive flexibility, great ape, inhibitory control, innovation, primates,
+  prior knowledge, problem solving, puzzle box
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Hector Marin-Manrique
+  corr_author: true
+- author_no: 2
+  name: Christoph J. Völter
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, , wkprc_chimpanzee_b, wkprc_gorilla, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: ontogeny_innovation_and_planning
+cognitive_domain:
+  social: false
+  physical: true

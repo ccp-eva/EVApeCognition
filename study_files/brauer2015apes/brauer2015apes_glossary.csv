@@ -1,0 +1,14 @@
+column_name,description
+study_id,personal study ID composed by the first authors’ first surname_year of publication_first title word 
+experiment,number of experiment from publication 
+participant,name of the participant 
+age_in_years,age presented in years – see metadata for source of age
+sex,sex of the participant 
+species,species of individuals participating in the study -bonobo/chimpanzee/orangutan 
+present,individual present but not participating
+condition,three conditions depending on where and how many grapes were baited  - one-grape/ all-grape/ no-apparatus
+group,participants divided in two groups depending on the period with tool use – group 1_120 sec and 50sec/ group 2_only 50sec
+production,time participant performs in each condition – 120 sec/ 50 sec
+tools_prepared,number of tools participant  produced in advance – usable tools participant produced in the preparation phase – all tools – late tools 
+grapes_eaten,number of grapes eaten after being obtained
+success,number of grapes obtained in each trial in all grapes condition

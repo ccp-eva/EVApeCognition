@@ -1,0 +1,75 @@
+study_id: eckert2017great
+year: 2017
+reference: 'Eckert, J., Rakoczy, H., & Call, J. (2017). Are great apes able to reason
+  from multi-item samples to populations of food items? American Journal of Primatology,
+  79(10): e22693. doi:10.1002/ajp.22693.'
+abstract: Inductive learning from limited observations is a cognitive capacity of
+  fundamental importance. In humans, it is underwritten by our intuitive statistics,
+  the ability to draw systematic inferences from populations to randomly drawn samples
+  and vice versa. According to recent research in cognitive development, human intuitive
+  statistics develops early in infancy. Recent work in comparative psychology has
+  produced first evidence for analogous cognitive capacities in great apes who flexibly
+  drew inferences from populations to samples. In the present study, we investigated
+  whether great apes (Pongo abelii, Pan troglodytes, Pan paniscus, Gorilla gorilla)
+  also draw inductive inferences in the opposite direction, from samples to populations.
+  In two experiments, apes saw an experimenter randomly drawing one multi-item sample
+  from each of two populations of food items. The populations differed in their proportion
+  of preferred to neutral items (24:6 vs. 6:24) but apes saw only the distribution
+  of food items in the samples that reflected the distribution of the respective populations
+  (e.g., 4:1 vs. 1:4). Based on this observation they were then allowed to choose
+  between the two populations. Results show that apes seemed to make inferences from
+  samples to populations and thus chose the population from which the more favorable
+  (4:1) sample was drawn in Experiment 1. In this experiment, the more attractive
+  sample not only contained proportionally but also absolutely more preferred food
+  items than the less attractive sample. Experiment 2, however, revealed that when
+  absolute and relative frequencies were disentangled, apes performed at chance level.
+  Whether these limitations in apes’ performance reflect true limits of cognitive
+  competence or merely performance limitations due to accessory task demands is still
+  an open question.
+keywords: comparative cognition, intuitive statistics, non-human primates, numerical
+  cognition, probabilistic reasoning
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Johanna Eckert
+  corr_author: true
+- author_no: 2
+  name: Hannes Rakoczy
+  corr_author: false
+- author_no: 1
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 3
+  dropout_names: Bangolo, Abeeko, Kumili
+  group_id: wkprc_gorilla, wkprc_bonobo, wkprc_orangutan, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 2014 - 2015
+  data_collection_date_comments: were tested between November 2014 and September 2015
+  age_source: data_file_calculated
+  age_source_comments: age_in_years calculated – age_original from data_file
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: Robert, Fimi, Daza, Jeudi
+  group_id: wkprc_gorilla, wkprc_bonobo, wkprc_orangutan, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 2014 - 2015
+  data_collection_date_comments: were tested between November 2014 and September 2015
+  age_source: data_file_calculated
+  age_source_comments: age_in_years calculated – age_original from data_file
+domains:
+- domain_no: 1
+  general_domain: quantities_and_time
+  specific_domain: counting_summation_and_proportions
+cognitive_domain:
+  social: false
+  physical: true

@@ -1,0 +1,64 @@
+study_id: kano2015social
+year: 2015
+reference: 'Kano, F., Hirata, S., & Call, J. (2015). Social attention in the two species
+  of pan: Bonobos make more eye contact than chimpanzees. PLoS One, 10(6): e0129684.
+  doi:10.1371/journal.pone.0129684.   OA'
+abstract: Humans’ two closest primate living relatives, bonobos and chimpanzees, differ
+  behaviorally, cognitively, and emotionally in several ways despite their general
+  similarities. While bonobos show more affiliative behaviors towards conspecifics,
+  chimpanzees display more overt and severe aggression against conspecifics. From
+  a cognitive standpoint, bonobos perform better in social coordination, gaze-following
+  and food-related cooperation, while chimpanzees excel in tasks requiring extractive
+  foraging skills. We hypothesized that attention and motivation play an important
+  role in shaping the species differences in behavior, cognition, and emotion. Thus,
+  we predicted that bonobos would pay more attention to the other individuals’ face
+  and eyes, as those are related to social affiliation and social coordination, while
+  chimpanzees would pay more attention to the action target objects, as they are related
+  to foraging. Using eye-tracking we examined the bonobos’ and chimpanzees’ spontaneous
+  scanning of pictures that included eyes, mouth, face, genitals, and action target
+  objects of conspecifics. Although bonobos and chimpanzees viewed those elements
+  overall similarly, bonobos viewed the face and eyes longer than chimpanzees, whereas
+  chimpanzees viewed the other elements, the mouth, action target objects and genitals,
+  longer than bonobos. In a discriminant analysis, the individual variation in viewing
+  patterns robustly predicted the species of individuals, thus clearly demonstrating
+  species-specific viewing patterns. We suggest that such attentional and motivational
+  differences between bonobos and chimpanzees could have partly contributed to shaping
+  the species-specific behaviors, cognition, and emotion of these species, even in
+  a relatively short period of evolutionary time.
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Fumihiro Kano
+  corr_author: true
+- author_no: 2
+  name: Satoshi Hirata
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, kumamoto_chimpanzee,
+    kumamoto_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: features_and_categories
+  specific_domain: face_perception
+- domain_no: 2
+  general_domain: theory_of_mind_and_metacognition
+  specific_domain: understanding_perception_knowledge_and_beliefs
+cognitive_domain:
+  social: true
+  physical: true

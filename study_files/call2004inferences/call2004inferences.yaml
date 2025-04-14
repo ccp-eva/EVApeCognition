@@ -1,0 +1,114 @@
+study_id: call2004inferences
+year: 2004
+reference: Call, J. (2004). Inferences About the Location of Food in the Great Apes
+  (Pan panicus, Pan troglodytes, Gorilla gorilla, and Pongo pygmaeus). Journal of
+  Comparative Psychology, 118(2), 232-241. doi:10.1037/0735-7036.118.2.232.
+abstract: Bonobos (Pan paniscus; n _ 4), chimpanzees (Pan troglodytes; n _ 12), gorillas
+  (Gorilla gorilla; n _ 8), and orangutans (Pongo pygmaeus; n _ 6) were presented
+  with 2 cups (1 baited) and given visual or auditory information about their contents.
+  Visual information consisted of letting subjects look inside the cups. Auditory
+  information consisted of shaking the cup so that the baited cup produced a rattling
+  sound. Subjects correctly selected the baited cup both when they saw or heard the
+  food. Nine individuals were above chance in both visual and auditory conditions.
+  More important, subjects as a group selected the baited cup when only the empty
+  cup was either shown or shaken, which means that subjects chose correctly without
+  having seen or heard the food (i.e., inference by exclusion). Control tests showed
+  that subjects were not more attracted to noisy cups, avoided shaken noiseless cups,
+  or learned to use auditory information as a cue during the study. It is concluded
+  that subjects understood that the food caused the noise, not simply that the noise
+  was associated with the food.
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Josep Call
+  corr_author: true
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan, wkprc_gorilla, wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_gorilla, wkprc_bonobo, wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 2
+  dropout_names: Vimoto, Vizuri
+  group_id: wkprc_gorilla, wkprc_bonobo, wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 4
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_gorilla, wkprc_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 5
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 3
+  dropout_names: Robert, Patrick, Ulindi
+  group_id: wkprc_orangutan, wkprc_gorilla, wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 6
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 2
+  dropout_names: Vimoto, Vizuri
+  group_id: wkprc_gorilla, wkprc_bonobo, wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: space_and_objects
+  specific_domain: search_in_manipulative_space
+- domain_no: 2
+  general_domain: tools_and_causality
+  specific_domain: causal_inferences
+cognitive_domain:
+  social: false
+  physical: true

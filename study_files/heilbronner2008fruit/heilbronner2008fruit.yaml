@@ -1,0 +1,57 @@
+study_id: heilbronner2008fruit
+year: 2008
+reference: Heilbronner, S. R., Rosati, A. G., Stevens, J. R., Hare, B., & Hauser,
+  M. D. (2008). A fruit in the hand or two in the bush? Divergent risk preferences
+  in chimpanzees and bonobos. Biology Letters, 4(3), 246-249. doi:10.1098/rsbl.2008.0081.
+abstract: 'Human and non-human animals tend to avoid risky prospects. If such patterns
+  of economic choice are adaptive, risk preferences should reflect the typical decision-making
+  environments faced by organisms. However, this approach has not been widely used
+  to examine the risk sensitivity in closely related species with different ecologies.
+  Here, we experimentally examined risk-sensitive behaviour in chimpanzees (Pan troglodytes)
+  and bonobos (Pan paniscus), closely related species whose distinct ecologies are
+  thought to be the major selective force shaping their unique behavioural repertoires.
+  Because chimpanzees exploit riskier food sources in the wild, we predicted that
+  they would exhibit greater tolerance for risk in choices about food. Results confirmed
+  this prediction: chimpanzees significantly preferred the risky option, whereas bonobos
+  preferred the fixed option. These results provide a relatively rare example of risk-prone
+  behaviour in the context of gains and show how ecological pressures can sculpt economic
+  decision making.'
+keywords: risk, decision making, chimpanzees, bonobos
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Sarah R. Heilbronner
+  corr_author: true
+- author_no: 2
+  name: Alexandra G. Rosati
+  corr_author: false
+- author_no: 3
+  name: Jeffrey R. Stevens
+  corr_author: false
+- author_no: 4
+  name: Brian Hare
+  corr_author: false
+- author_no: 5
+  name: Marc D. Hauser
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: quantities_and_time
+  specific_domain: risk_value_and_choice
+cognitive_domain:
+  social: false
+  physical: true

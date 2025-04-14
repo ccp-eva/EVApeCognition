@@ -1,0 +1,62 @@
+study_id: forss2016cognitive
+year: 2016
+reference: 'Forss, S., Willems, E., Call, J., & van Schaik, C. (2016). Cognitive differences
+  between orang-utan species: a test of the cultural intelligence hypothesis. Scientific
+  Reports, 6, 30516. doi:10.1038/srep30516.'
+abstract: Cultural species can - or even prefer to - learn their skills from conspecifics.
+  According to the cultural intelligence hypothesis, selection on underlying mechanisms
+  not only improves this social learning ability but also the asocial (individual)
+  learning ability. Thus, species with systematically richer opportunities to socially
+  acquire knowledge and skills should over time evolve to become more intelligent.
+  We experimentally compared the problem-solving ability of Sumatran orang-utans (Pongo
+  abelii), which are sociable in the wild, with that of the closely related, but more
+  solitary Bornean orangutans (P. pygmaeus), under the homogeneous environmental conditions
+  provided by zoos. Our results revealed that Sumatrans showed superior innate problem-solving
+  skills to Borneans, and also showed greater inhibition and a more cautious and less
+  rough exploration style. This pattern is consistent with the cultural intelligence
+  hypothesis, which predicts that the more sociable of two sister species experienced
+  stronger selection on cognitive mechanisms underlying learning.
+keywords: ''
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Sofia Forss
+  corr_author: true
+- author_no: 2
+  name: Erik Willems
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+- author_no: 4
+  name: Carel P. van Schaik
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: partial
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan
+  group_id_excluded: basel_orangutan, durrell_orangutan, dortmund_orangutan, paignton_orangutan,
+    blackpool_orangutan, apenheul_orangutan, munster_orangutan, twycross_orangutan
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 2012 - 2015
+  data_collection_date_comments: 'Supplementary material: Twycross zoo January- February
+    2013, Allwetter zoo münster  April- May 2013, Apenheul Primate Park January-February
+    2014, Blackpool zoo  January 2015, Paignton zoo February 2015, Dortmund zoo November-
+    December 2012, Durrell Wildlife March 2013, Basel zoo November 2013, Leipzig zoo  March
+    2014 '
+  age_source: data_file
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: tool_features_and_functions
+- domain_no: 2
+  general_domain: social_learning_and_culture
+  specific_domain: .nan
+cognitive_domain:
+  social: true
+  physical: true

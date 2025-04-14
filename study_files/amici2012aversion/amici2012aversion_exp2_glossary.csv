@@ -1,0 +1,23 @@
+column_name,description
+study_id,personal study ID composed by the first authors’ first surname_year of publication_first title word 
+experiment,number of experiment from publication 
+experiment_name,name of data subset – can include different experiments within data set/ different training conditions/ pre-test data/ etc 
+year,year the data point was obtained  
+month,month the data point was obtained 
+day,day of the month the data point was obtained 
+participant,name of the participant 
+age_in_years,age presented in years – see metadata for source of age
+sex,sex of the participant 
+role,role of the participant – main participant /partner
+participant_2,name of the participant_2 
+age_in_years_2,age presented in years of the participant_2 – see metadata for source of age
+sex_2,sex of the participant_2 
+role_2,role of the participant_2 – main participant /partner
+species,species of individuals participating in the study -bonobo/chimpanzee/gorilla/orangutan 
+dyad,name of the two participants that compose the dyad 
+condition,"quantities of food provided to each participant – baseline_1, baseline_2 and baseline_3: in this condition the experimenter gives one food to participant and one to partner four times in a row before the test condition, and four times in a row after the test condition. The number denotes whether the baseline session belongs to the first, second or third day of test.
+Equal condition: test condition in which the experimenter gives 1 piece of food to one participant and 3 pieces of food to the other participant. In the next trial, the quantities are reversed. Over eight trials they obtain the same amount of food. Unequal condition: test condition in which the experimenter gives different amounts of food to each participant, one receives 1 piece of food over eight consecutive test trials while the other participant receives 3 pieces of food over eight consecutive trials. Unequal condition parts 1 and 2: these entries belong to the second type of unequal condition. In the first four trials one participant receives 1 piece of food and the other 3 pieces of food. After four trials they reverse the quantities and the individual that previously received 1 piece of food now receives 3 and viceversa. Notice that unequal conditon-parts 1 and 2 belong to the same test session. The rows contain data over 4 trials instead of 8 trials as it is the case for the other unequal condition, the equal condition and the baseline"
+proximity_in_seconds,total duration in which the two participants were close to the food and to each other
+composite_index_in_seconds,the sum of time the participant spent banging performing self-scratching and aggressive behaviour
+begging_in_seconds,the time the participant spent begging the experimenter for food
+time_in_seconds,total duration of the session

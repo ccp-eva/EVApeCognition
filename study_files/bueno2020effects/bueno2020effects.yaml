@@ -1,0 +1,56 @@
+study_id: bueno2020effects
+year: 2020
+reference: 'Bueno-Guerra, N., Colell, M., & Call, J. (2020). Effects of indirect reputation
+  and type of rearing on food choices in chimpanzees (Pan troglodytes). Behavioral
+  Ecology and Sociobiology, 74: 79. doi:10.1007/s00265-020-02861-w.'
+abstract: 'Chimpanzees and humans establish preferences over individuals they may
+  benefit more from through scoring indirect reputation. However, humans prefer prosocial
+  individuals even at their own cost. Giving preference to prosocial reputation over
+  material rewards might have permitted the establishment of cooperative human societies.
+  We tested the evolutionary roots of this propensity: importantly, in our study,
+  the reputation scored had no food involved. Eighteen chimpanzees watched a performance
+  where an antisocial experimenter hit a human victim and a prosocial experimenter
+  interrupted the fight and consoled the victim. Next, the chimpanzees begged food
+  from one of them. In Phase 2, the experimenters offered different food amounts (antisocial
+  + 4 vs. prosocial + 1). Chimpanzees significantly prioritized rewards over reputation
+  (i.e., chose antisocial). In Phase 3, both experimenters offered two pieces of food.
+  Most of the subjects showed indifference to reputation (i.e., chose randomly). Watching
+  fights produced significantly more arousal than consolations. Emotional engagement
+  could not account for chimpanzees’ choices since their choices varied between phases
+  but their arousal did not. Ontogeny and rearing history might play a role in chimpanzees’
+  choices: the adolescent males (n = 3) consistently chose the antisocial individual
+  whereas hand-reared subjects chose significantly different from mother-reared. We
+  discuss whether the valence of the reputation is species-specific.'
+keywords: Reputation, Image scoring, Chimpanzees, Morality, Rearing
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Nereida Bueno Guerra
+  corr_author: true
+- author_no: 2
+  name: Montserrat Colell
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: ulla
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: the_social_economy
+cognitive_domain:
+  social: true
+  physical: false

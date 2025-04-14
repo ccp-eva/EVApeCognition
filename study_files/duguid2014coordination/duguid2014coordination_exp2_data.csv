@@ -1,0 +1,769 @@
+﻿study_id,participant,age_in_years,sex,role,participant_2,age_in_years_2,sex_2,role_2,species,dyad,session,trial,study,condition,group_original,pairing_cage3,pairing_cage4,stag_success,cage3_leave_hare,cage4_leave_hare,total_leave_hare,one_leave_hare,both_leave_hare,time_initiator_wait,ape_initiator,ape_follower,checkback_hare_cage3,checkback_hare_cage4,communication_hare_cage3,communication_hare_cage4,communication_stag_cage3,communication_stag_cage4,communication_stag_initiator
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,1,1,lowrisk,nb,nbfirst,1,1,0,0,1,1,1,0,25.76,lobo,fraukje,1,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,1,2,lowrisk,nb,nbfirst,1,1,1,1,1,2,1,1,4.6,lobo,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,2,3,lowrisk,nb,nbfirst,1,1,1,1,1,2,1,1,0.0799999999999983,lobo,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,2,4,lowrisk,nb,nbfirst,1,1,0,0,0,0,0,0, ,none,none,0,1,0,0,0,0,
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,3,5,lowrisk,nb,nbfirst,1,1,1,1,1,2,1,1,12.4,lobo,fraukje,1,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,3,6,lowrisk,nb,nbfirst,1,1,0,1,1,2,1,1,16.12,lobo,fraukje,1,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,4,7,lowrisk,nb,nbfirst,1,1,0,0,1,1,1,0,21.08,lobo,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,4,8,lowrisk,nb,nbfirst,1,1,1,1,1,2,1,1,13.32,lobo,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,5,9,lowrisk,nb,nbfirst,1,1,0,0,1,1,1,0,8.68,lobo,fraukje,1,1,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,5,10,lowrisk,nb,nbfirst,1,1,1,1,1,2,1,1,2.08,fraukje,lobo,0,1,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,6,11,lowrisk,nb,nbfirst,1,1,1,1,1,2,1,1,2.28,fraukje,lobo,0,1,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,6,12,lowrisk,nb,nbfirst,1,1,0,0,0,0,0,0, ,none,none,0,1,0,0,0,0,
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,1,1,lowrisk,nb,nbfirst,2,2,0,0,1,1,1,0,11.56,natascha,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,1,2,lowrisk,nb,nbfirst,2,2,0,0,1,1,1,0,7.48,natascha,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,2,3,lowrisk,nb,nbfirst,2,2,0,0,0,0,0,0, ,none,none,0,0,0,0,0,0,
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,2,4,lowrisk,nb,nbfirst,2,2,0,1,1,2,1,1,7.16,fraukje,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,3,5,lowrisk,nb,nbfirst,2,2,1,1,1,2,1,1,8.76,fraukje,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,3,6,lowrisk,nb,nbfirst,2,2,0,1,0,1,1,0,18.36,fraukje,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,4,7,lowrisk,nb,nbfirst,2,2,0,1,0,1,1,0,10,fraukje,natascha,1,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,4,8,lowrisk,nb,nbfirst,2,2,1,1,1,2,1,1,6.64,fraukje,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,5,9,lowrisk,nb,nbfirst,2,2,0,1,0,1,1,0,11.04,fraukje,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,5,10,lowrisk,nb,nbfirst,2,2,1,1,1,2,1,1,10.04,fraukje,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,6,11,lowrisk,nb,nbfirst,2,2,0,1,0,1,1,0,8.84,fraukje,natascha,1,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,6,12,lowrisk,nb,nbfirst,2,2,0,1,0,1,1,0,7.92,fraukje,natascha,1,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,1,1,lowrisk,nb,nbfirst,3,3,0,1,1,2,1,1,7.64,fraukje,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,1,2,lowrisk,nb,nbfirst,3,3,1,1,1,2,1,1,1.4,fraukje,pia,1,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,2,3,lowrisk,nb,nbfirst,3,3,1,1,1,2,1,1,7.2,fraukje,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,2,4,lowrisk,nb,nbfirst,3,3,0,1,1,2,1,1,8.76,fraukje,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,3,5,lowrisk,nb,nbfirst,3,3,1,1,1,2,1,1,3.32,fraukje,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,3,6,lowrisk,nb,nbfirst,3,3,1,1,1,2,1,1,2.04,fraukje,pia,1,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,4,7,lowrisk,nb,nbfirst,3,3,1,1,1,2,1,1,12.28,fraukje,pia,1,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,4,8,lowrisk,nb,nbfirst,3,3,1,1,1,2,1,1,2,fraukje,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,5,9,lowrisk,nb,nbfirst,3,3,1,1,1,2,1,1,7.48,fraukje,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,5,10,lowrisk,nb,nbfirst,3,3,1,1,1,2,1,1,1.2,fraukje,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,6,11,lowrisk,nb,nbfirst,3,3,1,1,1,2,1,1,7.44,fraukje,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,6,12,lowrisk,nb,nbfirst,3,3,1,1,1,2,1,1,6.36,pia,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,1,1,lowrisk,nb,nbfirst,3,3,1,1,1,2,1,1,1.8,natascha,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,1,2,lowrisk,nb,nbfirst,3,3,1,1,1,2,1,1,4.48,lobo,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,2,3,lowrisk,nb,nbfirst,3,3,1,1,1,2,1,1,4.8,natascha,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,2,4,lowrisk,nb,nbfirst,3,3,1,1,1,2,1,1,3.04,natascha,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,3,5,lowrisk,nb,nbfirst,3,3,0,1,1,2,1,1,5.44,natascha,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,3,6,lowrisk,nb,nbfirst,3,3,1,1,1,2,1,1,2,natascha,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,4,7,lowrisk,nb,nbfirst,3,3,1,1,1,2,1,1,0.24,natascha,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,4,8,lowrisk,nb,nbfirst,3,3,1,1,1,2,1,1,2.88,natascha,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,5,9,lowrisk,nb,nbfirst,3,3,1,1,1,2,1,1,1.4,lobo,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,5,10,lowrisk,nb,nbfirst,3,3,0,1,1,2,1,1,7.24,lobo,natascha,1,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,6,11,lowrisk,nb,nbfirst,3,3,1,1,1,2,1,1,1.6,lobo,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,6,12,lowrisk,nb,nbfirst,3,3,1,1,1,2,1,1,2.72,lobo,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,1,1,lowrisk,nb,nbfirst,2,2,1,1,1,2,1,1,12.16,lobo,pia,0,1,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,1,2,lowrisk,nb,nbfirst,2,2,1,1,1,2,1,1,1.92,lobo,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,2,3,lowrisk,nb,nbfirst,2,2,1,1,1,2,1,1,1.8,lobo,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,2,4,lowrisk,nb,nbfirst,2,2,1,1,1,2,1,1,15.8,lobo,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,3,5,lowrisk,nb,nbfirst,2,2,1,1,1,2,1,1,5.12,pia,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,3,6,lowrisk,nb,nbfirst,2,2,1,1,1,2,1,1,11.8,lobo,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,4,7,lowrisk,nb,nbfirst,2,2,1,1,1,2,1,1,1.96,lobo,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,4,8,lowrisk,nb,nbfirst,2,2,1,1,1,2,1,1,1.08,lobo,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,5,9,lowrisk,nb,nbfirst,2,2,1,1,1,2,1,1,1.8,pia,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,5,10,lowrisk,nb,nbfirst,2,2,1,1,1,2,1,1,1.28,pia,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,6,11,lowrisk,nb,nbfirst,2,2,1,1,1,2,1,1,0.800000000000001,lobo,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,6,12,lowrisk,nb,nbfirst,2,2,1,1,1,2,1,1,0.239999999999998,lobo,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,1,1,lowrisk,nb,nbfirst,1,1,0,1,1,2,1,1,10.64,pia,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,1,2,lowrisk,nb,nbfirst,1,1,1,1,1,2,1,1,16.16,pia,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,2,3,lowrisk,nb,nbfirst,1,1,1,1,1,2,1,1,1.72,natascha,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,2,4,lowrisk,nb,nbfirst,1,1,1,1,1,2,1,1,1.44,natascha,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,3,5,lowrisk,nb,nbfirst,1,1,1,1,1,2,1,1,10.76,pia,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,3,6,lowrisk,nb,nbfirst,1,1,1,1,1,2,1,1,1.8,pia,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,4,7,lowrisk,nb,nbfirst,1,1,0,0,1,1,1,0,3.24,pia,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,4,8,lowrisk,nb,nbfirst,1,1,0,1,1,2,1,1,5.12,natascha,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,5,9,lowrisk,nb,nbfirst,1,1,0,0,1,1,1,0,6.52,pia,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,5,10,lowrisk,nb,nbfirst,1,1,0,0,0,0,0,0, ,none,none,0,1,0,0,0,0,
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,6,11,lowrisk,nb,nbfirst,1,1,0,0,0,0,0,0, ,none,none,0,1,0,0,0,0,
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,6,12,lowrisk,nb,nbfirst,1,1,0,0,0,0,0,0, ,none,none,0,0,0,0,0,0,
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,1,1,lowrisk,bc,nbfirst,1,1,1,1,1,2,1,1,2.84,fraukje,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,1,2,lowrisk,bc,nbfirst,1,1,1,1,1,2,1,1,6.48,fraukje,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,1,3,lowrisk,bc,nbfirst,1,1,1,1,1,2,1,1,1.48,fraukje,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,1,4,lowrisk,bc,nbfirst,1,1,1,1,1,2,1,1,6.12,fraukje,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,2,5,lowrisk,bc,nbfirst,1,1,1,1,1,2,1,1,0.92,lobo,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,2,6,lowrisk,bc,nbfirst,1,1,1,1,1,2,1,1,2.64,fraukje,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,2,7,lowrisk,bc,nbfirst,1,1,1,1,1,2,1,1,2.08,lobo,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,2,8,lowrisk,bc,nbfirst,1,1,1,1,1,2,1,1,4.08,lobo,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,3,9,lowrisk,bc,nbfirst,1,1,0,0,1,1,1,0,17.92,lobo,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,3,10,lowrisk,bc,nbfirst,1,1,1,1,1,2,1,1,6.76,lobo,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,3,11,lowrisk,bc,nbfirst,1,1,1,1,1,2,1,1,2.28,lobo,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,lobo,5,m,focal_participant_2,chimpanzee,lobo_fraukje,3,12,lowrisk,bc,nbfirst,1,1,1,1,1,2,1,1,14.8,lobo,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,1,1,lowrisk,bc,nbfirst,2,2,0,1,0,1,1,0,8.6,fraukje,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,1,2,lowrisk,bc,nbfirst,2,2,1,1,1,2,1,1,11.92,fraukje,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,1,3,lowrisk,bc,nbfirst,2,2,1,1,1,2,1,1,3.64,fraukje,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,1,4,lowrisk,bc,nbfirst,2,2,1,1,1,2,1,1,13.12,fraukje,natascha,0,0,0,0,1,1,1.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,2,5,lowrisk,bc,nbfirst,2,2,1,1,1,2,1,1,0.359999999999999,fraukje,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,2,6,lowrisk,bc,nbfirst,2,2,0,1,1,2,1,1,10.04,natascha,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,2,7,lowrisk,bc,nbfirst,2,2,1,1,1,2,1,1,1.08,natascha,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,2,8,lowrisk,bc,nbfirst,2,2,1,1,1,2,1,1,2.48,fraukje,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,3,9,lowrisk,bc,nbfirst,2,2,1,1,1,2,1,1,0.640000000000001,natascha,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,3,10,lowrisk,bc,nbfirst,2,2,1,1,1,2,1,1,9.36,natascha,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,3,11,lowrisk,bc,nbfirst,2,2,1,1,1,2,1,1,6.68,natascha,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,fraukje_natascha,3,12,lowrisk,bc,nbfirst,2,2,1,1,1,2,1,1,1.12,natascha,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,1,1,lowrisk,bc,nbfirst,3,3,1,1,1,2,1,1,7.24,fraukje,pia,0,1,0,0,0,1,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,1,2,lowrisk,bc,nbfirst,3,3,1,1,1,2,1,1,3.48,fraukje,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,1,3,lowrisk,bc,nbfirst,3,3,1,1,1,2,1,1,4.8,fraukje,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,1,4,lowrisk,bc,nbfirst,3,3,1,1,1,2,1,1,0.84,pia,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,2,5,lowrisk,bc,nbfirst,3,3,1,1,1,2,1,1,2.16,fraukje,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,2,6,lowrisk,bc,nbfirst,3,3,1,1,1,2,1,1,5.48,fraukje,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,2,7,lowrisk,bc,nbfirst,3,3,1,1,1,2,1,1,8.2,fraukje,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,2,8,lowrisk,bc,nbfirst,3,3,1,1,1,2,1,1,11.48,fraukje,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,3,9,lowrisk,bc,nbfirst,3,3,1,1,1,2,1,1,7.28,fraukje,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,3,10,lowrisk,bc,nbfirst,3,3,1,1,1,2,1,1,0.16,fraukje,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,3,11,lowrisk,bc,nbfirst,3,3,1,1,1,2,1,1,9,fraukje,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,33,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,fraukje_pia,3,12,lowrisk,bc,nbfirst,3,3,1,1,1,2,1,1,0.440000000000003,pia,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,1,1,lowrisk,bc,nbfirst,3,3,1,1,1,2,1,1,0.840000000000002,lobo,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,1,2,lowrisk,bc,nbfirst,3,3,0,1,1,2,1,1,5.88,lobo,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,1,3,lowrisk,bc,nbfirst,3,3,1,1,1,2,1,1,2.12,natascha,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,1,4,lowrisk,bc,nbfirst,3,3,1,1,1,2,1,1,3.68,lobo,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,2,5,lowrisk,bc,nbfirst,3,3,0,1,0,1,1,0,19.84,lobo,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,2,6,lowrisk,bc,nbfirst,3,3,1,1,1,2,1,1,2.2,lobo,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,2,7,lowrisk,bc,nbfirst,3,3,1,1,1,2,1,1,9.24,lobo,natascha,1,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,2,8,lowrisk,bc,nbfirst,3,3,0,1,1,2,1,1,11.84,lobo,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,3,9,lowrisk,bc,nbfirst,3,3,1,1,1,2,1,1,3.6,lobo,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,3,10,lowrisk,bc,nbfirst,3,3,1,1,1,2,1,1,0.4,lobo,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,3,11,lowrisk,bc,nbfirst,3,3,1,1,1,2,1,1,1.84,natascha,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,natascha,29,f,focal_participant_2,chimpanzee,lobo_natascha,3,12,lowrisk,bc,nbfirst,3,3,1,1,1,2,1,1,2.88,lobo,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,1,1,lowrisk,bc,nbfirst,2,2,1,1,1,2,1,1,8.32,lobo,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,1,2,lowrisk,bc,nbfirst,2,2,1,1,1,2,1,1,1.64,lobo,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,1,3,lowrisk,bc,nbfirst,2,2,1,1,1,2,1,1,11.08,lobo,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,1,4,lowrisk,bc,nbfirst,2,2,0,1,1,2,1,1,14.52,lobo,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,2,5,lowrisk,bc,nbfirst,2,2,1,1,1,2,1,1,0.280000000000001,pia,lobo,0,1,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,2,6,lowrisk,bc,nbfirst,2,2,1,1,1,2,1,1,1.52,lobo,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,2,7,lowrisk,bc,nbfirst,2,2,1,1,1,2,1,1,1.44,lobo,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,2,8,lowrisk,bc,nbfirst,2,2,1,1,1,2,1,1,1.12,pia,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,3,9,lowrisk,bc,nbfirst,2,2,1,1,1,2,1,1,0.679999999999998,lobo,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,3,10,lowrisk,bc,nbfirst,2,2,1,1,1,2,1,1,2.24,lobo,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,3,11,lowrisk,bc,nbfirst,2,2,0,0,0,0,0,0, ,lobo,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,5,m,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,lobo_pia,3,12,lowrisk,bc,nbfirst,2,2,1,1,1,2,1,1,1.84,lobo,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,1,1,lowrisk,bc,nbfirst,1,1,0,1,1,2,1,1,17.28,natascha,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,1,2,lowrisk,bc,nbfirst,1,1,1,1,1,2,1,1,3.64,natascha,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,1,3,lowrisk,bc,nbfirst,1,1,1,1,1,2,1,1,1.16,natascha,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,1,4,lowrisk,bc,nbfirst,1,1,1,1,1,2,1,1,0.68,natascha,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,2,5,lowrisk,bc,nbfirst,1,1,1,1,1,2,1,1,0.960000000000001,natascha,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,2,6,lowrisk,bc,nbfirst,1,1,0,1,1,2,1,1,2.76,natascha,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,2,7,lowrisk,bc,nbfirst,1,1,1,1,1,2,1,1,3.52,natascha,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,2,8,lowrisk,bc,nbfirst,1,1,1,1,1,2,1,1,4.08,natascha,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,3,9,lowrisk,bc,nbfirst,1,1,0,1,0,1,1,0,2,pia,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,3,10,lowrisk,bc,nbfirst,1,1,1,1,1,2,1,1,0.719999999999999,natascha,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,3,11,lowrisk,bc,nbfirst,1,1,1,1,1,2,1,1,2.84,pia,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,29,f,focal_participant_1,pia,9,f,focal_participant_2,chimpanzee,pia_natascha,3,12,lowrisk,bc,nbfirst,1,1,1,1,1,2,1,1,1.32,pia,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,1,1,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,2,lome,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,1,2,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,2.08,lome,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,1,3,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,0.52,lome,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,1,4,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,1.04,lome,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,2,5,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,7.2,lome,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,2,6,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,1.4,lome,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,2,7,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,4.2,lome,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,2,8,lowrisk,bc,bcfirst,1,1,0,0,1,1,1,0,9.76,robert,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,3,9,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,3.36,lome,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,3,10,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,12.88,lome,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,3,11,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,1.28,lome,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,3,12,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,13.48,lome,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,1,1,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,0.119999999999999,sandra,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,1,2,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,0,sandra,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,1,3,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,0.76,sandra,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,1,4,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,2.12,sandra,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,2,5,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,7.96,sandra,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,2,6,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,1.28,sandra,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,2,7,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,12.72,sandra,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,2,8,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,12.68,sandra,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,3,9,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,0.32,sandra,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,3,10,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,13.32,sandra,lome,1,0,0,0,0,1,1.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,3,11,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,17.52,sandra,lome,1,0,0,0,0,1,1.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,3,12,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,5.56,sandra,lome,1,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,1,1,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,14.72,lome,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,1,2,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,15.68,lome,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,1,3,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,16.28,lome,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,1,4,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,17.04,lome,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,2,5,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,12.72,lome,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,2,6,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,13.08,lome,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,2,7,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,13.68,lome,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,2,8,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,9.48,lome,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,3,9,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,11.28,lome,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,3,10,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,9.36,lome,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,3,11,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,2.64,lome,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,3,12,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,2.44,ulla,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,1,1,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,3.24,sandra,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,1,2,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,0.919999999999998,sandra,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,1,3,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,0.879999999999995,sandra,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,1,4,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,12.84,sandra,robert,0,0,0,0,0,1,1.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,2,5,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,3.88,sandra,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,2,6,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,2.16,sandra,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,2,7,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,14.08,sandra,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,2,8,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,8.16,sandra,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,3,9,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,11.44,sandra,robert,0,0,0,0,0,1,1.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,3,10,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,2.72,sandra,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,3,11,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,9.36,sandra,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,3,12,lowrisk,bc,bcfirst,2,2,1,1,1,2,1,1,5.68,sandra,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,1,1,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,2.52,robert,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,1,2,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,0.680000000000002,robert,ulla,1,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,1,3,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,9.92,robert,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,1,4,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,7.8,robert,ulla,1,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,2,5,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,0.159999999999999,ulla,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,2,6,lowrisk,bc,bcfirst,3,3,0,0,1,1,1,0,14.32,ulla,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,2,7,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,1.12,ulla,robert,1,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,2,8,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,11,robert,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,3,9,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,2.48,ulla,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,3,10,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,0.0800000000000001,ulla,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,3,11,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,10.24,ulla,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,3,12,lowrisk,bc,bcfirst,3,3,1,1,1,2,1,1,14.32,ulla,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,1,1,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,0.0799999999999983,sandra,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,1,2,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,1.72,sandra,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,1,3,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,3.36,sandra,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,1,4,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,5.6,sandra,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,2,5,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,6.16,sandra,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,2,6,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,14.32,sandra,ulla,0,0,0,0,1,1,1.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,2,7,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,11.88,sandra,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,2,8,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,17.6,sandra,ulla,0,0,0,0,1,1,1.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,3,9,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,13.04,sandra,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,3,10,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,13.08,sandra,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,3,11,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,2.32,sandra,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,3,12,lowrisk,bc,bcfirst,1,1,1,1,1,2,1,1,3.28,sandra,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,1,1,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,0.56,lome,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,1,2,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,1.44,robert,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,1,3,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,12.12,robert,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,1,4,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,9.56,robert,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,2,5,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,2.4,lome,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,2,6,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,0.32,robert,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,2,7,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,2.28,robert,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,2,8,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,2.72,lome,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,3,9,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,4.36,robert,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,3,10,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,1.08,lome,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,3,11,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,6.64,lome,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,robert,33,m,focal_participant_2,chimpanzee,robert_lome,3,12,lowrisk,nb,bcfirst,1,1,0,1,0,1,1,0,15.2,lome,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,1,1,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,6.56,sandra,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,1,2,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,8.4,sandra,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,1,3,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,11.56,sandra,lome,0,0,0,0,0,1,1.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,1,4,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,3.44,sandra,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,2,5,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,0.359999999999999,sandra,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,2,6,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,11.48,sandra,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,2,7,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,10.88,sandra,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,2,8,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,11.72,sandra,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,3,9,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,2.76,sandra,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,3,10,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,10.48,sandra,lome,1,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,3,11,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,11.56,sandra,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,lome_sandra,3,12,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,1.4,sandra,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,1,1,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,10.88,lome,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,1,2,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,13.48,lome,ulla,1,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,1,3,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,5.76,lome,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,1,4,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,9.32,lome,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,2,5,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,12.72,lome,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,2,6,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,5.76,lome,ulla,1,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,2,7,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,0.92,lome,ulla,1,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,2,8,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,4,lome,ulla,1,0,0,0,1,1,1.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,3,9,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,16.88,lome,ulla,0,0,0,0,1,1,1.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,3,10,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,10.68,lome,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,3,11,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,0.880000000000001,ulla,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,7,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,lome_ulla,3,12,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,0.76,ulla,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,1,1,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,5.6,sandra,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,1,2,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,8.88,sandra,robert,0,0,0,0,0,1,1.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,1,3,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,7.12,sandra,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,1,4,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,14,sandra,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,2,5,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,8.72,sandra,robert,0,0,0,0,0,1,1.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,2,6,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,7.76,sandra,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,2,7,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,4,sandra,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,2,8,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,11.96,sandra,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,3,9,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,7.8,sandra,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,3,10,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,3.56,sandra,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,3,11,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,5.72,sandra,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,sandra,16,f,focal_participant_2,chimpanzee,robert_sandra,3,12,lowrisk,nb,bcfirst,2,2,1,1,1,2,1,1,7.4,sandra,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,1,1,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,0.32,robert,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,1,2,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,2.16,robert,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,1,3,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,0.359999999999999,robert,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,1,4,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,0.560000000000001,ulla,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,2,5,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,10,ulla,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,2,6,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,0.440000000000001,ulla,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,2,7,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,1.08,ulla,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,2,8,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,1.36,ulla,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,3,9,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,1.24,robert,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,3,10,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,0.4,robert,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,3,11,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,1,robert,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,33,m,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,robert_ulla,3,12,lowrisk,nb,bcfirst,3,3,1,1,1,2,1,1,2.08,ulla,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,1,1,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,13,sandra,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,1,2,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,13.88,sandra,ulla,0,0,0,0,1,1,1.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,1,3,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,12.32,sandra,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,1,4,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,7.04,sandra,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,2,5,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,3.28,sandra,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,2,6,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,9.72,sandra,ulla,0,0,0,0,1,1,1.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,2,7,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,3.28,sandra,ulla,0,0,0,0,1,1,1.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,2,8,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,13.56,sandra,ulla,0,0,0,0,1,1,1.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,3,9,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,13.72,sandra,ulla,0,0,0,0,1,1,1.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,3,10,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,14.16,sandra,ulla,0,0,0,0,1,1,1.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,3,11,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,0,ulla,sandra,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,16,f,focal_participant_1,ulla,32,f,focal_participant_2,chimpanzee,ulla_fraukje,3,12,lowrisk,nb,bcfirst,1,1,1,1,1,2,1,1,13.84,sandra,ulla,0,0,0,0,1,1,1.0
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,1,1,highrisk,nb,nbfirst,1,1,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,1,2,highrisk,nb,nbfirst,1,1,0,1,0,1,1,0,3.40000000000001,robert,0,0,1,0,0,1,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,1,3,highrisk,nb,nbfirst,1,1,1,1,1,2,1,1,12.72,robert,natascha,1,1,0,0,1,1,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,1,4,highrisk,nb,nbfirst,1,1,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,1,5,highrisk,nb,nbfirst,1,1,0,0,0,0,0,0, ,0,0,1,1,0,0,1,1,
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,2,6,highrisk,nb,nbfirst,1,1,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,2,7,highrisk,nb,nbfirst,1,1,0,0,1,1,1,0,4.76000000000001,natascha,0,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,2,8,highrisk,nb,nbfirst,1,1,0,0,0,0,0,0, ,0,0,0,0,0,0,0,0,
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,2,9,highrisk,nb,nbfirst,1,1,0,0,0,0,0,0, ,0,0,0,0,0,0,0,0,
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,2,10,highrisk,nb,nbfirst,1,1,0,1,0,1,1,0,19.48,robert,0,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,2,11,highrisk,nb,nbfirst,1,1,0,0,1,1,1,0,3.56,natascha,0,0,1,0,0,1,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,2,12,highrisk,nb,nbfirst,1,1,0,0,1,1,1,0,19.32,natascha,0,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,1,1,highrisk,bc,nbfirst,1,1,0,0,1,1,1,0,2.40000000000001,natascha,0,0,1,0,0,1,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,1,2,highrisk,bc,nbfirst,1,1,1,1,1,2,1,1,13.68,robert,natascha,0,1,0,0,1,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,1,3,highrisk,bc,nbfirst,1,1,0,0,1,1,1,0,6.16,natascha,0,0,1,0,0,1,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,1,4,highrisk,bc,nbfirst,1,1,0,0,1,1,1,0,9.36,natascha,0,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,1,5,highrisk,bc,nbfirst,1,1,1,1,1,2,1,1,10.88,robert,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,1,6,highrisk,bc,nbfirst,1,1,0,0,1,1,1,0,14.76,natascha,0,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,2,7,highrisk,bc,nbfirst,1,1,0,0,1,1,1,0,20.08,natascha,0,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,2,8,highrisk,bc,nbfirst,1,1,0,0,1,1,1,0,20.24,natascha,0,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,2,9,highrisk,bc,nbfirst,1,1,0,0,1,1,1,0,8.24,natascha,0,0,1,0,0,1,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,2,10,highrisk,bc,nbfirst,1,1,0,0,1,1,1,0,8.2,natascha,0,0,1,0,0,1,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,2,11,highrisk,bc,nbfirst,1,1,0,1,1,2,1,1,7.28,natascha,robert,0,1,0,0,1,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,robert_natascha,2,12,highrisk,bc,nbfirst,1,1,0,0,1,1,1,0,19.76,natascha,0,0,0,0,0,0,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,2,1,highrisk,nb,nbfirst,1,1,1,1,1,2,1,1,13.6,tai,pia,0,0,0,0,0,0,1.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,2,2,highrisk,nb,nbfirst,1,1,1,1,1,2,1,1,8.36,tai,pia,0,0,0,0,0,0,1.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,2,3,highrisk,nb,nbfirst,1,1,1,1,1,2,1,1,7.36,tai,pia,0,1,0,0,1,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,2,4,highrisk,nb,nbfirst,1,1,1,1,1,2,1,1,12.28,tai,pia,0,1,0,0,1,0,1.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,2,5,highrisk,nb,nbfirst,1,1,1,1,1,2,1,1,6.36,tai,pia,0,1,0,0,1,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,3,6,highrisk,nb,nbfirst,1,1,1,1,1,2,1,1,7.92,tai,pia,0,1,0,0,1,0,1.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,3,7,highrisk,nb,nbfirst,1,1,1,1,1,2,1,1,7.28,tai,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,3,8,highrisk,nb,nbfirst,1,1,1,1,1,2,1,1,4.04,tai,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,3,9,highrisk,nb,nbfirst,1,1,1,1,1,2,1,1,2.52,tai,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,3,10,highrisk,nb,nbfirst,1,1,1,1,1,2,1,1,5.4,tai,pia,0,1,0,0,1,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,3,11,highrisk,nb,nbfirst,1,1,1,1,1,2,1,1,2.96,0,pia,0,0,0,0,0,0,
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,3,12,highrisk,nb,nbfirst,1,1,1,1,1,2,1,1,3.2,tai,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,1,1,highrisk,bc,nbfirst,1,1,0,1,1,2,1,1,21.16,tai,pia,0,1,0,0,1,0,1.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,1,2,highrisk,bc,nbfirst,1,1,1,1,1,2,1,1,11.28,tai,pia,0,1,0,0,1,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,1,3,highrisk,bc,nbfirst,1,1,1,1,1,2,1,1,18.24,tai,pia,0,1,0,0,1,0,1.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,1,4,highrisk,bc,nbfirst,1,1,1,1,1,2,1,1,14.68,tai,pia,0,1,0,0,1,0,1.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,1,5,highrisk,bc,nbfirst,1,1,1,1,1,2,1,1,7.52,tai,pia,0,1,0,0,1,0,1.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,1,6,highrisk,bc,nbfirst,1,1,1,1,1,2,1,1,7.36,tai,pia,0,1,0,0,1,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,2,7,highrisk,bc,nbfirst,1,1,1,1,1,2,1,1,8.04,pia,tai,0,1,0,0,1,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,2,8,highrisk,bc,nbfirst,1,1,1,1,1,2,1,1,5.52,tai,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,2,9,highrisk,bc,nbfirst,1,1,1,1,1,2,1,1,2.72,tai,pia,0,1,0,0,1,0,1.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,2,10,highrisk,bc,nbfirst,1,1,1,1,1,2,1,1,2.96,pia,tai,0,1,0,0,1,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,2,11,highrisk,bc,nbfirst,1,1,1,1,1,2,1,1,4.12,tai,pia,0,1,0,0,1,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,tai_pia,2,12,highrisk,bc,nbfirst,1,1,0,1,1,2,1,1,32.92,tai,pia,0,1,0,0,1,0,1.0
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,1,1,highrisk,nb,nbfirst,2,1,0,0,0,0,0,0, ,0,0,0,0,0,0,0,0,
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,1,2,highrisk,nb,nbfirst,2,1,0,0,1,1,1,0,8.04000000000001,lome,0,0,1,0,0,1,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,1,3,highrisk,nb,nbfirst,2,1,0,0,0,0,0,0, ,0,0,0,0,0,0,0,0,
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,1,4,highrisk,nb,nbfirst,2,1,0,0,0,0,0,0, ,0,0,0,0,0,0,0,0,
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,1,5,highrisk,nb,nbfirst,2,1,0,0,0,0,0,0, ,0,0,0,0,0,0,0,0,
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,1,6,highrisk,nb,nbfirst,2,1,0,0,0,0,0,0, ,0,0,0,0,0,0,0,0,
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,2,7,highrisk,nb,nbfirst,2,1,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,2,8,highrisk,nb,nbfirst,2,1,0,0,0,0,0,0, ,0,0,1,1,0,0,1,0,
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,2,9,highrisk,nb,nbfirst,2,1,0,0,1,1,1,0,20.2,lome,0,1,1,0,0,1,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,2,10,highrisk,nb,nbfirst,2,1,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,2,11,highrisk,nb,nbfirst,2,1,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,2,12,highrisk,nb,nbfirst,2,1,0,0,0,0,0,0, ,0,0,1,1,0,0,1,1,
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,1,1,highrisk,bc,nbfirst,2,1,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,1,2,highrisk,bc,nbfirst,2,1,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,1,3,highrisk,bc,nbfirst,2,1,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,1,4,highrisk,bc,nbfirst,2,1,0,0,1,1,1,0,7.8,lome,0,0,1,0,0,1,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,2,5,highrisk,bc,nbfirst,2,1,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,2,6,highrisk,bc,nbfirst,2,1,0,0,1,1,1,0,16.4,lome,0,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,2,7,highrisk,bc,nbfirst,2,1,0,0,1,1,1,0,21.56,lome,0,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,2,8,highrisk,bc,nbfirst,2,1,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,2,9,highrisk,bc,nbfirst,2,1,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,2,10,highrisk,bc,nbfirst,2,1,0,1,0,1,1,0,0.959999999999994,robert,0,0,1,0,0,1,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,2,11,highrisk,bc,nbfirst,2,1,0,1,1,2,1,1,22,lome,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,robert_lome,2,12,highrisk,bc,nbfirst,2,1,0,1,0,1,1,0,3.08,robert,0,0,1,0,0,1,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,1,1,highrisk,nb,nbfirst,2,2,0,1,1,2,1,1,21.52,tai,natascha,1,0,0,0,0,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,1,2,highrisk,nb,nbfirst,2,2,1,1,1,2,1,1,10.32,tai,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,1,3,highrisk,nb,nbfirst,2,2,1,1,1,2,1,1,20.28,tai,natascha,1,0,0,0,0,0,1.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,1,4,highrisk,nb,nbfirst,2,2,1,1,1,2,1,1,15.64,tai,natascha,1,0,0,0,0,0,1.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,1,5,highrisk,nb,nbfirst,2,2,1,1,1,2,1,1,14.92,tai,natascha,1,0,0,0,0,0,1.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,1,6,highrisk,nb,nbfirst,2,2,1,1,1,2,1,1,7.28,tai,natascha,0,0,0,0,0,0,1.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,3,7,highrisk,nb,nbfirst,2,2,1,1,1,2,1,1,13.72,tai,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,3,8,highrisk,nb,nbfirst,2,2,1,1,1,2,1,1,15.12,tai,natascha,1,0,0,0,0,0,1.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,3,9,highrisk,nb,nbfirst,2,2,1,1,1,2,1,1,15.52,tai,natascha,1,0,0,0,0,0,1.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,3,10,highrisk,nb,nbfirst,2,2,1,1,1,2,1,1,18.04,tai,natascha,0,0,0,0,0,0,1.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,3,11,highrisk,nb,nbfirst,2,2,0,1,1,2,1,1,19.68,tai,natascha,1,0,0,0,0,0,1.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,3,12,highrisk,nb,nbfirst,2,2,1,1,1,2,1,1,5.64,tai,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,1,1,highrisk,bc,nbfirst,2,2,0,1,0,1,1,0,5.8,natascha,0,1,1,0,0,1,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,1,2,highrisk,bc,nbfirst,2,2,0,1,1,2,1,1,21.04,tai,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,1,3,highrisk,bc,nbfirst,2,2,1,1,1,2,1,1,7.60000000000002,natascha,tai,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,1,4,highrisk,bc,nbfirst,2,2,0,1,1,2,1,1,17.12,tai,natascha,0,1,0,0,1,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,1,5,highrisk,bc,nbfirst,2,2,0,0,1,1,1,0,18.88,tai,0,1,0,0,0,0,0,1.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,1,6,highrisk,bc,nbfirst,2,2,0,1,1,2,1,1,16.68,tai,natascha,0,0,0,0,0,0,1.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,2,7,highrisk,bc,nbfirst,2,2,1,1,1,2,1,1,2.52,tai,natascha,1,1,0,0,1,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,2,8,highrisk,bc,nbfirst,2,2,0,1,1,2,1,1,21.24,tai,natascha,1,0,0,0,0,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,2,9,highrisk,bc,nbfirst,2,2,0,1,1,2,1,1,20.92,tai,natascha,1,0,0,0,0,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,2,10,highrisk,bc,nbfirst,2,2,0,1,1,2,1,1,20.64,tai,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,2,11,highrisk,bc,nbfirst,2,2,0,1,1,2,1,1,21,tai,natascha,0,0,0,0,0,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,natascha_tai,2,12,highrisk,bc,nbfirst,2,2,1,1,0,1,1,0,2.52,natascha,0,0,0,0,0,0,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,1,1,highrisk,nb,nbfirst,2,2,1,1,1,2,1,1,18.72,lome,pia,1,0,0,0,0,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,1,2,highrisk,nb,nbfirst,2,2,1,1,1,2,1,1,2.44,lome,pia,1,0,0,0,0,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,1,3,highrisk,nb,nbfirst,2,2,1,0,1,1,1,0,2.44,lome,0,1,1,0,0,1,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,1,4,highrisk,nb,nbfirst,2,2,1,1,1,2,1,1,5.56,lome,pia,1,0,0,0,0,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,1,5,highrisk,nb,nbfirst,2,2,1,1,1,2,1,1,13.64,pia,lome,1,1,0,0,1,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,1,6,highrisk,nb,nbfirst,2,2,0,1,1,2,1,1,8.08,pia,lome,1,1,0,0,1,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,2,7,highrisk,nb,nbfirst,2,2,0,1,0,1,1,0,7.64,pia,0,1,1,0,0,1,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,2,8,highrisk,nb,nbfirst,2,2,0,0,0,0,0,0, ,0,0,1,1,0,0,1,0,
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,2,9,highrisk,nb,nbfirst,2,2,1,1,1,2,1,1,6.12,lome,pia,1,1,0,0,1,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,2,10,highrisk,nb,nbfirst,2,2,1,1,1,2,1,1,8.36,pia,lome,0,1,0,0,1,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,2,11,highrisk,nb,nbfirst,2,2,1,1,1,2,1,1,5.96,pia,lome,1,1,0,0,1,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,2,12,highrisk,nb,nbfirst,2,2,1,1,1,2,1,1,10.64,pia,lome,1,1,0,0,1,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,1,1,highrisk,bc,nbfirst,2,2,0,1,0,1,1,0,5.88,pia,0,1,1,0,0,1,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,1,2,highrisk,bc,nbfirst,2,2,0,1,0,1,1,0,3.36000000000001,pia,0,1,1,0,0,1,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,1,3,highrisk,bc,nbfirst,2,2,0,1,0,1,1,0,11.72,pia,0,0,0,0,0,0,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,1,4,highrisk,bc,nbfirst,2,2,0,1,0,1,1,0,10.48,pia,0,0,1,0,0,1,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,1,5,highrisk,bc,nbfirst,2,2,0,1,0,1,1,0,8.12,pia,0,1,1,0,0,1,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,1,6,highrisk,bc,nbfirst,2,2,0,0,0,0,0,0, ,0,0,1,1,0,0,1,0,
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,2,7,highrisk,bc,nbfirst,2,2,0,1,0,1,1,0,14.28,pia,0,1,1,0,0,1,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,2,8,highrisk,bc,nbfirst,2,2,0,0,0,0,0,0, ,0,0,1,1,0,0,1,0,
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,2,9,highrisk,bc,nbfirst,2,2,0,1,1,2,1,1,18.6,lome,pia,1,1,0,0,1,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,2,10,highrisk,bc,nbfirst,2,2,0,1,0,1,1,0,0.0799999999999983,pia,0,1,1,0,0,1,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,2,11,highrisk,bc,nbfirst,2,2,0,1,0,1,1,0,17.92,pia,0,0,1,0,0,1,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,pia_lome,2,12,highrisk,bc,nbfirst,2,2,0,1,0,1,1,0,16.28,pia,0,1,1,0,0,1,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,robert,35,m,focal_participant_2,chimpanzee,tai_robert,1,1,highrisk,nb,nbfirst,3,3,1,1,1,2,1,1,13.44,tai,robert,0,0,0,0,0,0,1.0
+duguid2014coordination,tai,9,f,focal_participant_1,robert,35,m,focal_participant_2,chimpanzee,tai_robert,1,2,highrisk,nb,nbfirst,3,3,0,1,0,1,1,0,22.68,tai,0,0,0,0,0,0,0,1.0
+duguid2014coordination,tai,9,f,focal_participant_1,robert,35,m,focal_participant_2,chimpanzee,tai_robert,1,3,highrisk,nb,nbfirst,3,3,1,1,1,2,1,1,4.36,tai,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,robert,35,m,focal_participant_2,chimpanzee,tai_robert,1,4,highrisk,nb,nbfirst,3,3,1,1,1,2,1,1,7.64,tai,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,robert,35,m,focal_participant_2,chimpanzee,tai_robert,1,5,highrisk,nb,nbfirst,3,3,1,1,1,2,1,1,4.68,tai,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,robert,35,m,focal_participant_2,chimpanzee,tai_robert,1,6,highrisk,nb,nbfirst,3,3,1,1,1,2,1,1,5.36,tai,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,robert,35,m,focal_participant_2,chimpanzee,tai_robert,2,7,highrisk,nb,nbfirst,3,3,0,1,0,1,1,0,5.36000000000001,tai,0,0,0,0,0,0,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,robert,35,m,focal_participant_2,chimpanzee,tai_robert,2,8,highrisk,nb,nbfirst,3,3,0,0,1,1,1,0,18.52,robert,0,0,0,0,0,0,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,robert,35,m,focal_participant_2,chimpanzee,tai_robert,2,9,highrisk,nb,nbfirst,3,3,0,1,0,1,1,0,17.24,tai,0,0,0,0,0,0,0,0.0
+duguid2014coordination,tai,9,f,focal_participant_1,robert,35,m,focal_participant_2,chimpanzee,tai_robert,2,10,highrisk,nb,nbfirst,3,3,0,1,0,1,1,0,18.48,tai,0,0,0,0,0,0,0,1.0
+duguid2014coordination,tai,9,f,focal_participant_1,robert,35,m,focal_participant_2,chimpanzee,tai_robert,2,11,highrisk,nb,nbfirst,3,3,1,1,1,2,1,1,2.56,0,robert,0,0,0,0,0,0,
+duguid2014coordination,tai,9,f,focal_participant_1,robert,35,m,focal_participant_2,chimpanzee,tai_robert,2,12,highrisk,nb,nbfirst,3,3,0,1,0,1,1,0,18.64,tai,0,0,0,0,0,0,0,1.0
+duguid2014coordination,robert,35,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,tai_robert,1,1,highrisk,bc,nbfirst,3,3,0,0,1,1,1,0,22.32,tai,0,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,tai_robert,1,2,highrisk,bc,nbfirst,3,3,0,0,1,1,1,0,8.92,tai,0,0,1,0,0,1,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,tai_robert,1,3,highrisk,bc,nbfirst,3,3,0,1,0,1,1,0,20.12,robert,0,0,1,0,0,1,0,1.0
+duguid2014coordination,robert,35,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,tai_robert,1,4,highrisk,bc,nbfirst,3,3,0,0,1,1,1,0,13.2,tai,0,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,tai_robert,1,5,highrisk,bc,nbfirst,3,3,0,0,1,1,1,0,13.52,tai,0,1,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,tai_robert,1,6,highrisk,bc,nbfirst,3,3,0,0,1,1,1,0,21.4,tai,0,0,0,0,0,0,0,1.0
+duguid2014coordination,robert,35,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,tai_robert,2,7,highrisk,bc,nbfirst,3,3,0,0,1,1,1,0,22.48,tai,0,1,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,tai_robert,2,8,highrisk,bc,nbfirst,3,3,0,0,1,1,1,0,21.04,tai,0,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,tai_robert,2,9,highrisk,bc,nbfirst,3,3,0,0,1,1,1,0,21.44,tai,0,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,tai_robert,2,10,highrisk,bc,nbfirst,3,3,0,0,1,1,1,0,21.64,tai,0,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,tai_robert,2,11,highrisk,bc,nbfirst,3,3,0,0,1,1,1,0,22.04,tai,0,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,tai_robert,2,12,highrisk,bc,nbfirst,3,3,0,0,1,1,1,0,23.36,tai,0,0,0,0,0,0,0,1.0
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,1,1,highrisk,nb,nbfirst,3,3,0,1,0,1,1,0,17.16,natascha,0,1,0,0,0,0,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,1,2,highrisk,nb,nbfirst,3,3,0,1,0,1,1,0,10.2,natascha,0,1,0,0,0,0,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,1,3,highrisk,nb,nbfirst,3,3,0,0,0,0,0,0, ,0,0,1,0,0,0,0,1,
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,1,4,highrisk,nb,nbfirst,3,3,0,0,0,0,0,0, ,0,0,1,0,0,0,0,0,
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,1,5,highrisk,nb,nbfirst,3,3,1,1,1,2,1,1,8.16,lome,natascha,1,1,0,0,1,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,1,6,highrisk,nb,nbfirst,3,3,0,1,0,1,1,0,15.4,natascha,0,0,1,0,0,1,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,2,7,highrisk,nb,nbfirst,3,3,1,1,1,2,1,1,8.92,lome,natascha,1,0,0,0,0,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,2,8,highrisk,nb,nbfirst,3,3,1,1,1,2,1,1,6.24,lome,natascha,1,0,0,0,0,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,2,9,highrisk,nb,nbfirst,3,3,1,1,1,2,1,1,7,natascha,lome,0,1,0,0,1,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,2,10,highrisk,nb,nbfirst,3,3,1,1,1,2,1,1,8.72,lome,natascha,1,1,0,0,1,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,2,11,highrisk,nb,nbfirst,3,3,1,1,1,2,1,1,5.24,lome,natascha,1,1,0,0,1,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,2,12,highrisk,nb,nbfirst,3,3,1,1,1,2,1,1,7.72,lome,natascha,1,0,0,0,0,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,1,1,highrisk,bc,nbfirst,3,3,0,0,0,0,0,0, ,0,0,1,0,0,0,0,0,
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,1,2,highrisk,bc,nbfirst,3,3,0,1,0,1,1,0,19.64,natascha,0,0,1,0,0,1,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,1,3,highrisk,bc,nbfirst,3,3,0,1,0,1,1,0,2.48,natascha,0,1,0,0,0,0,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,1,4,highrisk,bc,nbfirst,3,3,0,1,1,2,1,1,16.16,natascha,lome,0,1,0,0,1,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,1,5,highrisk,bc,nbfirst,3,3,0,0,0,0,0,0, ,0,0,0,0,0,0,0,0,
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,1,6,highrisk,bc,nbfirst,3,3,0,0,0,0,0,0, ,0,0,1,0,0,0,0,0,
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,2,7,highrisk,bc,nbfirst,3,3,0,1,0,1,1,0,3.84,natascha,0,1,1,0,0,1,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,2,8,highrisk,bc,nbfirst,3,3,0,0,0,0,0,0, ,0,0,1,1,0,0,1,0,
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,2,9,highrisk,bc,nbfirst,3,3,0,1,0,1,1,0,11.16,natascha,0,0,1,0,0,1,0,0.0
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,2,10,highrisk,bc,nbfirst,3,3,0,0,0,0,0,0, ,0,0,1,0,0,0,0,0,
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,2,11,highrisk,bc,nbfirst,3,3,0,0,0,0,0,0, ,0,0,1,1,0,0,1,0,
+duguid2014coordination,natascha,32,f,focal_participant_1,lome,10,m,focal_participant_2,chimpanzee,natascha_lome,3,12,highrisk,bc,nbfirst,3,3,0,0,0,0,0,0, ,0,0,1,1,0,0,1,0,
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,1,1,highrisk,nb,nbfirst,4,3,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,1,2,highrisk,nb,nbfirst,4,3,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,1,3,highrisk,nb,nbfirst,4,3,0,0,0,0,0,0, ,0,0,1,1,0,0,1,0,
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,1,4,highrisk,nb,nbfirst,4,3,1,1,1,2,1,1,7.52,robert,pia,0,1,0,0,1,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,1,5,highrisk,nb,nbfirst,4,3,1,1,1,2,1,1,9.08,pia,robert,1,0,0,0,0,1,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,1,6,highrisk,nb,nbfirst,4,3,0,0,1,1,1,0,21.68,pia,0,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,2,7,highrisk,nb,nbfirst,4,3,0,0,0,0,0,0, ,0,0,0,0,0,0,0,0,
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,2,8,highrisk,nb,nbfirst,4,3,1,1,1,2,1,1,5,pia,robert,1,0,0,0,0,1,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,2,9,highrisk,nb,nbfirst,4,3,1,1,1,2,1,1,5.64,pia,robert,1,0,0,0,0,1,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,2,10,highrisk,nb,nbfirst,4,3,0,0,1,1,1,0,19.92,pia,0,0,1,0,0,1,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,2,11,highrisk,nb,nbfirst,4,3,0,0,1,1,1,0,25.08,pia,0,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,2,12,highrisk,nb,nbfirst,4,3,0,0,1,1,1,0,2.96,pia,0,0,1,0,0,1,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,1,1,highrisk,bc,nbfirst,4,3,0,0,1,1,1,0,16.64,pia,0,0,1,0,0,1,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,1,2,highrisk,bc,nbfirst,4,3,0,0,0,0,0,0, ,0,0,1,0,0,0,0,0,
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,1,3,highrisk,bc,nbfirst,4,3,0,0,1,1,1,0,19.76,pia,0,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,1,4,highrisk,bc,nbfirst,4,3,0,0,0,0,0,0, ,0,0,1,1,0,0,1,0,
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,1,5,highrisk,bc,nbfirst,4,3,0,0,1,1,1,0,20.96,pia,0,0,0,0,0,0,0,1.0
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,1,6,highrisk,bc,nbfirst,4,3,0,0,1,1,1,0,14.04,pia,0,0,1,0,0,1,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,2,7,highrisk,bc,nbfirst,4,3,0,0,0,0,0,0, ,0,0,0,0,0,0,0,0,
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,2,8,highrisk,bc,nbfirst,4,3,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,2,9,highrisk,bc,nbfirst,4,3,1,1,1,2,1,1,19.6,robert,pia,0,1,0,0,1,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,2,10,highrisk,bc,nbfirst,4,3,1,1,1,2,1,1,6.40000000000001,pia,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,2,11,highrisk,bc,nbfirst,4,3,0,0,1,1,1,0,21.52,pia,0,0,0,0,0,0,0,0.0
+duguid2014coordination,robert,35,m,focal_participant_1,pia,12,f,focal_participant_2,chimpanzee,robert_pia,2,12,highrisk,bc,nbfirst,4,3,1,1,1,2,1,1,21.72,pia,robert,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,1,1,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,5.2,tai,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,1,2,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,8.56,tai,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,1,3,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,8.2,tai,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,1,4,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,6.44,tai,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,1,5,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,5.96,tai,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,1,6,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,5.68,lome,tai,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,2,7,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,5.6,lome,tai,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,2,8,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,10.08,tai,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,2,9,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,12.24,tai,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,2,10,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,5.36,tai,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,2,11,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,10.84,tai,lome,0,0,0,0,0,0,1.0
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,2,12,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,9.96,tai,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,1,1,highrisk,bc,nbfirst,4,4,0,0,0,0,0,0, ,0,0,0,0,0,0,0,0,
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,1,2,highrisk,bc,nbfirst,4,4,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,1,3,highrisk,bc,nbfirst,4,4,0,0,0,0,0,0, ,0,0,0,0,0,0,0,0,
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,1,4,highrisk,bc,nbfirst,4,4,0,0,1,1,1,0,21,tai,0,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,1,5,highrisk,bc,nbfirst,4,4,0,1,1,2,1,1,19.92,tai,lome,1,0,0,0,0,0,0.0
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,1,6,highrisk,bc,nbfirst,4,4,1,1,1,2,1,1,12.68,tai,lome,1,0,0,0,0,0,0.0
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,2,7,highrisk,bc,nbfirst,4,4,0,0,1,1,1,0,2.12,tai,0,1,1,0,0,1,0,0.0
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,2,8,highrisk,bc,nbfirst,4,4,0,0,1,1,1,0,20.92,tai,0,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,2,9,highrisk,bc,nbfirst,4,4,1,0,1,1,1,0,18.64,tai,0,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,2,10,highrisk,bc,nbfirst,4,4,1,1,1,2,1,1,8.52000000000001,tai,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,2,11,highrisk,bc,nbfirst,4,4,1,1,1,2,1,1,5.96,tai,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,lome,10,m,focal_participant_1,tai,9,f,focal_participant_2,chimpanzee,lome_tai,2,12,highrisk,bc,nbfirst,4,4,1,1,1,2,1,1,14.08,tai,lome,0,0,0,0,0,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,1,1,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,10.76,pia,natascha,1,1,0,0,1,1,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,1,2,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,5.92,pia,natascha,1,0,0,0,0,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,1,3,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,4.2,natascha,pia,0,1,0,0,1,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,1,4,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,5.56,natascha,pia,1,0,0,0,0,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,1,5,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,11.72,natascha,pia,1,0,0,0,0,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,1,6,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,4.59999999999999,natascha,pia,1,0,0,0,0,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,2,7,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,3.8,natascha,pia,1,1,0,0,1,1,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,2,8,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,5.52,pia,natascha,1,1,0,0,1,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,2,9,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,3.56,natascha,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,2,10,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,3.52,natascha,pia,1,0,0,0,0,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,2,11,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,6.56,pia,natascha,1,0,0,0,0,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,2,12,highrisk,nb,nbfirst,4,4,1,1,1,2,1,1,4.12,natascha,pia,1,0,0,0,0,0,1.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,1,1,highrisk,bc,nbfirst,4,4,1,1,1,2,1,1,9.64,natascha,pia,1,0,0,0,0,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,1,2,highrisk,bc,nbfirst,4,4,1,1,1,2,1,1,5.4,natascha,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,1,3,highrisk,bc,nbfirst,4,4,1,1,1,2,1,1,4.72,natascha,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,1,4,highrisk,bc,nbfirst,4,4,1,1,1,2,1,1,3.6,natascha,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,1,5,highrisk,bc,nbfirst,4,4,1,1,1,2,1,1,6.60000000000001,natascha,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,1,6,highrisk,bc,nbfirst,4,4,1,1,1,2,1,1,9.12,natascha,pia,0,0,0,0,0,0,1.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,2,7,highrisk,bc,nbfirst,4,4,1,1,1,2,1,1,8.8,natascha,pia,1,1,0,0,1,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,2,8,highrisk,bc,nbfirst,4,4,1,1,1,2,1,1,6.24,natascha,pia,0,0,0,0,0,0,0.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,2,9,highrisk,bc,nbfirst,4,4,1,1,1,2,1,1,8.52,natascha,pia,0,0,0,0,0,0,1.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,2,10,highrisk,bc,nbfirst,4,4,1,1,1,2,1,1,15.6,natascha,pia,1,0,0,0,0,0,1.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,2,11,highrisk,bc,nbfirst,4,4,1,1,1,2,1,1,15.24,natascha,pia,1,0,0,0,0,0,1.0
+duguid2014coordination,pia,12,f,focal_participant_1,natascha,32,f,focal_participant_2,chimpanzee,pia_natascha,2,12,highrisk,bc,nbfirst,4,4,1,1,1,2,1,1,14.64,natascha,pia,1,0,0,0,0,0,1.0
+duguid2014coordination,lobo,7,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,lobo_fraukje,1,1,highrisk,nb,bcfirst,1,1,1,1,1,2,1,1,7,fraukje,lobo,1,1,0,0,1,1,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,lobo_fraukje,1,2,highrisk,nb,bcfirst,1,1,1,1,1,2,1,1,7.88,lobo,fraukje,0,1,0,0,1,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,lobo_fraukje,1,3,highrisk,nb,bcfirst,1,1,1,1,1,2,1,1,7.8,lobo,fraukje,1,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,35,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,lobo_fraukje,2,4,highrisk,nb,bcfirst,1,1,1,1,1,2,1,1,7.08,lobo,fraukje,1,1,0,0,1,0,0.0
+duguid2014coordination,fraukje,35,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,lobo_fraukje,2,5,highrisk,nb,bcfirst,1,1,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,fraukje,35,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,lobo_fraukje,2,6,highrisk,nb,bcfirst,1,1,1,1,1,2,1,1,13.2,lobo,fraukje,1,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,lobo_fraukje,3,7,highrisk,nb,bcfirst,1,1,1,1,1,2,1,1,10.76,lobo,fraukje,1,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,lobo_fraukje,3,8,highrisk,nb,bcfirst,1,1,0,0,1,1,1,0,4.96,fraukje,0,1,1,0,0,1,1,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,lobo_fraukje,3,9,highrisk,nb,bcfirst,1,1,0,1,0,1,1,0,11.44,lobo,0,1,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,lobo_fraukje,3,10,highrisk,nb,bcfirst,1,1,0,1,0,1,1,0,11.24,lobo,0,1,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,lobo_fraukje,3,11,highrisk,nb,bcfirst,1,1,1,1,1,2,1,1,7.44000000000001,lobo,fraukje,1,1,0,0,1,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,lobo_fraukje,3,12,highrisk,nb,bcfirst,1,1,1,1,1,2,1,1,5.52,lobo,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,lobo_fraukje,1,1,highrisk,bc,bcfirst,1,1,1,1,1,2,1,1,8.36,lobo,fraukje,0,1,0,0,1,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,lobo_fraukje,2,2,highrisk,bc,bcfirst,1,1,1,1,1,2,1,1,8.44,fraukje,lobo,0,1,0,0,1,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,lobo_fraukje,2,3,highrisk,bc,bcfirst,1,1,0,1,1,2,1,1,16.56,fraukje,lobo,0,1,0,0,1,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,lobo_fraukje,2,4,highrisk,bc,bcfirst,1,1,1,1,1,2,1,1,5.76000000000001,lobo,fraukje,0,1,0,0,1,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,lobo_fraukje,2,5,highrisk,bc,bcfirst,1,1,1,1,1,2,1,1,4.36,lobo,fraukje,0,1,0,0,1,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,lobo_fraukje,2,6,highrisk,bc,bcfirst,1,1,1,1,1,2,1,1,10.84,fraukje,lobo,0,1,0,0,1,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,lobo_fraukje,3,7,highrisk,bc,bcfirst,1,1,1,1,1,2,1,1,4.44,lobo,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,lobo_fraukje,3,8,highrisk,bc,bcfirst,1,1,1,1,1,2,1,1,13.4,fraukje,lobo,0,1,0,0,1,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,lobo_fraukje,3,9,highrisk,bc,bcfirst,1,1,1,1,1,2,1,1,19.04,fraukje,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,lobo_fraukje,3,10,highrisk,bc,bcfirst,1,1,1,1,1,2,1,1,10.96,fraukje,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,lobo_fraukje,3,11,highrisk,bc,bcfirst,1,1,1,1,1,2,1,1,5.36000000000001,lobo,fraukje,0,1,0,0,1,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,lobo_fraukje,3,12,highrisk,bc,bcfirst,1,1,1,1,1,2,1,1,12.52,lobo,fraukje,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,1,1,highrisk,nb,bcfirst,1,1,1,0,1,1,1,0,17.68,sandra,0,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,1,2,highrisk,nb,bcfirst,1,1,1,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,1,3,highrisk,nb,bcfirst,1,1,0,0,0,0,0,0, ,0,0,0,0,0,0,0,0,
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,1,4,highrisk,nb,bcfirst,1,1,0,0,0,0,0,0, ,0,0,0,0,0,0,0,0,
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,1,5,highrisk,nb,bcfirst,1,1,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,1,6,highrisk,nb,bcfirst,1,1,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,2,7,highrisk,nb,bcfirst,1,1,1,1,1,2,1,1,4.40000000000001,ulla,sandra,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,2,8,highrisk,nb,bcfirst,1,1,0,0,1,1,1,0,15.72,sandra,0,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,2,9,highrisk,nb,bcfirst,1,1,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,3,10,highrisk,nb,bcfirst,1,1,0,1,0,1,1,0,18.32,ulla,0,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,3,11,highrisk,nb,bcfirst,1,1,0,0,1,1,1,0,19.92,sandra,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,3,12,highrisk,nb,bcfirst,1,1,0,0,1,1,1,0,20.48,sandra,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,1,1,highrisk,bc,bcfirst,1,1,1,1,1,2,1,1,13.44,sandra,ulla,0,0,0,0,0,0,1.0
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,1,2,highrisk,bc,bcfirst,1,1,0,0,1,1,1,0,10.32,sandra,0,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,1,3,highrisk,bc,bcfirst,1,1,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,1,4,highrisk,bc,bcfirst,1,1,1,1,1,2,1,1,6.6,sandra,ulla,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,1,5,highrisk,bc,bcfirst,1,1,1,1,1,2,1,1,14.92,sandra,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,1,6,highrisk,bc,bcfirst,1,1,1,1,1,2,1,1,11.24,sandra,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,2,7,highrisk,bc,bcfirst,1,1,0,0,1,1,1,0,0.799999999999997,sandra,0,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,2,8,highrisk,bc,bcfirst,1,1,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,2,9,highrisk,bc,bcfirst,1,1,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,2,10,highrisk,bc,bcfirst,1,1,1,1,1,2,1,1,5.12,ulla,sandra,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,2,11,highrisk,bc,bcfirst,1,1,1,1,1,2,1,1,7.96,sandra,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,ulla_sandra,2,12,highrisk,bc,bcfirst,1,1,1,1,1,2,1,1,7.16,sandra,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,1,1,highrisk,nb,bcfirst,2,1,1,1,1,2,1,1,7.12,lobo,frodo,1,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,1,2,highrisk,nb,bcfirst,2,1,0,1,0,1,1,0,16.52,lobo,0,1,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,1,3,highrisk,nb,bcfirst,2,1,0,1,1,2,1,1,6.16,lobo,frodo,1,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,1,4,highrisk,nb,bcfirst,2,1,1,1,1,2,1,1,11.12,lobo,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,1,5,highrisk,nb,bcfirst,2,1,1,1,1,2,1,1,4.63999999999999,frodo,lobo,1,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,1,6,highrisk,nb,bcfirst,2,1,1,1,1,2,1,1,5.88,lobo,frodo,1,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,1,7,highrisk,nb,bcfirst,2,1,0,1,1,2,1,1,18,lobo,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,1,8,highrisk,nb,bcfirst,2,1,1,1,1,2,1,1,4.8,frodo,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,1,9,highrisk,nb,bcfirst,2,1,1,1,1,2,1,1,8.28,lobo,frodo,1,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,1,10,highrisk,nb,bcfirst,2,1,1,1,1,2,1,1,5.08,lobo,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,1,11,highrisk,nb,bcfirst,2,1,1,1,1,2,1,1,4.40000000000001,lobo,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,1,12,highrisk,nb,bcfirst,2,1,1,1,1,2,1,1,5.8,frodo,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,1,1,highrisk,bc,bcfirst,2,1,1,1,1,2,1,1,12.32,lobo,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,1,2,highrisk,bc,bcfirst,2,1,1,1,1,2,1,1,21.68,lobo,frodo,0,0,0,0,0,0,1.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,1,3,highrisk,bc,bcfirst,2,1,1,1,1,2,1,1,12.72,lobo,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,1,4,highrisk,bc,bcfirst,2,1,1,1,1,2,1,1,13.16,lobo,frodo,0,0,0,0,0,0,1.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,1,5,highrisk,bc,bcfirst,2,1,1,1,1,2,1,1,12.68,lobo,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,1,6,highrisk,bc,bcfirst,2,1,1,1,1,2,1,1,9.4,lobo,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,2,7,highrisk,bc,bcfirst,2,1,1,1,1,2,1,1,12.2,lobo,frodo,0,0,0,0,0,0,1.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,2,8,highrisk,bc,bcfirst,2,1,1,1,1,2,1,1,8.4,lobo,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,2,9,highrisk,bc,bcfirst,2,1,1,1,1,2,1,1,7.72,lobo,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,2,10,highrisk,bc,bcfirst,2,1,1,1,1,2,1,1,6.76,lobo,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,2,11,highrisk,bc,bcfirst,2,1,1,1,1,2,1,1,4.68,frodo,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,lobo,7,m,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,lobo_frodo,2,12,highrisk,bc,bcfirst,2,1,0,1,1,2,1,1,21.56,frodo,lobo,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,1,1,highrisk,nb,bcfirst,2,2,0,1,0,1,1,0,6.16,ulla,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,1,2,highrisk,nb,bcfirst,2,2,0,0,1,1,1,0,9.31999999999999,fraukje,0,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,1,3,highrisk,nb,bcfirst,2,2,0,1,1,2,1,1,9.76000000000001,fraukje,ulla,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,1,4,highrisk,nb,bcfirst,2,2,0,1,1,2,1,1,18.4,fraukje,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,1,5,highrisk,nb,bcfirst,2,2,0,0,0,0,0,0, ,0,0,0,0,0,0,0,0,
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,1,6,highrisk,nb,bcfirst,2,2,0,0,1,1,1,0,0.279999999999987,fraukje,0,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,2,7,highrisk,nb,bcfirst,2,2,0,0,1,1,1,0,11.64,fraukje,0,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,2,8,highrisk,nb,bcfirst,2,2,0,0,0,0,0,0, ,0,0,0,0,0,0,0,0,
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,2,9,highrisk,nb,bcfirst,2,2,0,1,1,2,1,1,9.28,fraukje,ulla,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,2,10,highrisk,nb,bcfirst,2,2,0,0,1,1,1,0,17.48,fraukje,0,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,3,11,highrisk,nb,bcfirst,2,2,0,0,1,1,1,0,16.2,fraukje,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,3,12,highrisk,nb,bcfirst,2,2,1,1,1,2,1,1,6.72,fraukje,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,1,1,highrisk,bc,bcfirst,2,2,0,0,1,1,1,0,7.44000000000001,fraukje,0,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,1,2,highrisk,bc,bcfirst,2,2,0,0,1,1,1,0,17,fraukje,0,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,1,3,highrisk,bc,bcfirst,2,2,0,0,1,1,1,0,16.68,fraukje,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,1,4,highrisk,bc,bcfirst,2,2,0,0,1,1,1,0,21.92,fraukje,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,1,5,highrisk,bc,bcfirst,2,2,0,0,1,1,1,0,18.68,fraukje,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,1,6,highrisk,bc,bcfirst,2,2,0,0,1,1,1,0,10.76,fraukje,0,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,2,7,highrisk,bc,bcfirst,2,2,0,0,1,1,1,0,15.28,fraukje,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,2,8,highrisk,bc,bcfirst,2,2,0,0,1,1,1,0,14.36,fraukje,0,0,0,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,2,9,highrisk,bc,bcfirst,2,2,0,0,0,0,0,0, ,0,0,0,0,0,0,0,0,
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,2,10,highrisk,bc,bcfirst,2,2,0,0,0,0,0,0, ,0,0,0,0,0,0,0,0,
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,2,11,highrisk,bc,bcfirst,2,2,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,ulla,34,f,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,ulla_fraukje,2,12,highrisk,bc,bcfirst,2,2,0,0,0,0,0,0, ,0,0,0,0,0,0,0,0,
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,1,1,highrisk,nb,bcfirst,2,2,0,0,0,0,0,0, ,0,0,1,0,0,0,0,1,
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,1,2,highrisk,nb,bcfirst,2,2,0,0,0,0,0,0, ,0,0,1,0,0,0,0,1,
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,1,3,highrisk,nb,bcfirst,2,2,0,0,1,1,1,0,11.24,frodo,0,1,0,0,0,0,1,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,1,4,highrisk,nb,bcfirst,2,2,1,1,1,2,1,1,5.56,sandra,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,1,5,highrisk,nb,bcfirst,2,2,1,1,1,2,1,1,6.6,sandra,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,1,6,highrisk,nb,bcfirst,2,2,1,1,1,2,1,1,5.72,sandra,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,2,7,highrisk,nb,bcfirst,2,2,1,1,1,2,1,1,4.84,frodo,sandra,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,2,8,highrisk,nb,bcfirst,2,2,1,1,1,2,1,1,7.68,sandra,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,2,9,highrisk,nb,bcfirst,2,2,1,1,1,2,1,1,7.8,sandra,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,2,10,highrisk,nb,bcfirst,2,2,1,1,1,2,1,1,4.76,sandra,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,2,11,highrisk,nb,bcfirst,2,2,1,1,1,2,1,1,9.8,sandra,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,2,12,highrisk,nb,bcfirst,2,2,1,1,1,2,1,1,4.2,frodo,sandra,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,1,1,highrisk,bc,bcfirst,2,2,1,1,1,2,1,1,17.08,sandra,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,1,2,highrisk,bc,bcfirst,2,2,0,1,0,1,1,0,21.76,sandra,0,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,1,3,highrisk,bc,bcfirst,2,2,0,0,1,1,1,0,11.32,frodo,0,1,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,1,4,highrisk,bc,bcfirst,2,2,1,1,1,2,1,1,14.72,sandra,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,1,5,highrisk,bc,bcfirst,2,2,0,1,1,2,1,1,15.88,sandra,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,1,6,highrisk,bc,bcfirst,2,2,1,1,1,2,1,1,8.52,frodo,sandra,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,2,7,highrisk,bc,bcfirst,2,2,0,0,1,1,1,0,14.56,frodo,0,1,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,2,8,highrisk,bc,bcfirst,2,2,0,0,1,1,1,0,15.72,frodo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,2,9,highrisk,bc,bcfirst,2,2,0,0,1,1,1,0,8.76,frodo,0,1,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,2,10,highrisk,bc,bcfirst,2,2,1,1,1,2,1,1,9.72,sandra,frodo,0,0,0,0,0,0,1.0
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,2,11,highrisk,bc,bcfirst,2,2,1,1,1,2,1,1,11.8,sandra,frodo,1,0,0,0,0,0,1.0
+duguid2014coordination,sandra,18,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,sandra_frodo,2,12,highrisk,bc,bcfirst,2,2,1,1,1,2,1,1,14.32,sandra,frodo,0,0,0,0,0,0,1.0
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,1,1,highrisk,nb,bcfirst,3,3,0,0,1,1,1,0,5.32000000000001,lobo,0,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,1,2,highrisk,nb,bcfirst,3,3,0,0,1,1,1,0,16.8,lobo,0,0,0,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,1,3,highrisk,nb,bcfirst,3,3,0,0,1,1,1,0,9.84,lobo,0,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,1,4,highrisk,nb,bcfirst,3,3,0,0,1,1,1,0,9.32,lobo,0,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,1,5,highrisk,nb,bcfirst,3,3,0,0,1,1,1,0,7.6,lobo,0,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,1,6,highrisk,nb,bcfirst,3,3,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,2,7,highrisk,nb,bcfirst,3,3,0,0,1,1,1,0,18.76,lobo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,2,8,highrisk,nb,bcfirst,3,3,0,0,1,1,1,0,20.52,lobo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,2,9,highrisk,nb,bcfirst,3,3,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,2,10,highrisk,nb,bcfirst,3,3,1,0,1,1,1,0,-34.88,lobo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,2,11,highrisk,nb,bcfirst,3,3,1,1,1,2,1,1,10.48,lobo,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,2,12,highrisk,nb,bcfirst,3,3,1,1,1,2,1,1,10.2,lobo,ulla,0,0,0,0,0,0,1.0
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,1,1,highrisk,bc,bcfirst,3,3,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,1,2,highrisk,bc,bcfirst,3,3,0,0,1,1,1,0,20,lobo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,1,3,highrisk,bc,bcfirst,3,3,0,0,1,1,1,0,18.2,lobo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,1,4,highrisk,bc,bcfirst,3,3,0,0,1,1,1,0,19.16,lobo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,1,5,highrisk,bc,bcfirst,3,3,0,0,1,1,1,0,20.04,lobo,0,0,0,0,0,0,0,1.0
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,1,6,highrisk,bc,bcfirst,3,3,0,0,1,1,1,0,15.44,lobo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,2,7,highrisk,bc,bcfirst,3,3,0,0,1,1,1,0,22.52,lobo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,2,8,highrisk,bc,bcfirst,3,3,0,0,1,1,1,0,23.56,lobo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,2,9,highrisk,bc,bcfirst,3,3,0,0,1,1,1,0,22.28,lobo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,2,10,highrisk,bc,bcfirst,3,3,0,0,1,1,1,0,22.48,lobo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,2,11,highrisk,bc,bcfirst,3,3,0,0,1,1,1,0,18.32,lobo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,ulla_lobo,2,12,highrisk,bc,bcfirst,3,3,0,0,1,1,1,0,22.08,lobo,0,0,0,0,0,0,0,1.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,1,1,highrisk,nb,bcfirst,3,3,0,1,1,2,1,1,2.8,frodo,fraukje,0,1,0,0,1,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,1,2,highrisk,nb,bcfirst,3,3,1,1,1,2,1,1,8.96,fraukje,frodo,0,1,0,0,1,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,1,3,highrisk,nb,bcfirst,3,3,1,1,1,2,1,1,5.64,fraukje,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,1,4,highrisk,nb,bcfirst,3,3,1,1,1,2,1,1,3.12,fraukje,frodo,0,1,0,0,1,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,1,5,highrisk,nb,bcfirst,3,3,1,1,1,2,1,1,3.2,frodo,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,1,6,highrisk,nb,bcfirst,3,3,1,1,1,2,1,1,8,frodo,fraukje,0,1,0,0,1,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,2,7,highrisk,nb,bcfirst,3,3,1,1,1,2,1,1,7.91999999999999,fraukje,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,2,8,highrisk,nb,bcfirst,3,3,1,1,1,2,1,1,10.36,frodo,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,2,9,highrisk,nb,bcfirst,3,3,1,1,1,2,1,1,6.6,frodo,fraukje,0,1,0,0,1,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,2,10,highrisk,nb,bcfirst,3,3,1,1,1,2,1,1,14.16,frodo,fraukje,0,1,0,0,1,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,2,11,highrisk,nb,bcfirst,3,3,1,1,1,2,1,1,10.68,frodo,fraukje,1,0,0,0,0,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,2,12,highrisk,nb,bcfirst,3,3,1,1,1,2,1,1,14.88,frodo,fraukje,0,1,0,0,1,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,1,1,highrisk,bc,bcfirst,3,3,0,1,0,1,1,0,14.48,frodo,0,0,1,0,0,1,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,1,2,highrisk,bc,bcfirst,3,3,1,1,1,2,1,1,13.72,fraukje,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,1,3,highrisk,bc,bcfirst,3,3,1,1,1,2,1,1,10.92,frodo,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,1,4,highrisk,bc,bcfirst,3,3,1,1,1,2,1,1,8.28,frodo,fraukje,0,1,0,0,1,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,1,5,highrisk,bc,bcfirst,3,3,1,1,1,2,1,1,7.32,frodo,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,1,6,highrisk,bc,bcfirst,3,3,1,1,1,2,1,1,12.24,frodo,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,2,7,highrisk,bc,bcfirst,3,3,1,1,1,2,1,1,7.39999999999999,fraukje,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,2,8,highrisk,bc,bcfirst,3,3,1,1,1,2,1,1,7.52,frodo,fraukje,0,1,0,0,1,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,2,9,highrisk,bc,bcfirst,3,3,1,1,1,2,1,1,9.64,frodo,fraukje,0,1,0,0,1,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,2,10,highrisk,bc,bcfirst,3,3,1,1,1,2,1,1,17.04,frodo,fraukje,0,1,0,0,1,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,2,11,highrisk,bc,bcfirst,3,3,1,1,1,2,1,1,14.44,frodo,fraukje,0,0,0,0,1,0,0.0
+duguid2014coordination,frodo,17,m,focal_participant_1,fraukje,35,f,focal_participant_2,chimpanzee,frodo_fraukje,2,12,highrisk,bc,bcfirst,3,3,1,1,1,2,1,1,17.68,frodo,fraukje,0,1,0,0,1,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,1,1,highrisk,nb,bcfirst,3,4,1,1,1,2,1,1,6.92,lobo,sandra,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,1,2,highrisk,nb,bcfirst,3,4,1,1,1,2,1,1,5.4,lobo,sandra,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,1,3,highrisk,nb,bcfirst,3,4,0,0,1,1,1,0,25.84,lobo,0,1,0,0,0,0,1,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,1,4,highrisk,nb,bcfirst,3,4,0,0,1,1,1,0,24.92,lobo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,1,5,highrisk,nb,bcfirst,3,4,1,1,1,2,1,1,5.48,lobo,sandra,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,1,6,highrisk,nb,bcfirst,3,4,1,1,1,2,1,1,4.84,sandra,lobo,0,1,0,0,1,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,2,7,highrisk,nb,bcfirst,3,4,1,1,1,2,1,1,9.56,lobo,sandra,0,1,0,0,1,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,2,8,highrisk,nb,bcfirst,3,4,1,1,1,2,1,1,8.32,sandra,lobo,0,1,0,0,1,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,2,9,highrisk,nb,bcfirst,3,4,1,1,1,2,1,1,7.8,sandra,lobo,0,1,0,0,1,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,2,10,highrisk,nb,bcfirst,3,4,1,1,1,2,1,1,10.64,sandra,lobo,0,1,0,0,1,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,2,11,highrisk,nb,bcfirst,3,4,1,1,1,2,1,1,4.28,sandra,lobo,0,1,0,0,1,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,2,12,highrisk,nb,bcfirst,3,4,1,1,1,2,1,1,16.36,lobo,sandra,0,1,0,0,1,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,1,1,highrisk,bc,bcfirst,3,4,0,0,1,1,1,0,22.64,lobo,0,1,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,1,2,highrisk,bc,bcfirst,3,4,0,0,1,1,1,0,22.08,lobo,0,1,0,0,0,0,0,1.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,1,3,highrisk,bc,bcfirst,3,4,0,0,0,0,0,0, ,0,0,1,1,0,0,1,0,
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,1,4,highrisk,bc,bcfirst,3,4,0,0,0,0,0,0, ,0,0,1,1,0,0,1,0,
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,1,5,highrisk,bc,bcfirst,3,4,1,1,1,2,1,1,3.23999999999999,sandra,lobo,1,1,0,0,1,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,1,6,highrisk,bc,bcfirst,3,4,1,1,1,2,1,1,5.72,lobo,sandra,1,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,2,7,highrisk,bc,bcfirst,3,4,0,0,1,1,1,0,19.52,lobo,0,1,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,2,8,highrisk,bc,bcfirst,3,4,1,1,1,2,1,1,3.63999999999999,lobo,sandra,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,2,9,highrisk,bc,bcfirst,3,4,1,1,1,2,1,1,8.96,sandra,lobo,0,1,0,0,1,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,2,10,highrisk,bc,bcfirst,3,4,1,1,1,2,1,1,3.16,lobo,sandra,0,0,0,0,0,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,2,11,highrisk,bc,bcfirst,3,4,1,1,1,2,1,1,4.84,sandra,lobo,0,1,0,0,1,0,0.0
+duguid2014coordination,sandra,18,f,focal_participant_1,lobo,7,m,focal_participant_2,chimpanzee,sandra_lobo,2,12,highrisk,bc,bcfirst,3,4,1,1,1,2,1,1,7.88,sandra,lobo,0,1,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,1,1,highrisk,nb,bcfirst,4,4,0,0,1,1,1,0,12.88,frodo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,1,2,highrisk,nb,bcfirst,4,4,0,0,1,1,1,0,16.84,frodo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,1,3,highrisk,nb,bcfirst,4,4,0,0,1,1,1,0,17.32,frodo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,1,4,highrisk,nb,bcfirst,4,4,0,0,1,1,1,0,15.32,frodo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,1,5,highrisk,nb,bcfirst,4,4,0,1,1,2,1,1,19.96,frodo,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,1,6,highrisk,nb,bcfirst,4,4,0,0,1,1,1,0,20.68,frodo,0,0,0,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,2,7,highrisk,nb,bcfirst,4,4,0,0,1,1,1,0,22,frodo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,2,8,highrisk,nb,bcfirst,4,4,1,1,1,2,1,1,8.84,frodo,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,2,9,highrisk,nb,bcfirst,4,4,0,0,1,1,1,0,13.84,frodo,0,0,0,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,2,10,highrisk,nb,bcfirst,4,4,0,1,1,2,1,1,32.28,frodo,ulla,0,0,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,2,11,highrisk,nb,bcfirst,4,4,1,1,1,2,1,1,4.36,ulla,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,2,12,highrisk,nb,bcfirst,4,4,1,1,1,2,1,1,9.08,frodo,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,1,1,highrisk,bc,bcfirst,4,4,0,0,1,1,1,0,13.84,frodo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,1,2,highrisk,bc,bcfirst,4,4,0,0,1,1,1,0,7.88,frodo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,1,3,highrisk,bc,bcfirst,4,4,0,1,1,2,1,1,6.04000000000001,frodo,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,1,4,highrisk,bc,bcfirst,4,4,0,0,1,1,1,0,7.6,frodo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,1,5,highrisk,bc,bcfirst,4,4,0,0,1,1,1,0,5.96,frodo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,1,6,highrisk,bc,bcfirst,4,4,0,0,1,1,1,0,14.52,frodo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,2,7,highrisk,bc,bcfirst,4,4,1,1,1,2,1,1,5.64,frodo,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,2,8,highrisk,bc,bcfirst,4,4,1,1,1,2,1,1,4.44,ulla,frodo,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,2,9,highrisk,bc,bcfirst,4,4,1,1,1,2,1,1,8.88,frodo,ulla,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,2,10,highrisk,bc,bcfirst,4,4,0,0,1,1,1,0,12.8,frodo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,2,11,highrisk,bc,bcfirst,4,4,0,0,1,1,1,0,8.24,frodo,0,0,0,0,0,1,0,0.0
+duguid2014coordination,ulla,34,f,focal_participant_1,frodo,17,m,focal_participant_2,chimpanzee,ulla_frodo,2,12,highrisk,bc,bcfirst,4,4,0,0,1,1,1,0,5.08,frodo,0,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,1,1,highrisk,nb,bcfirst,4,4,0,0,1,1,1,0,13.92,sandra,0,0,1,0,0,1,0,0.0
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,1,2,highrisk,nb,bcfirst,4,4,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,1,3,highrisk,nb,bcfirst,4,4,0,0,1,1,1,0,14.44,sandra,0,0,1,0,0,1,0,0.0
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,1,4,highrisk,nb,bcfirst,4,4,1,1,1,2,1,1,4.27999999999999,fraukje,sandra,0,1,0,0,1,0,0.0
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,1,5,highrisk,nb,bcfirst,4,4,0,0,1,1,1,0,18.28,sandra,0,0,1,0,0,1,0,0.0
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,1,6,highrisk,nb,bcfirst,4,4,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,2,7,highrisk,nb,bcfirst,4,4,1,1,1,2,1,1,14.16,sandra,fraukje,0,1,0,0,1,0,0.0
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,2,8,highrisk,nb,bcfirst,4,4,0,0,1,1,1,0,20.28,sandra,0,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,2,9,highrisk,nb,bcfirst,4,4,1,1,1,2,1,1,3.96000000000001,fraukje,sandra,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,3,10,highrisk,nb,bcfirst,4,4,0,0,1,1,1,0,20.76,sandra,0,0,1,0,0,1,0,0.0
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,3,11,highrisk,nb,bcfirst,4,4,1,1,1,2,1,1,8.36000000000001,sandra,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,3,12,highrisk,nb,bcfirst,4,4,0,0,1,1,1,0,24.24,sandra,0,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,1,1,highrisk,bc,bcfirst,4,4,1,1,1,2,1,1,4.96,sandra,fraukje,0,1,0,0,1,0,0.0
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,1,2,highrisk,bc,bcfirst,4,4,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,1,3,highrisk,bc,bcfirst,4,4,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,1,4,highrisk,bc,bcfirst,4,4,1,1,1,2,1,1,8.44000000000001,sandra,fraukje,1,1,0,0,1,0,0.0
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,1,5,highrisk,bc,bcfirst,4,4,1,1,1,2,1,1,10.4,sandra,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,1,6,highrisk,bc,bcfirst,4,4,1,1,1,2,1,1,20.64,sandra,fraukje,1,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,1,7,highrisk,bc,bcfirst,4,4,1,1,1,2,1,1,12.64,fraukje,sandra,0,1,0,0,1,0,0.0
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,1,8,highrisk,bc,bcfirst,4,4,0,1,0,1,1,0,19.04,fraukje,0,0,1,0,0,1,0,0.0
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,1,9,highrisk,bc,bcfirst,4,4,0,1,0,1,1,0,4.88,fraukje,0,0,1,0,0,1,0,0.0
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,1,10,highrisk,bc,bcfirst,4,4,0,0,0,0,0,0, ,0,0,0,1,0,0,1,0,
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,1,11,highrisk,bc,bcfirst,4,4,1,1,1,2,1,1,9,sandra,fraukje,0,0,0,0,0,0,0.0
+duguid2014coordination,fraukje,35,f,focal_participant_1,sandra,18,f,focal_participant_2,chimpanzee,fraukje_sandra,1,12,highrisk,bc,bcfirst,4,4,1,1,1,2,1,1,6.36,sandra,fraukje,1,0,0,0,1,0,0.0

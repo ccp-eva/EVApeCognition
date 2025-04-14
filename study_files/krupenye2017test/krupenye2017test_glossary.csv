@@ -1,0 +1,12 @@
+"column_name","description",
+"study_id","personal study ID composed by the first authors’ first surname_year of publication_first title word ",
+"experiment_name","name of data subset – can include different experiments within data set/ different training conditions/ pre-test data/ etc ",
+"participant","name of the participant ",
+"sex","sex of the participant ",
+"species","species of individuals participating in the study -bonobo/chimpanzee/orangutan ",
+"facility","hosting facility where the participants lived (ks = kumamoto sanctuary/ mpi = zoo leipzig"," "
+"condition","fb1= false belief 1 / fb2= false belief 2 ",
+"first_look","tgt =  location where the actor falsely believed the object to be / dist= distractor (the other location)",
+"target_duration","viewing time to target (tgt)",
+"distractor_duration","viewing time to distractor (dist)",
+"look_diff","the difference in viewing times between the target and distractor",

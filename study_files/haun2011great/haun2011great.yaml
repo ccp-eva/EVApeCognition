@@ -1,0 +1,45 @@
+study_id: haun2011great
+year: 2011
+reference: 'Haun, D. B. M., Nawroth, C., & Call, J. (2011). Great apes'' risk-taking
+  strategies in a decision making task. PLoS ONE, 6(12): e28801. doi:10.1371/journal.pone.0028801.'
+abstract: We investigate decision-making behaviour in all four non-human great ape
+  species. Apes chose between a safe and a risky option across trials of varying expected
+  values. All species chose the safe option more often with decreasing probability
+  of success. While all species were risk-seeking, orangutans and chimpanzees chose
+  the risky option more often than gorillas and bonobos. Hence all four species’ preferences
+  were ordered in a manner consistent with normative dictates of expected value, but
+  varied predictably in their willingness to take risks.
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Daniel Haun
+  corr_author: true
+- author_no: 2
+  name: Christian Nawroth
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo, wkprc_orangutan,
+    wkprc_gorilla
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2007,2008
+  data_collection_date_comments: 2007/01/06 to 2008/10/12
+  age_source: data_file_calculated
+  age_source_comments: age_in_years calculated – age_original from data_file
+domains:
+- domain_no: 1
+  general_domain: quantities_and_time
+  specific_domain: risk_value_and_choice
+cognitive_domain:
+  social: false
+  physical: true

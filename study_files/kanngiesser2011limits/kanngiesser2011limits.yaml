@@ -1,0 +1,85 @@
+study_id: kanngiesser2011limits
+year: 2011
+reference: Kanngiesser, P., Santos, L. R., Hood, B. M., & Call, J. (2011). The Limits
+  of Endowment Effects in Great Apes (Pan paniscus, Pan troglodytes, Gorilla gorilla,
+  Pongo pygmaeus). Journal of Comparative Psychology, 125(4), 436-445. doi:10.1037/a0024516.
+abstract: The endowment effect describes the bias that people often value things that
+  they possess more than things they do not possess. Thus, they are often reluctant
+  to trade items in their possession for items of equivalent value. Some nonhuman
+  primates appear to share this bias with humans, but it remains an open question
+  whether they show endowment effects to the same extent as humans do. We investigated
+  endowment effects in all four great ape species (Pan paniscus, Pan troglodytes,
+  Gorilla gorilla, Pongo pygmaeus) by varying whether apes were endowed with food
+  items (Experiment 1, N = 22) or tools that were instrumental in retrieving food
+  (Experiment 2, N = 23). We first assessed apes' preferences for items of a pair
+  and their willingness to trade items in their possession. We then endowed apes with
+  one item of a pair and offered them to trade for the other item. Apes showed endowment
+  effects for food, but not for tools. In Experiment 3, we endowed bonobos (N = 4)
+  and orangutans (N = 5) with either one or 12 food items. Endowment effects did not
+  differ between species and were not influenced by the number of endowed food items.
+  Our findings suggest that endowment effects in great apes are restricted to immediate
+  food gratification and remain unaffected by the quantity of food rewards. However,
+  endowment effects do not seem to extend to other, nonconsumable possessions even
+  when they are instrumental in retrieving food. In general, apes do not show endowment
+  effects across a range of different commodities as humans typically do.
+keywords: endowment effect, biases, decision making, nonhuman primates, possession
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Patricia Kanngiesser
+  corr_author: true
+- author_no: 2
+  name: Laurie R. Santos
+  corr_author: false
+- author_no: 3
+  name: Bruce M. Hood
+  corr_author: false
+- author_no: 4
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 16
+  dropout_names: fifi, gertrudia, riet, tai, unyoro, dokana, kila, padana
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2008'
+  data_collection_date_comments: 2008/01/21 to 2008/08/14
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 13
+  dropout_names: annett, lome, robert, svela, kila
+  group_id: wkprc_chimpanzee_a,wkprc_chimpanzee_b, wkprc_gorilla, wkprc_orangutan,
+    wkprc_bonobos
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2008'
+  data_collection_date_comments: 2008/02/21 to 2008/09/03
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: yasa
+  group_id: wkprc_orangutan, wkprc_bonobo
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2004'
+  data_collection_date_comments: 2004/07/16 to 2004/09/22
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: quantities_and_time
+  specific_domain: risk_value_and_choice
+cognitive_domain:
+  social: false
+  physical: true

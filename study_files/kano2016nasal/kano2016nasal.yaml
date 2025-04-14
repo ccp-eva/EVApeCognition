@@ -1,0 +1,79 @@
+study_id: kano2016nasal
+year: 2016
+reference: 'Kano, F., Hirata, S., Deschner, T., Behringer, V., & Call, J. (2016).
+  Nasal temperature drop in response to a playback of conspecific fights in chimpanzees:
+  A thermo-imaging study. Physiology & Behavior, 155, 83-94. doi:10.1016/j.physbeh.2015.11.029.'
+abstract: 'Emotion is one of the central topics in animal studies and is likely to
+  attract attention substantially in the coming years. Recent studies have developed
+  a thermo-imaging technique to measure the facial skin temperature in the studies
+  of emotion in humans and macaques. Here we established the procedures and techniques
+  needed to apply the same technique to great apes. We conducted two experiments respectively
+  in the two established research facilities in Germany and Japan. Total twelve chimpanzees
+  were tested in three conditions in which they were presented respectively with the
+  playback sounds (Exp. 1) or the videos (Exp. 2) of fighting conspecifics, control
+  sounds/videos (allospecific display call: Exp. 1; resting conspecifics: Exp. 2),
+  and no sound/image. Behavioral, hormonal (salivary cortisol) and heart-rate responses
+  were simultaneously recorded. The nasal temperature of chimpanzees linearly dropped
+  up to 1.5 °C in 2 min, and recovered to the baseline in 2 min, in the experimental
+  but not control conditions. We found the related changes in excitement behavior
+  and heart-rate variability, but not in salivary cortisol, indicating that overall
+  responses were involved with the activities of sympathetic nervous system but not
+  with the measureable activities of the hypothalamus-pituitary-adrenal (HPA) axis.
+  The influence of general activity (walking, eating) was not negligible but controllable
+  in experiments. We propose several techniques to control those confounding factors.
+  Overall, thermo-imaging is a promising technique that should be added to the traditional
+  physiological and behavioral measures in primatology and comparative psychology.'
+keywords: Aggression, Emotion, Great ape, Skin temperature, Thermo-imaging
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Fumihiro Kano
+  corr_author: true
+- author_no: 2
+  name: Satoshi Hirata
+  corr_author: false
+- author_no: 3
+  name: Tobias Deschner
+  corr_author: false
+- author_no: 4
+  name: Verena Behringer
+  corr_author: false
+- author_no: 5
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 2014
+  data_collection_date_comments: All sessions were conducted between 10–12 am, in
+    May–June 2014.
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: false
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: kumamoto_chimpanzee
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 2014 - 2015
+  data_collection_date_comments: All sessions were conducted in 12–13 pm, November–December
+    2014, and March–May 2015.
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: stimuli_and_arousal
+  specific_domain: .nan
+cognitive_domain:
+  social: false
+  physical: false

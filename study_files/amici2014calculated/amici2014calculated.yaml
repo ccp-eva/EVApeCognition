@@ -1,0 +1,66 @@
+study_id: amici2014calculated
+year: 2014
+reference: Amici, F., Aureli, F., Mundry, R., Sanchez-Amaro, A., Barroso, A. M., Ferretti,
+  J., & Call, J. (2014). Calculated reciprocity? A comparative test with six primate
+  species. Primates, 55(3), 447-457. doi:10.1007/s10329-014-0424-4.
+abstract: Little evidence of calculated reciprocity has been found in non-human primates
+  so far. In this study, we used a simple experimental set-up to test whether partners
+  pulled a sliding table to altruistically provide food to each other in short-term
+  interactions. We tested 46 dyads of chimpanzees, bonobos, gorillas, orangutans,
+  brown capu chin monkeys and spider monkeys to examine whether a subject’s tendency
+  to provide food to a partner was directly affected by the partner’s previous behaviour,
+  by the spe cies, by the condition (i.e., whether the partner could access the food
+  provided by the subject) and by the social toler ance levels within each dyad. Chimpanzees
+  and orangutans were the only species pulling significantly more when the partner
+  could retrieve the food altruistically provided. However, no species reciprocated
+  food exchanges, as subjects’ probability to pull was not affected by the pre vious
+  number of the partner’s pulls, with the possible exception of one orangutan dyad.
+  Although subjects clearly knew how the apparatus worked and easily obtained food
+  for themselves, individuals did not usually take the opportunity to provide food
+  to their partners, suggesting that calculated reciprocity is not a common behaviour
+  and that food exchanges are usually not reciprocated in the short-term within dyads.
+keywords: Calculated reciprocity, Great apes, Capuchin monkeys, Spider monkeys, Altruism
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Federica Amici
+  corr_author: true
+- author_no: 2
+  name: Filippo Aureli
+  corr_author: false
+- author_no: 3
+  name: Roger Mundry
+  corr_author: false
+- author_no: 4
+  name: Alejandro Sanchez Amaro
+  corr_author: false
+- author_no: 5
+  name: Abraham Mesa Barroso
+  corr_author: false
+- author_no: 6
+  name: Jessica Ferretti
+  corr_author: false
+- author_no: 7
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: partial
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_bonobo, wkprc_orangutan
+  group_id_excluded: animaya_spidermonkey, istccnr_capuchinmonkey
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: the_social_economy
+cognitive_domain:
+  social: true
+  physical: false

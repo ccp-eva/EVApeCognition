@@ -1,0 +1,75 @@
+study_id: martin2011memory
+year: 2011
+reference: 'Martin-Ordas, G., & Call, J. (2011). Memory processing in great apes:
+  the effect of time and sleep. Biology Letters, 7(6), 829-832. doi:10.1098/rsbl.2011.0437.'
+abstract: 'Following encoding, memory remains temporarily vulnerable to disruption.
+  Consolidation refers to offline time-dependent processes that continue after encoding
+  and stabilize, transform or enhance the memory trace. Memory consolidation resulting
+  from sleep has been reported for declarative and non-declarative memories in humans.
+  We first investigated the temporal course of memory retrieval in chimpanzees, bonobos
+  and orangutans. We found that the amount of retrieved information was time dependent:
+  apes'' performance degraded after 1 and 2 h, stabilized after 4 h, started to increase
+  after 8 and 12 h and fully recovered after 24 h. Second, we show that although memories
+  during wakefulness were highly vulnerable to interference from events similar to
+  those witnessed during the original encoding event, an intervening period of sleep
+  not only stabilized apes'' memories into more permanent ones but also protected
+  them against interference.'
+keywords: memory, time, sleep, interference, great apes
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Gemma Martin Ordas
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: partial ages provided by author
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: space_and_objects
+  specific_domain: travel_and_spatial_memory
+- domain_no: 2
+  general_domain: quantities_and_time
+  specific_domain: timing_discounting_and_delayed_gratification
+cognitive_domain:
+  social: false
+  physical: true

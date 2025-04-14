@@ -1,0 +1,54 @@
+study_id: knofe2019chimpanzees
+year: 2019
+reference: 'Knofe, H., Engelmann, J., Tomasello, M., & Herrmann, E. (2019). Chimpanzees
+  monopolize and children take turns in a limited resource problem. Scientific Reports,
+  9: 7597. doi:10.1038/s41598-019-44096-4.'
+abstract: 'Competition over scarce resources is common across the animal kingdom.
+  Here we investigate the strategies of chimpanzees and children in a limited resource
+  problem. Both species were presented with a tug-of-war apparatus in which each individual
+  in a dyad received a tool to access a reward, but tools could not be used simultaneously.
+  We assessed the equality of tool use as well as the frequency of turn taking. Both
+  species managed to overcome this conflict of interest but used different strategies
+  to do so. While there was substantial variation in chimpanzee behaviour, monopolization
+  was the common course of action: tool use was asymmetric with individual chimpanzees
+  monopolizing the resource. In children, turn-taking emerged as the dominant strategy:
+  tool use was symmetric and children alternated access to the tool at a high rate.
+  These results suggest that while both species possess strategies for solving limited
+  resource problems, humans might have evolved species unique motivations and socio-cognitive
+  skills for dealing with such conflicts of interest.'
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Hagen Knofe
+  corr_author: true
+- author_no: 2
+  name: Jan Engelmann
+  corr_author: false
+- author_no: 3
+  name: Michael Tomasello
+  corr_author: false
+- author_no: 4
+  name: Esther Herrmann
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: dyads
+  droupouts_no: 4
+  dropout_names: Natascha, Dorien, Ulla, Corrie
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: author
+  data_collection_date: 2011
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: collaboration
+cognitive_domain:
+  social: true
+  physical: false

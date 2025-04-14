@@ -1,0 +1,62 @@
+study_id: amici2018social
+year: 2018
+reference: 'Amici, F., Call, J., Watzek, J., Brosnan, S., & Aureli, F. (2018). Social
+  inhibition and behavioural flexibility when the context changes: A comparison across
+  six primate species. Scientific Reports, 8: 3067. doi:10.1038/s41598-018-21496-6.'
+abstract: The ability to inhibit previously employed strategies and fexibly adjust
+  behavioural responses to external conditions may be critical for individual survival.
+  However, it is unclear which factors predict their distribution across species.
+  Here, we investigated social inhibition and behavioural fexibility in six primate
+  species (chimpanzees, bonobos, orangutans, gorillas, capuchin monkeys and spider
+  monkeys) difering in terms of phylogenetic relatedness, foraging ecology and social
+  organization. Depending on the social context, individuals could maximize their
+  food intake by inhibiting the selection of a larger food reward in one condition
+  (i.e. inhibition), but not in others, which required them to fexibly switching strategies
+  across conditions (i.e. behavioural fexibility). Overall, our study revealed inter
+  specifc diferences in social inhibition and behavioural fexibility, which partially
+  refected diferences in fssion-fusion dynamics. In particular, orangutans and chimpanzees
+  showed the highest level of inhibitory skills, while gorillas and capuchin monkeys
+  showed the lowest one. In terms of behavioural fexibility, orangutans and spider
+  monkeys were the best performers, while bonobos and capuchin monkeys were the worst
+  ones. These results contribute to our understanding that inhibition and behavioural
+  fexibility may be linked in more complex ways than usually thought, although both
+  abilities play a crucial role in efcient problem solving
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Federica Amici
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Julia Watzek
+  corr_author: false
+- author_no: 4
+  name: Sarah Brosnan
+  corr_author: false
+- author_no: 5
+  name: Filippo Aureli
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: partial
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkrpc_gorilla, wkprc_orangutan, wkprc_bonobo
+  group_id_excluded: animaya_spidermonkey, georgia_capuchinmonkey
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2013-2014
+  data_collection_date_comments: ''
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: the_social_economy
+cognitive_domain:
+  social: true
+  physical: false

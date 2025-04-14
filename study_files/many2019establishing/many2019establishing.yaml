@@ -1,0 +1,146 @@
+study_id: many2019establishing
+year: 2019
+reference: 'Many Primates, Altschul, D. M., Beran, M. J., Bohn, M., Call, J., DeTroy,
+  S., Duguid, S. J., Egelkamp, C. L., Fichtel, C., Fischer, J., Flessert, M., Hanus,
+  D., Haun, D. B. M., Haux, L. M., Hernandez-Aguilar, R. A., Herrmann, E., Hopper,
+  L. M., Joly, M., Kano, F., Keupp, S., Melis, A. P., Motes Rodrigo, A., Ross, S.
+  R., Sánchez Amaro, A., Sato, Y., Schmitt, V., Schweinfurth, M. K., Seed, A. M.,
+  Taylor, D., Völter, C. J., Warren, E., & Watzek, J. (2019). Establishing an infrastructure
+  for collaboration in primate cognition research. PLoS One, 14(10): e0223675. doi:10.1371/journal.pone.0223675.'
+abstract: Inferring the evolutionary history of cognitive abilities requires large
+  and diverse samples. However, such samples are often beyond the reach of individual
+  researchers or institutions, and studies are often limited to small numbers of species.
+  Consequently, methodological and site-specific-differences across studies can limit
+  comparisons between species. Here we introduce the ManyPrimates project, which addresses
+  these challenges by providing a large-scale collaborative framework for comparative
+  studies in primate cognition. To demonstrate the viability of the project we conducted
+  a case study of short-term memory. In this initial study, we were able to include
+  176 individuals from 12 primate species housed at 11 sites across Africa, Asia,
+  North America and Europe. All subjects were tested in a delayed-response task using
+  consistent methodology across sites. Individuals could access food rewards by remembering
+  the position of the hidden reward after a 0, 15, or 30-second delay. Overall, individuals
+  performed better with shorter delays, as predicted by previous studies. Phylogenetic
+  analysis revealed a strong phylogenetic signal for short-term memory. Although,
+  with only 12 species, the validity of this analysis is limited, our initial results
+  demonstrate the feasibility of a large, collaborative open-science project. We present
+  the ManyPrimates project as an exciting opportunity to address open questions in
+  primate cognition and behaviour with large, diverse datasets.
+keywords: ''
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Many Primates
+  corr_author: true
+- author_no: 2
+  name: Drew M. Altschul
+  corr_author: false
+- author_no: 3
+  name: Michael J. Beran
+  corr_author: false
+- author_no: 4
+  name: Manuel Bohn
+  corr_author: false
+- author_no: 5
+  name: Sarah DeTroy
+  corr_author: false
+- author_no: 6
+  name: Shona J. Duguid
+  corr_author: false
+- author_no: 7
+  name: Crystal L. Egelkamp
+  corr_author: false
+- author_no: 8
+  name: Claudia Fichtel
+  corr_author: null
+- author_no: 9
+  name: Julia Fischer
+  corr_author: false
+- author_no: 10
+  name: Molly Flessert
+  corr_author: false
+- author_no: 11
+  name: Daniel Hanus
+  corr_author: false
+- author_no: 12
+  name: Daniel B. M. Haun
+  corr_author: false
+- author_no: 13
+  name: Lou M. Haux
+  corr_author: false
+- author_no: 14
+  name: R.Adriana Hernandez-Aguilar
+  corr_author: false
+- author_no: 15
+  name: Esther Herrmann
+  corr_author: false
+- author_no: 16
+  name: Lydia M. Hopper
+  corr_author: false
+- author_no: 17
+  name: Marine Joly
+  corr_author: false
+- author_no: 18
+  name: Fumihiro Kano
+  corr_author: false
+- author_no: 19
+  name: Stefanie Keupp
+  corr_author: false
+- author_no: 20
+  name: Alicia P. Melis
+  corr_author: false
+- author_no: 21
+  name: Alba Motes Rodrigo
+  corr_author: false
+- author_no: 22
+  name: Stephen R. Ross
+  corr_author: false
+- author_no: 23
+  name: Alejandro Sanchez-Amaro
+  corr_author: false
+- author_no: 24
+  name: Vanessa Schmitt
+  corr_author: false
+- author_no: 25
+  name: Manon K. Schweinfurth
+  corr_author: false
+- author_no: 26
+  name: Amanda M. Seed
+  corr_author: false
+- author_no: 27
+  name: Derry Taylor
+  corr_author: false
+- author_no: 28
+  name: Christoph J. Völter
+  corr_author: false
+- author_no: 29
+  name: Elizabeth Warren
+  corr_author: false
+- author_no: 30
+  name: Julia Watzek
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: partial
+  grouping: individuals, group
+  droupouts_no: 16
+  dropout_names: null
+  group_id: wkprc_orangutan, wkprc_chimpanzee_a
+  group_id_excluded: kristiansand_ringtailedlemur, kristiansand_blackfacedspidermonkey,
+    edinburghzoo_browncapuchinmonkey, edinburghzoo_squirrelmonkey, edinburghzoo_chimpanzee,
+    desmonies_bonobo, wight_rhesus, wight_barbarymacaque, göttingen_longtailedmacaque
+    , göttingen_ringtailedlemur, göttingen_ruffedlemur, chicago_gorilla, kumamoto_chimpanzee,
+    kumamoto_bonobo, heidelberg_gorilla,  georgia_capuchinmonkey, sweetwaters_chimpanzee_old,
+    sweetwaters_chimpanzee_young
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: space_and_objects
+  specific_domain: delayed_response
+cognitive_domain:
+  social: false
+  physical: true

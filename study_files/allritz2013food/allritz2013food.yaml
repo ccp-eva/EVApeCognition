@@ -1,0 +1,54 @@
+study_id: allritz2013food
+year: 2013
+reference: Allritz, M., Tennie, C., & Call, J. (2013). Food washing and placer mining
+  in captive great apes. Primates, 54(4), 361-370. doi:10.1007/s10329-013-0355-5.
+abstract: Sweet potato washing and wheat placer mining in Japanese macaques (Macaca
+  fuscata) are among the most well known examples of local traditions in nonhuman
+  animals. The functions of these behaviors and the mechanisms of acquisition and
+  spread of these behaviors have been debated frequently. Prompted by animal caretaker
+  reports that great apes [chimpanzees (Pan troglodytes), bonobos (Pan paniscus),
+  gorillas (Gorilla gorilla), and orangutans (Pongo abelii)] at Leipzig Zoo occasionally
+  wash their food, we conducted a study of food washing behaviors that consisted of
+  two parts. In the first part we assessed the current distribution of the behavior
+  on the basis of caretaker reports. In the second (experimental) part, we provided
+  subjects individually with a water basin and two types of food (apples and cereal)
+  that was either clean or covered/mixed with sand. We found that subjects of all
+  species (except gorillas) placed apples in the water before consumption, and that
+  they did so more often when the apples were dirty than when they were clean. Several
+  chimpanzees and orangutans also engaged in behaviors resembling wheat placer mining.
+keywords: Food washing, Placer mining, Tradition, Great apes
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Matthias Allritz
+  corr_author: false
+- author_no: 2
+  name: Claudio Tennie
+  corr_author: true
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: limbuko
+  group_id: wkprc_bonobo, wkprc_gorilla, wkprc_orangutan, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 2010 - 2011
+  data_collection_date_comments: July 2010 and February 2011.
+  age_source: data_file_calculated
+  age_source_comments: age_in_years calculated – age_original and age_group from data_file
+domains:
+- domain_no: 1
+  general_domain: social_learning_and_culture
+  specific_domain: social_learning_in_foraging
+- domain_no: 2
+  general_domain: tools_and_causality
+  specific_domain: food_processing
+cognitive_domain:
+  social: true
+  physical: true

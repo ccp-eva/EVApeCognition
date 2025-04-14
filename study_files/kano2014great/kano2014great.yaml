@@ -1,0 +1,48 @@
+study_id: kano2014great
+year: 2014
+reference: 'Kano, F., & Call, J. (2014). Great apes generate goal-based action predictions:
+  An eye-tracking study. Psychological Science, 25(9), 1691-1698. doi:10.1177/0956797614536402.'
+abstract: To examine great apes’ on-line prediction of other individuals’ actions,
+  we used an eye-tracking technique and an experimental paradigm previously used to
+  test human infants. Twenty-two great apes, including bonobos, chimpanzees, and orangutans,
+  were familiarized to movie clips of a human hand reaching to grasp one of two objects.
+  Then the objects’ locations were swapped, and in the test event, the hand made an
+  incomplete reach between the objects. In a control condition, a mechanical claw
+  performed the same actions. The apes predictively looked at the familiarized goal
+  object rather than the familiarized location when viewing the hand action in the
+  test event. However, they made no prediction when viewing the claw action. These
+  results are similar to those reported previously for human infants, and predictive
+  looking did not differ among the three species of great apes. Thus, great apes make
+  on-line goal-based predictions about the actions of other individuals; this skill
+  is not unique to humans but is shared more widely among primates.
+keywords: action prediction, eye tracking, nonhuman primates, proactive goal-directed
+  eye movements
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Fumihiro Kano
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 5
+  dropout_names: Jasongo, Joey, Getrudia, Pini, Fifi
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: theory_of_mind_and_metacognition
+  specific_domain: understanding_goals_and_intentions
+cognitive_domain:
+  social: true
+  physical: false

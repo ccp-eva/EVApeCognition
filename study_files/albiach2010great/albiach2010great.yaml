@@ -1,0 +1,56 @@
+study_id: albiach2010great
+year: 2010
+reference: Albiach-Serrano, A., Call, J., & Barth, J. (2010). Great apes track hidden
+  objects after changes in the objects' position and in subject's orientation. American
+  Journal of Primatology, 72(4), 349-359. doi:10.1002/ajp.20790.
+abstract: Eight chimpanzees (Pan troglodytes), five bonobos (Pan paniscus), five gorillas
+  (Gorilla gorilla), and seven orangutans (Pongo pygmaeus) were presented with two
+  invisible object displacement tasks. In full view of the subject, a food item was
+  hidden under one of three opaque cups resting on a platform and, after an experimental
+  manipulation, the subject was allowed to select one of the cups. In the rotation
+  task, the platform was rotated 1801 while the subject remained stationary. In the
+  translocation task, the platform remained stationary while the subject walked to
+  the opposite side from where she saw the reward being hidden. The final position
+  of the food relative to the subject was equivalent in both tasks. Single displacement
+  trials consisted of only one manipulation, either a rotation or a translocation,
+  whereas double displacement trials consisted of both a rotation and a translocation.
+  We also included no displacement trials in which no displacements took place. No
+  displacement trials were easier than single displacements which, in turn, were easier
+  than double displacements. Unlike earlier studies with children, there was no difference
+  in performance between rotation and translocation displacements. Overall, apes performed
+  above chance in all conditions, but chimpanzees outperformed the other species.
+  This study reinforces the notion that the great apes use an allocentric spatial
+  coding. Am. J. Primatol. 72:349–359, 2010.
+keywords: object permanence, rotations, spatial memory, allocentric spatial coding
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Anna Albiach Serrano
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Jochen Barth
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: space_and_objects
+  specific_domain: tracking_object_displacements
+cognitive_domain:
+  social: false
+  physical: true

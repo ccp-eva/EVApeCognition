@@ -1,0 +1,96 @@
+study_id: bohn2019natural
+year: 2019
+reference: 'Bohn, M., Call, J., & Tomasello, M. (2019). Natural reference: A phylo-
+  and ontogenetic perspective on the comprehension of iconic gestures and vocalizations.
+  Developmental Science, 22(2): e12757. doi:10.1111/desc.12757.'
+abstract: The recognition of iconic correspondence between signal and referent has
+  been argued to bootstrap the acquisition and emergence of language. Here, we study
+  the ontogeny, and to some extent the phylogeny, of the ability to spontaneously
+  relate iconic signals, gestures, and/or vocalizations, to previous experience. Children
+  at 18, 24, and 36 months of age (N = 216) and great apes (N = 13) interacted with
+  two apparatuses, each comprising a distinct action and sound. Subsequently, an experimenter
+  mimicked either the action, the sound, or both in combination to refer to one of
+  the apparatuses. Experiments 1 and 2 found no spontaneous comprehension in great
+  apes and in 18-month- old children. At 24 months of age, children were successful
+  with a composite vocalization-gesture signal but not with either vocalization or
+  gesture alone. At 36 months, children succeeded both with a composite vocalization-gesture
+  signal and with gesture alone, but not with vocalization alone. In general, gestures
+  were understood better compared to vocalizations. Experiment 4 showed that gestures
+  were understood irrespective of how children learned about the corresponding action
+  (through observation or self-experience). This pattern of results demonstrates that
+  iconic signals can be a powerful way to establish reference in the absence of language,
+  but they are not trivial for children to comprehend and not all iconic signals are
+  created equal.
+keywords: evolution, gesture, iconicity, language development, onomatopoeia, sound-symbolism
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Manuel Bohn
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: null
+- author_no: 3
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 2
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_orangutan, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 2015 -2016
+  data_collection_date_comments: Data were collected between November 2015 and June
+    2016.
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 4
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: social_strategies_and_communication
+  specific_domain: communication_with_humans
+cognitive_domain:
+  social: true
+  physical: false

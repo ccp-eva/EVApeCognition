@@ -1,0 +1,65 @@
+study_id: bohn2016comprehension
+year: 2016
+reference: Bohn, M., Call, J., & Tomasello, M. (2016). Comprehension of iconic gestures
+  by chimpanzees and human children. Journal of Experimental Child Psychology, 142,
+  1-17. doi:10.1016/j.jecp.2015.09.001.
+abstract: Iconic gestures—communicative acts using hand or body move ments that resemble
+  their referent—figure prominently in theories of language evolution and development.
+  This study contrasted the abilities of chimpanzees (N = 11) and 4-year-old human
+  children (N = 24) to comprehend novel iconic gestures. Participants learned to retrieve
+  rewards from apparatuses in two distinct locations, each requiring a different action.
+  In the test, a human adult informed the participant where to go by miming the action
+  needed to obtain the reward. Children used the iconic gestures (more than arbitrary
+  gestures) to locate the reward, whereas chimpanzees did not. Some children also
+  used arbitrary gestures in the same way, but only after they had previously shown
+  comprehension for iconic gestures. Over time, chimpanzees learned to associate iconic
+  gestures with the appropriate location faster than arbitrary gestures, suggesting
+  at least some recognition of the iconicity involved. These results demonstrate the
+  importance of iconicity in referential communication
+keywords: Iconic gestures, Referential communication, Language development, Social
+  cognition, Chimpanzees, Evolution
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Manuel Bohn
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Michael Tomasello
+  corr_author: true
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: Annet, Alexandra
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2012,2013
+  data_collection_date_comments: 2012/04/27 to 2013/01/14
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: social_strategies_and_communication
+  specific_domain: communication_with_humans
+cognitive_domain:
+  social: true
+  physical: false

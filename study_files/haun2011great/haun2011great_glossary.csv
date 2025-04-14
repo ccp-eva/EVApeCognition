@@ -1,0 +1,22 @@
+column_name,description
+study_id,personal study ID composed by the first authors’ first surname_year of publication_first title word 
+year,year the data point was obtained  
+month,month the data point was obtained 
+day,day of the month the data point was obtained 
+participant,name of the participant 
+age_original,age provided by author in data file
+age_in_years,age presented in years – see metadata for source of age
+sex,sex of the participant 
+species,species of individuals participating in the study -bonobo/chimpanzee/gorilla/orangutan 
+session,set of trials - mostly occurring on the same day - usually numerical 
+trial,presentation of the experiment to the participants - usually numerical 
+condition,variable referring to the study condition -whether the risk option was hidden in full view of the participant or hidden behind an occluder
+size,small reward relative to the large reward(1)
+first,variable referring to the baiting order -whether the large or the small rewards were baited first
+no_of_cups,number of cups
+what_cups,location of cups (1-4/ left to right)
+baited_cup,location of the cup that was baited (1-4/left to right)
+choice,location of the chosen cup
+success,variable referring to whether the ape chose the cup containing the largest reward
+risk_choice,safe choice = 0/ risky choice =1 
+comments,notes made by corresponding author

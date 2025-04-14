@@ -1,0 +1,50 @@
+study_id: leeuwen2017conservatism
+year: 2017
+reference: Van Leeuwen, E. J. C., & Call, J. (2017). Conservatism and 'copy-if-better'
+  in chimpanzees (Pan troglodytes). Animal Cognition, 20(3), 575-579. doi:10.1007/s10071-016-1061-7.
+abstract: Social learning is predicted to evolve in socially living animals provided
+  the learning process is not random but biased by certain socio-ecological factors.
+  One bias of particular interest for the emergence of (cumulative) culture is the
+  tendency to forgo personal behaviour in favour of relatively better variants observed
+  in others, also known as the ‘‘copy-if-better’’ strategy. We investigated whether
+  chimpanzees employ copy-if-better in a simple token-exchange paradigm controlling
+  for individual and random social learning. After being trained on one token-type,
+  subjects were confronted with a conspecific demonstrator who either received the
+  same food reward as the subject (control condition) or a higher value food reward
+  than the subject (test condition) for exchanging another token-type. In general,
+  the chimpanzees persisted in exchanging the token-type they were trained on individually,
+  indicating a form of conservatism consistent with previous studies. However, the
+  chimpanzees were more inclined to copy the demonstrator in the test compared to
+  the control condition, indicating a tendency to employ a copy-if-better strategy.
+  We discuss the validity of our results by considering alternative explanations and
+  relate our findings to the emergence of cumulative culture.
+keywords: Culture, Social learning, Chimpanzees, Decision-making
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Edwin J. C. van Leeuwen
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2015'
+  data_collection_date_comments: 2015/10/31 to 2015/11/10
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: social_learning_and_culture
+  specific_domain: social_learning_in_foraging
+cognitive_domain:
+  social: true
+  physical: false

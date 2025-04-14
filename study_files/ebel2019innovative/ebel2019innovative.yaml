@@ -1,0 +1,84 @@
+study_id: ebel2019innovative
+year: 2019
+reference: 'Ebel, S. J., Schmelz, M., Herrmann, E., & Call, J. (2019). Innovative
+  problem solving in great apes: The role of visual feedback in the floating peanut
+  task. Animal Cognition, 22(5), 791-805. doi:10.1007/s10071-019-01275-0.'
+abstract: 'Nonhuman great apes show remarkable behavioural flexibility. Some individuals
+  are even able to use water as a tool: They spit water into a vertical tube to make
+  a peanut float upwards until it comes into reach (floating peanut task; FPT). In
+  the current study, we used the FPT to investigate how visual feedback, an end-state
+  demonstration and a social demonstration affect task performance in nonhuman great
+  apes in three experiments. Our results indicate that apes who had acquired the solution
+  with a clear tube maintained it with an opaque one. However, apes starting with
+  an opaque tube failed to solve the task. Additionally, facing the peanut floating
+  on a water-filled tube (i.e., an end-state demonstration) promoted success independent
+  on the availability of visual feedback. Moreover, experiencing how water was poured
+  into the tube either by a human demonstrator or by a water tap that had been opened
+  either by the ape or a human did not seem to be of further assistance. First, this
+  study suggests that great apes require visual feedback for solving the FPT, which
+  is no longer required after the initial acquisition. Second, some subjects benefit
+  from encountering the end-state, a finding corroborating previous studies.'
+keywords: Floating object task, Innovation, Primates, Social learning, Tool use
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Sonja Ebel
+  corr_author: true
+- author_no: 2
+  name: Martin Schmelz
+  corr_author: false
+- author_no: 3
+  name: Esther Herrmann
+  corr_author: false
+- author_no: 1
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: sweetwaters_chimpanzee_old, sweetwaters_chimpanzee_young
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: null
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 3
+  dropout_names: annett, kisha, swela
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: author
+  data_collection_date: 2014-2015
+  data_collection_date_comments: 'chimps.A: 25.10.-05.12.2014, chimps.B: 05.11.-18.12.2014,
+    bonobos: 05.01.-25.01.2015'
+  age_source: data_file_calculated
+  age_source_comments: age_in_years calculated – age_original from data_file
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: dortmund_orangutan, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: author
+  data_collection_date: 2014
+  data_collection_date_comments: 'orangs: Raja, Padana 16.05.-04.06.2014, Dokana 06.07.-12.07.2014,
+    Toba, Tao (Zoo Dortmund) 22.05.-27.05.2014, chimps.A: 22.09.-06.10.2014'
+  age_source: data_file_calculated
+  age_source_comments: age_in_years calculated – age_original from data_file
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: ontogeny_innovation_and_planning
+cognitive_domain:
+  social: false
+  physical: true

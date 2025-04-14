@@ -1,0 +1,56 @@
+study_id: martin2008tubes
+year: 2008
+reference: 'Martin-Ordas, G., Call, J., & Colmenares, F. (2008). Tubes, tables and
+  traps: great apes solve two functionally equivalent trap tasks but show no evidence
+  of transfer across tasks. Animal Cognition, 11(3), 423-430. doi:10.1007/s10071-007-0132-1.'
+abstract: Previous studies on tool using have shown that presenting subjects with
+  certain modifications in the experimental setup can substantially improve their
+  performance. However, procedural modifications (e.g. trap table task) may not only
+  remove task constraints but also simplify the problem conceptually. The goal of
+  this study was to design a variation of the trap-table that was functionally equivalent
+  to the trap-tube task. In this new task, the subjects had to decide where to insert
+  the tool and in which direction the reward should be pushed. We also administered
+  a trap-tube task that allowed animals to push or rake the reward with the tool to
+  compare the subjects’ performance on both tasks. We used a larger sample of subjects
+  than in previous studies and from all the four species of great apes (Gorilla gorilla,
+  Pan troglodytes, Pan paniscus, and Pongo pygmaeus). The results showed that apes
+  performed better in the trap-platform task than in the trap-tube task. Subjects
+  solved the tube task faster than in previous studies and they also preferred to
+  rake in rather than to push the reward out. There was no correlation in the level
+  of performance between both tasks, and no indication of interspecies differences.
+  These data are consistent with the idea that apes may possess some specific causal
+  knowledge of traps but may lack the ability to establish analogical relations between
+  functional equivalent tasks.
+keywords: Tool-use, Action constraints, Primates, Causal knowledge, Analogy
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Gema Martin Ordas
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Fernando Colmenares
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan, wkprc_bonobo, wkprc_gorilla, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file_calculated
+  age_source_comments: age_original in months from author and age_in_years calculated
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: tool_features_and_functions
+cognitive_domain:
+  social: false
+  physical: true

@@ -1,0 +1,67 @@
+study_id: herrmann2006apes
+year: 2006
+reference: Herrmann, E., & Tomasello, M. (2006). Apes' and children's understanding
+  of cooperative and competitive motives in a communicative situation. Developmental
+  Science, 9(5), 518-529. doi:10.1111/j.1467-7687.2006.00519.x.
+abstract: 'Chimpanzees (Pan troglodytes) and bonobos (Pan paniscus) (Study 1) and
+  18- and 24-month-old human children (Study 2) participated in a novel communicative
+  task. A human experimenter (E) hid food or a toy in one of two opaque containers
+  before gesturing towards the reward’s location in one of two ways. In the Informing
+  condition, she attempted to help the subject find the hidden object by simply pointing
+  to the correct container. In the Prohibiting condition, E held out her arm toward
+  the correct container (palm out) and told the subject firmly ‘Don’t take this one.’
+  As in previous studies, the apes were at chance in the Informing condition. However,
+  they were above chance in the new Prohibiting condition. Human 18-month-olds showed
+  this same pattern of results, whereas 24-month-olds showed the opposite pattern:
+  they were better in the Informing condition than in the Prohibiting condition. In
+  our interpretation, success in the Prohibiting condition requires subjects to understand
+  E’s goal toward them and their behavior, and then to make an inference (she would
+  only prohibit if there were something good in there). Success in the Informing condition
+  requires subjects to understand a cooperative communicative motive – which apparently
+  apes and young infants find difficult.'
+keywords: ''
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Esther Herrmann
+  corr_author: true
+- author_no: 2
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 3
+  dropout_names: Corry, Joey, Limbuko
+  group_id: wkprc_chimpanzee_b, wkprc_chimpanzee_a, wkprc_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: ' '
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: social_strategies_and_communication
+  specific_domain: communication_with_humans
+- domain_no: 2
+  general_domain: competition_and_cooperation
+  specific_domain: .nan
+cognitive_domain:
+  social: true
+  physical: false

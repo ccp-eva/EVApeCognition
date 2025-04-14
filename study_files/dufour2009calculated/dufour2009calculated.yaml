@@ -1,0 +1,60 @@
+study_id: dufour2009calculated
+year: 2009
+reference: 'Dufour, V., Péle, M., Neumann, M., Thierry, B., & Call, J. (2009). Calculated
+  reciprocity after all: computation behind token transfers in orang-utans. Biology
+  Letters, 5(2), 172-175. doi:10.1098/rsbl.2008.0644.'
+abstract: Transfers and services are frequent in the animal kingdom. However, there
+  is no clear evidence in animals that such transactions are based on weighing costs
+  and benefits when giving or returning favours and keeping track of them over time
+  (i.e. calculated reciprocity). We tested two orang-utans (Pongo pygmaeus abelii
+  ) in a token-exchange paradigm, in which each individual could exchange a token
+  for food with the experimenter but only after first obtaining the token from the
+  other orang-utan. Each orang-utan possessed tokens valuable to their partner but
+  useless to themselves. Both orangutans actively transferred numerous tokens (mostly
+  partner-valuable) to their partner. One of the orang-utans routinely used gestures
+  to request tokens while the other complied with such requests. Although initially
+  the transfers were biased in one direction, they became more balanced towards the
+  end of the study. Indeed, data on the last three series produced evidence of reciprocity
+  both between and within trials. We observed an increase in the number and complexity
+  of exchanges and alternations. This study is the first experimental demonstration
+  of the occurrence of direct transfers of goods based on calculated reciprocity in
+  non-human-primates.
+keywords: reciprocal giving, exchange, bartering, economics, primates
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Valerie Dufour
+  corr_author: true
+- author_no: 2
+  name: M. Pele
+  corr_author: false
+- author_no: 3
+  name: M. Neumann
+  corr_author: false
+- author_no: 4
+  name: B. Thierry
+  corr_author: false
+- author_no: 5
+  name: J. Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: the_social_economy
+cognitive_domain:
+  social: true
+  physical: false

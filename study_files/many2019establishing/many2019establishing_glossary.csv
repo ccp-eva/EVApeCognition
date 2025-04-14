@@ -1,0 +1,19 @@
+column_name,description
+study_id,personal study ID composed by the first authors’ first surname_year of publication_first title word 
+participant,name of the participant 
+age_in_years,age presented in years – see metadata for source of age
+sex,sex of the participant 
+species,species of individuals participating in the study -chimpanzee/orangutan 
+session,set of trials - mostly occurring on the same day - usually numerical 
+trial,presentation of the experiment to the ape participants - usually numerical 
+test_situation,whether the participant tested alone or in a group - single / group
+task_experience,whether the participant has an experience with choice tasks - yes / no
+block,block number continuous across sessions – each block has three trials of the same delay type
+cup_distance,distance between the cups  measured from center to center in cm excluding units
+board_size,width of the board in cm  excluding units
+delay,delay condition - short/ medium / long
+hiding_location,location where the food reward is hidden  1 = left on the board from experimenter's perspective when facing the participant/  2 = middle / 3=right
+pick,first location indicated by participant after the board has been pushed forward
+correct,1 = yes / cup with food was indicated - 0 = no / cup without food was indicated
+life_expectancy,maximum recorded life span per species
+norm_age,age normed by life expectancy

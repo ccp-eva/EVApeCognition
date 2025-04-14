@@ -1,0 +1,65 @@
+study_id: moore2015production
+year: 2015
+reference: 'Moore, R., Call, J., & Tomasello, M. (2015). Production and comprehension
+  of gestures between orang-utans (Pongo pygmaeus) in a referential communication
+  game. PLoS One, 10(6): e0129726. doi:10.1371/journal.pone.0129726.   OA'
+abstract: Orang-utans played a communication game in two studies testing their ability
+  to produce and comprehend requestive pointing. While the 'communicator' could see
+  but not obtain hidden food, the 'donor' could release the food to the communicator,
+  but could not see its location for herself. They could coordinate successfully if
+  the communicator pointed to the food, and if the donor comprehended his communicative
+  goal and responded pro-socially. In Study 1, one orang-utan pointed regularly and
+  accurately for peers. However, they responded only rarely. In Study 2, a human experimenter
+  played the communicator's role in three conditions, testing the apes' comprehension
+  of points of different heights and different degrees of ostension. There was no
+  effect of condition. However, across conditions one donor performed well individually,
+  and as a group orang-utans' comprehension performance tended towards significance.
+  We explain this on the grounds that comprehension required inferences that they
+  found difficult - but not impossible. The finding has valuable implications for
+  our thinking about the development of pointing in phylogeny.
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Richard Moore
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: ' '
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: ' '
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: social_strategies_and_communication
+  specific_domain: intentional_communication:gestures
+cognitive_domain:
+  social: true
+  physical: false

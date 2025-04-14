@@ -1,0 +1,64 @@
+study_id: bourjade2014bonobos
+year: 2014
+reference: Bourjade, M., Call, J., Pelé, M., Maumy, M., & Dufour, V. (2014). Bonobos
+  and orangutans, but not chimpanzees, flexibly plan for the future in a token-exchange
+  task. Animal Cognition, 17(6), 1329-1340. doi:10.1007/s10071-014-0768-6.
+abstract: Non-human animals, including great apes, have been suggested to share some
+  of the skills for planning that humans commonly exhibit. A crucial difference between
+  human and non-human planning may relate to the diversity of domains and needs in
+  which this skill is expressed. Although great apes can save tools for future use,
+  there is little evidence yet that they can also do so in other contexts. To investigate
+  this question further, we presented the apes with a planning token-exchange task
+  that differed from standard tool-use tasks. Additionally, we manipulated the future
+  outcome of the task to investigate planning flexibility. In the Exchange condition,
+  subjects had to collect, save and transport tokens because they would need them
+  30 min later to exchange them for food with a human, i.e., ‘‘bring-back’’ response.
+  In the Release condition, the collection and transport of tokens were not needed
+  as no exchange took place after 30 min. Out of 13 subjects, eight solved the task
+  at least once in the Exchange condition, with chimpanzees appearing less successful
+  than the other species. Importantly, three individuals showed a clear differential
+  response between conditions by producing more ‘‘bring-back’’ responses in the Exchange
+  than in the Release conditions. Those bonobo and orangutan individuals hence adapted
+  their planning behavior according to changing needs (i.e., they brought tokens back
+  significantly more often when they would need them). Bonobos and orangutans, unlike
+  chimpanzees, planned outside the context of tool-use, thus challenging the idea
+  that planning in these species is purely domain-specific.
+keywords: Future planning, Anticipation, Foresight, Non-human primate, Token exchange
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Marie Bourjade
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Marie Pele
+  corr_author: false
+- author_no: 4
+  name: Myriam Maumy
+  corr_author: false
+- author_no: 5
+  name: Valerie Dufour
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan, wkprc_chimpanzee_b, wkprc_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2007'
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: ontogeny_innovation_and_planning
+cognitive_domain:
+  social: false
+  physical: true

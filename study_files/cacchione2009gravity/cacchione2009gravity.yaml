@@ -1,0 +1,80 @@
+study_id: cacchione2009gravity
+year: 2009
+reference: 'Cacchione, T., Call, J., & Zingg, R. (2009). Gravity and Solidity in Four
+  Great Ape Species (Gorilla gorilla, Pongo pygmaeus, Pan troglodytes, Pan paniscus):
+  Vertical and Horizontal Variations of the Table Task. Journal of Comparative Psychology,
+  123(2), 168-180. doi:10.1037/a0013580.'
+abstract: 'Three experiments modeled after infant studies were run on four great ape
+  species (Gorilla gorilla, Pongo pygmaeus, Pan troglodytes, Pan paniscus) to investigate
+  their reasoning about solidity and gravity constraints. The aims were: (a) to find
+  out if great apes are subject to gravity biased search or display sensitivity for
+  object solidity, (b) to check for species differences, and (c) to assess if a gravity
+  hypothesis or more parsimonious explanations best account for failures observed.
+  Results indicate that great apes, unlike monkeys, show no reliable gravity bias,
+  that ape species slightly differ in terms of their performance, and that the errors
+  made are best explained by a gravity account.'
+keywords: invisible displacement, object solidity, gravity error, naive physics
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Trix Cacchione
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Robert Zingg
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 5
+  dropout_names: null
+  group_id: wkprc_gorilla, zurich_orangutans, wkprc_orangutan, wkprc_chimpanzee_b,
+    wkprc_bonobo, zurich_gorilla
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 5
+  dropout_names: null
+  group_id: wkprc_gorilla, zurich_orangutans, wkprc_orangutan, wkprc_chimpanzee_b,
+    wkprc_bonobo, zurich_gorilla
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 5
+  dropout_names: null
+  group_id: wkprc_gorilla, zurich_orangutans, wkprc_orangutan, wkprc_chimpanzee_b,
+    wkprc_bonobo, zurich_gorilla
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: causal_inferences
+- domain_no: 2
+  general_domain: space_and_objects
+  specific_domain: tracking_object_displacements
+cognitive_domain:
+  social: false
+  physical: true

@@ -1,0 +1,59 @@
+study_id: amici2010monkeys
+year: 2010
+reference: 'Amici, F., Aureli, F., & Call, J. (2010). Monkeys and apes: Are their
+  cognitive skills really so different? American Journal of Physical Anthropology,
+  143(2), 188-197. doi:10.1002/ajpa.21305.'
+abstract: Differences in cognitive skills across taxa, and between monkeys and apes
+  in particular, have been explained by different hypotheses, although these often
+  are not supported by systematic interspecific comparisons. Here, we directly compared
+  the cognitive performance of the four great apes and three monkey species (spider
+  monkeys, capuchin monkeys, and long-tailed macaques), differing in their phylogenetic-relatedness
+  and socioecology. We tested subjects on their ability to remember object locations
+  (memory task), track object displacements (transposition task), and obtain out-of-reach
+  rewards (support task). Our results showed no support for an overall clear-cut distinction
+  in cognitive skills between monkeys and apes as species performance varied substantially
+  across tasks. Although we found differences in performance at tracking object displacements
+  between monkeys and apes, interspecific differences in the other two tasks were
+  better explained in terms of differential socioecology, especially differential
+  levels of fission–fusion dynamics. A cluster analysis using mean scores of each
+  condition of the three tasks for each species suggested that the only dichotomy
+  might be between members of the genus Pan and the rest of the tested species. These
+  findings evidence the importance of using multiple tasks across multiple species
+  in a comparative perspective to test different explanations for the enhancement
+  of specific cognitive skills.
+keywords: comparative cognition, support, memory, transposition, fission–fusion dynamics
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Federica Amici
+  corr_author: true
+- author_no: 2
+  name: Filippo Aureli
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: partial
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_gorilla, wkprc_bonobo, wkrpc_orangutan
+  group_id_excluded: centenario_spidermonkey, istccnr_capuchinmonkey, utrecht_longtailedmacaque
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2008
+  data_collection_date_comments: null
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: space_and_objects
+  specific_domain: tracking_object_displacements
+- domain_no: 2
+  general_domain: tools_and_causality
+  specific_domain: tool_features_and_functions
+cognitive_domain:
+  social: false
+  physical: true

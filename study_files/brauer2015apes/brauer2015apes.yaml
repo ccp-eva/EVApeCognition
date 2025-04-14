@@ -1,0 +1,51 @@
+study_id: brauer2015apes
+year: 2015
+reference: Bräuer, J., & Call, J. (2015). Apes produce tools for future use. American
+  Journal of Primatology, 77(3), 254-263. doi:10.1002/ajp.22341.
+abstract: There is now growing evidence that some animal species are able to plan
+  for the future. For example great apes save and exchange tools for future use. Here
+  we raise the question whether chimpanzees, orangutans, and bonobos would produce
+  tools for future use. Subjects only had access to a baited apparatus for a limited
+  duration and therefore should use the time preceding this access to create the appropriate
+  tools in order to get the rewards. The apes were tested in three conditions depending
+  on the need for pre-prepared tools. Either eight tools, one tool or no tools were
+  needed to retrieve the reward. The apes prepared tools in advance for future use
+  and they produced them mainly in conditions when they were really needed. The fact
+  that apes were able to solve this new task indicates that their planning skills
+  are flexible. However, for the condition in which eight tools were needed, apes
+  produced less than two tools per trial in advance. However, they used their chance
+  to produce additional tools in the tool use phase—thus often obtaining most of the
+  reward from the apparatus. Increased pressure to prepare more tools in advance did
+  not have an effect on their performance. Am. J. Primatol. 77:254–263, 2015.
+keywords: future planning, tool use, primates, mental time travel
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Juliane Braeuer
+  corr_author: null
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_orangutan, wkprc_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 2009 - 2011
+  data_collection_date_comments: They were tested individually (or with their dependent
+    offspring) in familiar testing cages by one of three familiar experimenters (henceforth
+    E) from 2009 to 2011
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: ontogeny_innovation_and_planning
+cognitive_domain:
+  social: false
+  physical: true

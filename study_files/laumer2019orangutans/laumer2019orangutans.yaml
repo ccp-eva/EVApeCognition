@@ -1,0 +1,121 @@
+study_id: laumer2019orangutans
+year: 2019
+reference: 'Laumer, I. B., Auersperg, A. M. I., Bugnyar, T., & Call, J. (2019). Orangutans
+  (Pongo abelii) make flexible decisions relative to reward quality and tool functionality
+  in a multi-dimensional tool-use task. PLoS One, 14(2): e0211031. doi:10.1371/journal.pone.0211031.'
+abstract: Making economic decisions in a natural foraging situation that involves
+  the use of tools may require an animal to consider more levels of relational complexity
+  than merely deciding between an immediate and a delayed food option. We used the
+  same method previously used with Goffin´s cockatoos to investigate the orangutans'
+  flexibility for making the most profitable decisions when confronted with five different
+  settings that included one or two different apparatuses, two different tools and
+  two food items (one more preferred than the other). We found that orangutans made
+  profitable decisions relative to reward quality, when the task required the subjects
+  to select a tool over an immediately accessible food reward. Furthermore, most subjects
+  were sensitive to work-effort when the immediate and the delayed option (directly
+  accessible by using a tool) led to the same outcome. Most subjects continued to
+  make profitable decisions that required taking into account the tool functionality.
+  In a final multidimensional task design in which subjects had to simultaneously
+  focus on two apparatuses, two reward qualities and two different tools, the orangutans
+  chose the functional tool to access the high quality reward.
+keywords: ''
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Isabelle B. Laumer
+  corr_author: true
+- author_no: 2
+  name: Alice M. I. Auersperg
+  corr_author: false
+- author_no: 3
+  name: Thomas Bugnyar
+  corr_author: false
+- author_no: 4
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2015'
+  data_collection_date_comments: 2015/03/26 to 2015/04/19
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2015'
+  data_collection_date_comments: 2015/03/28 to 2015/04/28
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2015'
+  data_collection_date_comments: 2015/04/4 to 2015/04/30
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 4
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2015'
+  data_collection_date_comments: 2015/04/6 to 2015/05/8
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 5
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2015'
+  data_collection_date_comments: 2015/04/20 to 2015/05/10
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 6
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2015'
+  data_collection_date_comments: 2015/03/6 to 2015/05/10
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: ontogeny_innovation_and_planning
+cognitive_domain:
+  social: false
+  physical: true

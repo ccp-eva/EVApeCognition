@@ -1,0 +1,487 @@
+﻿study_id,experiment,year,month,day,participant,age_in_years,sex,species,session,trial,tooltype,suitability,modify,getsjuice,technic,modifiable,success,modif_lid,modif_bar
+manrique2011spontaneous,2,2009,4,19,joey,26,m,bonobo,1.0,1.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,19,joey,26,m,bonobo,1.0,2.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,19,joey,26,m,bonobo,1.0,3.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,20,joey,26,m,bonobo,2.0,1.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,20,joey,26,m,bonobo,2.0,2.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,20,joey,26,m,bonobo,2.0,3.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,21,joey,26,m,bonobo,3.0,1.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,21,joey,26,m,bonobo,3.0,2.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,21,joey,26,m,bonobo,3.0,3.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,22,joey,26,m,bonobo,4.0,1.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,22,joey,26,m,bonobo,4.0,2.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,22,joey,26,m,bonobo,4.0,3.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,25,joey,26,m,bonobo,5.0,1.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,25,joey,26,m,bonobo,5.0,2.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,25,joey,26,m,bonobo,5.0,3.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,26,joey,26,m,bonobo,6.0,1.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,26,joey,26,m,bonobo,6.0,2.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,26,joey,26,m,bonobo,6.0,3.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,8,kuno,12,m,bonobo,1.0,1.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,8,kuno,12,m,bonobo,1.0,2.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,8,kuno,12,m,bonobo,1.0,3.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,11,kuno,12,m,bonobo,2.0,1.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,11,kuno,12,m,bonobo,2.0,2.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,11,kuno,12,m,bonobo,2.0,3.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,12,kuno,12,m,bonobo,3.0,1.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,12,kuno,12,m,bonobo,3.0,2.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,12,kuno,12,m,bonobo,3.0,3.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,14,kuno,12,m,bonobo,4.0,1.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,14,kuno,12,m,bonobo,4.0,2.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,14,kuno,12,m,bonobo,4.0,3.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,15,kuno,12,m,bonobo,5.0,1.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,15,kuno,12,m,bonobo,5.0,2.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,15,kuno,12,m,bonobo,5.0,3.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,18,kuno,12,m,bonobo,6.0,1.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,18,kuno,12,m,bonobo,6.0,2.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,18,kuno,12,m,bonobo,6.0,3.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,19,ulindi,15,f,bonobo,1.0,1.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,19,ulindi,15,f,bonobo,1.0,2.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,19,ulindi,15,f,bonobo,1.0,3.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,20,ulindi,15,f,bonobo,2.0,1.0,dowel,functional,partial,yes,dipplick,,not_empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,4,20,ulindi,15,f,bonobo,2.0,2.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,20,ulindi,15,f,bonobo,2.0,3.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,21,ulindi,15,f,bonobo,3.0,1.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,4,21,ulindi,15,f,bonobo,3.0,2.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,21,ulindi,15,f,bonobo,3.0,3.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,4,22,ulindi,15,f,bonobo,4.0,1.0,dowel,nofunctional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,4,22,ulindi,15,f,bonobo,4.0,2.0,dowel,nofunctional,no,yes,dipplick,sametool,not_empties_the_apparatus,,
+manrique2011spontaneous,2,2009,4,22,ulindi,15,f,bonobo,4.0,3.0,dowel,nofunctional,no,yes,dipplick,sametool,not_empties_the_apparatus,,
+manrique2011spontaneous,2,2009,4,25,ulindi,15,f,bonobo,5.0,1.0,dowel,nofunctional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,4,25,ulindi,15,f,bonobo,5.0,2.0,dowel,nofunctional,no,yes,dipplick,sametool,not_empties_the_apparatus,,
+manrique2011spontaneous,2,2009,4,25,ulindi,15,f,bonobo,5.0,3.0,dowel,nofunctional,no,yes,dipplick,sametool,not_empties_the_apparatus,,
+manrique2011spontaneous,2,2009,4,26,ulindi,15,f,bonobo,6.0,1.0,dowel,nofunctional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,4,26,ulindi,15,f,bonobo,6.0,2.0,dowel,nofunctional,no,yes,dipplick,sametool,not_empties_the_apparatus,,
+manrique2011spontaneous,2,2009,4,26,ulindi,15,f,bonobo,6.0,3.0,dowel,nofunctional,no,yes,dipplick,sametool,not_empties_the_apparatus,,
+manrique2011spontaneous,2,2009,5,6,limbuko,13,m,bonobo,1.0,1.0,dowel,nofunctional,no,no,notry,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,6,limbuko,13,m,bonobo,1.0,2.0,dowel,nofunctional,straw,no,notry,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,5,6,limbuko,13,m,bonobo,1.0,3.0,dowel,nofunctional,straw,no,notry,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,5,8,limbuko,13,m,bonobo,2.0,1.0,dowel,nofunctional,no,no,notry,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,8,limbuko,13,m,bonobo,2.0,2.0,dowel,nofunctional,no,no,notry,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,8,limbuko,13,m,bonobo,2.0,3.0,dowel,nofunctional,partial,yes,dipplick,,not_empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,5,11,limbuko,13,m,bonobo,3.0,1.0,dowel,nofunctional,partial,yes,dipplick,,not_empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,5,11,limbuko,13,m,bonobo,3.0,2.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,5,11,limbuko,13,m,bonobo,3.0,3.0,dowel,nofunctional,partial,yes,dipplick,,not_empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,5,12,limbuko,13,m,bonobo,4.0,1.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,5,12,limbuko,13,m,bonobo,4.0,2.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,5,12,limbuko,13,m,bonobo,4.0,3.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,5,14,limbuko,13,m,bonobo,5.0,1.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,5,14,limbuko,13,m,bonobo,5.0,2.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,5,14,limbuko,13,m,bonobo,5.0,3.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,5,15,limbuko,13,m,bonobo,6.0,1.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,5,15,limbuko,13,m,bonobo,6.0,2.0,dowel,functional,no,yes,dipplick,sametool,not_empties_the_apparatus,,
+manrique2011spontaneous,2,2009,5,15,limbuko,13,m,bonobo,6.0,3.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,4,20,yasa,11,f,bonobo,1.0,1.0,dowel,nofunctional,no,no,notry,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,20,yasa,11,f,bonobo,1.0,2.0,dowel,nofunctional,no,no,notry,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,4,20,yasa,11,f,bonobo,1.0,3.0,dowel,nofunctional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,4,21,yasa,11,f,bonobo,2.0,1.0,dowel,nofunctional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,4,21,yasa,11,f,bonobo,2.0,2.0,dowel,nofunctional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,4,21,yasa,11,f,bonobo,2.0,3.0,dowel,nofunctional,no,yes,dipplick,sametool,not_empties_the_apparatus,,
+manrique2011spontaneous,2,2009,4,22,yasa,11,f,bonobo,3.0,1.0,dowel,nofunctional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,4,22,yasa,11,f,bonobo,3.0,2.0,dowel,nofunctional,no,yes,dipplick,sametool,not_empties_the_apparatus,,
+manrique2011spontaneous,2,2009,4,22,yasa,11,f,bonobo,3.0,3.0,dowel,nofunctional,partial,yes,dipplick,,not_empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,4,25,yasa,11,f,bonobo,4.0,1.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,4,25,yasa,11,f,bonobo,4.0,2.0,dowel,functional,no,yes,dipplick,sametool,not_empties_the_apparatus,,
+manrique2011spontaneous,2,2009,4,25,yasa,11,f,bonobo,4.0,3.0,dowel,functional,no,yes,dipplick,sametool,not_empties_the_apparatus,,
+manrique2011spontaneous,2,2009,4,26,yasa,11,f,bonobo,5.0,1.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,4,26,yasa,11,f,bonobo,5.0,2.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,4,26,yasa,11,f,bonobo,5.0,3.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,5,5,yasa,11,f,bonobo,6.0,1.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,5,5,yasa,11,f,bonobo,6.0,2.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,5,5,yasa,11,f,bonobo,6.0,3.0,dowel,functional,no,no,notry,sametool,not_empties_the_apparatus,,
+manrique2011spontaneous,2,2009,6,3,alex,8,m,chimpanzee,1.0,1.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,3,alex,8,m,chimpanzee,1.0,2.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,3,alex,8,m,chimpanzee,1.0,3.0,dowel,functional,partial,yes,strawlike,,empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,6,4,alex,8,m,chimpanzee,2.0,1.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,4,alex,8,m,chimpanzee,2.0,2.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,4,alex,8,m,chimpanzee,2.0,3.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,5,alex,8,m,chimpanzee,3.0,1.0,dowel,functional,partial,yes,strawlike,,empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,6,5,alex,8,m,chimpanzee,3.0,2.0,dowel,functional,partial,yes,strawlike,,empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,6,5,alex,8,m,chimpanzee,3.0,3.0,dowel,functional,partial,yes,strawlike,,empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,6,6,alex,8,m,chimpanzee,4.0,1.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,6,6,alex,8,m,chimpanzee,4.0,2.0,dowel,nofunctional,partial,no,strawlike,,not_empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,6,6,alex,8,m,chimpanzee,4.0,3.0,dowel,nofunctional,partial,yes,dipplick,,not_empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,6,7,alex,8,m,chimpanzee,5.0,1.0,dowel,nofunctional,partial,yes,strawlike,,empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,6,7,alex,8,m,chimpanzee,5.0,2.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,6,7,alex,8,m,chimpanzee,5.0,3.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,6,8,alex,8,m,chimpanzee,6.0,1.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,6,8,alex,8,m,chimpanzee,6.0,2.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,6,8,alex,8,m,chimpanzee,6.0,3.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,6,9,alex,8,m,chimpanzee,22.0,1.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,9,alex,8,m,chimpanzee,22.0,2.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,9,alex,8,m,chimpanzee,22.0,3.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,10,alex,8,m,chimpanzee,23.0,1.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,10,alex,8,m,chimpanzee,23.0,2.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,10,alex,8,m,chimpanzee,23.0,3.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,11,alex,8,m,chimpanzee,24.0,1.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,11,alex,8,m,chimpanzee,24.0,2.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,11,alex,8,m,chimpanzee,24.0,3.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,12,alex,8,m,chimpanzee,25.0,1.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,12,alex,8,m,chimpanzee,25.0,2.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,12,alex,8,m,chimpanzee,25.0,3.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,13,alex,8,m,chimpanzee,26.0,1.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,13,alex,8,m,chimpanzee,26.0,2.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,13,alex,8,m,chimpanzee,26.0,3.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,14,alex,8,m,chimpanzee,27.0,1.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,14,alex,8,m,chimpanzee,27.0,2.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,14,alex,8,m,chimpanzee,27.0,3.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,2,gertrudia,16,f,chimpanzee,1.0,1.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,2,gertrudia,16,f,chimpanzee,1.0,2.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,2,gertrudia,16,f,chimpanzee,1.0,3.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,3,gertrudia,16,f,chimpanzee,2.0,1.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,3,gertrudia,16,f,chimpanzee,2.0,2.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,3,gertrudia,16,f,chimpanzee,2.0,3.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,4,gertrudia,16,f,chimpanzee,3.0,1.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,4,gertrudia,16,f,chimpanzee,3.0,2.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,4,gertrudia,16,f,chimpanzee,3.0,3.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,5,gertrudia,16,f,chimpanzee,4.0,1.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,5,gertrudia,16,f,chimpanzee,4.0,2.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,5,gertrudia,16,f,chimpanzee,4.0,3.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,6,gertrudia,16,f,chimpanzee,5.0,1.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,6,gertrudia,16,f,chimpanzee,5.0,2.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,6,gertrudia,16,f,chimpanzee,5.0,3.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,7,gertrudia,16,f,chimpanzee,6.0,1.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,7,gertrudia,16,f,chimpanzee,6.0,2.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,7,gertrudia,16,f,chimpanzee,6.0,3.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,8,gertrudia,16,f,chimpanzee,22.0,1.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,8,gertrudia,16,f,chimpanzee,22.0,2.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,8,gertrudia,16,f,chimpanzee,22.0,3.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,9,gertrudia,16,f,chimpanzee,23.0,1.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,9,gertrudia,16,f,chimpanzee,23.0,2.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,9,gertrudia,16,f,chimpanzee,23.0,3.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,10,gertrudia,16,f,chimpanzee,24.0,1.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,10,gertrudia,16,f,chimpanzee,24.0,2.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,10,gertrudia,16,f,chimpanzee,24.0,3.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,11,gertrudia,16,f,chimpanzee,25.0,1.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,11,gertrudia,16,f,chimpanzee,25.0,2.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,11,gertrudia,16,f,chimpanzee,25.0,3.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,12,gertrudia,16,f,chimpanzee,26.0,1.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,12,gertrudia,16,f,chimpanzee,26.0,2.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,12,gertrudia,16,f,chimpanzee,26.0,3.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,13,gertrudia,16,f,chimpanzee,27.0,1.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,13,gertrudia,16,f,chimpanzee,27.0,2.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,13,gertrudia,16,f,chimpanzee,27.0,3.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,1,jahaga,16,f,chimpanzee,1.0,1.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,1,jahaga,16,f,chimpanzee,1.0,2.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,1,jahaga,16,f,chimpanzee,1.0,3.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,2,jahaga,16,f,chimpanzee,2.0,1.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,2,jahaga,16,f,chimpanzee,2.0,2.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,2,jahaga,16,f,chimpanzee,2.0,3.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,3,jahaga,16,f,chimpanzee,3.0,1.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,3,jahaga,16,f,chimpanzee,3.0,2.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,3,jahaga,16,f,chimpanzee,3.0,3.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,4,jahaga,16,f,chimpanzee,4.0,1.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,4,jahaga,16,f,chimpanzee,4.0,2.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,4,jahaga,16,f,chimpanzee,4.0,3.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,5,jahaga,16,f,chimpanzee,5.0,1.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,5,jahaga,16,f,chimpanzee,5.0,2.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,5,jahaga,16,f,chimpanzee,5.0,3.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,6,jahaga,16,f,chimpanzee,6.0,1.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,6,jahaga,16,f,chimpanzee,6.0,2.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,6,jahaga,16,f,chimpanzee,6.0,3.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,7,jahaga,16,f,chimpanzee,22.0,1.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,7,jahaga,16,f,chimpanzee,22.0,2.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,7,jahaga,16,f,chimpanzee,22.0,3.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,8,jahaga,16,f,chimpanzee,23.0,1.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,8,jahaga,16,f,chimpanzee,23.0,2.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,8,jahaga,16,f,chimpanzee,23.0,3.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,9,jahaga,16,f,chimpanzee,24.0,1.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,9,jahaga,16,f,chimpanzee,24.0,2.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,9,jahaga,16,f,chimpanzee,24.0,3.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,10,jahaga,16,f,chimpanzee,25.0,1.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,10,jahaga,16,f,chimpanzee,25.0,2.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,10,jahaga,16,f,chimpanzee,25.0,3.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,11,jahaga,16,f,chimpanzee,26.0,1.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,11,jahaga,16,f,chimpanzee,26.0,2.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,11,jahaga,16,f,chimpanzee,26.0,3.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,12,jahaga,16,f,chimpanzee,27.0,1.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,12,jahaga,16,f,chimpanzee,27.0,2.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,12,jahaga,16,f,chimpanzee,27.0,3.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,1,fifi,16,f,chimpanzee,1.0,1.0,dowel,functional,partial,yes,dipplick,,not_empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,6,1,fifi,16,f,chimpanzee,1.0,2.0,dowel,functional,partial,yes,dipplick,,not_empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,6,1,fifi,16,f,chimpanzee,1.0,3.0,dowel,functional,partial,yes,dipplick,,not_empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,6,2,fifi,16,f,chimpanzee,2.0,1.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,2,fifi,16,f,chimpanzee,2.0,2.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,2,fifi,16,f,chimpanzee,2.0,3.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,3,fifi,16,f,chimpanzee,3.0,1.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,3,fifi,16,f,chimpanzee,3.0,2.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,3,fifi,16,f,chimpanzee,3.0,3.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,4,fifi,16,f,chimpanzee,4.0,1.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,4,fifi,16,f,chimpanzee,4.0,2.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,4,fifi,16,f,chimpanzee,4.0,3.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,5,fifi,16,f,chimpanzee,5.0,1.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,5,fifi,16,f,chimpanzee,5.0,2.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,5,fifi,16,f,chimpanzee,5.0,3.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,6,fifi,16,f,chimpanzee,6.0,1.0,dowel,nofunctional,partial,yes,dipplick,,not_empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,6,6,fifi,16,f,chimpanzee,6.0,2.0,dowel,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,6,fifi,16,f,chimpanzee,6.0,3.0,dowel,nofunctional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,6,7,fifi,16,f,chimpanzee,22.0,1.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,7,fifi,16,f,chimpanzee,22.0,2.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,7,fifi,16,f,chimpanzee,22.0,3.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,8,fifi,16,f,chimpanzee,23.0,1.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,8,fifi,16,f,chimpanzee,23.0,2.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,8,fifi,16,f,chimpanzee,23.0,3.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,9,fifi,16,f,chimpanzee,24.0,1.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,9,fifi,16,f,chimpanzee,24.0,2.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,9,fifi,16,f,chimpanzee,24.0,3.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,10,fifi,16,f,chimpanzee,25.0,1.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,10,fifi,16,f,chimpanzee,25.0,2.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,10,fifi,16,f,chimpanzee,25.0,3.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,11,fifi,16,f,chimpanzee,26.0,1.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,11,fifi,16,f,chimpanzee,26.0,2.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,11,fifi,16,f,chimpanzee,26.0,3.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,12,fifi,16,f,chimpanzee,27.0,1.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,12,fifi,16,f,chimpanzee,27.0,2.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,12,fifi,16,f,chimpanzee,27.0,3.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,3,alexandra,9,f,chimpanzee,1.0,1.0,dowel,nofunctional,partial,yes,dipplick,,not_empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,6,3,alexandra,9,f,chimpanzee,1.0,2.0,dowel,nofunctional,partial,yes,dipplick,,not_empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,6,3,alexandra,9,f,chimpanzee,1.0,3.0,dowel,nofunctional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,6,4,alexandra,9,f,chimpanzee,2.0,1.0,dowel,nofunctional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,6,4,alexandra,9,f,chimpanzee,2.0,2.0,dowel,nofunctional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,6,4,alexandra,9,f,chimpanzee,2.0,3.0,dowel,nofunctional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,6,5,alexandra,9,f,chimpanzee,3.0,1.0,dowel,nofunctional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,6,5,alexandra,9,f,chimpanzee,3.0,2.0,dowel,nofunctional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,6,5,alexandra,9,f,chimpanzee,3.0,3.0,dowel,nofunctional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,6,6,alexandra,9,f,chimpanzee,4.0,1.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,6,6,alexandra,9,f,chimpanzee,4.0,2.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,6,6,alexandra,9,f,chimpanzee,4.0,3.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,7,alexandra,9,f,chimpanzee,5.0,1.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,7,alexandra,9,f,chimpanzee,5.0,2.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,7,alexandra,9,f,chimpanzee,5.0,3.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,8,alexandra,9,f,chimpanzee,6.0,1.0,dowel,functional,no,yes,dipplick,,not_empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,6,8,alexandra,9,f,chimpanzee,6.0,2.0,dowel,functional,partial,yes,dipplick,,not_empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,6,8,alexandra,9,f,chimpanzee,6.0,3.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,6,9,alexandra,9,f,chimpanzee,22.0,1.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,9,alexandra,9,f,chimpanzee,22.0,2.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,9,alexandra,9,f,chimpanzee,22.0,3.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,10,alexandra,9,f,chimpanzee,23.0,1.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,10,alexandra,9,f,chimpanzee,23.0,2.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,10,alexandra,9,f,chimpanzee,23.0,3.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,11,alexandra,9,f,chimpanzee,24.0,1.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,11,alexandra,9,f,chimpanzee,24.0,2.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,11,alexandra,9,f,chimpanzee,24.0,3.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,12,alexandra,9,f,chimpanzee,25.0,1.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,12,alexandra,9,f,chimpanzee,25.0,2.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,12,alexandra,9,f,chimpanzee,25.0,3.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,13,alexandra,9,f,chimpanzee,26.0,1.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,13,alexandra,9,f,chimpanzee,26.0,2.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,13,alexandra,9,f,chimpanzee,26.0,3.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,14,alexandra,9,f,chimpanzee,27.0,1.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,14,alexandra,9,f,chimpanzee,27.0,2.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,6,14,alexandra,9,f,chimpanzee,27.0,3.0,metalbar,functional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,2,10,bimbo,28,m,orangutan,1.0,1.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,10,bimbo,28,m,orangutan,1.0,2.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,10,bimbo,28,m,orangutan,1.0,3.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,12,bimbo,28,m,orangutan,2.0,1.0,dowel,functional,partial,yes,dipplick,,not_empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,2,12,bimbo,28,m,orangutan,2.0,2.0,dowel,functional,partial,yes,dipplick,,not_empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,2,12,bimbo,28,m,orangutan,2.0,3.0,dowel,functional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,14,bimbo,28,m,orangutan,3.0,1.0,dowel,functional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,14,bimbo,28,m,orangutan,3.0,2.0,dowel,functional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,14,bimbo,28,m,orangutan,3.0,3.0,dowel,functional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,15,bimbo,28,m,orangutan,4.0,1.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,15,bimbo,28,m,orangutan,4.0,2.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,15,bimbo,28,m,orangutan,4.0,3.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,16,bimbo,28,m,orangutan,5.0,1.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,16,bimbo,28,m,orangutan,5.0,2.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,16,bimbo,28,m,orangutan,5.0,3.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,18,bimbo,28,m,orangutan,6.0,1.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,18,bimbo,28,m,orangutan,6.0,2.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,18,bimbo,28,m,orangutan,6.0,3.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,20,bimbo,28,m,orangutan,22.0,1.0,metalbar,functional,partial,no,notry,,not_empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,2,20,bimbo,28,m,orangutan,22.0,2.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,2,20,bimbo,28,m,orangutan,22.0,3.0,metalbar,functional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,3,bimbo,28,m,orangutan,23.0,1.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,3,bimbo,28,m,orangutan,23.0,2.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,3,bimbo,28,m,orangutan,23.0,3.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,4,bimbo,28,m,orangutan,24.0,1.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,4,bimbo,28,m,orangutan,24.0,2.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,4,bimbo,28,m,orangutan,24.0,3.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,5,bimbo,28,m,orangutan,25.0,1.0,metalbar,nofunctional,partial,no,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,5,bimbo,28,m,orangutan,25.0,2.0,metalbar,nofunctional,partial,no,strawlike,,not_empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,5,bimbo,28,m,orangutan,25.0,3.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,7,bimbo,28,m,orangutan,26.0,1.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,7,bimbo,28,m,orangutan,26.0,2.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,7,bimbo,28,m,orangutan,26.0,3.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,8,bimbo,28,m,orangutan,27.0,1.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,8,bimbo,28,m,orangutan,27.0,2.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,8,bimbo,28,m,orangutan,27.0,3.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,2,10,padana,11,f,orangutan,1.0,1.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,10,padana,11,f,orangutan,1.0,2.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,10,padana,11,f,orangutan,1.0,3.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,12,padana,11,f,orangutan,2.0,1.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,12,padana,11,f,orangutan,2.0,2.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,12,padana,11,f,orangutan,2.0,3.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,14,padana,11,f,orangutan,3.0,1.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,14,padana,11,f,orangutan,3.0,2.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,14,padana,11,f,orangutan,3.0,3.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,15,padana,11,f,orangutan,4.0,1.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,15,padana,11,f,orangutan,4.0,2.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,15,padana,11,f,orangutan,4.0,3.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,16,padana,11,f,orangutan,5.0,1.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,16,padana,11,f,orangutan,5.0,2.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,16,padana,11,f,orangutan,5.0,3.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,18,padana,11,f,orangutan,6.0,1.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,18,padana,11,f,orangutan,6.0,2.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,18,padana,11,f,orangutan,6.0,3.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,20,padana,11,f,orangutan,22.0,1.0,metalbar,nofunctional,no,no,strawlike,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,2,20,padana,11,f,orangutan,22.0,2.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,2,20,padana,11,f,orangutan,22.0,3.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,3,padana,11,f,orangutan,23.0,1.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,3,padana,11,f,orangutan,23.0,2.0,metalbar,nofunctional,no,no,strawlike,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,3,padana,11,f,orangutan,23.0,3.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,4,padana,11,f,orangutan,24.0,1.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,4,padana,11,f,orangutan,24.0,2.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,4,padana,11,f,orangutan,24.0,3.0,metalbar,nofunctional,no,no,strawlike,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,5,padana,11,f,orangutan,25.0,1.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,5,padana,11,f,orangutan,25.0,2.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,5,padana,11,f,orangutan,25.0,3.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,7,padana,11,f,orangutan,26.0,1.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,7,padana,11,f,orangutan,26.0,2.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,7,padana,11,f,orangutan,26.0,3.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,8,padana,11,f,orangutan,27.0,1.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,8,padana,11,f,orangutan,27.0,2.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,8,padana,11,f,orangutan,27.0,3.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,2,10,pini,20,f,orangutan,1.0,1.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,10,pini,20,f,orangutan,1.0,2.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,10,pini,20,f,orangutan,1.0,3.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,12,pini,20,f,orangutan,2.0,1.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,12,pini,20,f,orangutan,2.0,2.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,12,pini,20,f,orangutan,2.0,3.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,14,pini,20,f,orangutan,3.0,1.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,14,pini,20,f,orangutan,3.0,2.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,14,pini,20,f,orangutan,3.0,3.0,dowel,functional,partial,yes,strawlike,,empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,2,15,pini,20,f,orangutan,4.0,1.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,15,pini,20,f,orangutan,4.0,2.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,15,pini,20,f,orangutan,4.0,3.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,16,pini,20,f,orangutan,5.0,1.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,16,pini,20,f,orangutan,5.0,2.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,16,pini,20,f,orangutan,5.0,3.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,18,pini,20,f,orangutan,6.0,1.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,18,pini,20,f,orangutan,6.0,2.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,18,pini,20,f,orangutan,6.0,3.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,20,pini,20,f,orangutan,22.0,1.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,2,20,pini,20,f,orangutan,22.0,2.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,2,20,pini,20,f,orangutan,22.0,3.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,3,pini,20,f,orangutan,23.0,1.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,3,pini,20,f,orangutan,23.0,2.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,3,pini,20,f,orangutan,23.0,3.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,4,pini,20,f,orangutan,24.0,1.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,4,pini,20,f,orangutan,24.0,2.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,4,pini,20,f,orangutan,24.0,3.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,5,pini,20,f,orangutan,25.0,1.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,5,pini,20,f,orangutan,25.0,2.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,5,pini,20,f,orangutan,25.0,3.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,7,pini,20,f,orangutan,26.0,1.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,7,pini,20,f,orangutan,26.0,2.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,7,pini,20,f,orangutan,26.0,3.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,8,pini,20,f,orangutan,27.0,1.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,8,pini,20,f,orangutan,27.0,2.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,8,pini,20,f,orangutan,27.0,3.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,2,10,dokana,20,f,orangutan,1.0,1.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,10,dokana,20,f,orangutan,1.0,2.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,10,dokana,20,f,orangutan,1.0,3.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,12,dokana,20,f,orangutan,2.0,1.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,12,dokana,20,f,orangutan,2.0,2.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,12,dokana,20,f,orangutan,2.0,3.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,14,dokana,20,f,orangutan,3.0,1.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,14,dokana,20,f,orangutan,3.0,2.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,14,dokana,20,f,orangutan,3.0,3.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,2,15,dokana,20,f,orangutan,4.0,1.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,15,dokana,20,f,orangutan,4.0,2.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,15,dokana,20,f,orangutan,4.0,3.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,16,dokana,20,f,orangutan,5.0,1.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,16,dokana,20,f,orangutan,5.0,2.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,16,dokana,20,f,orangutan,5.0,3.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,18,dokana,20,f,orangutan,6.0,1.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,18,dokana,20,f,orangutan,6.0,2.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,18,dokana,20,f,orangutan,6.0,3.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,20,dokana,20,f,orangutan,22.0,1.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,2,20,dokana,20,f,orangutan,22.0,2.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,2,20,dokana,20,f,orangutan,22.0,3.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,3,dokana,20,f,orangutan,23.0,1.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,3,dokana,20,f,orangutan,23.0,2.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,3,dokana,20,f,orangutan,23.0,3.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,4,dokana,20,f,orangutan,24.0,1.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,4,dokana,20,f,orangutan,24.0,2.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,4,dokana,20,f,orangutan,24.0,3.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,7,dokana,20,f,orangutan,25.0,1.0,metalbar,nofunctional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,7,dokana,20,f,orangutan,25.0,2.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,5,dokana,20,f,orangutan,25.0,3.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,7,dokana,20,f,orangutan,26.0,1.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,7,dokana,20,f,orangutan,26.0,2.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,7,dokana,20,f,orangutan,26.0,3.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,8,dokana,20,f,orangutan,27.0,1.0,metalbar,nofunctional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,8,dokana,20,f,orangutan,27.0,2.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,8,dokana,20,f,orangutan,27.0,3.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,3,dunja,35,f,orangutan,1.0,1.0,dowel,nofunctional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,3,dunja,35,f,orangutan,1.0,2.0,dowel,nofunctional,straw,no,notry,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,3,dunja,35,f,orangutan,1.0,3.0,dowel,nofunctional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,4,dunja,35,f,orangutan,2.0,1.0,dowel,nofunctional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,4,dunja,35,f,orangutan,2.0,2.0,dowel,nofunctional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,4,dunja,35,f,orangutan,2.0,3.0,dowel,nofunctional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,5,dunja,35,f,orangutan,3.0,1.0,dowel,nofunctional,straw,no,notry,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,5,dunja,35,f,orangutan,3.0,2.0,dowel,nofunctional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,5,dunja,35,f,orangutan,3.0,3.0,dowel,nofunctional,straw,no,notry,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,7,dunja,35,f,orangutan,4.0,1.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,7,dunja,35,f,orangutan,4.0,2.0,dowel,functional,straw,yes,dipplick,,not_empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,7,dunja,35,f,orangutan,4.0,3.0,dowel,functional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,8,dunja,35,f,orangutan,5.0,1.0,dowel,functional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,8,dunja,35,f,orangutan,5.0,2.0,dowel,functional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,8,dunja,35,f,orangutan,5.0,3.0,dowel,functional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,9,dunja,35,f,orangutan,6.0,1.0,dowel,functional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,9,dunja,35,f,orangutan,6.0,2.0,dowel,functional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,9,dunja,35,f,orangutan,6.0,3.0,dowel,functional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,11,dunja,35,f,orangutan,22.0,1.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,11,dunja,35,f,orangutan,22.0,2.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,11,dunja,35,f,orangutan,22.0,3.0,metalbar,nofunctional,straw,no,strawlike,,not_empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,14,dunja,35,f,orangutan,23.0,1.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,14,dunja,35,f,orangutan,23.0,2.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,14,dunja,35,f,orangutan,23.0,3.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,15,dunja,35,f,orangutan,24.0,1.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,15,dunja,35,f,orangutan,24.0,2.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,15,dunja,35,f,orangutan,24.0,3.0,metalbar,nofunctional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,16,dunja,35,f,orangutan,25.0,1.0,metalbar,functional,no,no,notry,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,16,dunja,35,f,orangutan,25.0,2.0,metalbar,functional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,16,dunja,35,f,orangutan,25.0,3.0,metalbar,functional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,17,dunja,35,f,orangutan,26.0,1.0,metalbar,functional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,17,dunja,35,f,orangutan,26.0,2.0,metalbar,functional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,17,dunja,35,f,orangutan,26.0,3.0,metalbar,functional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,18,dunja,35,f,orangutan,27.0,1.0,metalbar,functional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,18,dunja,35,f,orangutan,27.0,2.0,metalbar,functional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,3,18,dunja,35,f,orangutan,27.0,3.0,metalbar,functional,straw,yes,strawlike,,empties_the_apparatus,,removes metalbar
+manrique2011spontaneous,2,2009,2,20,kila,8,f,orangutan,1.0,1.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,20,kila,8,f,orangutan,1.0,2.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,2,20,kila,8,f,orangutan,1.0,3.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,3,kila,8,f,orangutan,2.0,1.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,3,kila,8,f,orangutan,2.0,2.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,3,kila,8,f,orangutan,2.0,3.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,4,kila,8,f,orangutan,3.0,1.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,4,kila,8,f,orangutan,3.0,2.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,4,kila,8,f,orangutan,3.0,3.0,dowel,nofunctional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,5,kila,8,f,orangutan,4.0,1.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,3,5,kila,8,f,orangutan,4.0,2.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,3,5,kila,8,f,orangutan,4.0,3.0,dowel,functional,partial,yes,strawlike,,empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,3,7,kila,8,f,orangutan,5.0,1.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,3,7,kila,8,f,orangutan,5.0,2.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,3,7,kila,8,f,orangutan,5.0,3.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,3,8,kila,8,f,orangutan,6.0,1.0,dowel,functional,partial,yes,strawlike,,empties_the_apparatus,one_lid_off,
+manrique2011spontaneous,2,2009,3,8,kila,8,f,orangutan,6.0,2.0,dowel,functional,straw,yes,strawlike,,empties_the_apparatus,two_lids_off,
+manrique2011spontaneous,2,2009,3,8,kila,8,f,orangutan,6.0,3.0,dowel,functional,no,yes,strawlike,,empties_the_apparatus,no_modify,
+manrique2011spontaneous,2,2009,3,9,kila,8,f,orangutan,22.0,1.0,metalbar,nofunctional,partial,no,strawlike,,not_empties_the_apparatus,,destroys
+manrique2011spontaneous,2,2009,3,9,kila,8,f,orangutan,22.0,2.0,metalbar,nofunctional,partial,no,strawlike,,not_empties_the_apparatus,,destroys
+manrique2011spontaneous,2,2009,3,9,kila,8,f,orangutan,22.0,3.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,11,kila,8,f,orangutan,23.0,1.0,metalbar,nofunctional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,11,kila,8,f,orangutan,23.0,2.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,11,kila,8,f,orangutan,23.0,3.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,14,kila,8,f,orangutan,24.0,1.0,metalbar,nofunctional,partial,yes,dipplick,,not_empties_the_apparatus,,destroys
+manrique2011spontaneous,2,2009,3,14,kila,8,f,orangutan,24.0,2.0,metalbar,nofunctional,no,yes,dipplick,,not_empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,14,kila,8,f,orangutan,24.0,3.0,metalbar,nofunctional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,15,kila,8,f,orangutan,25.0,1.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,15,kila,8,f,orangutan,25.0,2.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,15,kila,8,f,orangutan,25.0,3.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,16,kila,8,f,orangutan,26.0,1.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,16,kila,8,f,orangutan,26.0,2.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,16,kila,8,f,orangutan,26.0,3.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,17,kila,8,f,orangutan,27.0,1.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,17,kila,8,f,orangutan,27.0,2.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify
+manrique2011spontaneous,2,2009,3,17,kila,8,f,orangutan,27.0,3.0,metalbar,functional,no,yes,strawlike,,empties_the_apparatus,,no modify

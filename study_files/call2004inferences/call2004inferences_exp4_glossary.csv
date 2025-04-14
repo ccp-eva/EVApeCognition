@@ -1,0 +1,15 @@
+"column_name","description"
+"study_id","personal study ID composed by the first authors’ first surname_year of publication_first title word "
+"experiment","number of experiment from publication "
+"participant","name of the participant "
+"age_in_years","age presented in years – see metadata for source of age"
+"sex","sex of the participant "
+"species","species of individuals participating in the study -bonobo/chimpanzee/gorilla/orangutan "
+"trial","presentation of the experiment to the participants - usually numerical "
+"condition","study conditions: 1 refers to the condition shake baited-stir empty in the manuscript. 2 refers to the condition shake empty-stir baited. In condition 1 one cup is shaken producing and sound and the other is stirred. In condition 2 the empty cup is shaken producing no sound and the baited cup is stirred producing no sound as well. 3 refers to the control condition"
+"food_on_left",
+"food_on_left_codes","the code refers to the manipulation of the left cup- which can be shaken_empty/ shaken_baited/ stirred_empty/ and stirred_baited"
+"food_on_right",
+"food_on_right_codes","the code refers to the manipulation of the right cup-  which can be shaken_empty/ shaken_baited/ stirred_empty/ and stirred_baited"
+"choice","signals which cup the participant chose. 1 means left and 2 means right "
+"success","signals whether the participant found the food and succeeded (1) or did not find the food and failed (0)"

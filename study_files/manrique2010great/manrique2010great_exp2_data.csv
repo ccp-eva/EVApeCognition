@@ -1,0 +1,295 @@
+﻿study_id,experiment,experiment_name,year,month,day,participant,age_in_years,sex,species,session,trial,condition,tool-set_exp-2a,tool-set_exp-2b,correct,try,apes_choice
+manrique2010great,2,2a,2008,02,23,bimbo,27.0,m,orangutan,2.0,1.0,manipulation,4.0,,yes,,rigid
+manrique2010great,2,2a,2008,02,23,bimbo,27.0,m,orangutan,2.0,2.0,manipulation,4.0,,yes,,rigid
+manrique2010great,2,2a,2008,02,23,bimbo,27.0,m,orangutan,2.0,3.0,manipulation,5.0,,yes,,rigid
+manrique2010great,2,2a,2008,02,23,bimbo,27.0,m,orangutan,2.0,4.0,manipulation,5.0,,yes,,rigid
+manrique2010great,2,2a,2008,02,23,bimbo,27.0,m,orangutan,2.0,5.0,manipulation,6.0,,yes,,rigid
+manrique2010great,2,2a,2008,02,23,bimbo,27.0,m,orangutan,2.0,6.0,manipulation,6.0,,yes,,rigid
+manrique2010great,2,2a,2008,02,22,bimbo,27.0,m,orangutan,1.0,1.0,observation,1.0,,no,yes,flexible
+manrique2010great,2,2a,2008,02,22,bimbo,27.0,m,orangutan,1.0,2.0,observation,1.0,,yes,,rigid
+manrique2010great,2,2a,2008,02,22,bimbo,27.0,m,orangutan,1.0,3.0,observation,2.0,,yes,,rigid
+manrique2010great,2,2a,2008,02,22,bimbo,27.0,m,orangutan,1.0,4.0,observation,2.0,,yes,,rigid
+manrique2010great,2,2a,2008,02,22,bimbo,27.0,m,orangutan,1.0,5.0,observation,3.0,,yes,,rigid
+manrique2010great,2,2a,2008,02,22,bimbo,27.0,m,orangutan,1.0,6.0,observation,3.0,,no,no,flexible
+manrique2010great,2,2a,2009,8,22,dokana,20.0,f,orangutan,2.0,1.0,manipulation,4.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,22,dokana,20.0,f,orangutan,2.0,2.0,manipulation,4.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,22,dokana,20.0,f,orangutan,2.0,3.0,manipulation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,22,dokana,20.0,f,orangutan,2.0,4.0,manipulation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,22,dokana,20.0,f,orangutan,2.0,5.0,manipulation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,22,dokana,20.0,f,orangutan,2.0,6.0,manipulation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,22,dokana,20.0,f,orangutan,1.0,1.0,observation,1.0,,no,yes,flexible
+manrique2010great,2,2a,2009,8,22,dokana,20.0,f,orangutan,1.0,2.0,observation,1.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,22,dokana,20.0,f,orangutan,1.0,3.0,observation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,22,dokana,20.0,f,orangutan,1.0,4.0,observation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,22,dokana,20.0,f,orangutan,1.0,5.0,observation,3.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,22,dokana,20.0,f,orangutan,1.0,6.0,observation,3.0,,yes,,rigid
+manrique2010great,2,2b,2009,8,22,dokana,20.0,f,orangutan,1.0,1.0,visual_static,,set 1,yes,,rigid
+manrique2010great,2,2b,2009,8,22,dokana,20.0,f,orangutan,1.0,2.0,visual_static,,set 1,yes,,rigid
+manrique2010great,2,2b,2009,8,22,dokana,20.0,f,orangutan,1.0,3.0,visual_static,,set 2,no,,flexible
+manrique2010great,2,2b,2009,8,22,dokana,20.0,f,orangutan,1.0,4.0,visual_static,,set 2,no,,flexible
+manrique2010great,2,2b,2009,8,22,dokana,20.0,f,orangutan,1.0,5.0,visual_static,,set 3,yes,,rigid
+manrique2010great,2,2b,2009,8,22,dokana,20.0,f,orangutan,1.0,6.0,visual_static,,set 3,yes,,rigid
+manrique2010great,2,2a,2009,8,20,dunja,36.0,f,orangutan,1.0,1.0,manipulation,1.0,,no,no,flexible
+manrique2010great,2,2a,2009,8,20,dunja,36.0,f,orangutan,1.0,2.0,manipulation,1.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,dunja,36.0,f,orangutan,1.0,3.0,manipulation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,dunja,36.0,f,orangutan,1.0,4.0,manipulation,2.0,,no,yes,flexible
+manrique2010great,2,2a,2009,8,20,dunja,36.0,f,orangutan,1.0,5.0,manipulation,3.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,dunja,36.0,f,orangutan,1.0,6.0,manipulation,3.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,dunja,36.0,f,orangutan,2.0,1.0,observation,4.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,dunja,36.0,f,orangutan,2.0,2.0,observation,4.0,,no,yes,flexible
+manrique2010great,2,2a,2009,8,20,dunja,36.0,f,orangutan,2.0,3.0,observation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,dunja,36.0,f,orangutan,2.0,4.0,observation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,dunja,36.0,f,orangutan,2.0,5.0,observation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,dunja,36.0,f,orangutan,2.0,6.0,observation,6.0,,yes,,rigid
+manrique2010great,2,2b,2009,8,20,dunja,36.0,f,orangutan,1.0,1.0,visual_static,,set 1,no,,flexible
+manrique2010great,2,2b,2009,8,20,dunja,36.0,f,orangutan,1.0,2.0,visual_static,,set 1,no,,flexible
+manrique2010great,2,2b,2009,8,20,dunja,36.0,f,orangutan,1.0,3.0,visual_static,,set 2,no,,flexible
+manrique2010great,2,2b,2009,8,20,dunja,36.0,f,orangutan,1.0,4.0,visual_static,,set 2,no,,flexible
+manrique2010great,2,2b,2009,8,20,dunja,36.0,f,orangutan,1.0,5.0,visual_static,,set 3,no,,flexible
+manrique2010great,2,2b,2009,8,20,dunja,36.0,f,orangutan,1.0,6.0,visual_static,,set 3,yes,,rigid
+manrique2010great,2,2a,2009,9,12,fraukje,33.0,f,chimpanzee,1.0,1.0,manipulation,1.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,fraukje,33.0,f,chimpanzee,1.0,2.0,manipulation,1.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,fraukje,33.0,f,chimpanzee,1.0,3.0,manipulation,2.0,,no,no,flexible
+manrique2010great,2,2a,2009,9,12,fraukje,33.0,f,chimpanzee,1.0,4.0,manipulation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,fraukje,33.0,f,chimpanzee,1.0,5.0,manipulation,3.0,,no,no,flexible
+manrique2010great,2,2a,2009,9,12,fraukje,33.0,f,chimpanzee,1.0,6.0,manipulation,3.0,,no,no,flexible
+manrique2010great,2,2a,2009,9,12,fraukje,33.0,f,chimpanzee,2.0,1.0,observation,4.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,fraukje,33.0,f,chimpanzee,2.0,2.0,observation,4.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,fraukje,33.0,f,chimpanzee,2.0,3.0,observation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,fraukje,33.0,f,chimpanzee,2.0,4.0,observation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,fraukje,33.0,f,chimpanzee,2.0,5.0,observation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,fraukje,33.0,f,chimpanzee,2.0,6.0,observation,6.0,,yes,,rigid
+manrique2010great,2,2b,2009,9,12,fraukje,33.0,f,chimpanzee,1.0,1.0,visual_static,,set 1,no,,flexible
+manrique2010great,2,2b,2009,9,12,fraukje,33.0,f,chimpanzee,1.0,2.0,visual_static,,set 1,no,,flexible
+manrique2010great,2,2b,2009,9,12,fraukje,33.0,f,chimpanzee,1.0,3.0,visual_static,,set 2,no,,flexible
+manrique2010great,2,2b,2009,9,12,fraukje,33.0,f,chimpanzee,1.0,4.0,visual_static,,set 2,no,,flexible
+manrique2010great,2,2b,2009,9,12,fraukje,33.0,f,chimpanzee,1.0,5.0,visual_static,,set 3,no,,flexible
+manrique2010great,2,2b,2009,9,12,fraukje,33.0,f,chimpanzee,1.0,6.0,visual_static,,set 3,no,,flexible
+manrique2010great,2,2a,2009,9,12,frodo,15.0,m,chimpanzee,1.0,1.0,manipulation,1.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,frodo,15.0,m,chimpanzee,1.0,2.0,manipulation,1.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,frodo,15.0,m,chimpanzee,1.0,3.0,manipulation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,frodo,15.0,m,chimpanzee,1.0,4.0,manipulation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,frodo,15.0,m,chimpanzee,1.0,5.0,manipulation,3.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,frodo,15.0,m,chimpanzee,1.0,6.0,manipulation,3.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,frodo,15.0,m,chimpanzee,2.0,1.0,observation,4.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,frodo,15.0,m,chimpanzee,2.0,2.0,observation,4.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,frodo,15.0,m,chimpanzee,2.0,3.0,observation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,frodo,15.0,m,chimpanzee,2.0,4.0,observation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,frodo,15.0,m,chimpanzee,2.0,5.0,observation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,frodo,15.0,m,chimpanzee,2.0,6.0,observation,6.0,,yes,,rigid
+manrique2010great,2,2b,2009,9,12,frodo,15.0,m,chimpanzee,1.0,1.0,visual_static,,set 1,no,,flexible
+manrique2010great,2,2b,2009,9,12,frodo,15.0,m,chimpanzee,1.0,2.0,visual_static,,set 1,no,,flexible
+manrique2010great,2,2b,2009,9,12,frodo,15.0,m,chimpanzee,1.0,3.0,visual_static,,set 2,no,,flexible
+manrique2010great,2,2b,2009,9,12,frodo,15.0,m,chimpanzee,1.0,4.0,visual_static,,set 2,yes,,rigid
+manrique2010great,2,2b,2009,9,12,frodo,15.0,m,chimpanzee,1.0,5.0,visual_static,,set 3,yes,,rigid
+manrique2010great,2,2b,2009,9,12,frodo,15.0,m,chimpanzee,1.0,6.0,visual_static,,set 3,yes,,rigid
+manrique2010great,2,2a,2009,9,10,gertrudia,16.0,f,chimpanzee,2.0,1.0,manipulation,4.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,10,gertrudia,16.0,f,chimpanzee,2.0,2.0,manipulation,4.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,10,gertrudia,16.0,f,chimpanzee,2.0,3.0,manipulation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,10,gertrudia,16.0,f,chimpanzee,2.0,4.0,manipulation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,10,gertrudia,16.0,f,chimpanzee,2.0,5.0,manipulation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,10,gertrudia,16.0,f,chimpanzee,2.0,6.0,manipulation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,10,gertrudia,16.0,f,chimpanzee,1.0,1.0,observation,1.0,,no,yes,flexible
+manrique2010great,2,2a,2009,9,10,gertrudia,16.0,f,chimpanzee,1.0,2.0,observation,1.0,,no,yes,flexible
+manrique2010great,2,2a,2009,9,10,gertrudia,16.0,f,chimpanzee,1.0,3.0,observation,2.0,,no,yes,flexible
+manrique2010great,2,2a,2009,9,10,gertrudia,16.0,f,chimpanzee,1.0,4.0,observation,2.0,,no,no,flexible
+manrique2010great,2,2a,2009,9,10,gertrudia,16.0,f,chimpanzee,1.0,5.0,observation,3.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,10,gertrudia,16.0,f,chimpanzee,1.0,6.0,observation,3.0,,yes,,rigid
+manrique2010great,2,2b,2009,9,10,gertrudia,16.0,f,chimpanzee,1.0,1.0,visual_static,,set 1,no,,flexible
+manrique2010great,2,2b,2009,9,10,gertrudia,16.0,f,chimpanzee,1.0,2.0,visual_static,,set 1,yes,,rigid
+manrique2010great,2,2b,2009,9,10,gertrudia,16.0,f,chimpanzee,1.0,3.0,visual_static,,set 2,no,,flexible
+manrique2010great,2,2b,2009,9,10,gertrudia,16.0,f,chimpanzee,1.0,4.0,visual_static,,set 2,yes,,rigid
+manrique2010great,2,2b,2009,9,10,gertrudia,16.0,f,chimpanzee,1.0,5.0,visual_static,,set 3,yes,,rigid
+manrique2010great,2,2b,2009,9,10,gertrudia,16.0,f,chimpanzee,1.0,6.0,visual_static,,set 3,yes,,rigid
+manrique2010great,2,2a,2009,9,10,jahaga,16.0,f,chimpanzee,1.0,1.0,manipulation,1.0,,no,yes,flexible
+manrique2010great,2,2a,2009,9,10,jahaga,16.0,f,chimpanzee,1.0,2.0,manipulation,1.0,,no,yes,flexible
+manrique2010great,2,2a,2009,9,10,jahaga,16.0,f,chimpanzee,1.0,3.0,manipulation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,10,jahaga,16.0,f,chimpanzee,1.0,4.0,manipulation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,10,jahaga,16.0,f,chimpanzee,1.0,5.0,manipulation,3.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,10,jahaga,16.0,f,chimpanzee,1.0,6.0,manipulation,3.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,10,jahaga,16.0,f,chimpanzee,2.0,1.0,observation,4.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,10,jahaga,16.0,f,chimpanzee,2.0,2.0,observation,4.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,10,jahaga,16.0,f,chimpanzee,2.0,3.0,observation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,10,jahaga,16.0,f,chimpanzee,2.0,4.0,observation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,10,jahaga,16.0,f,chimpanzee,2.0,5.0,observation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,10,jahaga,16.0,f,chimpanzee,2.0,6.0,observation,6.0,,yes,,rigid
+manrique2010great,2,2b,2009,9,10,jahaga,16.0,f,chimpanzee,1.0,1.0,visual_static,,set 1,no,,flexible
+manrique2010great,2,2b,2009,9,10,jahaga,16.0,f,chimpanzee,1.0,2.0,visual_static,,set 1,yes,,rigid
+manrique2010great,2,2b,2009,9,10,jahaga,16.0,f,chimpanzee,1.0,3.0,visual_static,,set 2,no,,flexible
+manrique2010great,2,2b,2009,9,10,jahaga,16.0,f,chimpanzee,1.0,4.0,visual_static,,set 2,yes,,rigid
+manrique2010great,2,2b,2009,9,10,jahaga,16.0,f,chimpanzee,1.0,5.0,visual_static,,set 3,yes,,rigid
+manrique2010great,2,2b,2009,9,10,jahaga,16.0,f,chimpanzee,1.0,6.0,visual_static,,set 3,yes,,rigid
+manrique2010great,2,2a,2009,8,21,joey,26.0,m,bonobo,1.0,1.0,manipulation,1.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,joey,26.0,m,bonobo,1.0,2.0,manipulation,1.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,joey,26.0,m,bonobo,1.0,3.0,manipulation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,joey,26.0,m,bonobo,1.0,4.0,manipulation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,joey,26.0,m,bonobo,1.0,5.0,manipulation,3.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,joey,26.0,m,bonobo,1.0,6.0,manipulation,3.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,joey,26.0,m,bonobo,2.0,1.0,observation,4.0,,no,yes,flexible
+manrique2010great,2,2a,2009,8,21,joey,26.0,m,bonobo,2.0,2.0,observation,4.0,,no,yes,flexible
+manrique2010great,2,2a,2009,8,21,joey,26.0,m,bonobo,2.0,3.0,observation,5.0,,no,yes,flexible
+manrique2010great,2,2a,2009,8,21,joey,26.0,m,bonobo,2.0,4.0,observation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,joey,26.0,m,bonobo,2.0,5.0,observation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,joey,26.0,m,bonobo,2.0,6.0,observation,6.0,,yes,,rigid
+manrique2010great,2,2b,2009,8,21,joey,26.0,m,bonobo,1.0,1.0,visual_static,,set 1,no,,flexible
+manrique2010great,2,2b,2009,8,21,joey,26.0,m,bonobo,1.0,2.0,visual_static,,set 1,yes,,rigid
+manrique2010great,2,2b,2009,8,21,joey,26.0,m,bonobo,1.0,3.0,visual_static,,set 2,yes,,rigid
+manrique2010great,2,2b,2009,8,21,joey,26.0,m,bonobo,1.0,4.0,visual_static,,set 2,yes,,rigid
+manrique2010great,2,2b,2009,8,21,joey,26.0,m,bonobo,1.0,5.0,visual_static,,set 3,no,,flexible
+manrique2010great,2,2b,2009,8,21,joey,26.0,m,bonobo,1.0,6.0,visual_static,,set 3,yes,,rigid
+manrique2010great,2,2a,2009,8,20,kila,9.0,f,orangutan,2.0,1.0,manipulation,4.0,,no,yes,flexible
+manrique2010great,2,2a,2009,8,20,kila,9.0,f,orangutan,2.0,2.0,manipulation,4.0,,no,yes,flexible
+manrique2010great,2,2a,2009,8,20,kila,9.0,f,orangutan,2.0,3.0,manipulation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,kila,9.0,f,orangutan,2.0,4.0,manipulation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,kila,9.0,f,orangutan,2.0,5.0,manipulation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,kila,9.0,f,orangutan,2.0,6.0,manipulation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,kila,9.0,f,orangutan,1.0,1.0,observation,1.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,kila,9.0,f,orangutan,1.0,2.0,observation,1.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,kila,9.0,f,orangutan,1.0,3.0,observation,2.0,,no,yes*,flexible
+manrique2010great,2,2a,2009,8,20,kila,9.0,f,orangutan,1.0,4.0,observation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,kila,9.0,f,orangutan,1.0,5.0,observation,3.0,,no,no,flexible
+manrique2010great,2,2a,2009,8,20,kila,9.0,f,orangutan,1.0,6.0,observation,3.0,,no,no,flexible
+manrique2010great,2,2b,2009,8,20,kila,9.0,f,orangutan,1.0,1.0,visual_static,,set 1,no,,flexible
+manrique2010great,2,2b,2009,8,20,kila,9.0,f,orangutan,1.0,2.0,visual_static,,set 1,no,,flexible
+manrique2010great,2,2b,2009,8,20,kila,9.0,f,orangutan,1.0,3.0,visual_static,,set 2,no,,flexible
+manrique2010great,2,2b,2009,8,20,kila,9.0,f,orangutan,1.0,4.0,visual_static,,set 2,yes,,rigid
+manrique2010great,2,2b,2009,8,20,kila,9.0,f,orangutan,1.0,5.0,visual_static,,set 3,yes,,rigid
+manrique2010great,2,2b,2009,8,20,kila,9.0,f,orangutan,1.0,6.0,visual_static,,set 3,no,,flexible
+manrique2010great,2,2a,2009,8,21,kuno,12.0,m,bonobo,2.0,1.0,manipulation,4.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,kuno,12.0,m,bonobo,2.0,2.0,manipulation,4.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,kuno,12.0,m,bonobo,2.0,3.0,manipulation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,kuno,12.0,m,bonobo,2.0,4.0,manipulation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,kuno,12.0,m,bonobo,2.0,5.0,manipulation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,kuno,12.0,m,bonobo,2.0,6.0,manipulation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,kuno,12.0,m,bonobo,1.0,1.0,observation,1.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,kuno,12.0,m,bonobo,1.0,2.0,observation,1.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,kuno,12.0,m,bonobo,1.0,3.0,observation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,kuno,12.0,m,bonobo,1.0,4.0,observation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,kuno,12.0,m,bonobo,1.0,5.0,observation,3.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,kuno,12.0,m,bonobo,1.0,6.0,observation,3.0,,yes,,rigid
+manrique2010great,2,2b,2009,8,21,kuno,12.0,m,bonobo,1.0,1.0,visual_static,,set 1,no,,flexible
+manrique2010great,2,2b,2009,8,21,kuno,12.0,m,bonobo,1.0,2.0,visual_static,,set 1,yes,,rigid
+manrique2010great,2,2b,2009,8,21,kuno,12.0,m,bonobo,1.0,3.0,visual_static,,set 2,yes,,rigid
+manrique2010great,2,2b,2009,8,21,kuno,12.0,m,bonobo,1.0,4.0,visual_static,,set 2,yes,,rigid
+manrique2010great,2,2b,2009,8,21,kuno,12.0,m,bonobo,1.0,5.0,visual_static,,set 3,yes,,rigid
+manrique2010great,2,2b,2009,8,21,kuno,12.0,m,bonobo,1.0,6.0,visual_static,,set 3,yes,,rigid
+manrique2010great,2,2a,2009,8,21,limbuko,13.0,m,bonobo,1.0,1.0,manipulation,1.0,,no,yes,flexible
+manrique2010great,2,2a,2009,8,21,limbuko,13.0,m,bonobo,1.0,2.0,manipulation,1.0,,no,no,flexible
+manrique2010great,2,2a,2009,8,21,limbuko,13.0,m,bonobo,1.0,3.0,manipulation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,limbuko,13.0,m,bonobo,1.0,4.0,manipulation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,limbuko,13.0,m,bonobo,1.0,5.0,manipulation,3.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,limbuko,13.0,m,bonobo,1.0,6.0,manipulation,3.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,limbuko,13.0,m,bonobo,2.0,1.0,observation,4.0,,no,yes,flexible
+manrique2010great,2,2a,2009,8,21,limbuko,13.0,m,bonobo,2.0,2.0,observation,4.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,limbuko,13.0,m,bonobo,2.0,3.0,observation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,limbuko,13.0,m,bonobo,2.0,4.0,observation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,limbuko,13.0,m,bonobo,2.0,5.0,observation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,limbuko,13.0,m,bonobo,2.0,6.0,observation,6.0,,yes,,rigid
+manrique2010great,2,2b,2009,8,21,limbuko,13.0,m,bonobo,1.0,1.0,visual_static,,set 1,no,,flexible
+manrique2010great,2,2b,2009,8,21,limbuko,13.0,m,bonobo,1.0,2.0,visual_static,,set 1,yes,,rigid
+manrique2010great,2,2b,2009,8,21,limbuko,13.0,m,bonobo,1.0,3.0,visual_static,,set 2,yes,,rigid
+manrique2010great,2,2b,2009,8,21,limbuko,13.0,m,bonobo,1.0,4.0,visual_static,,set 2,yes,,rigid
+manrique2010great,2,2b,2009,8,21,limbuko,13.0,m,bonobo,1.0,5.0,visual_static,,set 3,yes,,rigid
+manrique2010great,2,2b,2009,8,21,limbuko,13.0,m,bonobo,1.0,6.0,visual_static,,set 3,yes,,rigid
+manrique2010great,2,2a,2009,8,20,padana,11.0,f,orangutan,1.0,1.0,manipulation,1.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,padana,11.0,f,orangutan,1.0,2.0,manipulation,1.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,padana,11.0,f,orangutan,1.0,3.0,manipulation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,padana,11.0,f,orangutan,1.0,4.0,manipulation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,padana,11.0,f,orangutan,1.0,5.0,manipulation,3.0,,no,yes,flexible
+manrique2010great,2,2a,2009,8,20,padana,11.0,f,orangutan,1.0,6.0,manipulation,3.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,padana,11.0,f,orangutan,2.0,1.0,observation,4.0,,no,no,flexible
+manrique2010great,2,2a,2009,8,20,padana,11.0,f,orangutan,2.0,2.0,observation,4.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,padana,11.0,f,orangutan,2.0,3.0,observation,5.0,,no,yes,flexible
+manrique2010great,2,2a,2009,8,20,padana,11.0,f,orangutan,2.0,4.0,observation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,padana,11.0,f,orangutan,2.0,5.0,observation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,20,padana,11.0,f,orangutan,2.0,6.0,observation,6.0,,yes,,rigid
+manrique2010great,2,2b,2009,8,20,padana,11.0,f,orangutan,1.0,1.0,visual_static,,set 1,no,,flexible
+manrique2010great,2,2b,2009,8,20,padana,11.0,f,orangutan,1.0,2.0,visual_static,,set 1,yes,,rigid
+manrique2010great,2,2b,2009,8,20,padana,11.0,f,orangutan,1.0,3.0,visual_static,,set 2,no,,flexible
+manrique2010great,2,2b,2009,8,20,padana,11.0,f,orangutan,1.0,4.0,visual_static,,set 2,yes,,rigid
+manrique2010great,2,2b,2009,8,20,padana,11.0,f,orangutan,1.0,5.0,visual_static,,set 3,yes,,rigid
+manrique2010great,2,2b,2009,8,20,padana,11.0,f,orangutan,1.0,6.0,visual_static,,set 3,yes,,rigid
+manrique2010great,2,2a,2009,9,12,patrick,12.0,m,chimpanzee,2.0,1.0,manipulation,4.0,,no,no,flexible
+manrique2010great,2,2a,2009,9,12,patrick,12.0,m,chimpanzee,2.0,2.0,manipulation,4.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,patrick,12.0,m,chimpanzee,2.0,3.0,manipulation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,patrick,12.0,m,chimpanzee,2.0,4.0,manipulation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,patrick,12.0,m,chimpanzee,2.0,5.0,manipulation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,patrick,12.0,m,chimpanzee,2.0,6.0,manipulation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,patrick,12.0,m,chimpanzee,1.0,1.0,observation,1.0,,no,no,flexible
+manrique2010great,2,2a,2009,9,12,patrick,12.0,m,chimpanzee,1.0,2.0,observation,1.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,patrick,12.0,m,chimpanzee,1.0,3.0,observation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,patrick,12.0,m,chimpanzee,1.0,4.0,observation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,patrick,12.0,m,chimpanzee,1.0,5.0,observation,3.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,patrick,12.0,m,chimpanzee,1.0,6.0,observation,3.0,,yes,,rigid
+manrique2010great,2,2b,2009,9,12,patrick,12.0,m,chimpanzee,1.0,1.0,visual_static,,set 1,no,,flexible
+manrique2010great,2,2b,2009,9,12,patrick,12.0,m,chimpanzee,1.0,2.0,visual_static,,set 1,yes,,rigid
+manrique2010great,2,2b,2009,9,12,patrick,12.0,m,chimpanzee,1.0,3.0,visual_static,,set 2,yes,,rigid
+manrique2010great,2,2b,2009,9,12,patrick,12.0,m,chimpanzee,1.0,4.0,visual_static,,set 2,yes,,rigid
+manrique2010great,2,2b,2009,9,12,patrick,12.0,m,chimpanzee,1.0,5.0,visual_static,,set 3,yes,,rigid
+manrique2010great,2,2b,2009,9,12,patrick,12.0,m,chimpanzee,1.0,6.0,visual_static,,set 3,yes,,rigid
+manrique2010great,2,2a,2009,8,22,pini,21.0,f,orangutan,1.0,1.0,manipulation,1.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,22,pini,21.0,f,orangutan,1.0,2.0,manipulation,1.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,22,pini,21.0,f,orangutan,1.0,3.0,manipulation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,22,pini,21.0,f,orangutan,1.0,4.0,manipulation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,22,pini,21.0,f,orangutan,1.0,5.0,manipulation,3.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,22,pini,21.0,f,orangutan,1.0,6.0,manipulation,3.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,22,pini,21.0,f,orangutan,2.0,1.0,observation,4.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,22,pini,21.0,f,orangutan,2.0,2.0,observation,4.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,22,pini,21.0,f,orangutan,2.0,3.0,observation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,22,pini,21.0,f,orangutan,2.0,4.0,observation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,22,pini,21.0,f,orangutan,2.0,5.0,observation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,22,pini,21.0,f,orangutan,2.0,6.0,observation,6.0,,yes,,rigid
+manrique2010great,2,2b,2009,8,22,pini,21.0,f,orangutan,1.0,1.0,visual_static,,set 1,no,,flexible
+manrique2010great,2,2b,2009,8,22,pini,21.0,f,orangutan,1.0,2.0,visual_static,,set 1,yes,,rigid
+manrique2010great,2,2b,2009,8,22,pini,21.0,f,orangutan,1.0,3.0,visual_static,,set 2,yes,,rigid
+manrique2010great,2,2b,2009,8,22,pini,21.0,f,orangutan,1.0,4.0,visual_static,,set 2,yes,,rigid
+manrique2010great,2,2b,2009,8,22,pini,21.0,f,orangutan,1.0,5.0,visual_static,,set 3,yes,,rigid
+manrique2010great,2,2b,2009,8,22,pini,21.0,f,orangutan,1.0,6.0,visual_static,,set 3,yes,,rigid
+manrique2010great,2,2a,2008,03,31,tai,5.0,f,chimpanzee,2.0,1.0,manipulation,4.0,,yes,,rigid
+manrique2010great,2,2a,2008,03,31,tai,5.0,f,chimpanzee,2.0,2.0,manipulation,4.0,,yes,,rigid
+manrique2010great,2,2a,2008,03,31,tai,5.0,f,chimpanzee,2.0,3.0,manipulation,5.0,,yes,,rigid
+manrique2010great,2,2a,2008,03,31,tai,5.0,f,chimpanzee,2.0,4.0,manipulation,5.0,,yes,,rigid
+manrique2010great,2,2a,2008,03,31,tai,5.0,f,chimpanzee,2.0,5.0,manipulation,6.0,,yes,,rigid
+manrique2010great,2,2a,2008,03,31,tai,5.0,f,chimpanzee,2.0,6.0,manipulation,6.0,,yes,,rigid
+manrique2010great,2,2a,2008,03,29,tai,5.0,f,chimpanzee,1.0,1.0,observation,1.0,,no,no,flexible
+manrique2010great,2,2a,2008,03,29,tai,5.0,f,chimpanzee,1.0,2.0,observation,1.0,,yes,,rigid
+manrique2010great,2,2a,2008,03,29,tai,5.0,f,chimpanzee,1.0,3.0,observation,2.0,,yes,,rigid
+manrique2010great,2,2a,2008,03,29,tai,5.0,f,chimpanzee,1.0,4.0,observation,2.0,,yes,,rigid
+manrique2010great,2,2a,2008,03,29,tai,5.0,f,chimpanzee,1.0,5.0,observation,3.0,,no,no,flexible
+manrique2010great,2,2a,2008,03,29,tai,5.0,f,chimpanzee,1.0,6.0,observation,3.0,,no,yes*,flexible
+manrique2010great,2,2a,2009,9,12,ulla,32.0,f,chimpanzee,2.0,1.0,manipulation,4.0,,no,yes,flexible
+manrique2010great,2,2a,2009,9,12,ulla,32.0,f,chimpanzee,2.0,2.0,manipulation,4.0,,no,yes,flexible
+manrique2010great,2,2a,2009,9,12,ulla,32.0,f,chimpanzee,2.0,3.0,manipulation,5.0,,no,yes,flexible
+manrique2010great,2,2a,2009,9,12,ulla,32.0,f,chimpanzee,2.0,4.0,manipulation,5.0,,no,yes,flexible
+manrique2010great,2,2a,2009,9,12,ulla,32.0,f,chimpanzee,2.0,5.0,manipulation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,ulla,32.0,f,chimpanzee,2.0,6.0,manipulation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,9,12,ulla,32.0,f,chimpanzee,1.0,1.0,observation,1.0,,no,yes,flexible
+manrique2010great,2,2a,2009,9,12,ulla,32.0,f,chimpanzee,1.0,2.0,observation,1.0,,no,yes,flexible
+manrique2010great,2,2a,2009,9,12,ulla,32.0,f,chimpanzee,1.0,3.0,observation,2.0,,no,yes,flexible
+manrique2010great,2,2a,2009,9,12,ulla,32.0,f,chimpanzee,1.0,4.0,observation,2.0,,no,yes,flexible
+manrique2010great,2,2a,2009,9,12,ulla,32.0,f,chimpanzee,1.0,5.0,observation,3.0,,no,yes,flexible
+manrique2010great,2,2a,2009,9,12,ulla,32.0,f,chimpanzee,1.0,6.0,observation,3.0,,no,yes,flexible
+manrique2010great,2,2b,2009,9,12,ulla,32.0,f,chimpanzee,1.0,1.0,visual_static,,set 1,no,,flexible
+manrique2010great,2,2b,2009,9,12,ulla,32.0,f,chimpanzee,1.0,2.0,visual_static,,set 1,no,,flexible
+manrique2010great,2,2b,2009,9,12,ulla,32.0,f,chimpanzee,1.0,3.0,visual_static,,set 2,no,,flexible
+manrique2010great,2,2b,2009,9,12,ulla,32.0,f,chimpanzee,1.0,4.0,visual_static,,set 2,no,,flexible
+manrique2010great,2,2b,2009,9,12,ulla,32.0,f,chimpanzee,1.0,5.0,visual_static,,set 3,no,,flexible
+manrique2010great,2,2b,2009,9,12,ulla,32.0,f,chimpanzee,1.0,6.0,visual_static,,set 3,no,,flexible
+manrique2010great,2,2a,2009,8,21,yasa,11.0,f,bonobo,2.0,1.0,manipulation,4.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,yasa,11.0,f,bonobo,2.0,2.0,manipulation,4.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,yasa,11.0,f,bonobo,2.0,3.0,manipulation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,yasa,11.0,f,bonobo,2.0,4.0,manipulation,5.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,yasa,11.0,f,bonobo,2.0,5.0,manipulation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,yasa,11.0,f,bonobo,2.0,6.0,manipulation,6.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,yasa,11.0,f,bonobo,1.0,1.0,observation,1.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,yasa,11.0,f,bonobo,1.0,2.0,observation,1.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,yasa,11.0,f,bonobo,1.0,3.0,observation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,yasa,11.0,f,bonobo,1.0,4.0,observation,2.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,yasa,11.0,f,bonobo,1.0,5.0,observation,3.0,,yes,,rigid
+manrique2010great,2,2a,2009,8,21,yasa,11.0,f,bonobo,1.0,6.0,observation,3.0,,yes,,rigid
+manrique2010great,2,2b,2009,8,21,yasa,11.0,f,bonobo,1.0,1.0,visual_static,,set 1,no,,flexible
+manrique2010great,2,2b,2009,8,21,yasa,11.0,f,bonobo,1.0,2.0,visual_static,,set 1,no,,flexible
+manrique2010great,2,2b,2009,8,21,yasa,11.0,f,bonobo,1.0,3.0,visual_static,,set 2,yes,,rigid
+manrique2010great,2,2b,2009,8,21,yasa,11.0,f,bonobo,1.0,4.0,visual_static,,set 2,yes,,rigid
+manrique2010great,2,2b,2009,8,21,yasa,11.0,f,bonobo,1.0,5.0,visual_static,,set 3,no,,flexible
+manrique2010great,2,2b,2009,8,21,yasa,11.0,f,bonobo,1.0,6.0,visual_static,,set 3,no,,flexible

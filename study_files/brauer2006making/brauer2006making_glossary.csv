@@ -1,0 +1,24 @@
+column_name,description
+study_id,personal study ID composed by the first authors’ first surname_year of publication_first title word 
+participant,name of the participant 
+age_in_years,age presented in years – see metadata for source of age
+sex,sex of the participant 
+species,species of individuals participating in the study -bonobo/chimpanzee
+session,set of trials - mostly occurring on the same day - usually numerical 
+point,whether the participant chose correct answer in point condition (communicative cue)
+reach_first,whether the participant chose correct answer in reach first condition (behavioral cue)
+shape,whether the participant chose correct answer in shape condition (casual visual cue)
+noise_ghost,whether the participant chose correct answer in noise ghost condition (casual auditory cue)
+look,whether the participant chose correct answer in look condition (communicative cue)
+try_to_open,whether the participant chose correct answer in try to open condition (behavioral cue)
+noise,whether the participant chose correct answer in noise condition (casual auditory cue)
+shape_ghost,whether the participant chose correct answer in shape ghost condition (casual visual cue)
+point_continuous,whether the participant chose correct answer in point continuous condition (communicative cue)
+reach,whether the participant chose correct answer in reach condition (behavioral cue)
+shape_smell_control,whether the participant chose correct answer in shape smell control condition (casual visual cue)
+noise_arbitrary_control,whether the participant chose correct answer in noise arbitrary control condition (casual auditory cue)
+look_continuous,whether the participant chose correct answer in look continuous condition (communicative cue)
+try_to_open_2,whether the participant chose correct answer in try to open condition (behavioral cue)
+noise_empty,whether the participant chose correct answer in noise empty condition (casual auditory cue)
+shape_block_control,whether the participant chose correct answer in shape block control condition (casual visual cue)
+no_cue_control,whether the participant chose correct answer in control condition in which no cue was given

@@ -1,0 +1,51 @@
+study_id: manrique2015age
+year: 2015
+reference: Manrique, H. M., & Call, J. (2015). Age-dependent cognitive inflexibility
+  in great apes. Animal Behaviour, 102, 1-6. doi:10.1016/j.anbehav.2015.01.002.
+abstract: The ability to suppress and/or change behaviour on the basis of negative
+  feedback, often conceptualized as cognitive flexibility, has rarely been investigated
+  in nonhuman great apes across a broad age range. In this study, 25 chimpanzees,
+  Pan troglodytes, eight bonobos, Pan paniscus, seven orang-utans, Pongo abelii, and
+  three gorillas, Gorilla gorilla, whose ages ranged from 5 to 48 years, were presented
+  with a transparent Plexiglas rectangular box horizontally attached to their cage
+  mesh. A square container, 7.5 cm2, fixed inside the apparatus contained a food reward
+  (i.e. a grape). While the container rested on its central position the grape was
+  not accessible. To retrieve the grape the subjects needed to grasp the handle connected
+  to the reward container and displace it sideways to reach one of the lateral access
+  windows. Subjects were intensively trained to displace the handle to a specific
+  side (right or left, depending on the group) and then the rewarded side was reversed
+  during the test. Performance in this reversal task did not differ significantly
+  between species. However, a U-shaped relation between age and perseverative responding
+  (i.e. moves to the previously rewarded side) was observed, extending findings with
+  humans to our closest living primate relatives.
+keywords: ageing, cognitive flexibility, great apes, perseverative responding, reversal
+  task
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Hector Marin-Manrique
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: data_file
+  data_collection_date: 2009 - 2010
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: ontogeny_innovation_and_planning
+cognitive_domain:
+  social: false
+  physical: true

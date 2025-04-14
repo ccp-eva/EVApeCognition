@@ -1,0 +1,61 @@
+study_id: brauer2006making
+year: 2006
+reference: 'Bräuer, J., Kaminski, J., Riedel, J., Call, J., & Tomasello, M. (2006).
+  Making inferences about the location of hidden food: Social dog - casual ape. Journal
+  of Comparative Psychology, 120(1), 38-47. doi:10.1037/0735-7036.120.1.38.'
+abstract: Domestic dogs (Canis familiaris) and great apes from the genus Pan were
+  tested on a series of object choice tasks. In each task, the location of hidden
+  food was indicated for subjects by some kind of communicative, behavioral, or physical
+  cue. On the basis of differences in the ecologies of these 2 genera, as well as
+  on previous research, the authors hypothesized that dogs should be especially skillful
+  in using human communicative cues such as the pointing gesture, whereas apes should
+  be especially skillful in using physical, causal cues such as food in a cup making
+  noise when it is shaken. The overall pattern of performance by the 2 genera strongly
+  supported this social-dog, causal-ape hypothesis. This result is discussed in terms
+  of apes’ adaptations for complex, extractive foraging and dogs’ adaptations, during
+  the domestication process, for cooperative communication with humans.
+keywords: ''
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Juliane Braeuer
+  corr_author: true
+- author_no: 2
+  name: Juliane Kaminski
+  corr_author: false
+- author_no: 3
+  name: Julia Riedel
+  corr_author: false
+- author_no: 4
+  name: Josep Call
+  corr_author: false
+- author_no: 5
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: partial
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo
+  group_id_excluded: leipzig_dog
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: social_strategies_and_communication
+  specific_domain: communication_with_humans
+- domain_no: 2
+  general_domain: tools_and_causality
+  specific_domain: causal_inferences
+- domain_no: 3
+  general_domain: theory_of_mind_and_metacognition
+  specific_domain: understanding_goals_and_intentions
+cognitive_domain:
+  social: true
+  physical: true

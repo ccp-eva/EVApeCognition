@@ -1,0 +1,70 @@
+study_id: duguid2014coordination
+year: 2014
+reference: 'Duguid, S., Wyman, E., Bullinger, A. F., Herfurth-Majstorovic, K., & Tomasello,
+  M. (2014). Coordination strategies of chimpanzees and human children in a Stag Hunt
+  game. Proceedings of the Royal Society B: Biological Sciences, 281(1796): 20141973.
+  doi:10.1098/rspb.2014.1973.'
+abstract: Much of human cooperation takes place in mutualistic contexts in which the
+  main challenge for individuals is how to coordinate decisions. In the current studies,
+  we compared the abilities of chimpanzees and young children to coordinate with a
+  partner in two versions of a Stag Hunt game. When risks were low (the hare was of
+  low value) and information was cheap (the partner's behaviour was readily observable),
+  partners of both species were able to successfully coordinate on the higher value
+  stag more than 90% of the time. By contrast, when the risks were raised and observing
+  the partner was more difficult, the chimpanzees became less successful, whereas
+  the children compensated, and so remained highly successful, by communicating more
+  often and more specifically. This pattern of results is consistent with the hypothesis
+  that humans evolved unique skills of coordination and communication in the context
+  of especially risky coordination problems.
+keywords: coordination, Stag Hunt, communication, chimpanzees, children
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Shona Duguid
+  corr_author: true
+- author_no: 2
+  name: Emily Wyman
+  corr_author: false
+- author_no: 3
+  name: Anke F. Bullinger
+  corr_author: false
+- author_no: 4
+  name: Katharina Herfurth-Majstorovic
+  corr_author: false
+- author_no: 5
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: partial
+  grouping: dyads
+  droupouts_no: 3
+  dropout_names: Dorien, Riet, Swela
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: leipzig_children
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: collaboration
+cognitive_domain:
+  social: true
+  physical: false

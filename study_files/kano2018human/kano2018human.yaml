@@ -1,0 +1,99 @@
+study_id: kano2018human
+year: 2018
+reference: Kano, F., Moore, R., Krupenye, C., Hirata, S., Tomonaga, M., & Call, J.
+  (2018). Human ostensive signals do not enhance gaze following in chimpanzees, but
+  do enhance object-oriented attention. Animal Cognition, 21(5), 715-728. doi:10.1007/s10071-018-1205-z.
+abstract: The previous studies have shown that human infants and domestic dogs follow
+  the gaze of a human agent only when the agent has addressed them ostensively—e.g.,
+  by making eye contact, or calling their name. This evidence is interpreted as showing
+  that they expect ostensive signals to precede referential information. The present
+  study tested chimpanzees, one of the closest relatives to humans, in a series of
+  eye-tracking experiments using an experimental design adapted from these previous
+  studies. In the ostension conditions, a human actor made eye contact, called the
+  participant’s name, and then looked at one of two objects. In the control conditions,
+  a salient cue, which differed in each experiment (a colorful object, the actor’s
+  nodding, or an eating action), attracted participants’ attention to the actor’s
+  face, and then the actor looked at the object. Overall, chimpanzees followed the
+  actor’s gaze to the cued object in both ostension and control conditions, and the
+  ostensive signals did not enhance gaze following more than the control attention-getters.
+  However, the ostensive signals enhanced subsequent attention to both target and
+  distractor objects (but not to the actor’s face) more strongly than the control
+  attention-getters—especially in the chimpanzees who had a close relationship with
+  human caregivers. We interpret this as showing that chimpanzees have a simple form
+  of communicative expectations on the basis of ostensive signals, but unlike human
+  infants and dogs, they do not subsequently use the experimenter’s gaze to infer
+  the intended referent. These results may reflect a limitation of non-domesticated
+  species for interpreting humans’ ostensive signals in inter-species communication.
+keywords: Domestication, Gaze following, Great ape, Ostensive signals, Referential
+  communication
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Fumihiro Kano
+  corr_author: true
+- author_no: 2
+  name: Richard Moore
+  corr_author: false
+- author_no: 3
+  name: Christopher Krupenye
+  corr_author: false
+- author_no: 4
+  name: Satoshi Hirata
+  corr_author: false
+- author_no: 5
+  name: Masaki Tomonaga
+  corr_author: false
+- author_no: 6
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_orangutan, wkprc_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: kumamoto_chimpanzee, kumamoto_bonobo, kupri_chimpanzee
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo, wkprc_orangutan,
+    kumamoto_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: theory_of_mind_and_metacognition
+  specific_domain: understanding_perception_knowledge_and_beliefs
+- domain_no: 2
+  general_domain: social_strategies_and_communication
+  specific_domain: .nan
+cognitive_domain:
+  social: true
+  physical: false

@@ -1,0 +1,50 @@
+column_name,description
+study_id,personal study ID composed by the first authorsâ€™ first surname_year of publication_first title word 
+year,year the data point was obtained  
+month,month the data point was obtained 
+day,day of the month the data point was obtained 
+participant,name of the participant 
+age_in_years,age presented in years – see metadata for source of age
+sex,sex of the participant 
+role,role of the participant – focal_participant / individual_left
+participant_2,name of the participant_2
+age_in_years_2,age presented in years of the participant_2
+sex_2,sex of the participant_2
+role_2,role of the participant_2 – individual_right
+species,species of individuals participating in the study – chimpanzee
+species_subgroup,species subgroup at time of data collection – WKPRC chimpanzee group a or b/ etc (housed separately)
+dyad,name of the two participants that compose the dyad 
+session,set of trials - mostly occurring on the same day - usually numerical 
+trial,presentations to the participant within the session (1-10)
+condition,solo: tested alone/ dyadic: tested in pairs
+trial_code,unique identifier for the trial
+partner_number,sequence of partners in the dyadic condition
+achieve_coord,does this pair eventually achieve reliable coordiantion (1=yes/ 0=no)
+room_left,room number for the individual on the left side of the box (this is always the same within a group)
+pre_post_left,wether they are being tested in the dyadic conditon before the solo conditin (pre-solo) or after (post-solo) or in the solo condition 
+food_left,the food type used for the test
+button_1_left,button pressed on a give trial by individual on the left side (1=yes/ 0=no)
+button_2_left,button pressed on a give trial by individual on the left side (1=yes/ 0=no)
+button_3_left,button pressed on a give trial by individual on the left side (1=yes/ 0=no)
+button_4_left,button pressed on a give trial by individual on the left side (1=yes/ 0=no)
+success_left,are corresponding buttons chosen on either side of the box
+num_choices_left,number of buttons pressed in the trial
+com_coded_left,communication behaviour shown by individual on the left - only a subset coded for this
+timing_choice_left,are choices within 1s of eachother (sim) or at least 1s apart (seq) - only a subset coded for this
+comm_type_left,attention-getter (ag) or reference to specific button (r) - only a subset coded for this
+comm_mod_left,modality of communication as either gesture (g) or vocal (v) or both (vg)
+comm_timing_left,whether communication occurs prior to pressing a button (predec) or after pressing the button (postdec)
+room_right,room number for the individual on the right side of the box (this is always the same within a group)
+pre_post_right,whether they are being tested in the dyadic conditon before the solo conditin (pre-solo) or after (post-solo) or in the solo condition 
+food_right,the food type used for the test
+button_1_right,button pressed on a give trial by individual on the right side (1=yes/ 0=no)
+button_2_right,button pressed on a give trial by individual on the right side (1=yes/ 0=no)
+button_3_right,button pressed on a give trial by individual on the right side (1=yes/ 0=no)
+button_4_right,button pressed on a give trial by individual on the right side (1=yes/ 0=no)
+success_right,are corresponding buttons chosen on either side of the box
+num_choices_right,number of buttons pressed in the trial
+com_coded_right,communication behaviour shown by individual on the right
+timing_choice_right,are choices within 1s of eachother (sim) or at least 1s apart (seq) - only a subset coded for this
+comm_type_right,attention-getter (ag) or reference to specific button (r) - only a subset coded for this
+comm_mod_right,modality of communication as either gesture (g) or vocal (v) or both (vg)
+comm_timing_right,whether communication occurs prior to pressing a button (predec) or after pressing the button (postdec)

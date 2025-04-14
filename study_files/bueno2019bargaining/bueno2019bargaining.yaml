@@ -1,0 +1,66 @@
+study_id: bueno2019bargaining
+year: 2019
+reference: 'Bueno-Guerra, N., Völter, C. J., de las Heras, A., Colell, M., & Call,
+  J. (2019). Bargaining in chimpanzees (Pan troglodytes): The effect of cost, emount
+  of gift, reciprocity, and communication (advance online). Journal of Comparative
+  Psychology. doi:10.1037/com0000189.'
+abstract: 'Humans routinely incur costs when allocating resources and reject distributions
+  judged to be below/over an expected threshold. The dictator/ultimatum games (DG/UG)
+  are two-player games that quantify prosociality and inequity aversion by measuring
+  allocated distributions and rejection thresholds. Although the UG has been administered
+  to chimpanzees and bonobos, no study has used both games to pinpoint their motivational
+  substrate. We administered a DG/UG using preassigned distributions to four chimpanzee
+  dyads controlling for factors that could explain why proposers’ behavior varied
+  substantially across previous studies: game order, cost for proposers, and amount
+  for recipients. Moreover, players exchanged their roles (proposer/recipient) to
+  test reciprocity. Our results show that proposers offered more in the DG than in
+  the nonsocial baseline, particularly when they incurred no cost. In UG, recipients
+  accepted all above-zero offers, suggesting absence of inequity aversion. Proposers
+  preferentially chose options that gave larger amounts to the partner. However, they
+  also decreased their offers across sessions, probably being inclined to punish their
+  partner’s rejections. Therefore, chimpanzees were not strategically motivated toward
+  offering more generously to achieve ulterior acceptance from their partner. We found
+  no evidence of reciprocity. We conclude that chimpanzees are generous rational maximizers
+  that may not engage in strategic behavior.'
+keywords: ultimatum game, dictator game, inequity aversion, reciprocity, chimpanzees
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Nereida Bueno Guerra
+  corr_author: true
+- author_no: 2
+  name: Christoph J. Völter
+  corr_author: false
+- author_no: 3
+  name: África de las Heras
+  corr_author: false
+- author_no: 4
+  name: Montserrat Colell
+  corr_author: false
+- author_no: 5
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals, dyads
+  droupouts_no: false
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: collaboration
+- domain_no: 2
+  general_domain: competition_and_cooperation
+  specific_domain: prosocial_behavior
+cognitive_domain:
+  social: true
+  physical: false

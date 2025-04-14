@@ -1,0 +1,78 @@
+study_id: martin2010keeping
+year: 2010
+reference: 'Martin-Ordas, G., Haun, D. B. M., Colmenares, F., & Call, J. (2010). Keeping
+  track of time: Evidence for episodic-like memory in great apes. Animal Cognition,
+  13(2), 331-340. doi:10.1007/s10071-009-0282-4.'
+abstract: Episodic memory, as defined by Tulving, can be described in terms of behavioural
+  elements (what, where and when information) but it is also accompained by an awareness
+  of one’s past (chronesthesia) and a subjective conscious experience (autonoetic
+  awareness). Recent experiments have shown that corvids and rodents recall the where,
+  what and when of an event. This capability has been called episodic-like memory
+  because it only fulfils the behavioural criteria for episodic memory. We tested
+  seven chimpanzees, three orangutans and two bonobos of various ages by adapting
+  two paradigms, originally developed by Clayton and colleagues to test scrub jays.
+  In Experiment 1, subjects were fed preferred but perishable food (frozen juice)
+  and less preferred but non-perishable food (grape). After the food items were hidden,
+  subjects could choose one of them either after 5 min or 1 h. The frozen juice was
+  still available after 5 min but melted after 1 h and became unobtainable. Apes chose
+  the frozen juice significantly more after 5 min and the grape after 1 h. In Experiment
+  2, subjects faced two baiting events happening at different times, yet they formed
+  an integrated memory for the location and time of the baiting event for particular
+  food items. We also included a memory task that required no temporal encoding. Our
+  results showed that apes remember in an integrated fashion what, where and when
+  (i.e., how long ago) an event happened; that is, apes distinguished between different
+  events in which the same food items were hidden in different places at different
+  times. The temporal control of their choices was not dependent on the familiarity
+  of the platforms where the food was hidden. Chimpanzees’ and bonobos’ performance
+  in the temporal encoding task was age-dependent, following an inverted U-shaped
+  distribution. The age had no effect on the performance of the subjects in the task
+  that required no temporal encoding.
+keywords: Episodic-like memory, Age, Great apes
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Gema Martin-Ordas
+  corr_author: true
+- author_no: 2
+  name: Daniel Haun
+  corr_author: false
+- author_no: 3
+  name: Fernando Colmenares
+  corr_author: false
+- author_no: 4
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_b, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: quantities_and_time
+  specific_domain: timing_discounting_and_delayed_gratification
+cognitive_domain:
+  social: false
+  physical: true

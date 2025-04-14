@@ -1,0 +1,59 @@
+study_id: laumer2018spontaneous
+year: 2018
+reference: Laumer, I. B., Call, J., Bugnyar, T., & Auersperg, A. M. I. (2018). Spontaneous
+  innovation of hook-bending and unbending in orangutans (Pongo abelii). Scientif
+  Reports, 8, 16518. doi:10.1038/s41598-018-34607-0.
+abstract: Betty the crow astonished the scientific world as she spontaneously crafted
+  hook-tools from straight wire in order to lift a basket out of vertical tubes. Recently
+  it was suggested that this species’ solution was strongly influenced by predispositions
+  from behavioural routines from habitual hook-tool manufacture. Nevertheless, the
+  task became a paradigm to investigate tool innovation. Considering that young humans
+  had surprising difficulties with the task, it was yet unclear whether the innovation
+  of a hooked tool would be feasible to primates that lacked habitual hook making.
+  We thus tested five captive orangutans in a hook bending and unbending task. Orangutans
+  are habitually tool-using primates that have been reported to use but not craft
+  hooked tools for locomotion in the wild. Two orangutans spontaneously innovated
+  hook tools and four unbent the wire from their first trial on. Pre-experience with
+  ready-made hooks had some effect but did not lead to continuous success. Further
+  subjects improved the hook-design feature when the task required the subjects to
+  bent the hook at a steeper angle. Our results indicate that the ability to represent
+  and manufacture tools according to a current need does not require stereotyped behavioural
+  routines, but can indeed arise innovatively. Furthermore, the present study shows
+  that the capacity for hook tool innovation is not limited to large brained birds
+  within non-human animals.
+keywords: ''
+any_data_provided: true
+authors:
+- author_no: 1
+  name: I. B. Laumer
+  corr_author: true
+- author_no: 2
+  name: J. Call
+  corr_author: false
+- author_no: 3
+  name: T. Bugnyar
+  corr_author: false
+- author_no: 4
+  name: A. M. I. Auersperg
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: Dokana
+  group_id: wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: ontogeny_innovation_and_planning
+cognitive_domain:
+  social: false
+  physical: true

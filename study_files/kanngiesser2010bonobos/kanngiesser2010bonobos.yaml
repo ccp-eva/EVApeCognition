@@ -1,0 +1,77 @@
+study_id: kanngiesser2010bonobos
+year: 2010
+reference: Kanngiesser, P., & Call, J. (2010). Bonobos, chimpanzees, gorillas, and
+  orang utans use feature and spatial cues in two spatial memory tasks. Animal Cognition,
+  13(3), 419-430. doi:10.1007/s10071-009-0291-3.
+abstract: Animals commonly use feature and spatial strategies when remembering places
+  of interest such as food sources or hiding places. We conducted three experiments
+  with great apes to investigate strategy preferences and factors that may shape them.
+  In the Wrst experiment, we trained 17 apes to remember 12 diVerent food locations
+  on the Xoor of their sleeping room. The 12 food locations were associated with one
+  feature cue, so that feature and spatial cues were confounded. In a single test
+  session, we brought the cues into conXict and found that apes, irrespective of species,
+  showed a preference for a feature strategy. In the second experiment, we used a
+  similar procedure and trained 25 apes to remember one food location on a platform
+  in front of them. On average, apes preferred to use a feature strategy but some
+  individuals relied on a spatial strategy. In the Wnal experiment, we investigated
+  whether training might inXuence strategy preferences. We tested 21 apes in the platform
+  set-up and found that apes used both, feature and spatial strategies irrespective
+  of training. We conclude that apes can use feature and spatial strategies to remember
+  the location of hidden food items, but that task demands (e.g. diVerent numbers
+  of search locations) can influence strategy preferences. We found no evidence, however,
+  for the role of training in shaping these preferences.
+keywords: Spatial memory, Cues, Spatial strategies, Great apes
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Patricia Kanngiesser
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: dorien, natascha, swela, dunja
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorillas, wkprc_bonobo,
+    wkprc_orangutan
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2007,2008
+  data_collection_date_comments: 2007/05/29 to 2008/01/5
+  age_source: age_in_years calculated and age_original provided by author in publication
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: pia
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorillas, wkprc_bonobo,
+    wkprc_orangutan
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2007,2008
+  data_collection_date_comments: 2007/06/12 to 2008/01/4
+  age_source: age_in_years calculated and age_original provided by author in publication
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: ulla
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2008'
+  data_collection_date_comments: 2008/05/20 to 2008/07/10
+  age_source: age_in_years calculated and age_original provided by author in publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: space_and_objects
+  specific_domain: space_landmarks_and_relations
+cognitive_domain:
+  social: false
+  physical: true

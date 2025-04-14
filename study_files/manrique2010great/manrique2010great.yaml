@@ -1,0 +1,92 @@
+study_id: manrique2010great
+year: 2010
+reference: 'Manrique, H. M., Gross, A.-N.-M., & Call, J. (2010). Great Apes Select
+  Tools on the Basis of Their Rigidity. Journal of Experimental Psychology: Animal
+  Behavior Processes, 36(4), 409-422. doi:10.1037/a0019296.'
+abstract: Wild chimpanzees select tools according to their rigidity. However, little
+  is known about whether choices are solely based on familiarity with the materials
+  or knowledge about tool properties. Furthermore, it is unclear whether tool manipulation
+  is required prior to selection or whether observation alone can suffice. We investigated
+  whether chimpanzees (Pan troglodytes) (n = 9), bonobos (Pan paniscus) (n = 4), orangutans
+  (Pongo pygmaeus) (n = 6), and gorillas (Gorilla gorilla) (n = 2) selected new tools
+  on the basis of their rigidity. Subjects faced an out-of-reach reward and a choice
+  of three tools differing in color, diameter, material, and rigidity. We used 10
+  different 3-tool sets (1 rigid, 2 flexible). Subjects were unfamiliar with the tools
+  and needed to select and use the rigid tool to retrieve the reward. Experiment 1
+  showed that subjects chose the rigid tool from the first trial with a 90% success
+  rate. Experiments 2a and 2b addressed the role of manipulation and observation in
+  tool selection. Subjects performed equally well in conditions in which they could
+  manipulate the tools themselves or saw the experimenter manipulate the tools but
+  decreased their performance if they could only visually inspect the tools. Experiment
+  3 showed that subjects could select flexible tools (as opposed to rigid ones) to
+  meet new task demands. We conclude that great apes spontaneously selected unfamiliar
+  rigid or flexible tools even after gathering minimal observational information.
+keywords: tool use, object properties, problem solving, primates
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Hector Marin-Manrique
+  corr_author: true
+- author_no: 2
+  name: Alexandra Nam-Mi Gross
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: N’Diki
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo, wkprc_orangutan,
+    wkprc_gorilla
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: author
+  data_collection_date: 2008 - 2009
+  data_collection_date_comments: '20 august 2009: Dunja, Padana, Kila, 21 august 2009:
+    Joey, Yasa, Limbuko, Kuno, , 22 august 2009: Dokana, Pini, , 10 sept 2009: Jahaga,
+    Trudi, 12 sept 2009: Fraukje, Frodo, Patrick, Ulla.'
+  age_source: publication_calculated
+  age_source_comments: age_original from diploma thesis of Alexandra Gross/age_in_years
+    calculated
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 2
+  dropout_names: Bimbo, Tai
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: author
+  data_collection_date: 2008 - 2009
+  data_collection_date_comments: '20 august 2009: Dunja, Padana, Kila, 21 august2009:
+    Joey, Yasa, Limbuko, Kuno, , 22 august 2009: Dokana, Pini, , 10 sept 2009: Jahaga,
+    Trudi, 12 sept 2009: Fraukje, Frodo, Patrick, Ulla'
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 3
+  dropout_names: Ulla, Frodo, Bimbo
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo, wkprc_orangutan,
+    wkprc_gorilla
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: author
+  data_collection_date: 2008 - 2009
+  data_collection_date_comments: '20 august 2009: Dunja, Padana, Kila, 21 august 2009:
+    Joey, Yasa, Limbuko, Kuno, , 22 august 2009: Dokana, Pini, , 10 sept 2009: Jahaga,
+    Trudi, 12 sept 2009: Fraukje, Frodo, Patrick, Ulla'
+  age_source: publication_calculated
+  age_source_comments: age_original from diploma thesis of Alexandra Gross/age_in_years
+    calculated
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: tool_features_and_functions
+cognitive_domain:
+  social: false
+  physical: true

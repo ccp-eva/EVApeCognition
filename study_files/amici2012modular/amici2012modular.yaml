@@ -1,0 +1,64 @@
+study_id: amici2012modular
+year: 2012
+reference: 'Amici, F., Barney, B., Johnson, V. E., Call, J., & Aureli, F. (2012).
+  A modular mind? A test using individual data from seven primate species. PLoS One,
+  7(12): e51918. doi:10.1371/journal.pone.0051918.'
+abstract: It has long been debated whether the mind consists of specialized and independently
+  evolving modules, or whether and to what extent a general factor accounts for the
+  variance in performance across different cognitive domains. In this study, we used
+  a hierarchical Bayesian model to re-analyse individual level data collected on seven
+  primate species (chimpanzees, bonobos, orangutans, gorillas, spider monkeys, brown
+  capuchin monkeys and long-tailed macaques) across 17 tasks within four domains (inhibition,
+  memory, transposition and support). Our modelling approach evidenced the existence
+  of both a domain-specific factor and a species factor, each accounting for the same
+  amount (17%) of the observed variance. In contrast, inter-individual differences
+  played a minimal role. These results support the hypothesis that the mind of primates
+  is (at least partially) modular, with domain-specific cognitive skills undergoing
+  different evolutionary pressures in different species in response to specific ecological
+  and social demands.
+keywords: ''
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Federica Amici
+  corr_author: true
+- author_no: 2
+  name: Bradley Barney
+  corr_author: false
+- author_no: 3
+  name: Valen E. Johnson
+  corr_author: false
+- author_no: 4
+  name: Josep Call
+  corr_author: false
+- author_no: 5
+  name: Filippo Aureli
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: partial
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_orangutan, wkprc_gorilla,
+    wkprc_bonobo
+  group_id_excluded: centenario_spidermonkey, istccnr_capuchinmonkey, utrecht_longtailedmacaque
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: quantities_and_time
+  specific_domain: timing_discounting_and_delayed_gratification
+- domain_no: 2
+  general_domain: space_and_objects
+  specific_domain: tracking_object_displacements
+- domain_no: 3
+  general_domain: tools_and_causality
+  specific_domain: tool_features_and_functions
+cognitive_domain:
+  social: false
+  physical: true

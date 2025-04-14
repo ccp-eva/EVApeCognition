@@ -1,0 +1,865 @@
+﻿study_id,experiment,participant,sex,species,session,trial,condition,position,chosen,correct,start_side,side,table_part,table,distance_between_cups,distance_to_edge,landmark,landmark2,chosen_landmark
+hribar2011great,3,jahaga,f,chimpanzee,4.0,1.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,jahaga,f,chimpanzee,4.0,2.0,full_table_near,middle,middle,yes,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,jahaga,f,chimpanzee,4.0,3.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,jahaga,f,chimpanzee,4.0,4.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,jahaga,f,chimpanzee,4.0,5.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,jahaga,f,chimpanzee,4.0,6.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,jahaga,f,chimpanzee,4.0,7.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,jahaga,f,chimpanzee,4.0,8.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,jahaga,f,chimpanzee,4.0,9.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,jahaga,f,chimpanzee,4.0,10.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,jahaga,f,chimpanzee,4.0,11.0,full_table_near,right,left,no,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge1
+hribar2011great,3,jahaga,f,chimpanzee,4.0,12.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,jahaga,f,chimpanzee,3.0,1.0,half_table_near,left,left,yes,right,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,jahaga,f,chimpanzee,3.0,2.0,half_table_near,right,right,yes,right,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,jahaga,f,chimpanzee,3.0,3.0,half_table_near,middle,right,no,right,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,jahaga,f,chimpanzee,3.0,4.0,half_table_near,right,right,yes,right,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,jahaga,f,chimpanzee,3.0,5.0,half_table_near,middle,left,no,right,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge2
+hribar2011great,3,jahaga,f,chimpanzee,3.0,6.0,half_table_near,left,left,yes,right,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,jahaga,f,chimpanzee,3.0,7.0,half_table_near,middle,left,no,right,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,jahaga,f,chimpanzee,3.0,8.0,half_table_near,left,left,yes,right,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,jahaga,f,chimpanzee,3.0,9.0,half_table_near,left,left,yes,right,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,jahaga,f,chimpanzee,3.0,10.0,half_table_near,middle,right,no,right,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge2
+hribar2011great,3,jahaga,f,chimpanzee,3.0,11.0,half_table_near,right,right,yes,right,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,jahaga,f,chimpanzee,3.0,12.0,half_table_near,right,left,no,right,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge1
+hribar2011great,3,jahaga,f,chimpanzee,2.0,1.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,jahaga,f,chimpanzee,2.0,2.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,jahaga,f,chimpanzee,2.0,3.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,jahaga,f,chimpanzee,2.0,4.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,jahaga,f,chimpanzee,2.0,5.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,jahaga,f,chimpanzee,2.0,6.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,jahaga,f,chimpanzee,2.0,7.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,jahaga,f,chimpanzee,2.0,8.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,jahaga,f,chimpanzee,2.0,9.0,full_table_far,right,middle,no,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,middle cup
+hribar2011great,3,jahaga,f,chimpanzee,2.0,10.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,jahaga,f,chimpanzee,2.0,11.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,jahaga,f,chimpanzee,2.0,12.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,jahaga,f,chimpanzee,1.0,1.0,half_table_far,right,right,yes,left,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,jahaga,f,chimpanzee,1.0,2.0,half_table_far,middle,middle,yes,left,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,jahaga,f,chimpanzee,1.0,3.0,half_table_far,left,left,yes,left,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,jahaga,f,chimpanzee,1.0,4.0,half_table_far,right,right,yes,left,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,jahaga,f,chimpanzee,1.0,5.0,half_table_far,middle,middle,yes,left,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,jahaga,f,chimpanzee,1.0,6.0,half_table_far,left,left,yes,left,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,jahaga,f,chimpanzee,1.0,7.0,half_table_far,left,left,yes,left,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,jahaga,f,chimpanzee,1.0,8.0,half_table_far,middle,middle,yes,left,right,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,jahaga,f,chimpanzee,1.0,9.0,half_table_far,right,right,yes,left,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,jahaga,f,chimpanzee,1.0,10.0,half_table_far,middle,middle,yes,left,right,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,jahaga,f,chimpanzee,1.0,11.0,half_table_far,right,right,yes,left,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,jahaga,f,chimpanzee,1.0,12.0,half_table_far,left,left,yes,left,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,fifi,f,chimpanzee,1.0,1.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,fifi,f,chimpanzee,1.0,2.0,full_table_near,middle,middle,yes,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,fifi,f,chimpanzee,1.0,3.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,fifi,f,chimpanzee,1.0,4.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,fifi,f,chimpanzee,1.0,5.0,full_table_near,middle,middle,yes,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,fifi,f,chimpanzee,1.0,6.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,fifi,f,chimpanzee,1.0,7.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,fifi,f,chimpanzee,1.0,8.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,fifi,f,chimpanzee,1.0,9.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,fifi,f,chimpanzee,1.0,10.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,fifi,f,chimpanzee,1.0,11.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,fifi,f,chimpanzee,1.0,12.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,fifi,f,chimpanzee,3.0,1.0,half_table_near,left,left,yes,left,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,fifi,f,chimpanzee,3.0,2.0,half_table_near,right,right,yes,left,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,fifi,f,chimpanzee,3.0,3.0,half_table_near,middle,left,no,left,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,fifi,f,chimpanzee,3.0,4.0,half_table_near,right,right,yes,left,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,fifi,f,chimpanzee,3.0,5.0,half_table_near,middle,left,no,left,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,fifi,f,chimpanzee,3.0,6.0,half_table_near,left,left,yes,left,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,fifi,f,chimpanzee,3.0,7.0,half_table_near,middle,right,no,left,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,fifi,f,chimpanzee,3.0,8.0,half_table_near,left,left,yes,left,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,fifi,f,chimpanzee,3.0,9.0,half_table_near,left,right,no,left,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge1
+hribar2011great,3,fifi,f,chimpanzee,3.0,10.0,half_table_near,middle,middle,yes,left,right,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,fifi,f,chimpanzee,3.0,11.0,half_table_near,right,right,yes,left,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,fifi,f,chimpanzee,3.0,12.0,half_table_near,right,right,yes,left,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,fifi,f,chimpanzee,4.0,1.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,fifi,f,chimpanzee,4.0,2.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,fifi,f,chimpanzee,4.0,3.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,fifi,f,chimpanzee,4.0,4.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,fifi,f,chimpanzee,4.0,5.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,fifi,f,chimpanzee,4.0,6.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,fifi,f,chimpanzee,4.0,7.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,fifi,f,chimpanzee,4.0,8.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,fifi,f,chimpanzee,4.0,9.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,fifi,f,chimpanzee,4.0,10.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,fifi,f,chimpanzee,4.0,11.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,fifi,f,chimpanzee,4.0,12.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,fifi,f,chimpanzee,2.0,1.0,half_table_far,middle,left,no,right,right,half,big,12.5,19.5,no_landmark,middle_cup,edge2
+hribar2011great,3,fifi,f,chimpanzee,2.0,2.0,half_table_far,left,left,yes,right,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,fifi,f,chimpanzee,2.0,3.0,half_table_far,right,right,yes,right,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,fifi,f,chimpanzee,2.0,4.0,half_table_far,middle,left,no,right,right,half,big,12.5,19.5,no_landmark,middle_cup,edge2
+hribar2011great,3,fifi,f,chimpanzee,2.0,5.0,half_table_far,right,right,yes,right,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,fifi,f,chimpanzee,2.0,6.0,half_table_far,left,left,yes,right,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,fifi,f,chimpanzee,2.0,7.0,half_table_far,right,right,yes,right,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,fifi,f,chimpanzee,2.0,8.0,half_table_far,middle,middle,yes,right,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,fifi,f,chimpanzee,2.0,9.0,half_table_far,right,middle,no,right,left,half,big,12.5,38.0,middleof_the_table,edge2,middle cup
+hribar2011great,3,fifi,f,chimpanzee,2.0,10.0,half_table_far,left,left,yes,right,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,fifi,f,chimpanzee,2.0,11.0,half_table_far,left,left,yes,right,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,fifi,f,chimpanzee,2.0,12.0,half_table_far,middle,middle,yes,right,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,gertrudia,f,chimpanzee,4.0,1.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,4.0,2.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,4.0,3.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,gertrudia,f,chimpanzee,4.0,4.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,4.0,5.0,full_table_near,right,middle,no,whole_table,whole,whole,small,3.25,1.0,edge,edge2,middle cup
+hribar2011great,3,gertrudia,f,chimpanzee,4.0,6.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,4.0,7.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,gertrudia,f,chimpanzee,4.0,8.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,4.0,9.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,gertrudia,f,chimpanzee,4.0,10.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,4.0,11.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,4.0,12.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,gertrudia,f,chimpanzee,2.0,1.0,half_table_near,right,right,yes,left,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,gertrudia,f,chimpanzee,2.0,2.0,half_table_near,middle,left,no,left,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,2.0,3.0,half_table_near,left,right,no,left,left,half,medium,3.25,1.0,edge,edge1,edge2
+hribar2011great,3,gertrudia,f,chimpanzee,2.0,4.0,half_table_near,right,right,yes,left,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,gertrudia,f,chimpanzee,2.0,5.0,half_table_near,middle,left,no,left,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,2.0,6.0,half_table_near,left,right,no,left,left,half,medium,3.25,1.0,edge,edge1,edge2
+hribar2011great,3,gertrudia,f,chimpanzee,2.0,7.0,half_table_near,left,left,yes,left,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,gertrudia,f,chimpanzee,2.0,8.0,half_table_near,middle,right,no,left,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,2.0,9.0,half_table_near,right,left,no,left,right,half,medium,3.25,1.0,edge,edge1,edge2
+hribar2011great,3,gertrudia,f,chimpanzee,2.0,10.0,half_table_near,middle,right,no,left,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,2.0,11.0,half_table_near,right,left,no,left,right,half,medium,3.25,1.0,edge,edge1,edge2
+hribar2011great,3,gertrudia,f,chimpanzee,2.0,12.0,half_table_near,left,left,yes,left,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,gertrudia,f,chimpanzee,1.0,1.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,gertrudia,f,chimpanzee,1.0,2.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,1.0,3.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,gertrudia,f,chimpanzee,1.0,4.0,full_table_far,middle,left,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,1.0,5.0,full_table_far,right,middle,no,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,middle cup
+hribar2011great,3,gertrudia,f,chimpanzee,1.0,6.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,1.0,7.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,gertrudia,f,chimpanzee,1.0,8.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,gertrudia,f,chimpanzee,1.0,9.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,gertrudia,f,chimpanzee,1.0,10.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,1.0,11.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,1.0,12.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,gertrudia,f,chimpanzee,3.0,1.0,half_table_far,left,left,yes,right,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,gertrudia,f,chimpanzee,3.0,2.0,half_table_far,right,right,yes,right,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,3.0,3.0,half_table_far,middle,right,no,right,right,half,big,12.5,19.5,no_landmark,middle_cup,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,3.0,4.0,half_table_far,right,right,yes,right,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,3.0,5.0,half_table_far,middle,middle,yes,right,right,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,gertrudia,f,chimpanzee,3.0,6.0,half_table_far,left,left,yes,right,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,gertrudia,f,chimpanzee,3.0,7.0,half_table_far,middle,middle,yes,right,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,gertrudia,f,chimpanzee,3.0,8.0,half_table_far,left,left,yes,right,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,3.0,9.0,half_table_far,left,left,yes,right,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,3.0,10.0,half_table_far,middle,left,no,right,left,half,big,12.5,19.5,no_landmark,middle_cup,edge1
+hribar2011great,3,gertrudia,f,chimpanzee,3.0,11.0,half_table_far,right,right,yes,right,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,gertrudia,f,chimpanzee,3.0,12.0,half_table_far,right,right,yes,right,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,alexandra,f,chimpanzee,3.0,1.0,full_table_near,middle,middle,yes,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,alexandra,f,chimpanzee,3.0,2.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,alexandra,f,chimpanzee,3.0,3.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,alexandra,f,chimpanzee,3.0,4.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,alexandra,f,chimpanzee,3.0,5.0,full_table_near,right,left,no,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge1
+hribar2011great,3,alexandra,f,chimpanzee,3.0,6.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,alexandra,f,chimpanzee,3.0,7.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,alexandra,f,chimpanzee,3.0,8.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,alexandra,f,chimpanzee,3.0,9.0,full_table_near,right,middle,no,whole_table,whole,whole,small,3.25,1.0,edge,edge2,middle cup
+hribar2011great,3,alexandra,f,chimpanzee,3.0,10.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,alexandra,f,chimpanzee,3.0,11.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,alexandra,f,chimpanzee,3.0,12.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,alexandra,f,chimpanzee,4.0,1.0,half_table_near,left,left,yes,right,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,alexandra,f,chimpanzee,4.0,2.0,half_table_near,right,right,yes,right,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,alexandra,f,chimpanzee,4.0,3.0,half_table_near,middle,right,no,right,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,alexandra,f,chimpanzee,4.0,4.0,half_table_near,right,right,yes,right,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,alexandra,f,chimpanzee,4.0,5.0,half_table_near,middle,left,no,right,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge2
+hribar2011great,3,alexandra,f,chimpanzee,4.0,6.0,half_table_near,left,left,yes,right,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,alexandra,f,chimpanzee,4.0,7.0,half_table_near,middle,left,no,right,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,alexandra,f,chimpanzee,4.0,8.0,half_table_near,left,left,yes,right,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,alexandra,f,chimpanzee,4.0,9.0,half_table_near,left,left,yes,right,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,alexandra,f,chimpanzee,4.0,10.0,half_table_near,middle,left,no,right,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,alexandra,f,chimpanzee,4.0,11.0,half_table_near,right,right,yes,right,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,alexandra,f,chimpanzee,4.0,12.0,half_table_near,right,middle,no,right,left,half,medium,3.25,19.5,middleof_the_table,edge2,middle cup
+hribar2011great,3,alexandra,f,chimpanzee,1.0,1.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,alexandra,f,chimpanzee,1.0,2.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,alexandra,f,chimpanzee,1.0,3.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,alexandra,f,chimpanzee,1.0,4.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,alexandra,f,chimpanzee,1.0,5.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,alexandra,f,chimpanzee,1.0,6.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,alexandra,f,chimpanzee,1.0,7.0,full_table_far,middle,left,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge1
+hribar2011great,3,alexandra,f,chimpanzee,1.0,8.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,alexandra,f,chimpanzee,1.0,9.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,alexandra,f,chimpanzee,1.0,10.0,full_table_far,middle,right,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge2
+hribar2011great,3,alexandra,f,chimpanzee,1.0,11.0,full_table_far,right,middle,no,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,middle cup
+hribar2011great,3,alexandra,f,chimpanzee,1.0,12.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,alexandra,f,chimpanzee,2.0,1.0,half_table_far,right,right,yes,left,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,alexandra,f,chimpanzee,2.0,2.0,half_table_far,middle,middle,yes,left,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,alexandra,f,chimpanzee,2.0,3.0,half_table_far,left,left,yes,left,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,alexandra,f,chimpanzee,2.0,4.0,half_table_far,right,right,yes,left,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,alexandra,f,chimpanzee,2.0,5.0,half_table_far,middle,middle,yes,left,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,alexandra,f,chimpanzee,2.0,6.0,half_table_far,left,left,yes,left,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,alexandra,f,chimpanzee,2.0,7.0,half_table_far,left,left,yes,left,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,alexandra,f,chimpanzee,2.0,8.0,half_table_far,middle,left,no,left,right,half,big,12.5,19.5,no_landmark,middle_cup,edge2
+hribar2011great,3,alexandra,f,chimpanzee,2.0,9.0,half_table_far,right,right,yes,left,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,alexandra,f,chimpanzee,2.0,10.0,half_table_far,middle,left,no,left,right,half,big,12.5,19.5,no_landmark,middle_cup,edge2
+hribar2011great,3,alexandra,f,chimpanzee,2.0,11.0,half_table_far,right,middle,no,left,right,half,big,12.5,1.0,edge,edge1,middle cup
+hribar2011great,3,alexandra,f,chimpanzee,2.0,12.0,half_table_far,left,left,yes,left,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,alex,m,chimpanzee,1.0,1.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,alex,m,chimpanzee,1.0,2.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,alex,m,chimpanzee,1.0,3.0,full_table_near,right,left,no,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge1
+hribar2011great,3,alex,m,chimpanzee,1.0,4.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,alex,m,chimpanzee,1.0,5.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,alex,m,chimpanzee,1.0,6.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,alex,m,chimpanzee,1.0,7.0,full_table_near,right,left,no,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge1
+hribar2011great,3,alex,m,chimpanzee,1.0,8.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,alex,m,chimpanzee,1.0,9.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,alex,m,chimpanzee,1.0,10.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,alex,m,chimpanzee,1.0,11.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,alex,m,chimpanzee,1.0,12.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,alex,m,chimpanzee,4.0,1.0,half_table_near,middle,middle,yes,right,right,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,alex,m,chimpanzee,4.0,2.0,half_table_near,left,left,yes,right,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,alex,m,chimpanzee,4.0,3.0,half_table_near,right,right,yes,right,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,alex,m,chimpanzee,4.0,4.0,half_table_near,middle,right,no,right,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,alex,m,chimpanzee,4.0,5.0,half_table_near,right,right,yes,right,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,alex,m,chimpanzee,4.0,6.0,half_table_near,left,left,yes,right,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,alex,m,chimpanzee,4.0,7.0,half_table_near,right,middle,no,right,left,half,medium,3.25,19.5,middleof_the_table,edge2,middle cup
+hribar2011great,3,alex,m,chimpanzee,4.0,8.0,half_table_near,middle,left,no,right,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,alex,m,chimpanzee,4.0,9.0,half_table_near,right,left,no,right,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge1
+hribar2011great,3,alex,m,chimpanzee,4.0,10.0,half_table_near,left,left,yes,right,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,alex,m,chimpanzee,4.0,11.0,half_table_near,left,left,yes,right,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,alex,m,chimpanzee,4.0,12.0,half_table_near,middle,middle,yes,right,left,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,alex,m,chimpanzee,2.0,1.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,alex,m,chimpanzee,2.0,2.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,alex,m,chimpanzee,2.0,3.0,full_table_far,middle,right,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge2
+hribar2011great,3,alex,m,chimpanzee,2.0,4.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,alex,m,chimpanzee,2.0,5.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,alex,m,chimpanzee,2.0,6.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,alex,m,chimpanzee,2.0,7.0,full_table_far,middle,left,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge1
+hribar2011great,3,alex,m,chimpanzee,2.0,8.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,alex,m,chimpanzee,2.0,9.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,alex,m,chimpanzee,2.0,10.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,alex,m,chimpanzee,2.0,11.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,alex,m,chimpanzee,2.0,12.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,alex,m,chimpanzee,3.0,1.0,half_table_far,right,right,yes,left,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,alex,m,chimpanzee,3.0,2.0,half_table_far,middle,right,no,left,left,half,big,12.5,19.5,no_landmark,middle_cup,edge2
+hribar2011great,3,alex,m,chimpanzee,3.0,3.0,half_table_far,left,left,yes,left,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,alex,m,chimpanzee,3.0,4.0,half_table_far,right,right,yes,left,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,alex,m,chimpanzee,3.0,5.0,half_table_far,middle,right,no,left,left,half,big,12.5,19.5,no_landmark,middle_cup,edge2
+hribar2011great,3,alex,m,chimpanzee,3.0,6.0,half_table_far,left,left,yes,left,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,alex,m,chimpanzee,3.0,7.0,half_table_far,left,right,no,left,right,half,big,12.5,38.0,middleof_the_table,edge2,edge1
+hribar2011great,3,alex,m,chimpanzee,3.0,8.0,half_table_far,middle,middle,yes,left,right,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,alex,m,chimpanzee,3.0,9.0,half_table_far,right,right,yes,left,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,alex,m,chimpanzee,3.0,10.0,half_table_far,middle,right,no,left,right,half,big,12.5,19.5,no_landmark,middle_cup,edge1
+hribar2011great,3,alex,m,chimpanzee,3.0,11.0,half_table_far,right,right,yes,left,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,alex,m,chimpanzee,3.0,12.0,half_table_far,left,middle,no,left,right,half,big,12.5,38.0,middleof_the_table,edge2,middle cup
+hribar2011great,3,annett,f,chimpanzee,3.0,1.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,annett,f,chimpanzee,3.0,2.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,annett,f,chimpanzee,3.0,3.0,full_table_near,right,middle,no,whole_table,whole,whole,small,3.25,1.0,edge,edge2,middle cup
+hribar2011great,3,annett,f,chimpanzee,3.0,4.0,full_table_near,middle,middle,yes,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,annett,f,chimpanzee,3.0,5.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,annett,f,chimpanzee,3.0,6.0,full_table_near,left,middle,no,whole_table,whole,whole,small,3.25,1.0,edge,edge1,middle cup
+hribar2011great,3,annett,f,chimpanzee,3.0,7.0,full_table_near,right,middle,no,whole_table,whole,whole,small,3.25,1.0,edge,edge2,middle cup
+hribar2011great,3,annett,f,chimpanzee,3.0,8.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,annett,f,chimpanzee,3.0,9.0,full_table_near,right,left,no,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge1
+hribar2011great,3,annett,f,chimpanzee,3.0,10.0,full_table_near,left,right,no,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge2
+hribar2011great,3,annett,f,chimpanzee,3.0,11.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,annett,f,chimpanzee,3.0,12.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,annett,f,chimpanzee,1.0,1.0,half_table_near,left,left,yes,left,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,annett,f,chimpanzee,1.0,2.0,half_table_near,right,right,yes,left,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,annett,f,chimpanzee,1.0,3.0,half_table_near,middle,left,no,left,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,annett,f,chimpanzee,1.0,4.0,half_table_near,right,right,yes,left,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,annett,f,chimpanzee,1.0,5.0,half_table_near,middle,middle,yes,left,left,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,annett,f,chimpanzee,1.0,6.0,half_table_near,left,left,yes,left,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,annett,f,chimpanzee,1.0,7.0,half_table_near,middle,right,no,left,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,annett,f,chimpanzee,1.0,8.0,half_table_near,left,left,yes,left,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,annett,f,chimpanzee,1.0,9.0,half_table_near,left,left,yes,left,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,annett,f,chimpanzee,1.0,10.0,half_table_near,middle,middle,yes,left,right,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,annett,f,chimpanzee,1.0,11.0,half_table_near,right,middle,no,left,right,half,medium,3.25,1.0,edge,edge1,middle cup
+hribar2011great,3,annett,f,chimpanzee,1.0,12.0,half_table_near,right,middle,no,left,right,half,medium,3.25,1.0,edge,edge1,middle cup
+hribar2011great,3,annett,f,chimpanzee,4.0,1.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,annett,f,chimpanzee,4.0,2.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,annett,f,chimpanzee,4.0,3.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,annett,f,chimpanzee,4.0,4.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,annett,f,chimpanzee,4.0,5.0,full_table_far,middle,left,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge1
+hribar2011great,3,annett,f,chimpanzee,4.0,6.0,full_table_far,left,middle,no,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,middle cup
+hribar2011great,3,annett,f,chimpanzee,4.0,7.0,full_table_far,middle,left,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge1
+hribar2011great,3,annett,f,chimpanzee,4.0,8.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,annett,f,chimpanzee,4.0,9.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,annett,f,chimpanzee,4.0,10.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,annett,f,chimpanzee,4.0,11.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,annett,f,chimpanzee,4.0,12.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,annett,f,chimpanzee,2.0,1.0,half_table_far,right,right,yes,right,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,annett,f,chimpanzee,2.0,2.0,half_table_far,middle,middle,yes,right,right,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,annett,f,chimpanzee,2.0,3.0,half_table_far,left,middle,no,right,right,half,big,12.5,38.0,middleof_the_table,edge2,middle cup
+hribar2011great,3,annett,f,chimpanzee,2.0,4.0,half_table_far,right,right,yes,right,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,annett,f,chimpanzee,2.0,5.0,half_table_far,middle,left,no,right,right,half,big,12.5,19.5,no_landmark,middle_cup,edge2
+hribar2011great,3,annett,f,chimpanzee,2.0,6.0,half_table_far,left,left,yes,right,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,annett,f,chimpanzee,2.0,7.0,half_table_far,left,left,yes,right,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,annett,f,chimpanzee,2.0,8.0,half_table_far,middle,middle,yes,right,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,annett,f,chimpanzee,2.0,9.0,half_table_far,right,right,yes,right,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,annett,f,chimpanzee,2.0,10.0,half_table_far,middle,middle,yes,right,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,annett,f,chimpanzee,2.0,11.0,half_table_far,right,middle,no,right,left,half,big,12.5,38.0,middleof_the_table,edge2,middle cup
+hribar2011great,3,annett,f,chimpanzee,2.0,12.0,half_table_far,left,middle,no,right,left,half,big,12.5,1.0,edge,edge1,middle cup
+hribar2011great,3,limbuko,m,bonobo,2.0,1.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,limbuko,m,bonobo,2.0,2.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,limbuko,m,bonobo,2.0,3.0,full_table_near,middle,middle,yes,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,limbuko,m,bonobo,2.0,4.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,limbuko,m,bonobo,2.0,5.0,full_table_near,middle,middle,yes,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,limbuko,m,bonobo,2.0,6.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,limbuko,m,bonobo,2.0,7.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,limbuko,m,bonobo,2.0,8.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,limbuko,m,bonobo,2.0,9.0,full_table_near,left,middle,no,whole_table,whole,whole,small,3.25,1.0,edge,edge1,middle cup
+hribar2011great,3,limbuko,m,bonobo,2.0,10.0,full_table_near,middle,middle,yes,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,limbuko,m,bonobo,2.0,11.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,limbuko,m,bonobo,2.0,12.0,full_table_near,right,left,no,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge1
+hribar2011great,3,limbuko,m,bonobo,1.0,1.0,half_table_near,middle,left,no,right,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge2
+hribar2011great,3,limbuko,m,bonobo,1.0,2.0,half_table_near,left,left,yes,right,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,limbuko,m,bonobo,1.0,3.0,half_table_near,right,right,yes,right,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,limbuko,m,bonobo,1.0,4.0,half_table_near,middle,left,no,right,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge2
+hribar2011great,3,limbuko,m,bonobo,1.0,5.0,half_table_near,right,right,yes,right,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,limbuko,m,bonobo,1.0,6.0,half_table_near,left,left,yes,right,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,limbuko,m,bonobo,1.0,7.0,half_table_near,right,left,no,right,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge1
+hribar2011great,3,limbuko,m,bonobo,1.0,8.0,half_table_near,middle,middle,yes,right,left,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,limbuko,m,bonobo,1.0,9.0,half_table_near,right,middle,no,right,left,half,medium,3.25,19.5,middleof_the_table,edge2,middle cup
+hribar2011great,3,limbuko,m,bonobo,1.0,10.0,half_table_near,left,left,yes,right,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,limbuko,m,bonobo,1.0,11.0,half_table_near,left,left,yes,right,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,limbuko,m,bonobo,1.0,12.0,half_table_near,middle,right,no,right,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge2
+hribar2011great,3,limbuko,m,bonobo,3.0,1.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,limbuko,m,bonobo,3.0,2.0,full_table_far,middle,right,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge2
+hribar2011great,3,limbuko,m,bonobo,3.0,3.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,limbuko,m,bonobo,3.0,4.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,limbuko,m,bonobo,3.0,5.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,limbuko,m,bonobo,3.0,6.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,limbuko,m,bonobo,3.0,7.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,limbuko,m,bonobo,3.0,8.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,limbuko,m,bonobo,3.0,9.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,limbuko,m,bonobo,3.0,10.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,limbuko,m,bonobo,3.0,11.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,limbuko,m,bonobo,3.0,12.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,limbuko,m,bonobo,4.0,1.0,half_table_far,middle,middle,yes,left,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,limbuko,m,bonobo,4.0,2.0,half_table_far,left,left,yes,left,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,limbuko,m,bonobo,4.0,3.0,half_table_far,right,right,yes,left,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,limbuko,m,bonobo,4.0,4.0,half_table_far,middle,left,no,left,left,half,big,12.5,19.5,no_landmark,middle_cup,edge1
+hribar2011great,3,limbuko,m,bonobo,4.0,5.0,half_table_far,right,right,yes,left,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,limbuko,m,bonobo,4.0,6.0,half_table_far,left,left,yes,left,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,limbuko,m,bonobo,4.0,7.0,half_table_far,right,right,yes,left,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,limbuko,m,bonobo,4.0,8.0,half_table_far,middle,middle,yes,left,right,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,limbuko,m,bonobo,4.0,9.0,half_table_far,right,right,yes,left,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,limbuko,m,bonobo,4.0,10.0,half_table_far,left,left,yes,left,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,limbuko,m,bonobo,4.0,11.0,half_table_far,left,middle,no,left,right,half,big,12.5,38.0,middleof_the_table,edge2,middle cup
+hribar2011great,3,limbuko,m,bonobo,4.0,12.0,half_table_far,middle,left,no,left,right,half,big,12.5,19.5,no_landmark,middle_cup,edge2
+hribar2011great,3,kuno,m,bonobo,3.0,1.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,kuno,m,bonobo,3.0,2.0,full_table_near,middle,middle,yes,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,kuno,m,bonobo,3.0,3.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,kuno,m,bonobo,3.0,4.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,kuno,m,bonobo,3.0,5.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,kuno,m,bonobo,3.0,6.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,kuno,m,bonobo,3.0,7.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,kuno,m,bonobo,3.0,8.0,full_table_near,middle,middle,yes,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,kuno,m,bonobo,3.0,9.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,kuno,m,bonobo,3.0,10.0,full_table_near,middle,middle,yes,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,kuno,m,bonobo,3.0,11.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,kuno,m,bonobo,3.0,12.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,kuno,m,bonobo,2.0,1.0,half_table_near,left,left,yes,left,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,kuno,m,bonobo,2.0,2.0,half_table_near,right,right,yes,left,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,kuno,m,bonobo,2.0,3.0,half_table_near,middle,middle,yes,left,left,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,kuno,m,bonobo,2.0,4.0,half_table_near,right,right,yes,left,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,kuno,m,bonobo,2.0,5.0,half_table_near,middle,middle,yes,left,left,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,kuno,m,bonobo,2.0,6.0,half_table_near,left,left,yes,left,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,kuno,m,bonobo,2.0,7.0,half_table_near,middle,middle,yes,left,right,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,kuno,m,bonobo,2.0,8.0,half_table_near,left,left,yes,left,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,kuno,m,bonobo,2.0,9.0,half_table_near,left,left,yes,left,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,kuno,m,bonobo,2.0,10.0,half_table_near,middle,middle,yes,left,right,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,kuno,m,bonobo,2.0,11.0,half_table_near,right,right,yes,left,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,kuno,m,bonobo,2.0,12.0,half_table_near,right,right,yes,left,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,kuno,m,bonobo,4.0,1.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,kuno,m,bonobo,4.0,2.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,kuno,m,bonobo,4.0,3.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,kuno,m,bonobo,4.0,4.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,kuno,m,bonobo,4.0,5.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,kuno,m,bonobo,4.0,6.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,kuno,m,bonobo,4.0,7.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,kuno,m,bonobo,4.0,8.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,kuno,m,bonobo,4.0,9.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,kuno,m,bonobo,4.0,10.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,kuno,m,bonobo,4.0,11.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,kuno,m,bonobo,4.0,12.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,kuno,m,bonobo,1.0,1.0,half_table_far,middle,middle,yes,left,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,kuno,m,bonobo,1.0,2.0,half_table_far,left,left,yes,left,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,kuno,m,bonobo,1.0,3.0,half_table_far,right,right,yes,left,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,kuno,m,bonobo,1.0,4.0,half_table_far,middle,middle,yes,left,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,kuno,m,bonobo,1.0,5.0,half_table_far,right,right,yes,left,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,kuno,m,bonobo,1.0,6.0,half_table_far,left,left,yes,left,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,kuno,m,bonobo,1.0,7.0,half_table_far,right,right,yes,left,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,kuno,m,bonobo,1.0,8.0,half_table_far,middle,middle,yes,left,right,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,kuno,m,bonobo,1.0,9.0,half_table_far,right,right,yes,left,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,kuno,m,bonobo,1.0,10.0,half_table_far,left,left,yes,left,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,kuno,m,bonobo,1.0,11.0,half_table_far,left,left,yes,left,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,kuno,m,bonobo,1.0,12.0,half_table_far,middle,middle,yes,left,right,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,joey,m,bonobo,1.0,1.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,joey,m,bonobo,1.0,2.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,joey,m,bonobo,1.0,3.0,full_table_near,middle,middle,yes,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,joey,m,bonobo,1.0,4.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,joey,m,bonobo,1.0,5.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,joey,m,bonobo,1.0,6.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,joey,m,bonobo,1.0,7.0,full_table_near,middle,middle,yes,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,joey,m,bonobo,1.0,8.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,joey,m,bonobo,1.0,9.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,joey,m,bonobo,1.0,10.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,joey,m,bonobo,1.0,11.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,joey,m,bonobo,1.0,12.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,joey,m,bonobo,3.0,1.0,half_table_near,middle,middle,yes,right,right,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,joey,m,bonobo,3.0,2.0,half_table_near,left,left,yes,right,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,joey,m,bonobo,3.0,3.0,half_table_near,right,right,yes,right,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,joey,m,bonobo,3.0,4.0,half_table_near,middle,right,no,right,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,joey,m,bonobo,3.0,5.0,half_table_near,right,right,yes,right,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,joey,m,bonobo,3.0,6.0,half_table_near,left,left,yes,right,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,joey,m,bonobo,3.0,7.0,half_table_near,right,left,no,right,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge1
+hribar2011great,3,joey,m,bonobo,3.0,8.0,half_table_near,middle,middle,yes,right,left,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,joey,m,bonobo,3.0,9.0,half_table_near,right,middle,no,right,left,half,medium,3.25,19.5,middleof_the_table,edge2,middle cup
+hribar2011great,3,joey,m,bonobo,3.0,10.0,half_table_near,left,left,yes,right,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,joey,m,bonobo,3.0,11.0,half_table_near,left,left,yes,right,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,joey,m,bonobo,3.0,12.0,half_table_near,middle,middle,yes,right,left,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,joey,m,bonobo,2.0,1.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,joey,m,bonobo,2.0,2.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,joey,m,bonobo,2.0,3.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,joey,m,bonobo,2.0,4.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,joey,m,bonobo,2.0,5.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,joey,m,bonobo,2.0,6.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,joey,m,bonobo,2.0,7.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,joey,m,bonobo,2.0,8.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,joey,m,bonobo,2.0,9.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,joey,m,bonobo,2.0,10.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,joey,m,bonobo,2.0,11.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,joey,m,bonobo,2.0,12.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,joey,m,bonobo,4.0,1.0,half_table_far,left,left,yes,left,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,joey,m,bonobo,4.0,2.0,half_table_far,right,right,yes,left,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,joey,m,bonobo,4.0,3.0,half_table_far,middle,middle,yes,left,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,joey,m,bonobo,4.0,4.0,half_table_far,right,right,yes,left,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,joey,m,bonobo,4.0,5.0,half_table_far,middle,middle,yes,left,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,joey,m,bonobo,4.0,6.0,half_table_far,left,left,yes,left,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,joey,m,bonobo,4.0,7.0,half_table_far,middle,middle,yes,left,right,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,joey,m,bonobo,4.0,8.0,half_table_far,left,middle,no,left,right,half,big,12.5,38.0,middleof_the_table,edge2,middle cup
+hribar2011great,3,joey,m,bonobo,4.0,9.0,half_table_far,left,left,yes,left,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,joey,m,bonobo,4.0,10.0,half_table_far,middle,middle,yes,left,right,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,joey,m,bonobo,4.0,11.0,half_table_far,right,right,yes,left,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,joey,m,bonobo,4.0,12.0,half_table_far,right,right,yes,left,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,ulindi,f,bonobo,4.0,1.0,full_table_near,middle,middle,yes,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,ulindi,f,bonobo,4.0,2.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,ulindi,f,bonobo,4.0,3.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,ulindi,f,bonobo,4.0,4.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,ulindi,f,bonobo,4.0,5.0,full_table_near,right,left,no,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge1
+hribar2011great,3,ulindi,f,bonobo,4.0,6.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,ulindi,f,bonobo,4.0,7.0,full_table_near,right,left,no,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge1
+hribar2011great,3,ulindi,f,bonobo,4.0,8.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,ulindi,f,bonobo,4.0,9.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,ulindi,f,bonobo,4.0,10.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,ulindi,f,bonobo,4.0,11.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,ulindi,f,bonobo,4.0,12.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,ulindi,f,bonobo,1.0,1.0,half_table_near,left,left,yes,left,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,ulindi,f,bonobo,1.0,2.0,half_table_near,right,middle,no,left,left,half,medium,3.25,19.5,middleof_the_table,edge2,middle cup
+hribar2011great,3,ulindi,f,bonobo,1.0,3.0,half_table_near,middle,left,no,left,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,ulindi,f,bonobo,1.0,4.0,half_table_near,right,right,yes,left,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,ulindi,f,bonobo,1.0,5.0,half_table_near,middle,left,no,left,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,ulindi,f,bonobo,1.0,6.0,half_table_near,left,left,yes,left,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,ulindi,f,bonobo,1.0,7.0,half_table_near,middle,right,no,left,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,ulindi,f,bonobo,1.0,8.0,half_table_near,left,left,yes,left,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,ulindi,f,bonobo,1.0,9.0,half_table_near,left,left,yes,left,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,ulindi,f,bonobo,1.0,10.0,half_table_near,middle,middle,yes,left,right,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,ulindi,f,bonobo,1.0,11.0,half_table_near,right,right,yes,left,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,ulindi,f,bonobo,1.0,12.0,half_table_near,right,right,yes,left,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,ulindi,f,bonobo,2.0,1.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,ulindi,f,bonobo,2.0,2.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,ulindi,f,bonobo,2.0,3.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,ulindi,f,bonobo,2.0,4.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,ulindi,f,bonobo,2.0,5.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,ulindi,f,bonobo,2.0,6.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,ulindi,f,bonobo,2.0,7.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,ulindi,f,bonobo,2.0,8.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,ulindi,f,bonobo,2.0,9.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,ulindi,f,bonobo,2.0,10.0,full_table_far,middle,left,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge1
+hribar2011great,3,ulindi,f,bonobo,2.0,11.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,ulindi,f,bonobo,2.0,12.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,ulindi,f,bonobo,3.0,1.0,half_table_far,left,left,yes,right,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,ulindi,f,bonobo,3.0,2.0,half_table_far,right,right,yes,right,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,ulindi,f,bonobo,3.0,3.0,half_table_far,middle,left,no,right,right,half,big,12.5,19.5,no_landmark,middle_cup,edge2
+hribar2011great,3,ulindi,f,bonobo,3.0,4.0,half_table_far,right,right,yes,right,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,ulindi,f,bonobo,3.0,5.0,half_table_far,middle,left,no,right,right,half,big,12.5,19.5,no_landmark,middle_cup,edge2
+hribar2011great,3,ulindi,f,bonobo,3.0,6.0,half_table_far,left,left,yes,right,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,ulindi,f,bonobo,3.0,7.0,half_table_far,middle,left,no,right,left,half,big,12.5,19.5,no_landmark,middle_cup,edge1
+hribar2011great,3,ulindi,f,bonobo,3.0,8.0,half_table_far,left,left,yes,right,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,ulindi,f,bonobo,3.0,9.0,half_table_far,left,left,yes,right,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,ulindi,f,bonobo,3.0,10.0,half_table_far,middle,left,no,right,left,half,big,12.5,19.5,no_landmark,middle_cup,edge1
+hribar2011great,3,ulindi,f,bonobo,3.0,11.0,half_table_far,right,right,yes,right,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,ulindi,f,bonobo,3.0,12.0,half_table_far,right,right,yes,right,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,yasa,f,bonobo,2.0,1.0,full_table_near,middle,middle,yes,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,yasa,f,bonobo,2.0,2.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,yasa,f,bonobo,2.0,3.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,yasa,f,bonobo,2.0,4.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,yasa,f,bonobo,2.0,5.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,yasa,f,bonobo,2.0,6.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,yasa,f,bonobo,2.0,7.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,yasa,f,bonobo,2.0,8.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,yasa,f,bonobo,2.0,9.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,yasa,f,bonobo,2.0,10.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,yasa,f,bonobo,2.0,11.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,yasa,f,bonobo,2.0,12.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,yasa,f,bonobo,4.0,1.0,half_table_near,right,right,yes,left,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,yasa,f,bonobo,4.0,2.0,half_table_near,middle,middle,yes,left,left,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,yasa,f,bonobo,4.0,3.0,half_table_near,left,left,yes,left,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,yasa,f,bonobo,4.0,4.0,half_table_near,right,right,yes,left,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,yasa,f,bonobo,4.0,5.0,half_table_near,middle,right,no,left,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge2
+hribar2011great,3,yasa,f,bonobo,4.0,6.0,half_table_near,left,left,yes,left,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,yasa,f,bonobo,4.0,7.0,half_table_near,left,right,no,left,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge1
+hribar2011great,3,yasa,f,bonobo,4.0,8.0,half_table_near,middle,right,no,left,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,yasa,f,bonobo,4.0,9.0,half_table_near,right,right,yes,left,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,yasa,f,bonobo,4.0,10.0,half_table_near,middle,right,no,left,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,yasa,f,bonobo,4.0,11.0,half_table_near,right,right,yes,left,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,yasa,f,bonobo,4.0,12.0,half_table_near,left,left,yes,left,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,yasa,f,bonobo,1.0,1.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,yasa,f,bonobo,1.0,2.0,full_table_far,middle,right,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge2
+hribar2011great,3,yasa,f,bonobo,1.0,3.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,yasa,f,bonobo,1.0,4.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,yasa,f,bonobo,1.0,5.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,yasa,f,bonobo,1.0,6.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,yasa,f,bonobo,1.0,7.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,yasa,f,bonobo,1.0,8.0,full_table_far,middle,left,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge1
+hribar2011great,3,yasa,f,bonobo,1.0,9.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,yasa,f,bonobo,1.0,10.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,yasa,f,bonobo,1.0,11.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,yasa,f,bonobo,1.0,12.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,yasa,f,bonobo,3.0,1.0,half_table_far,left,left,yes,right,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,yasa,f,bonobo,3.0,2.0,half_table_far,right,right,yes,right,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,yasa,f,bonobo,3.0,3.0,half_table_far,middle,middle,yes,right,right,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,yasa,f,bonobo,3.0,4.0,half_table_far,right,right,yes,right,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,yasa,f,bonobo,3.0,5.0,half_table_far,middle,left,no,right,right,half,big,12.5,19.5,no_landmark,middle_cup,edge2
+hribar2011great,3,yasa,f,bonobo,3.0,6.0,half_table_far,left,left,yes,right,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,yasa,f,bonobo,3.0,7.0,half_table_far,middle,left,no,right,left,half,big,12.5,19.5,no_landmark,middle_cup,edge1
+hribar2011great,3,yasa,f,bonobo,3.0,8.0,half_table_far,left,left,yes,right,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,yasa,f,bonobo,3.0,9.0,half_table_far,left,left,yes,right,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,yasa,f,bonobo,3.0,10.0,half_table_far,middle,middle,yes,right,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,yasa,f,bonobo,3.0,11.0,half_table_far,right,right,yes,right,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,yasa,f,bonobo,3.0,12.0,half_table_far,right,right,yes,right,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,raja,f,orangutan,1.0,1.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,raja,f,orangutan,1.0,2.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,raja,f,orangutan,1.0,3.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,raja,f,orangutan,1.0,4.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,raja,f,orangutan,1.0,5.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,raja,f,orangutan,1.0,6.0,full_table_near,left,middle,no,whole_table,whole,whole,small,3.25,1.0,edge,edge1,middle cup
+hribar2011great,3,raja,f,orangutan,1.0,7.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,raja,f,orangutan,1.0,8.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,raja,f,orangutan,1.0,9.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,raja,f,orangutan,1.0,10.0,full_table_near,middle,middle,yes,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,raja,f,orangutan,1.0,11.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,raja,f,orangutan,1.0,12.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,raja,f,orangutan,2.0,1.0,half_table_near,right,middle,no,right,right,half,medium,3.25,1.0,edge,edge1,middle cup
+hribar2011great,3,raja,f,orangutan,2.0,2.0,half_table_near,middle,right,no,right,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,raja,f,orangutan,2.0,3.0,half_table_near,left,left,yes,right,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,raja,f,orangutan,2.0,4.0,half_table_near,right,right,yes,right,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,raja,f,orangutan,2.0,5.0,half_table_near,middle,right,no,right,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,raja,f,orangutan,2.0,6.0,half_table_near,left,middle,no,right,right,half,medium,3.25,19.5,middleof_the_table,edge2,middle cup
+hribar2011great,3,raja,f,orangutan,2.0,7.0,half_table_near,left,left,yes,right,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,raja,f,orangutan,2.0,8.0,half_table_near,middle,middle,yes,right,left,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,raja,f,orangutan,2.0,9.0,half_table_near,right,right,yes,right,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,raja,f,orangutan,2.0,10.0,half_table_near,middle,right,no,right,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge2
+hribar2011great,3,raja,f,orangutan,2.0,11.0,half_table_near,right,left,no,right,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge1
+hribar2011great,3,raja,f,orangutan,2.0,12.0,half_table_near,left,left,yes,right,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,raja,f,orangutan,3.0,1.0,full_table_far,middle,left,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge1
+hribar2011great,3,raja,f,orangutan,3.0,2.0,full_table_far,left,left,no,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,raja,f,orangutan,3.0,3.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,raja,f,orangutan,3.0,4.0,full_table_far,middle,left,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge1
+hribar2011great,3,raja,f,orangutan,3.0,5.0,full_table_far,right,left,no,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge1
+hribar2011great,3,raja,f,orangutan,3.0,6.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,raja,f,orangutan,3.0,7.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,raja,f,orangutan,3.0,8.0,full_table_far,middle,right,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge2
+hribar2011great,3,raja,f,orangutan,3.0,9.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,raja,f,orangutan,3.0,10.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,raja,f,orangutan,3.0,11.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,raja,f,orangutan,3.0,12.0,full_table_far,middle,left,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge1
+hribar2011great,3,raja,f,orangutan,4.0,1.0,half_table_far,left,left,yes,left,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,raja,f,orangutan,4.0,2.0,half_table_far,right,right,yes,left,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,raja,f,orangutan,4.0,3.0,half_table_far,middle,right,no,left,left,half,big,12.5,19.5,no_landmark,middle_cup,edge2
+hribar2011great,3,raja,f,orangutan,4.0,4.0,half_table_far,right,right,yes,left,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,raja,f,orangutan,4.0,5.0,half_table_far,middle,middle,yes,left,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,raja,f,orangutan,4.0,6.0,half_table_far,left,left,yes,left,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,raja,f,orangutan,4.0,7.0,half_table_far,middle,right,no,left,right,half,big,12.5,19.5,no_landmark,middle_cup,edge1
+hribar2011great,3,raja,f,orangutan,4.0,8.0,half_table_far,left,left,yes,left,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,raja,f,orangutan,4.0,9.0,half_table_far,left,left,yes,left,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,raja,f,orangutan,4.0,10.0,half_table_far,middle,left,no,left,right,half,big,12.5,19.5,no_landmark,middle_cup,edge2
+hribar2011great,3,raja,f,orangutan,4.0,11.0,half_table_far,right,left,no,left,right,half,big,12.5,1.0,edge,edge1,edge2
+hribar2011great,3,raja,f,orangutan,4.0,12.0,half_table_far,right,right,yes,left,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,kila,f,orangutan,3.0,1.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,kila,f,orangutan,3.0,2.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,kila,f,orangutan,3.0,3.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,kila,f,orangutan,3.0,4.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,kila,f,orangutan,3.0,5.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,kila,f,orangutan,3.0,6.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,kila,f,orangutan,3.0,7.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,kila,f,orangutan,3.0,8.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,kila,f,orangutan,3.0,9.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,kila,f,orangutan,3.0,10.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,kila,f,orangutan,3.0,11.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,kila,f,orangutan,3.0,12.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,kila,f,orangutan,1.0,1.0,half_table_near,right,right,yes,right,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,kila,f,orangutan,1.0,2.0,half_table_near,middle,right,no,right,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,kila,f,orangutan,1.0,3.0,half_table_near,left,right,no,right,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge1
+hribar2011great,3,kila,f,orangutan,1.0,4.0,half_table_near,right,right,yes,right,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,kila,f,orangutan,1.0,5.0,half_table_near,middle,right,no,right,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,kila,f,orangutan,1.0,6.0,half_table_near,left,right,no,right,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge1
+hribar2011great,3,kila,f,orangutan,1.0,7.0,half_table_near,left,left,yes,right,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,kila,f,orangutan,1.0,8.0,half_table_near,middle,left,no,right,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,kila,f,orangutan,1.0,9.0,half_table_near,right,right,yes,right,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,kila,f,orangutan,1.0,10.0,half_table_near,middle,right,no,right,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge2
+hribar2011great,3,kila,f,orangutan,1.0,11.0,half_table_near,right,right,yes,right,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,kila,f,orangutan,1.0,12.0,half_table_near,left,left,yes,right,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,kila,f,orangutan,2.0,1.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,kila,f,orangutan,2.0,2.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,kila,f,orangutan,2.0,3.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,kila,f,orangutan,2.0,4.0,full_table_far,middle,left,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge1
+hribar2011great,3,kila,f,orangutan,2.0,5.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,kila,f,orangutan,2.0,6.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,kila,f,orangutan,2.0,7.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,kila,f,orangutan,2.0,8.0,full_table_far,middle,right,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge2
+hribar2011great,3,kila,f,orangutan,2.0,9.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,kila,f,orangutan,2.0,10.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,kila,f,orangutan,2.0,11.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,kila,f,orangutan,2.0,12.0,full_table_far,middle,left,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge1
+hribar2011great,3,kila,f,orangutan,4.0,1.0,half_table_far,right,right,yes,left,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,kila,f,orangutan,4.0,2.0,half_table_far,middle,right,no,left,left,half,big,12.5,19.5,no_landmark,middle_cup,edge2
+hribar2011great,3,kila,f,orangutan,4.0,3.0,half_table_far,left,left,yes,left,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,kila,f,orangutan,4.0,4.0,half_table_far,right,right,yes,left,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,kila,f,orangutan,4.0,5.0,half_table_far,middle,left,no,left,left,half,big,12.5,19.5,no_landmark,middle_cup,edge1
+hribar2011great,3,kila,f,orangutan,4.0,6.0,half_table_far,left,left,yes,left,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,kila,f,orangutan,4.0,7.0,half_table_far,left,left,yes,left,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,kila,f,orangutan,4.0,8.0,half_table_far,middle,middle,yes,left,right,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,kila,f,orangutan,4.0,9.0,half_table_far,right,right,yes,left,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,kila,f,orangutan,4.0,10.0,half_table_far,middle,right,no,left,right,half,big,12.5,19.5,no_landmark,middle_cup,edge1
+hribar2011great,3,kila,f,orangutan,4.0,11.0,half_table_far,right,right,yes,left,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,kila,f,orangutan,4.0,12.0,half_table_far,left,left,yes,left,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,padana,f,orangutan,2.0,1.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,padana,f,orangutan,2.0,2.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,padana,f,orangutan,2.0,3.0,full_table_near,middle,middle,yes,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,padana,f,orangutan,2.0,4.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,padana,f,orangutan,2.0,5.0,full_table_near,middle,middle,yes,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,padana,f,orangutan,2.0,6.0,full_table_near,left,right,no,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge2
+hribar2011great,3,padana,f,orangutan,2.0,7.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,padana,f,orangutan,2.0,8.0,full_table_near,left,middle,no,whole_table,whole,whole,small,3.25,1.0,edge,edge1,middle cup
+hribar2011great,3,padana,f,orangutan,2.0,9.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,padana,f,orangutan,2.0,10.0,full_table_near,middle,middle,yes,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,padana,f,orangutan,2.0,11.0,full_table_near,right,left,no,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge1
+hribar2011great,3,padana,f,orangutan,2.0,12.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,padana,f,orangutan,3.0,1.0,half_table_near,right,right,yes,left,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,padana,f,orangutan,3.0,2.0,half_table_near,middle,middle,yes,left,left,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,padana,f,orangutan,3.0,3.0,half_table_near,left,middle,no,left,left,half,medium,3.25,1.0,edge,edge1,middle cup
+hribar2011great,3,padana,f,orangutan,3.0,4.0,half_table_near,right,right,yes,left,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,padana,f,orangutan,3.0,5.0,half_table_near,middle,right,no,left,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge2
+hribar2011great,3,padana,f,orangutan,3.0,6.0,half_table_near,left,left,yes,left,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,padana,f,orangutan,3.0,7.0,half_table_near,left,left,yes,left,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,padana,f,orangutan,3.0,8.0,half_table_near,middle,right,no,left,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,padana,f,orangutan,3.0,9.0,half_table_near,right,right,yes,left,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,padana,f,orangutan,3.0,10.0,half_table_near,middle,middle,yes,left,right,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,padana,f,orangutan,3.0,11.0,half_table_near,right,right,yes,left,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,padana,f,orangutan,3.0,12.0,half_table_near,left,right,no,left,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge1
+hribar2011great,3,padana,f,orangutan,1.0,1.0,full_table_far,middle,right,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge2
+hribar2011great,3,padana,f,orangutan,1.0,2.0,full_table_far,left,middle,no,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,middle cup
+hribar2011great,3,padana,f,orangutan,1.0,3.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,padana,f,orangutan,1.0,4.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,padana,f,orangutan,1.0,5.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,padana,f,orangutan,1.0,6.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,padana,f,orangutan,1.0,7.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,padana,f,orangutan,1.0,8.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,padana,f,orangutan,1.0,9.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,padana,f,orangutan,1.0,10.0,full_table_far,left,middle,no,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,middle cup
+hribar2011great,3,padana,f,orangutan,1.0,11.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,padana,f,orangutan,1.0,12.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,padana,f,orangutan,4.0,1.0,half_table_far,middle,middle,yes,right,right,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,padana,f,orangutan,4.0,2.0,half_table_far,left,middle,no,right,right,half,big,12.5,38.0,middleof_the_table,edge2,middle cup
+hribar2011great,3,padana,f,orangutan,4.0,3.0,half_table_far,right,right,yes,right,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,padana,f,orangutan,4.0,4.0,half_table_far,middle,middle,yes,right,right,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,padana,f,orangutan,4.0,5.0,half_table_far,right,right,yes,right,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,padana,f,orangutan,4.0,6.0,half_table_far,left,left,yes,right,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,padana,f,orangutan,4.0,7.0,half_table_far,right,middle,no,right,left,half,big,12.5,38.0,middleof_the_table,edge2,middle cup
+hribar2011great,3,padana,f,orangutan,4.0,8.0,half_table_far,middle,middle,yes,right,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,padana,f,orangutan,4.0,9.0,half_table_far,right,right,yes,right,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,padana,f,orangutan,4.0,10.0,half_table_far,left,left,yes,right,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,padana,f,orangutan,4.0,11.0,half_table_far,left,left,yes,right,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,padana,f,orangutan,4.0,12.0,half_table_far,middle,middle,yes,right,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,pini,f,orangutan,2.0,1.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,pini,f,orangutan,2.0,2.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,pini,f,orangutan,2.0,3.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,pini,f,orangutan,2.0,4.0,full_table_near,right,left,no,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge1
+hribar2011great,3,pini,f,orangutan,2.0,5.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,pini,f,orangutan,2.0,6.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,pini,f,orangutan,2.0,7.0,full_table_near,left,right,no,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge2
+hribar2011great,3,pini,f,orangutan,2.0,8.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,pini,f,orangutan,2.0,9.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,pini,f,orangutan,2.0,10.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,pini,f,orangutan,2.0,11.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,pini,f,orangutan,2.0,12.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,pini,f,orangutan,3.0,1.0,half_table_near,middle,middle,yes,right,right,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,pini,f,orangutan,3.0,2.0,half_table_near,left,left,yes,right,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,pini,f,orangutan,3.0,3.0,half_table_near,right,right,yes,right,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,pini,f,orangutan,3.0,4.0,half_table_near,middle,left,no,right,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge2
+hribar2011great,3,pini,f,orangutan,3.0,5.0,half_table_near,right,right,yes,right,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,pini,f,orangutan,3.0,6.0,half_table_near,left,right,no,right,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge1
+hribar2011great,3,pini,f,orangutan,3.0,7.0,half_table_near,right,middle,no,right,left,half,medium,3.25,19.5,middleof_the_table,edge2,middle cup
+hribar2011great,3,pini,f,orangutan,3.0,8.0,half_table_near,middle,middle,yes,right,left,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,pini,f,orangutan,3.0,9.0,half_table_near,right,right,yes,right,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,pini,f,orangutan,3.0,10.0,half_table_near,left,right,no,right,left,half,medium,3.25,1.0,edge,edge1,edge2
+hribar2011great,3,pini,f,orangutan,3.0,11.0,half_table_near,left,left,yes,right,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,pini,f,orangutan,3.0,12.0,half_table_near,middle,middle,yes,right,left,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,pini,f,orangutan,4.0,1.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,pini,f,orangutan,4.0,2.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,pini,f,orangutan,4.0,3.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,pini,f,orangutan,4.0,4.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,pini,f,orangutan,4.0,5.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,pini,f,orangutan,4.0,6.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,pini,f,orangutan,4.0,7.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,pini,f,orangutan,4.0,8.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,pini,f,orangutan,4.0,9.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,pini,f,orangutan,4.0,10.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,pini,f,orangutan,4.0,11.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,pini,f,orangutan,4.0,12.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,pini,f,orangutan,1.0,1.0,half_table_far,left,left,yes,left,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,pini,f,orangutan,1.0,2.0,half_table_far,right,right,yes,left,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,pini,f,orangutan,1.0,3.0,half_table_far,middle,middle,yes,left,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,pini,f,orangutan,1.0,4.0,half_table_far,right,middle,no,left,left,half,big,12.5,38.0,middleof_the_table,edge2,middle cup
+hribar2011great,3,pini,f,orangutan,1.0,5.0,half_table_far,middle,middle,yes,left,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,pini,f,orangutan,1.0,6.0,half_table_far,left,left,yes,left,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,pini,f,orangutan,1.0,7.0,half_table_far,middle,middle,yes,left,right,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,pini,f,orangutan,1.0,8.0,half_table_far,left,middle,no,left,right,half,big,12.5,38.0,middleof_the_table,edge2,middle cup
+hribar2011great,3,pini,f,orangutan,1.0,9.0,half_table_far,left,left,yes,left,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,pini,f,orangutan,1.0,10.0,half_table_far,middle,left,no,left,right,half,big,12.5,19.5,no_landmark,middle_cup,edge2
+hribar2011great,3,pini,f,orangutan,1.0,11.0,half_table_far,right,right,yes,left,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,pini,f,orangutan,1.0,12.0,half_table_far,right,right,yes,left,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,dokana,f,orangutan,1.0,1.0,full_table_near,right,left,no,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge1
+hribar2011great,3,dokana,f,orangutan,1.0,2.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,dokana,f,orangutan,1.0,3.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,dokana,f,orangutan,1.0,4.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,dokana,f,orangutan,1.0,5.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,dokana,f,orangutan,1.0,6.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,dokana,f,orangutan,1.0,7.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,dokana,f,orangutan,1.0,8.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,dokana,f,orangutan,1.0,9.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,dokana,f,orangutan,1.0,10.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,dokana,f,orangutan,1.0,11.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,dokana,f,orangutan,1.0,12.0,full_table_near,left,right,no,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge2
+hribar2011great,3,dokana,f,orangutan,4.0,1.0,half_table_near,right,left,no,left,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge1
+hribar2011great,3,dokana,f,orangutan,4.0,2.0,half_table_near,middle,left,no,left,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,dokana,f,orangutan,4.0,3.0,half_table_near,left,left,yes,left,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,dokana,f,orangutan,4.0,4.0,half_table_near,right,left,no,left,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge1
+hribar2011great,3,dokana,f,orangutan,4.0,5.0,half_table_near,middle,left,no,left,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,dokana,f,orangutan,4.0,6.0,half_table_near,left,left,yes,left,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,dokana,f,orangutan,4.0,7.0,half_table_near,left,left,yes,left,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,dokana,f,orangutan,4.0,8.0,half_table_near,middle,left,no,left,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge2
+hribar2011great,3,dokana,f,orangutan,4.0,9.0,half_table_near,right,right,yes,left,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,dokana,f,orangutan,4.0,10.0,half_table_near,middle,right,no,left,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,dokana,f,orangutan,4.0,11.0,half_table_near,right,right,yes,left,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,dokana,f,orangutan,4.0,12.0,half_table_near,left,middle,no,left,right,half,medium,3.25,19.5,middleof_the_table,edge2,middle cup
+hribar2011great,3,dokana,f,orangutan,3.0,1.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,dokana,f,orangutan,3.0,2.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,dokana,f,orangutan,3.0,3.0,full_table_far,middle,left,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge1
+hribar2011great,3,dokana,f,orangutan,3.0,4.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,dokana,f,orangutan,3.0,5.0,full_table_far,middle,right,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge2
+hribar2011great,3,dokana,f,orangutan,3.0,6.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,dokana,f,orangutan,3.0,7.0,full_table_far,middle,left,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge1
+hribar2011great,3,dokana,f,orangutan,3.0,8.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,dokana,f,orangutan,3.0,9.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,dokana,f,orangutan,3.0,10.0,full_table_far,middle,left,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge1
+hribar2011great,3,dokana,f,orangutan,3.0,11.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,dokana,f,orangutan,3.0,12.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,dokana,f,orangutan,2.0,1.0,half_table_far,middle,middle,yes,right,right,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,dokana,f,orangutan,2.0,2.0,half_table_far,left,left,yes,right,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,dokana,f,orangutan,2.0,3.0,half_table_far,right,right,yes,right,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,dokana,f,orangutan,2.0,4.0,half_table_far,middle,right,no,right,right,half,big,12.5,19.5,no_landmark,middle_cup,edge1
+hribar2011great,3,dokana,f,orangutan,2.0,5.0,half_table_far,right,right,yes,right,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,dokana,f,orangutan,2.0,6.0,half_table_far,left,left,yes,right,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,dokana,f,orangutan,2.0,7.0,half_table_far,right,middle,no,right,left,half,big,12.5,38.0,middleof_the_table,edge2,middle cup
+hribar2011great,3,dokana,f,orangutan,2.0,8.0,half_table_far,middle,right,no,right,left,half,big,12.5,19.5,no_landmark,middle_cup,edge2
+hribar2011great,3,dokana,f,orangutan,2.0,9.0,half_table_far,right,right,yes,right,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,dokana,f,orangutan,2.0,10.0,half_table_far,left,left,yes,right,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,dokana,f,orangutan,2.0,11.0,half_table_far,left,left,yes,right,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,dokana,f,orangutan,2.0,12.0,half_table_far,middle,left,no,right,left,half,big,12.5,19.5,no_landmark,middle_cup,edge1
+hribar2011great,3,bimbo,m,orangutan,2.0,1.0,full_table_near,left,right,no,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge2
+hribar2011great,3,bimbo,m,orangutan,2.0,2.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,bimbo,m,orangutan,2.0,3.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,bimbo,m,orangutan,2.0,4.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,bimbo,m,orangutan,2.0,5.0,full_table_near,middle,right,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge2
+hribar2011great,3,bimbo,m,orangutan,2.0,6.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,bimbo,m,orangutan,2.0,7.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,bimbo,m,orangutan,2.0,8.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,bimbo,m,orangutan,2.0,9.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,bimbo,m,orangutan,2.0,10.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,bimbo,m,orangutan,2.0,11.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,bimbo,m,orangutan,2.0,12.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,bimbo,m,orangutan,4.0,1.0,half_table_near,middle,right,no,left,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge2
+hribar2011great,3,bimbo,m,orangutan,4.0,2.0,half_table_near,left,left,yes,left,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,bimbo,m,orangutan,4.0,3.0,half_table_near,right,left,no,left,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge1
+hribar2011great,3,bimbo,m,orangutan,4.0,4.0,half_table_near,middle,left,no,left,left,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,bimbo,m,orangutan,4.0,5.0,half_table_near,right,left,no,left,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge1
+hribar2011great,3,bimbo,m,orangutan,4.0,6.0,half_table_near,left,left,yes,left,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,bimbo,m,orangutan,4.0,7.0,half_table_near,right,right,yes,left,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,bimbo,m,orangutan,4.0,8.0,half_table_near,middle,right,no,left,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge1
+hribar2011great,3,bimbo,m,orangutan,4.0,9.0,half_table_near,right,right,yes,left,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,bimbo,m,orangutan,4.0,10.0,half_table_near,left,right,no,left,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge1
+hribar2011great,3,bimbo,m,orangutan,4.0,11.0,half_table_near,left,middle,no,left,right,half,medium,3.25,19.5,middleof_the_table,edge2,middle cup
+hribar2011great,3,bimbo,m,orangutan,4.0,12.0,half_table_near,middle,left,no,left,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge2
+hribar2011great,3,bimbo,m,orangutan,3.0,1.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,bimbo,m,orangutan,3.0,2.0,full_table_far,middle,right,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge2
+hribar2011great,3,bimbo,m,orangutan,3.0,3.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,bimbo,m,orangutan,3.0,4.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,bimbo,m,orangutan,3.0,5.0,full_table_far,middle,right,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge2
+hribar2011great,3,bimbo,m,orangutan,3.0,6.0,full_table_far,left,middle,no,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,middle cup
+hribar2011great,3,bimbo,m,orangutan,3.0,7.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,bimbo,m,orangutan,3.0,8.0,full_table_far,middle,left,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge1
+hribar2011great,3,bimbo,m,orangutan,3.0,9.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,bimbo,m,orangutan,3.0,10.0,full_table_far,middle,right,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge2
+hribar2011great,3,bimbo,m,orangutan,3.0,11.0,full_table_far,right,left,no,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge1
+hribar2011great,3,bimbo,m,orangutan,3.0,12.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,bimbo,m,orangutan,1.0,1.0,half_table_far,middle,right,no,right,right,half,big,12.5,19.5,no_landmark,middle_cup,edge1
+hribar2011great,3,bimbo,m,orangutan,1.0,2.0,half_table_far,left,middle,no,right,right,half,big,12.5,38.0,middleof_the_table,edge2,middle cup
+hribar2011great,3,bimbo,m,orangutan,1.0,3.0,half_table_far,right,right,yes,right,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,bimbo,m,orangutan,1.0,4.0,half_table_far,middle,middle,yes,right,right,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,bimbo,m,orangutan,1.0,5.0,half_table_far,right,right,yes,right,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,bimbo,m,orangutan,1.0,6.0,half_table_far,left,right,no,right,right,half,big,12.5,38.0,middleof_the_table,edge2,edge1
+hribar2011great,3,bimbo,m,orangutan,1.0,7.0,half_table_far,right,left,no,right,left,half,big,12.5,38.0,middleof_the_table,edge2,edge1
+hribar2011great,3,bimbo,m,orangutan,1.0,8.0,half_table_far,middle,right,no,right,left,half,big,12.5,19.5,no_landmark,middle_cup,edge2
+hribar2011great,3,bimbo,m,orangutan,1.0,9.0,half_table_far,right,right,yes,right,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,bimbo,m,orangutan,1.0,10.0,half_table_far,left,right,no,right,left,half,big,12.5,1.0,edge,edge1,edge2
+hribar2011great,3,bimbo,m,orangutan,1.0,11.0,half_table_far,left,left,yes,right,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,bimbo,m,orangutan,1.0,12.0,half_table_far,middle,left,no,right,left,half,big,12.5,19.5,no_landmark,middle_cup,edge1
+hribar2011great,3,luiza,f,bonobo,4.0,1.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,luiza,f,bonobo,4.0,2.0,full_table_near,middle,middle,yes,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,luiza,f,bonobo,4.0,3.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,luiza,f,bonobo,4.0,4.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,luiza,f,bonobo,4.0,5.0,full_table_near,middle,middle,yes,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,luiza,f,bonobo,4.0,6.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,luiza,f,bonobo,4.0,7.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,luiza,f,bonobo,4.0,8.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,luiza,f,bonobo,4.0,9.0,full_table_near,right,middle,no,whole_table,whole,whole,small,3.25,1.0,edge,edge2,middle cup
+hribar2011great,3,luiza,f,bonobo,4.0,10.0,full_table_near,middle,left,no,whole_table,whole,whole,small,3.25,10.25,middleof_the_table,middle_cup,edge1
+hribar2011great,3,luiza,f,bonobo,4.0,11.0,full_table_near,right,right,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge2,edge2
+hribar2011great,3,luiza,f,bonobo,4.0,12.0,full_table_near,left,left,yes,whole_table,whole,whole,small,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,luiza,f,bonobo,2.0,1.0,half_table_near,middle,middle,yes,left,left,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,luiza,f,bonobo,2.0,2.0,half_table_near,left,left,yes,left,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,luiza,f,bonobo,2.0,3.0,half_table_near,right,right,yes,left,left,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,luiza,f,bonobo,2.0,4.0,half_table_near,middle,middle,yes,left,left,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,luiza,f,bonobo,2.0,5.0,half_table_near,right,middle,no,left,left,half,medium,3.25,19.5,middleof_the_table,edge2,middle cup
+hribar2011great,3,luiza,f,bonobo,2.0,6.0,half_table_near,left,left,yes,left,left,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,luiza,f,bonobo,2.0,7.0,half_table_near,right,right,yes,left,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,luiza,f,bonobo,2.0,8.0,half_table_near,middle,middle,yes,left,right,half,medium,3.25,10.25,no_landmark,middle_cup,middle cup
+hribar2011great,3,luiza,f,bonobo,2.0,9.0,half_table_near,right,right,yes,left,right,half,medium,3.25,1.0,edge,edge1,edge1
+hribar2011great,3,luiza,f,bonobo,2.0,10.0,half_table_near,left,left,yes,left,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,luiza,f,bonobo,2.0,11.0,half_table_near,left,left,yes,left,right,half,medium,3.25,19.5,middleof_the_table,edge2,edge2
+hribar2011great,3,luiza,f,bonobo,2.0,12.0,half_table_near,middle,left,no,left,right,half,medium,3.25,10.25,no_landmark,middle_cup,edge2
+hribar2011great,3,luiza,f,bonobo,3.0,1.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,luiza,f,bonobo,3.0,2.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,luiza,f,bonobo,3.0,3.0,full_table_far,middle,right,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge2
+hribar2011great,3,luiza,f,bonobo,3.0,4.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,luiza,f,bonobo,3.0,5.0,full_table_far,middle,middle,yes,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,middle cup
+hribar2011great,3,luiza,f,bonobo,3.0,6.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,luiza,f,bonobo,3.0,7.0,full_table_far,middle,left,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge1
+hribar2011great,3,luiza,f,bonobo,3.0,8.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,luiza,f,bonobo,3.0,9.0,full_table_far,left,left,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,luiza,f,bonobo,3.0,10.0,full_table_far,middle,left,no,whole_table,whole,whole,medium,12.5,19.5,middleof_the_table,middle_cup,edge1
+hribar2011great,3,luiza,f,bonobo,3.0,11.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,luiza,f,bonobo,3.0,12.0,full_table_far,right,right,yes,whole_table,whole,whole,medium,12.5,1.0,edge,edge2,edge2
+hribar2011great,3,luiza,f,bonobo,1.0,1.0,half_table_far,right,right,yes,right,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,luiza,f,bonobo,1.0,2.0,half_table_far,middle,middle,yes,right,right,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,luiza,f,bonobo,1.0,3.0,half_table_far,left,left,yes,right,right,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,luiza,f,bonobo,1.0,4.0,half_table_far,right,right,yes,right,right,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,luiza,f,bonobo,1.0,5.0,half_table_far,middle,middle,yes,right,right,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,luiza,f,bonobo,1.0,6.0,half_table_far,left,middle,no,right,right,half,big,12.5,38.0,middleof_the_table,edge2,middle cup
+hribar2011great,3,luiza,f,bonobo,1.0,7.0,half_table_far,left,left,yes,right,left,half,big,12.5,1.0,edge,edge1,edge1
+hribar2011great,3,luiza,f,bonobo,1.0,8.0,half_table_far,middle,middle,yes,right,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,luiza,f,bonobo,1.0,9.0,half_table_far,right,right,yes,right,left,half,big,12.5,38.0,middleof_the_table,edge2,edge2
+hribar2011great,3,luiza,f,bonobo,1.0,10.0,half_table_far,middle,middle,yes,right,left,half,big,12.5,19.5,no_landmark,middle_cup,middle cup
+hribar2011great,3,luiza,f,bonobo,1.0,11.0,half_table_far,right,middle,no,right,left,half,big,12.5,38.0,middleof_the_table,edge2,middle cup
+hribar2011great,3,luiza,f,bonobo,1.0,12.0,half_table_far,left,left,yes,right,left,half,big,12.5,1.0,edge,edge1,edge1

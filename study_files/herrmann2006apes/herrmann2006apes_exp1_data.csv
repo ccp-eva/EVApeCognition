@@ -1,0 +1,15 @@
+﻿study_id,experiment,participant,age_in_years,sex,species,competitive_correct_out_of_10_trials,competitive_trials_no_approach,competitive_percent,cooperative_correct_out_of_10_trials,cooperative_trials_no_approach,cooperative_percent,drop_out
+herrmann2006apes,1,jahaga,10.0,f,chimpanzee,9,,90.0,5.0,,50.0,
+herrmann2006apes,1,gertrudia,10.0,f,chimpanzee,7,,70.0,5.0,,50.0,
+herrmann2006apes,1,sandra,10.0,f,chimpanzee,6,,60.0,9.0,,90.0,
+herrmann2006apes,1,fraukje,27.0,f,chimpanzee,5,,50.0,5.0,,50.0,
+herrmann2006apes,1,fifi,10.0,f,chimpanzee,7,,70.0,5.0,,50.0,
+herrmann2006apes,1,frodo,9.0,m,chimpanzee,8,,80.0,9.0,,90.0,
+herrmann2006apes,1,corry,26.0,f,chimpanzee,4,4.0,67.0,3.0,3.0,43.0,
+herrmann2006apes,1,brent,4.0,m,chimpanzee,6,,60.0,5.0,,50.0,
+herrmann2006apes,1,robert,,m,chimpanzee,,,,1.0,5.0,,true
+herrmann2006apes,1,patrick,6.0,m,chimpanzee,8,,80.0,5.0,,50.0,
+herrmann2006apes,1,limbuko,8.0,m,bonobo,5,1.0,56.0,5.0,,50.0,
+herrmann2006apes,1,joey,20.0,m,bonobo,6,3.0,86.0,2.0,6.0,50.0,
+herrmann2006apes,1,kuno,,m,bonobo,,10.0,,5.0,,,true
+herrmann2006apes,1,alexandra,4.0,f,chimpanzee,6,,60.0,5.0,,50.0,

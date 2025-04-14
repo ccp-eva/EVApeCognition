@@ -1,0 +1,53 @@
+study_id: brauer2006apes
+year: 2006
+reference: Bräuer, J., Call, J., & Tomasello, M. (2006). Are apes really inequity
+  averse? Proceedings of the Royal Society of London / Series B, 273(1605), 3123-3128.
+  doi:10.1098/rspb.2006.3693.
+abstract: Brosnan et al. (Brosnan, S. F., Schiff, H. C. & deWaal, F. B. M. 2005 Tolerance
+  for inequity may increase with social closeness in chimpanzees. Proc. R. Soc. B
+  272, 253–258) found that chimpanzees showed increased levels of rejection for less-preferred
+  food when competitors received better food than themselves and postulated as an
+  explanation inequity aversion. In the present study, we extended these findings
+  by adding important control conditions, and we investigated whether inequity aversion
+  could also be found in the other great ape species and whether it would be influenced
+  by subjects’ relationship with the competitor. In the present study, subjects showed
+  a pattern of food rejection opposite to the subjects of the above study by Brosnan
+  et al. (2005). Our apes ignored fewer food pieces and stayed longer in front of
+  the experimenter when a conspecific received better food than themselves. Moreover,
+  chimpanzees begged more vigorously when the conspecific got favoured food. The most
+  plausible explanation for these results is the food expectation hypothesis—seeing
+  another individual receive high-quality food creates the expectation of receiving
+  the same food oneself—and not inequity aversion.
+keywords: inequity aversion, social cognition, joint attention
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Juliane Braeuer
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkrpc_gorilla, wkprc_orangutan, wkprc_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: prosocial_behavior
+cognitive_domain:
+  social: true
+  physical: false

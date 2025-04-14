@@ -1,0 +1,76 @@
+study_id: amici2014response
+year: 2014
+reference: 'Amici, F., Aureli, F., & Call, J. (2014). Response facilitation in the
+  four great apes: Is there a role for empathy? Primates, 55(1), 113-118. doi:10.1007/s10329-013-0375-1.'
+abstract: Contagious yawning is a form of response facilitation found in humans and
+  other primates in which observing a model yawning enhances the chance that the observer
+  will also yawn. Because contagious yawning seems to be more easily triggered when
+  models are conspecifics or have a strong social bond with the observer, it has been
+  proposed that contagious yawning is linked to empathy. A possible way to test this
+  hypothesis is to analyze whether individuals’ responses differ when they observe
+  models yawning or performing different involuntary (i.e., nose wiping, scratching)
+  and voluntary (i.e., hand closing, wrist shaking) actions that are not linked to
+  empathy. In this study, we tested the four great ape species with two different
+  setups by exposing them to a human experimenter repeatedly performing these actions
+  online, and video-recorded conspecifics repeatedly performing these actions on a
+  screen. We examined which behaviors were subject to response facilitation, whether
+  response facilitation was triggered by both human models and video recorded conspecifics,
+  and whether all species showed evidence of response facilitation. Our results showed
+  that chimpanzees yawned significantly more when and shortly after watching videos
+  of conspecifics (but not humans) yawning than in control conditions, and they did
+  not do so as a response to increased levels of anxiety. For all other behaviors,
+  no species produced more target actions when being exposed to either model than
+  under control conditions. Moreover, the individuals that were more ‘‘reactive’’
+  when watching yawning videos were not more reactive when exposed to other actions.
+  Since, at least in chimpanzees, (1) subjects only showed response facilitation when
+  they were exposed to yawning and (2) only if models were conspecifics, it appears
+  that contagious yawning is triggered by unique mechanisms and might be linked to
+  empathy.
+keywords: Contagious yawning, Chimpanzees, Great apes, Empathy, Response facilitation
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Federica Amici
+  corr_author: null
+- author_no: 2
+  name: Filippo Aureli
+  corr_author: null
+- author_no: 3
+  name: Josep Call
+  corr_author: null
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_orangutan,
+    wkprc_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2005-2006
+  data_collection_date_comments: ''
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_orangutan,
+    wkprc_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2006
+  data_collection_date_comments: ''
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: prosocial_behavior
+cognitive_domain:
+  social: true
+  physical: false

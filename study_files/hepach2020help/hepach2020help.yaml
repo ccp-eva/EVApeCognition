@@ -1,0 +1,65 @@
+study_id: hepach2020help
+year: 2020
+reference: 'Hepach, R., Benziad, L., & Tomasello, M. (2020). Chimpanzees help others
+  with what they want; children help them with what they need. Developmental Science,
+  23(3): e12922. doi:10.1111/desc.12922.'
+abstract: Humans, including young children, are strongly motivated to help others,
+  even paying a cost to do so. Humans’ nearest primate relatives, great apes, are
+  likewise motivated to help others, raising the question of whether the motivations
+  of humans and apes are the same. Here we compared the underlying motivation to help
+  in human children and chimpanzees. Both species understood the situation and helped
+  a conspecific in a straightforward situation. However, when helpers knew that what
+  the other was requesting would not actually help her, only children gave her what
+  she needed instead of giving her what she requested. These results suggest that
+  both chimpanzees and human children help others but the underlying motivation for
+  why they help differs. In comparison to chimpanzees, young children help in a paternalistic
+  manner. The evolutionary hypothesis is that uniquely human socio-ecologies based
+  on interdependent cooperation gave rise to uniquely human prosocial motivations
+  to help others paternalistically.
+keywords: children, chimpanzees, helping, paternalism, prosocial behaviour
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Robert Hepach
+  corr_author: true
+- author_no: 2
+  name: Leïla Benziad
+  corr_author: false
+- author_no: 3
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: dyads
+  droupouts_no: 14
+  dropout_names: null
+  group_id: wkprc_chimpanzee_b, wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 2014 - 2015
+  data_collection_date_comments: study was conducted between February 2014 and March
+    2015
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: prosocial_behavior
+cognitive_domain:
+  social: true
+  physical: false

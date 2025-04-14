@@ -1,0 +1,68 @@
+study_id: martin2013memory
+year: 2013
+reference: Martin-Ordas, G., Berntsen, D., & Call, J. (2013). Memory for distant past
+  events in chimpanzees and orangutans. Current Biology, 23(15), 1438-1441. doi:10.1016/j.cub.2013.06.017.
+abstract: 'Determining the memory systems that support nonhuman animals’ capacity
+  to remember distant past events is currently the focus an intense research effort
+  and a lively debate [1, 2, 3]. Comparative psychology has largely adopted Tulving’s
+  framework by focusing on whether animals remember what-where-when something happened
+  (i.e., episodic-like memory) [4, 5, 6]. However, apes have also been reported to
+  recall other episodic components [7] after single-trial exposures [8, 9]. Using
+  a new experimental paradigm we show that chimpanzees and orangutans recalled a tool-finding
+  event that happened four times 3 years earlier (experiment 1) and a tool-finding
+  unique event that happened once 2 weeks earlier (experiment 2). Subjects were able
+  to distinguish these events from other tool-finding events, which indicates binding
+  of relevant temporal-spatial components. Like in human involuntary autobiographical
+  memory, a cued, associative retrieval process triggered apes’ memories: when presented
+  with a particular setup, subjects instantaneously remembered not only where to search
+  for the tools (experiment 1), but also the location of the tool seen only once (experiment
+  2). The complex nature of the events retrieved, the unexpected and fast retrieval,
+  the long retention intervals involved, and the detection of binding strongly suggest
+  that chimpanzees and orangutans’ memories for past events mirror some of the features
+  of human autobiographical memory.'
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Gema Martin Ordas
+  corr_author: true
+- author_no: 2
+  name: Dorthe Berntsen
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: Padana
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: kila age not provided
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: Robert, Frauje, Corrie, Riet
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: ontogeny_innovation_and_planning
+cognitive_domain:
+  social: false
+  physical: true

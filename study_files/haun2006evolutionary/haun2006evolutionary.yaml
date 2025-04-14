@@ -1,0 +1,56 @@
+study_id: haun2006evolutionary
+year: 2006
+reference: Haun, D. B. M., Call, J., Janzen, G., & Levinson, S. C. (2006). Evolutionary
+  psychology of spatial representations in the Hominidae. Current Biology, 16(17),
+  1736-1740. doi:10.1016/j.cub.2006.07.049.
+abstract: Comparatively little is known about the inheritedprimate background underlying
+  human cognition, the human cognitive ‘‘wildtype.’’ Yet it is possible to trace the
+  evolution of human cognitive abilities and tendencies by contrasting the skills
+  of our nearest cousins, not just chimpanzees, but all the extant great apes, thus
+  showing what we are likely to have inherited from the common ancestor [1]. By looking
+  at human infants early in cognitive development, we can also obtain insights into
+  native cognitive biases in our species [2]. Here, we focus on spatial memory, a
+  central cognitive domain. We show, first, that all nonhuman great apes and 1-year-old
+  human infants exhibit a preference for place over feature strategies for spatial
+  memory. This suggests the common ancestor of all great apes had the same preference.
+  We then examine 3-year-old human children and find that this preference reverses.
+  Thus, the continuity between our species and the other great apes is masked early
+  in human ontogeny. These findings, based on both phylogenetic and ontogenetic contrasts,
+  open up the prospect of a systematic evolutionary psychology resting upon the cladistics
+  of cognitive preferences.
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Daniel B.M. Haun
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Gabriele Janzen
+  corr_author: false
+- author_no: 4
+  name: Stephen C. Levinson
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan, wkprc_gorilla, wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: leipzig_children
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2004'
+  data_collection_date_comments: from  2004/07/27  to 2004/09/8
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: space_and_objects
+  specific_domain: space_landmarks_and_relations
+cognitive_domain:
+  social: false
+  physical: true

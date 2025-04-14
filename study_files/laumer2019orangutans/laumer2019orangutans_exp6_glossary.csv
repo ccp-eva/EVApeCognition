@@ -1,0 +1,17 @@
+column_name,description
+study_id,personal study ID composed by the first authors’ first surname_year of publication_first title word 
+experiment,number of experiment from publication 
+experiment_name,name of data subset – can include different experiments within data set/ different training conditions/ pre-test data/ etc 
+year,year the data point was obtained  
+month,month the data point was obtained 
+day,day of the month the data point was obtained 
+participant,name of the participant 
+age_in_years,age presented in years – see metadata for source of age
+sex,sex of the participant 
+species,species of individuals participating in the study -orangutan 
+session,set of trials - mostly occurring on the same day - usually numerical 
+trial,presentation of the experiment to the participants
+food_preference_test_1-4,number of the food preference test from 1 to 4 -  due to the difference in the preferred food Bimbo received additional food preference trials to determine the third preferred food for Bimbo instead of apple
+option_on_the_right_experimenter_view ,food option on the right side from the experimenter perspective –  banana_pellet / grape / apple / rusk (as the third preferred food only for Bimbo)
+option_on_the_left_experimenter_view ,food option on the left side from the experimenter perspective -  banana_pellet / grape / apple / rusk (as the third preferred food only for Bimbo)
+chosen_food ,variable referring to the food option chosen by the participant-

@@ -1,0 +1,22 @@
+column_name,description
+study_id,personal study ID composed by the first authors’ first surname_year of publication_first title word 
+experiment,number of experiment from publication 
+experiment_name,name of data subset – can include different experiments within data set/ different training conditions/ pre-test data/ etc 
+year,year the data point was obtained  
+month,month the data point was obtained 
+day,day of the month the data point was obtained 
+participant,name of the participant 
+age_in_years,age presented in years – see metadata for source of age
+sex,sex of the participant 
+species,species of individuals participating in the study - orangutan 
+session,set of trials - mostly occurring on the same day - usually numerical 
+trial,presentation of the experiment to the participants - usually numerical 
+tool_selection_quality_allocation_test,name of the experiment
+option_on_the_right_experimenter_view ,variable referring to the option available on the right side of the experimenter -the ball or the stick tool
+option_on_the_left_experimenter_view ,variable referring to the option available on the left side of the experimenter -the ball or the stick tool
+apparatus_on_the_right_experimenter_view ,variable referring to the type of apparatus presented on the right of the experimenter view - ball (apparatus where the participant had to use the ball) / stick ( apparatus where the participant had to use the stick) 
+content_right ,the type of food inside the right apparatus (banana pellet)
+apparatus_on_the_left_experimenter_view ,variable referring to the type of apparatus presented on the left of the experimenter view - ball (apparatus where the participant had to use the ball) / stick ( apparatus where the participant had to use the stick) 
+content_left ,the type of food inside the left apparatus (banana pellet)
+choice,variable referring to the option chosen by the participant - ball / stick 
+profitable_option ,variable referring to whether the participant chose the most profitable option based on the food inside the apparatuses

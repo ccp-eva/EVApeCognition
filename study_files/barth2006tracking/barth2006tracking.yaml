@@ -1,0 +1,61 @@
+study_id: barth2006tracking
+year: 2006
+reference: 'Barth, J., & Call, J. (2006). Tracking the Displacement of Objects: A
+  Series of Tasks With Great Apes (Pan troglodytes, Pan paniscus, Gorilla gorilla,
+  and Pongo pygmaeus) and Young Children (Homo sapiens). Journal of Experimental Psychology:
+  Animal Behavior Processes, 32(3), 239-252. doi:10.1037/0097-7403.32.3.239.'
+abstract: 'The authors administered a series of object displacement tasks to 24 great
+  apes and 24 30-month-old children (Homo sapiens). Objects were placed under 1 or
+  2 of 3 cups by visible or invisible displacements. The series included 6 tasks:
+  delayed response, inhibition test, A not B, rotations, transpositions, and object
+  permanence. Apes and children solved most tasks performing at comparable levels
+  except in the transposition task, in which apes performed better than children.
+  Ape species performed at comparable levels in all tasks except in single transpositions,
+  in which chimpanzees (Pan troglodytes) and bonobos (Pan paniscus) performed better
+  than gorillas (Gorilla gorilla) and orangutans (Pongo pygmeaus). All species found
+  nonadjacent trials and rotations especially difficult. The number of elements that
+  changed locations, the type of displacement, and having to inhibit predominant reaching
+  responses were factors that negatively affected the subjects’ performance'
+keywords: object permanence, inhibition, transpositions, rotations, spatial memory
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Jochen Barth
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a,wkprc_chimpanzee_b, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: space_and_objects
+  specific_domain: tracking_object_displacements
+cognitive_domain:
+  social: false
+  physical: true

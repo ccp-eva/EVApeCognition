@@ -1,0 +1,25 @@
+column_name,description
+study_id,personal study ID composed by the first authors’ first surname_year of publication_first title word 
+participant,name of the participant 
+age_in_years,age presented in years – see metadata for source of age
+sex,sex of the participant 
+role,role of the participant –whether a participant in the dyad was the owner of items or not- per default role is always owner
+participant_2,name of the participant_2
+age_in_years_2,age presented in years  of the participant_2 – see metadata for source of age
+sex_2,sex of the participant_2
+role_2,role of the participant_2 – whether a participant in the dyad was the owner of items or not -per default role is always non-owner
+species,species of individuals participating in the study -bonobo/chimpanzee
+genus, genus of individuals participating in the study – pan/gorilla/pongo
+dyad,name of the two participants that compose the dyad 
+dyad_id,id of the dyad composed by the first letter of the species and number 
+session ,session number- there were four sessions in total 
+trial,presentation of the experiment to the participants - usually numerical 
+trial_id,trial number- each session had four trials
+species_subgroup, species subgroup at time of data collection – WKPRC chimpanzee group a or b/ etc
+condition,condition  simult = both individuals have access to the food at the same time / delayed = one individual has immediate access to the food and the other one is blocked for some time
+owner_dom,whether the owner is domit (yes) or not (no)
+start_individ,whether this individual is the start individual in the delayed condition (yes) or not (no)  in the simultaneous condition both had access at the same time (both)
+owner_sex,sex of the owner (f=female / m=male)
+own_items,number of own items this individual retrieved (range=0-2)
+other_items,number of the other partner's items this individual retrieved (range=0-2)
+total_owner,total number of items this individual retrieved (range=0-4)

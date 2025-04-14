@@ -1,0 +1,57 @@
+study_id: halina2018goal
+year: 2018
+reference: 'Halina, M., Liebal, K., & Tomasello, M. (2018). The goal of ape pointing.
+  PLoS One, 13(4): e0195182. doi:10.1371/journal.pone.0195182.'
+abstract: Captive great apes regularly use pointing gestures in their interactions
+  with humans. However, the precise function of this gesture is unknown. One possibility
+  is that apes use pointing primarily to direct attention (as in “please look at that”);
+  another is that they point mainly as an action request (such as “can you give that
+  to me?”). We investigated these two possibilities here by examining how the looking
+  behavior of recipients affects pointing in chimpanzees (Pan troglodytes) and bonobos
+  (Pan paniscus). Upon pointing to food, subjects were faced with a recipient who
+  either looked at the indicated object (successful-look) or failed to look at the
+  indicated object (failed-look). We predicted that, if apes point primarily to direct
+  attention, subjects would spend more time pointing in the failed-look condition
+  because the goal of their gesture had not been met. Alternatively, we expected that,
+  if apes point primarily to request an object, subjects would not differ in their
+  pointing behavior between the successful-look and failed-look conditions because
+  these conditions differed only in the looking behavior of the recipient. We found
+  that subjects did differ in their pointing behavior across the successful-look and
+  failed-look conditions, but contrary to our prediction subjects spent more time
+  pointing in the successful-look condition. These results suggest that apes are sensitive
+  to the attentional states of gestural recipients, but their adjustments are aimed
+  at multiple goals. We also found a greater number of individuals with a strong right-hand
+  than left-hand preference for pointing.
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Marta Halina
+  corr_author: null
+- author_no: 2
+  name: Katja Liebal
+  corr_author: null
+- author_no: 3
+  name: Michael Tomasello
+  corr_author: null
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: social_strategies_and_communication
+  specific_domain: communication_with_humans
+cognitive_domain:
+  social: true
+  physical: false

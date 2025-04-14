@@ -1,0 +1,58 @@
+study_id: krupenye2017test
+year: 2017
+reference: 'Krupenye, C., Kano, F., Hirata, S., Call, J., & Tomasello, M. (2017).
+  A test of the submentalizing hypothesis: Apes'' performance in a false belief task
+  inanimate control. Communicative & Integrative Biology, 10(4): e1343771. doi:10.1080/19420889.2017.1343771.'
+abstract: Much debate concerns whether any nonhuman animals share with humans the
+  ability to infer others' mental states, such as desires and beliefs. In a recent
+  eye-tracking false-belief task, we showed that great apes correctly anticipated
+  that a human actor would search for a goal object where he had last seen it, even
+  though the apes themselves knew that it was no longer there. In response, Heyes
+  proposed that apes' looking behavior was guided not by social cognitive mechanisms
+  but rather domain-general cueing effects, and suggested the use of inanimate controls
+  to test this alternative submentalizing hypothesis. In the present study, we implemented
+  the suggested inanimate control of our previous false-belief task. Apes attended
+  well to key events but showed markedly fewer anticipatory looks and no significant
+  tendency to look to the correct location. We thus found no evidence that submentalizing
+  was responsible for apes' anticipatory looks in our false-belief task.
+keywords: cognitive evolution, false belief understanding, great ape, mentalizing,
+  social cognition, submentalizing, theory of mind
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Chris Krupenye
+  corr_author: true
+- author_no: 2
+  name: Fumihiro Kano
+  corr_author: true
+- author_no: 3
+  name: Satoshi Hirata
+  corr_author: false
+- author_no: 4
+  name: Josep Call
+  corr_author: false
+- author_no: 5
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_orangutan,
+    kumamoto_chimpanzee, kumamoto_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: theory_of_mind_and_metacognition
+  specific_domain: understanding_perception_knowledge_and_beliefs
+cognitive_domain:
+  social: true
+  physical: false

@@ -1,0 +1,69 @@
+study_id: buttelmann2017great
+year: 2017
+reference: 'Buttelmann, D., Buttelmann, F., Carpenter, M., Call, J., & Tomasello,
+  M. (2017). Great apes distinguish true from false beliefs in an interactive helping
+  task. PLoS One, 12(4): e0173793. doi:10.1371/journal.pone.0173793.'
+abstract: 'Understanding the behavior of others in a wide variety of circumstances
+  requires an understanding of their psychological states. Humans'' nearest primate
+  relatives, the great apes, understand many psychological states of others, for example,
+  perceptions, goals, and desires. However, so far there is little evidence that they
+  possess the key marker of advanced human social cognition: an understanding of false
+  beliefs. Here we demonstrate that in a nonverbal (implicit) false-belief test which
+  is passed by human 1-year-old infants, great apes as a group, including chimpanzees
+  (Pan troglodytes), bonobos (Pan paniscus), and orangutans (Pongo abelii), distinguish
+  between true and false beliefs in their helping behavior. Great apes thus may possess
+  at least some basic understanding that an agent''s actions are based on her beliefs
+  about reality. Hence, such understanding might not be the exclusive province of
+  the human species.'
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: David Buttelmann
+  corr_author: true
+- author_no: 2
+  name: Frances Buttelmann
+  corr_author: false
+- author_no: 3
+  name: Malinda Carpenter
+  corr_author: false
+- author_no: 4
+  name: Josep Call
+  corr_author: false
+- author_no: 5
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 9
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_orangutan, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 5
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_orangutan, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: theory_of_mind_and_metacognition
+  specific_domain: understanding_perception_knowledge_and_beliefs
+cognitive_domain:
+  social: true
+  physical: false

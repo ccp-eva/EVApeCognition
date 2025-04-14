@@ -1,0 +1,61 @@
+study_id: liebal2017give
+year: 2017
+reference: Liebal, K., & Rossano, F. (2017). The give and take of food sharing in
+  Sumatran orang-utans, Pongo abelii, and chimpanzees, Pan troglodytes. Animal Behaviour,
+  133, 91-100. doi:10.1016/j.anbehav.2017.09.006.
+abstract: Proximate factors of primate food sharing, in contrast to its evolutionary
+  explanations, have received little attention. Active food sharing is considered
+  prosocial, since possessors may benefit others by spontaneously passing food or
+  by reacting to ‘signals of need’. However, in contrast to passive sharing, active
+  food sharing is rare in most nonhuman primates. Surprisingly, previous research
+  showed that captive Sumatran orang-utans actively share food more frequently than
+  chimpanzees and bonobos, and hence, appear more prosocial. Yet these comparisons
+  with the two Pan species were relying on previously published studies, which differed
+  with regard to methods and food types used. Here we used the identical procedure
+  and food type to compare the food-sharing behaviour of 10 captive Sumatran orang-utans
+  and 18 chimpanzees, in situations where individuals could monopolize a sharable
+  food source. We focused on communicative behaviours used to initiate food transfers,
+  and assessed whether and how much food was transferred in response to these initiation
+  attempts. In both species, most transfers were initiated by taking the food, resulting
+  in passive sharing, while active sharing by offering food or after requesting it
+  occurred only rarely. However, orang-utans differed from chimpanzees in several
+  aspects. Because the food was mostly monopolized by the adult male, orang-utans
+  attempted to initiate food transfers more frequently, resisted more to taking attempts,
+  and were less likely to transfer whole food items. In both species, requests were
+  less likely to result in food transfers, indicating that in situations involving
+  access to food, they do not necessarily respond to ‘signals of need’. We argue that
+  in addition to instances of active sharing, other factors such as the degree of
+  food monopolization, response rates to ‘signals of need’, and the quality and quantity
+  of transferred food need to be considered to gain a more detailed picture of prosociality
+  across species.
+keywords: active food sharing, chimpanzees, offer, prosocial behaviours, request,
+  Sumatran orang-utans, taking
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Katja Liebal
+  corr_author: true
+- author_no: 2
+  name: Federico Rossano
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: groups
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: prosocial_behavior
+cognitive_domain:
+  social: true
+  physical: false

@@ -1,0 +1,52 @@
+study_id: leeuwen2014human
+year: 2014
+reference: 'Van Leeuwen, E. J. C., Call, J., & Haun, D. B. M. (2014). Human children
+  rely more on social information than chimpanzees do. Biology Letters, 10(11): 20140487.
+  doi:10.1098/rsbl.2014.0487.'
+abstract: Human societies are characterized by more cultural diversity than chimpanzee
+  communities. However, it is currently unclear what mechanism might be driving this
+  difference. Because reliance on social information is a pivotal characteristic of
+  culture, we investigated individual and social information reliance in children
+  and chimpanzees. We repeatedly presented subjects with a reward-retrieval task on
+  which they had collected conflicting individual and social information of equal
+  accuracy in counterbalanced order. While both species relied mostly on their individual
+  information, children but not chimpanzees searched for the reward at the socially
+  demonstrated location more than at a random location. Moreover, only children used
+  social information adaptively when individual knowledge on the location of the reward
+  had not yet been obtained. Social information usage determines information transmission
+  and in conjunction with mechanisms that create cultural variants, such as innovation,
+  it facilitates diversity. Our results may help explain why humans are more culturally
+  diversified than chimpanzees.
+keywords: culture, social learning, chimpanzees, children, decision-making
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Edwin J. C. van Leeuwen
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Daniel B. M. Haun
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: partial
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: leipzig_children
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2013'
+  data_collection_date_comments: 2013/02/26 to 2013/03/08
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: social_learning_and_culture
+  specific_domain: social_learning_in_foraging
+cognitive_domain:
+  social: true
+  physical: false

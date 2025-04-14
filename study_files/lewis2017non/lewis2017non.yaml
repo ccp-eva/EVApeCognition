@@ -1,0 +1,56 @@
+study_id: lewis2017non
+year: 2017
+reference: 'Lewis, A. V. M., Call, J., & Berntsen, D. (2017). Non-goal-directed recall
+  of specific events in apes after long delays. Proceedings of the Royal Society of
+  London. Series B: Biological Sciences, 284(1858): 20170518. doi:10.1098/rspb.2017.0518.'
+abstract: 'We examined if apes spontaneously remember one-time, distinctive events
+  across long delays when probed by discriminant cues. Apes witnessed an experimenter
+  hide a cache of food, which they could then retrieve. They retrieved one of two
+  food types; one more distinctive than the other. Two, 10 or 50 weeks later, the
+  apes returned to the same enclosure and found a piece of the previously hidden food
+  on the ground. An experimenter who had not hidden the food was also present. Apes
+  immediately searched the location where the food was previously hidden (no food
+  was here), showing recall of the event. One week later, apes returned to the same
+  enclosure, with the same food on the ground, but now the experimenter that had hidden
+  the food was present. Again, apes immediately searched the hiding location. Apes
+  that had not witnessed the hiding event did not search. There was no significant
+  effect of food type, and retention declined from exposure to the two-week delay,
+  then levelled, consistent with the forgetting curve in humans (Ebbinghaus, H. 1964
+  Memory: a contribution to experimental psychology (transl. H.A. Ruger & C.E. Bussenvis).
+  New York, NY: Dover. (Original work published 1885.)). This is the first study to
+  show apes can recall a one-time, non-goal-directed event longer than two weeks ago
+  and that apes'' recall declines in accordance with a standard retention function.'
+keywords: cued recall, distinctiveness, episodic memory, forgetting curve, great apes,
+  spontaneous memory.
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Amy Lewis
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Dorthe Berntsen
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_orangutan, wkprc_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: age_in_years provided by author in data
+domains:
+- domain_no: 1
+  general_domain: space_and_objects
+  specific_domain: travel_and_spatial_memory
+cognitive_domain:
+  social: false
+  physical: true

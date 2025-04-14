@@ -1,0 +1,64 @@
+study_id: engelmann2012five
+year: 2012
+reference: 'Engelmann, J. M., Herrmann, E., & Tomasello, M. (2012). Five-year olds,
+  but not chimpanzees, attempt to manage their reputations. PLoS One, 7(10): e48433.
+  doi:10.1371/journal.pone.0048433.'
+abstract: 'Virtually all theories of the evolution of cooperation require that cooperators
+  find ways to interact with one another selectively, to the exclusion of cheaters.
+  This means that individuals must make reputational judgments about others as cooperators,
+  based on either direct or indirect evidence. Humans, and possibly other species,
+  add another component to the process: they know that they are being judged by others,
+  and so they adjust their behavior in order to affect those judgments – so-called
+  impression management. Here, we show for the first time that already preschool children
+  engage in such behavior. In an experimental study, 5-year-old human children share
+  more and steal less when they are being watched by a peer than when they are alone.
+  In contrast, chimpanzees behave the same whether they are being watched by a groupmate
+  or not. This species difference suggests that humans’ concern for their own self-reputation,
+  and their tendency to manage the impression they are making on others, may be unique
+  to humans among primates.'
+keywords: ''
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Jan Engelmann
+  corr_author: true
+- author_no: 2
+  name: Esther Herrmann
+  corr_author: false
+- author_no: 3
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2010'
+  data_collection_date_comments: 2010-09-21 to 2010-10-03
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: groups
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2010'
+  data_collection_date_comments: 2010-08-31 to 2010-10-25
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: the_social_economy
+cognitive_domain:
+  social: true
+  physical: false

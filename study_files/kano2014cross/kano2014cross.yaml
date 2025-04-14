@@ -1,0 +1,85 @@
+study_id: kano2014cross
+year: 2014
+reference: Kano, F., & Call, J. (2014). Cross-species variation in gaze following
+  and conspecific preference among great apes, human infants and adults. Animal Behaviour,
+  91, 137-150. doi:10.1016/j.anbehav.2014.03.011.
+abstract: Although previous studies have shown that many species follow gaze, few
+  have directly compared closely related species, and thus its cross-species variation
+  remains largely unclear. In this study, we compared three great ape species (bonobos,
+  Pan paniscus, chimpanzees, Pan troglodytes, orang-utans, Pongo abelii) and humans
+  (12-month-olds and adults) in their gaze-following responses to the videos of conspecific
+  and allospecific models. In the video, the model turned his head repeatedly to one
+  of two identical objects. We used a noninvasive eye-tracking technique to measure
+  participants' eye movements, and used both conspecific and allospecific models as
+  stimuli to examine their potential preference in following conspecific rather than
+  allospecific gaze. Experiment 1 presented to great apes the videos of conspecific
+  and human models. We found that all species followed the conspecific gaze. Chimpanzees
+  did not follow the human gaze, whereas bonobos did. Bonobos reacted overall more
+  sensitively than chimpanzees to both conspecific and human gaze. Experiment 2 presented
+  to human infants and adults the videos of human, chimpanzee and orang-utan models.
+  Both infants and adults followed the human gaze. Unlike adults, infants did not
+  follow the ape gaze. Experiment 3 presented to great apes the videos of allospecific
+  ape models. Consistent with experiment 1, chimpanzees did not follow the allospecific
+  ape gaze, whereas bonobos and orang-utans did. Importantly, preferential following
+  of conspecific gaze by chimpanzees (experiment 1) and human infants (experiment
+  2) was mainly explained by their prolonged viewing of the conspecific face and thus
+  seems to reflect their motivation to attend selectively to the conspecific models.
+  Taken together, we conclude that gaze following is modulated by both subject species
+  and model species in great apes and humans, presumably a reflection of the subjects'
+  intrinsic sensitivity to gaze and also their selective interest in particular models.
+keywords: conspecific model, gaze following, great ape, human infant, species difference
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Fumihiro Kano
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_orangutan, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_orangutan, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: theory_of_mind_and_metacognition
+  specific_domain: understanding_perception_knowledge_and_beliefs
+cognitive_domain:
+  social: true
+  physical: false

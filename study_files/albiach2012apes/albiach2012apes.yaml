@@ -1,0 +1,57 @@
+study_id: albiach2012apes
+year: 2012
+reference: 'Albiach-Serrano, A., Bugnyar, T., & Call, J. (2012). Apes (Gorilla gorilla,
+  Pan paniscus, P. troglodytes, Pongo abelii) versus corvids (Corvus corax, C. corone)
+  in a support task: The effect of pattern and functionality. Journal of Comparative
+  Psychology, 126(4), 355-367. doi:10.1037/a0028050.'
+abstract: 'Apes (Gorilla gorilla, Pan paniscus, P. troglodytes, Pong abelii) and corvids
+  (Corvus corax, C. corone) are among the most proficient and flexible tool users
+  in the animal kingdom. Although it has been proposed that this is the result of
+  convergent evolution, little is known about whether this is limited to behavior
+  or also includes the underlying cognitive mechanisms. We compared several species
+  of apes (bonobos, chimpanzees, gorillas, and orangutans) and corvids (carrion crows
+  and common ravens) using exactly the same paradigm: a support task with elements
+  from the classical patterned-string tasks. Corvids proved able to solve at least
+  an easy pattern, whereas apes outperformed corvids with respect to the complexity
+  of the patterns solved, the relative number of subjects solving each problem, and
+  the speed to reach criterion. We addressed the question of whether subjects based
+  their choices purely on perceptual cues or on a more abstract understanding of the
+  problem. This was done by using a perceptually very similar but causally different
+  condition where instead of paper strips there were strip shapes painted on a platform.
+  Corvids’ performance did not differ between conditions, whereas apes were able to
+  solve the real but not the painted task. This shows that apes were not basing their
+  choices just on spatial or arbitrary perceptual cues. Instead, and unlike corvids,
+  they must have had some causal knowledge of the task.'
+keywords: apes, corvids, patterned-strings, support, causality
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Anna Albiach Serrano
+  corr_author: true
+- author_no: 2
+  name: Thomas Bugnyar
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_gorilla, wkprc_orangutan, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: austria_ravens, austria_crows
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: tool_features_and_functions
+cognitive_domain:
+  social: false
+  physical: true

@@ -1,0 +1,51 @@
+study_id: liszkowski2009prelinguistic
+year: 2009
+reference: Liszkowski, U., Schäfer, M., Carpenter, M., & Tomasello, M. (2009). Prelinguistic
+  infants, but not chimpanzees, communicate about absent entities. Psychological Science,
+  20(5), 654-660.
+abstract: One of the defining features of human language is displacement, the ability
+  to make reference to absent entities. Here we show that prelinguistic, 12-month-old
+  infants already can use a nonverbal pointing gesture to make reference to absent
+  entities. We also show that chimpanzees-who can point for things they want humans
+  to give them-do not point to refer to absent entities in the same way. These results
+  demonstrate that the ability to communicate about absent but mutually known entities
+  depends not on language, but rather on deeper social-cognitive skills that make
+  acts of linguistic reference possible in the first place. These nonlinguistic skills
+  for displaced reference emerged apparently only after humans' divergence from great
+  apes some 6 million years ago.
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Ulf Liszkowski
+  corr_author: true
+- author_no: 2
+  name: Marie Schäfer
+  corr_author: false
+- author_no: 3
+  name: Malinda Carpenter
+  corr_author: false
+- author_no: 4
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: leipzig_children
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: social_strategies_and_communication
+  specific_domain: communication_with_humans
+cognitive_domain:
+  social: true
+  physical: false

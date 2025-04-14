@@ -1,0 +1,71 @@
+study_id: kanngiesser2020children
+year: 2020
+reference: 'Kanngiesser, P., Rossano, F., Frickel, R., Tomm, A., & Tomasello, M. (2020).
+  Children, but not great apes, respect ownership. Developmental Science, 23(1): e12842.
+  doi:10.1111/desc.12842.'
+abstract: Access to and control of resources is a major source of costly conflicts.
+  Animals, under some conditions, respect what others control and use (i.e. possession).
+  Humans not only respect possession of resources, they also respect ownership. Ownership
+  can be viewed as a cooperative arrangement, where individuals inhibit their tendency
+  to take others’ property on the condition that those others will do the same. We
+  investigated to what degree great apes follow this principle, as compared to human
+  children. We conducted two experiments, in which dyads of individuals could access
+  the same food resources. The main test of respect for ownership was whether individuals
+  would refrain from taking their partner's resources even when the partner could
+  not immediately access and control them. Captive apes (N = 14 dyads) failed to respect
+  their partner's claim on food resources and frequently monopolized the resources
+  when given the opportunity. Human children (N = 14 dyads), tested with a similar
+  apparatus and procedure, respected their partner's claim and made spontane- ous
+  verbal references to ownership. Such respect for the property of others highlights
+  the uniquely cooperative nature of human ownership arrangements.
+keywords: apes, children, conflict, cooperation, ownership, social behaviour
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Patricia Kanngiesser
+  corr_author: true
+- author_no: 2
+  name: Federico Rossano
+  corr_author: null
+- author_no: 3
+  name: Ramona Frickel
+  corr_author: null
+- author_no: 4
+  name: Anne Tomm
+  corr_author: null
+- author_no: 5
+  name: Michaelo Tomasello
+  corr_author: null
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: dyads
+  droupouts_no: 15
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: quantities_and_time
+  specific_domain: risk_value_and_choice
+cognitive_domain:
+  social: false
+  physical: true

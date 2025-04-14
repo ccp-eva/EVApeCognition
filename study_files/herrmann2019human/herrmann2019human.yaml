@@ -1,0 +1,70 @@
+study_id: herrmann2019human
+year: 2019
+reference: 'Herrmann, E., Haux, L. M., Zeidler, H., & Engelmann, J. M. (2019). Human
+  children but not chimpanzees make irrational decisions driven by social comparison.
+  Proceedings of the Royal Society of London: B, Biological Sciences, 286(1894): 20182228.
+  doi:10.1098/rspb.2018.2228.'
+abstract: 'Human evolutionary success is often argued to be rooted in specialized
+  social skills and motivations that result in more prosocial, rational and cooperative
+  decisions. One manifestation of human ultra-sociality is the tendency to engage
+  in social comparison. While social comparison studies typically focus on cooperative
+  behaviour and emphasize concern for fairness and equality, here we investigate the
+  competitive dimension of social comparison: a preference for getting more than others,
+  expressed in a willingness to maximize relative payoff at the cost of absolute payoff.
+  Chimpanzees and human children (5–6- and 9–10-year-olds) could decide between an
+  option that maximized their absolute payoff (but put their partner at an advantage)
+  and an option that maximized their relative payoff (but decreased their own and
+  their partner’s payoff). Results show that, in contrast to chimpanzees and young
+  children, who consistently selected the rational and payoff-maximizing option, older
+  children paid a cost to reduce their partner’s payoff to a level below their own.
+  This finding demonstrates that uniquely human social skills and motivations do not
+  necessarily lead to more prosocial, rational and cooperative decision-making.'
+keywords: social comparison, fairness, cooperation
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Esther Herrmann
+  corr_author: false
+- author_no: 2
+  name: Lou M. Haux
+  corr_author: false
+- author_no: 3
+  name: Henriette Zeidler
+  corr_author: false
+- author_no: 4
+  name: Jan M. Engelmann
+  corr_author: true
+experiments:
+- experiment_no: 1
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: sweetwaters_chimpanzee_old, sweetwaters_chimpanzee_young
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2018'
+  data_collection_date_comments: 2018-01-5 to 2018 -01-22
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: the_social_economy
+cognitive_domain:
+  social: true
+  physical: false

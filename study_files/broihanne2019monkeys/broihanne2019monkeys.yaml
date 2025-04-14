@@ -1,0 +1,76 @@
+study_id: broihanne2019monkeys
+year: 2019
+reference: Broihanne, M.-H., Romain, A., Call, J., Thierry, B., Wascher, C. A. F.,
+  De Marco, A., Verrier, D., & Dufour, V. (2019). Monkeys (Sapajus apella and Macaca
+  tonkeana) and great apes (Gorilla gorilla, Pongo abelii, Pan paniscus, and Pan troglodytes)
+  play for the highest bid. Journal of Comparative Psychology, 133(3), 301-312. doi:10.1037/com0000153.
+abstract: Many studies investigate the decisions made by animals by focusing on their
+  attitudes toward risk, that is, risk-seeking, risk neutrality, or risk aversion.
+  However, little attention has been paid to the extent to which individuals understand
+  the different odds of outcomes. In a previous gambling task involving 18 different
+  lotteries (Pelé, Broihanne, Thierry, Call, & Dufour, 2014), nonhuman primates used
+  probabilities of gains and losses to make their decision. Although the use of complex
+  mathematical calculation for decision-making seemed unlikely, we applied a gradual
+  decrease in the chances to win throughout the experiment. This probably facilitated
+  the extraction of information about odds. Here, we investigated whether individuals
+  would still make efficient decisions if this facilitating factor was removed. To
+  do so, we randomized the order of presentation of the 18 lotteries. Individuals
+  from 4 ape and 2 monkey species were tested. Only capuchin monkeys differed from
+  others, gambling even when there was nothing to win. Randomizing the lottery presentation
+  order leads all species to predominantly use a maximax heuristic. Individuals gamble
+  as soon as there is at least one chance to win more than they already possess, whatever
+  the risk. Most species also gambled more as the frequency of larger rewards increased.
+  These results suggest optimistic behavior. The maximax heuristic is sometimes observed
+  in human managerial and financial decision-making, where risk is ignored for potential
+  gains, however low they may be. This suggests a shared and strong propensity in
+  primates to rely on heuristics whenever complexity in evaluation of outcome odds
+  arises.
+keywords: risk preferences, heuristics, decision-making, gambling, primates
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Valerie Dufour
+  corr_author: true
+- author_no: 2
+  name: Marie-Helene Broihanne
+  corr_author: false
+- author_no: 3
+  name: Amelie Romain
+  corr_author: false
+- author_no: 4
+  name: Bernard Thierry
+  corr_author: false
+- author_no: 5
+  name: Claudia A. F. Wascher
+  corr_author: false
+- author_no: 6
+  name: Delphine Verrier
+  corr_author: false
+- author_no: 7
+  name: Josep Call
+  corr_author: false
+- author_no: 8
+  name: Arianna De Marco
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 2
+  dropout_names: null
+  group_id: gfpa_browncapuchinmonkey, gfpa_tonkeanmacaque, wkprc_orangutan, wkprc_gorilla,cirmf_gorilla,
+    edinburgh_chimpanzee, cirmf_chimpanzee, wkprc_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: quantities_and_time
+  specific_domain: risk_value_and_choice
+cognitive_domain:
+  social: false
+  physical: true

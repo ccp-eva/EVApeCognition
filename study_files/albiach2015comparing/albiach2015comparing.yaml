@@ -1,0 +1,62 @@
+study_id: albiach2015comparing
+year: 2015
+reference: 'Albiach-Serrano, A., Sebastián-Enesco, C., Seed, A., Colmenares, F., &
+  Call, J. (2015). Comparing humans and nonhuman great apes in the broken cloth problem:
+  Is their knowledge causal or perceptual? Journal of Experimental Child Psychology,
+  139, 174-189. doi:10.1016/j.jecp.2015.06.004.'
+abstract: When presented with the broken cloth problem, both human children and nonhuman
+  great apes prefer to pull a continuous cloth over a discontinuous cloth in order
+  to obtain a desired object resting on top. This has been interpreted as evidence
+  that they preferentially attend to the functionally relevant cues of the task (e.g.,
+  presence or absence of a gap along the cloth). However, there is controversy regarding
+  whether great apes’ behavior is underpinned by causal knowledge, involving abstract
+  concepts (e.g., support, connection), or by perceptual knowledge, based on percepts
+  (e.g., contact, continuity). We presented chimpanzees, orangutans, and 2-, 3-, and
+  4-year-old children with two versions of the broken cloth problem. The Real condition,
+  made with paper strips, could be solved based on either perceptual cues or causal
+  knowledge. The Painted condition, which looked very similar, could be solved only
+  by attending to perceptual cues. All groups mastered the Real condition, in line
+  with previous results. Older children (3-and 4-year-olds) performed significantly
+  better in this condition than all other groups, but the performance of apes and
+  children did not differ sharply, with 2-year-olds and apes obtaining similar results.
+  In contrast, only 4-year-olds solved the Painted condition.
+keywords: Children, Chimpanzees, Orangutans, Broken cloth problem, Causal knowledge,
+  Associative learning
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Anna Albiach Serrano
+  corr_author: true
+- author_no: 2
+  name: Carla Sebastián-Enesco
+  corr_author: false
+- author_no: 3
+  name: Amanda Seed
+  corr_author: false
+- author_no: 4
+  name: Fernando Colmenares
+  corr_author: false
+- author_no: 5
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: madrid_children
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: 'age_original provided in data file in months '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: tool_features_and_functions
+cognitive_domain:
+  social: false
+  physical: true

@@ -1,0 +1,48 @@
+study_id: brauer2008chimpanzees
+year: 2008
+reference: Bräuer, J., Call, J., & Tomasello, M. (2008). Chimpanzees do not take into
+  account what others can hear in a competitive situation. Animal Cognition, 11(1),
+  175-178. doi:10.1007/s10071-007-0097-0.
+abstract: Chimpanzees (Pan troglodytes) know what others can and cannot see in a competitive
+  situation. Does this reflect a general understanding the perceptions of others?
+  In a study by Hare et al. (2000) pairs of chimpanzees competed over two pieces of
+  food. Subordinate individuals preferred to approach food that was behind a barrier
+  that the dominant could not see, suggesting that chimpanzees can take the visual
+  perspective of others. We extended this paradigm to the auditory modality to investigate
+  whether chimpanzees are sensitive to whether a competitor can hear food rewards
+  being hidden. Results suggested that the chimpanzees did not take what the competitor
+  had heard into account, despite being able to locate the hiding place themselves
+  by the noise.
+keywords: Social cognition, Food competition, Perspective taking
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Juliane Braeuer
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2003
+  data_collection_date_comments: 2003/02/05 to 2003/07/05
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: theory_of_mind_and_metacognition
+  specific_domain: understanding_perception_knowledge_and_beliefs
+cognitive_domain:
+  social: true
+  physical: false

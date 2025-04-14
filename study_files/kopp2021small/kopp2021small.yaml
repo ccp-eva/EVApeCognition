@@ -1,0 +1,62 @@
+study_id: kopp2021small
+year: 2021
+reference: 'Kopp, K. S., Ebel, S. J., Wittig, R. M., Haun, D. B. M., & Crockford,
+  C. (2021). Small mirrors do the trick: A simple, but effective method to study mirror
+  self-recognition in chimpanzees. Animal Behavior and Cognition, 8(3), 391-404. doi:10.26451/abc.08.03.05.2021.'
+abstract: Mirror self-recognition (MSR) is considered an indicator of self-awareness.
+  Standardized mirror tests reveal compelling evidence for MSR in a few non-human
+  species, including all great apes. However, substantial inter-individual variation
+  of MSR within species resulted in an ongoing methodological controversy, questioning
+  the appropriateness of standard MSR tests for cross-species comparisons. Lack of
+  motivation, in particular, is discussed as one possible cause for false negative
+  results. Here, we compare the spontaneous behavioral response of 47 zoo-housed chimpanzees
+  (Pan troglodytes) to (i) standard body-sized, stationary mirrors and (ii) small,
+  portable hand mirrors. We predicted that the monopolizability and maneuverability
+  of small mirrors increase the chances of identifying MSR across a larger proportion
+  of individuals. Chimpanzees both revealed a substantially higher frequency of general
+  mirror-related behaviors and engaged in significantly more and longer behaviors
+  specifically indicating MSR when provided with small mirrors compared to a large
+  mirror. Handheld mirrors provide a more sensitive measure for MSR within and likely
+  between primate species than the traditional large mirrors, and thereby are a potentially
+  valuable tool for studying self-awareness across species.
+keywords: Mirror self-recognition, Comparative cognitive research, Primates, Self-awareness,
+  Mirror test, Cognition
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Kathrin S. Kopp
+  corr_author: true
+- author_no: 2
+  name: Sonja J. Ebel
+  corr_author: false
+- author_no: 3
+  name: Roman M. Wittig
+  corr_author: false
+- author_no: 4
+  name: Daniel B. M. Haun
+  corr_author: false
+- author_no: 5
+  name: Catherine Crockford
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: groups
+  droupouts_no: null
+  dropout_names: null
+  group_id: berlin_chimpanzee, wkprc_chimpanzee_a, wkprc_chimpanzee_b, magdeburg_chimpanzee,
+    halle_chimpanzee, heidelberg_chimpanzee, wuppertal_chimpanzee
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 2019
+  data_collection_date_comments: from July to December 2019
+  age_source: data_file_calculated
+  age_source_comments: age_original from author in months and age_in_years calculated
+domains:
+- domain_no: 1
+  general_domain: theory_of_mind_and_metacognition
+  specific_domain: understanding_the_self_and_metacognition
+cognitive_domain:
+  social: true
+  physical: false

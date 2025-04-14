@@ -1,0 +1,68 @@
+study_id: leeuwen2013total
+year: 2013
+reference: 'Van Leeuwen, E. J. C., Cronin, K. A., Schütte, S., Call, J., & Haun, D.
+  B. M. (2013). Chimpanzees (Pan troglodytes) flexibly adjust their behaviour in order
+  to maximize payoffs, not to conform to majorities. PLoS One, 8(11): e80945. doi:10.1371/journal.pone.0080945.'
+abstract: 'Chimpanzees have been shown to be adept learners, both individually and
+  socially. Yet, sometimes their conservative nature seems to hamper the flexible
+  adoption of superior alternatives, even to the extent that they persist in using
+  entirely ineffective strategies. In this study, we investigated chimpanzees’ behavioural
+  flexibility in two different conditions under which social animals have been predicted
+  to abandon personal preferences and adopt alternative strategies: i) under influence
+  of majority demonstrations (i.e. conformity), and ii) in the presence of superior
+  reward contingencies (i.e. maximizing payoffs). Unlike previous nonhuman primate
+  studies, this study disentangled the concept of conformity from the tendency to
+  maintain one’s first-learned strategy. Studying captive (n=16) and semi-wild (n=12)
+  chimpanzees in two complementary exchange paradigms, we found that chimpanzees did
+  not abandon their behaviour in order to match the majority, but instead remained
+  faithful to their first-learned strategy (Study 1a and 1b). However, the chimpanzees’
+  fidelity to their first-learned strategy was overridden by an experimental upgrade
+  of the profitability of the alternative strategy (Study 2). We interpret our observations
+  in terms of chimpanzees’ relative weighing of behavioural options as a function
+  of situation-specific trade-offs. More specifically, contrary to previous findings,
+  chimpanzees in our study abandoned their familiar behaviour to maximize payoffs,
+  but not to conform to a majority.'
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Edwin J. C. Van Leeuwen
+  corr_author: true
+- author_no: 2
+  name: Katherine A. Cronin
+  corr_author: false
+- author_no: 3
+  name: Sebastian Schütte
+  corr_author: false
+- author_no: 4
+  name: Josep Call
+  corr_author: false
+- author_no: 5
+  name: Daniel B. M. Haun
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: partial
+  grouping: groups
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: chimfunshi_chimpanzee
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 2012
+  data_collection_date_comments: Chimpanzees were tested for one hour on ten consecutive
+    days in March 2012 (one week after training).
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: false
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: social_learning_and_culture
+  specific_domain: social_learning_in_foraging
+cognitive_domain:
+  social: true
+  physical: false

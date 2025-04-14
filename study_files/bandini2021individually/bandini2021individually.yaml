@@ -1,0 +1,90 @@
+study_id: bandini2021individually
+year: 2021
+reference: 'Bandini, E., Großmann, J., Funk, M., Albiach-Serrano, A., & Tennie, C.
+  (2021). Naïve orangutans (Pongo abelii and Pongo pygmaeus) individually acquire
+  nut-cracking using hammer tools. American Journal of Primatology, 83(9): e23304.
+  doi:10.1002/ajp.23304.'
+abstract: 'Nut-cracking with hammer tools (henceforth: nut-cracking) has been argued
+  to be one of the most complex tool-use behaviors observed in nonhuman animals. So
+  far, only chimpanzees, capuchins, and macaques have been observed using tools to
+  crack nuts in the wild (Boesch and Boesch, 1990; Gumert et al., 2009; Mannu and
+  Ottoni, 2009). However, the learning mechanisms behind this behavior, and the extent
+  of nut-cracking in other primate species are still unknown. The aim of this study
+  was two-fold. First, we investigated whether another great ape species would develop
+  nut-cracking when provided with all the tools and appropriate conditions to do so.
+  Second, we examined the mechanisms behind the emergence of nut-cracking by testing
+  a naive sample. Orangutans (Pongo abelii and Pongo pygmaeus) have the second most
+  extensive tool-use repertoire among the great apes (after chimpanzees) and show
+  flexible problem-solving capacities. Orangutans have not been observed cracking
+  nuts in the wild, however, perhaps because their arboreal habits provide limited
+  opportunities for nut-cracking. Therefore, orangutans are a valid candidate species
+  for the investigation of the development of this behavior. Four nut-cracking- naive
+  orangutans at Leipzig zoo (P. abelii; Mage = 16; age range = 10-19; 4F; at the time
+  of testing) were provided with nuts and hammers but were not demonstrated the nut-cracking
+  behavioral form. Additionally, we report data from a previously unpublished study
+  by one of the authors (Martina Funk) with eight orangutans housed at Zürich zoo
+  (six P. abelii and two P. pygmaeus; Mage = 14; age range = 2-30; 5F; at the time
+  of testing) that followed a similar testing paradigm. Out of the twelve orangutans
+  tested, at least four individuals, one from Leipzig (P. abelii) and three from Zürich
+  (P. abelii and P. pygmaeus), spontaneously expressed nut-cracking using wooden hammers.
+  These results demonstrate that nut-cracking can emerge in orangutans through individual
+  learning and certain types of non-copying social learning.'
+keywords: individual learning, nut-cracking, orangutan, social learning, tool-use
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Elisa Bandini
+  corr_author: true
+- author_no: 2
+  name: Johannes Grossmann
+  corr_author: false
+- author_no: 3
+  name: Martina Funk
+  corr_author: false
+- author_no: 4
+  name: Anna Albiach-Serrano
+  corr_author: false
+- author_no: 5
+  name: Claudio Tennie
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: false
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: zurich_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 1983 - 1984
+  data_collection_date_comments: an un published thesis contained a similar study
+    with orangutans, carried out by Martina Funk ... between 1983 and 1984... The
+    methods and findings from this previous, unpublished, study are also described
+    here
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 2007
+  data_collection_date_comments: The research was carried out at the Wolfgang Köhler
+    Primate Research Center (WKPRC), Leipzig, Germany, in 2007
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: ontogeny_innovation_and_planning
+- domain_no: 2
+  general_domain: social_learning_and_culture
+  specific_domain: social_learning_in_foraging
+cognitive_domain:
+  social: true
+  physical: true

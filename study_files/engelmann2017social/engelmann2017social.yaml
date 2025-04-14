@@ -1,0 +1,53 @@
+study_id: engelmann2017social
+year: 2017
+reference: 'Engelmann, J. M., Clift, J. B., Herrmann, E., & Tomasello, M. (2017).
+  Social disappointment explains chimpanzees'' behaviour in the inequity aversion
+  task. Proceedings of the Royal Society B: Biological Sciences, 284(1861): 20171502.
+  doi:10.1098/rspb.2017.1502.'
+abstract: Chimpanzees’ refusal of less-preferred food when an experimenter has previously
+  provided preferred food to a conspecific has been taken as evidence for a sense
+  of fairness. Here, we present a novel hypothesis—the social disappointment hypothesis—according
+  to which food refusals express chimpanzees’ disappointment in the human experimenter
+  for not rewarding them as well as they could have. We tested this hypothesis using
+  a two-by two design in which food was either distributed by an experimenter or a
+  machine and with a partner present or absent. We found that chimpanzees were more
+  likely to reject food when it was distributed by an experimenter rather than by
+  a machine and that they were not more likely to do so when a partner was present.
+  These results suggest that chimpanzees’ refusal of less preferred food stems from
+  social disappointment in the experimenter and not from a sense of fairness.
+keywords: inequity aversion, social disappointment, fairness, evolution, chimpanzees
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Jan Engelmann
+  corr_author: true
+- author_no: 2
+  name: Jeremy B. Clift
+  corr_author: false
+- author_no: 3
+  name: Esther Herrmann
+  corr_author: false
+- author_no: 4
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals, dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: null
+  data_collection_date: '2016'
+  data_collection_date_comments: 2016-03-31 to 2016-08-07
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: prosocial_behavior
+cognitive_domain:
+  social: true
+  physical: false

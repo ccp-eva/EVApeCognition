@@ -1,0 +1,82 @@
+study_id: buttelmann2008behavioral
+year: 2008
+reference: Buttelmann, D., Call, J., & Tomasello, M. (2008). Behavioral cues that
+  great apes use to forage for hidden food. Animal Cognition, 11(1), 117-128. doi:10.1007/s10071-007-0095-2.
+abstract: We conducted three studies to examine whether the four great ape species
+  (chimpanzees, bonobos, gorillas, and orangutans) are able to use behavioral experimenter-given
+  cues in an object-choice task. In the subsequent experimental conditions subjects
+  were presented with two eggs, one of which contained food and the other did not.
+  In Study 1 the experimenter examined both eggs by smelling or shaking them, but
+  only made a failed attempt to open (via biting) the egg containing food. In a control
+  condition, the experimenter examined and attempted to open both eggs, but in reverse
+  order to control for stimulus enhancement. The apes significantly preferred the
+  egg that was first examined and then bitten, but had no preference in a baseline
+  condition in which there were no cues. In Study 2, we investigated whether the apes
+  could extend this ability to cues not observed in apes so far (i.e., attempting
+  to pull apart the egg), as well as whether they made this discrimination based on
+  the function of the action the experimenter performed. Subjects significantly preferred
+  eggs presented with this novel cue, but did not prefer eggs presented with a novel
+  but functionally irrelevant action. In Study 3, apes did not interpret human actions
+  as cues to food-location when they already knew that the eggs were empty. Thus,
+  great apes were able to use a variety of experimenter-given cues associated with
+  foraging actions to locate hidden food and thereby were partially sensitive to the
+  general purpose underlying these actions.
+keywords: Experimenter-given cues, Non-human primates, Object-choice
+any_data_provided: true
+authors:
+- author_no: 1
+  name: David Buttelmann
+  corr_author: true
+- author_no: 1
+  name: Josep Call
+  corr_author: false
+- author_no: 1
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: gorgo
+  group_id: wkprc_orangutan, wkprc_gorilla, wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: ' '
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan, wkprc_gorilla, wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: ' '
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 3
+  dropout_names: Walter, N'kwango, Viringika
+  group_id: wkprc_orangutan, wkprc_gorilla, wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: ' '
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: theory_of_mind_and_metacognition
+  specific_domain: understanding_goals_and_intentions
+cognitive_domain:
+  social: true
+  physical: false

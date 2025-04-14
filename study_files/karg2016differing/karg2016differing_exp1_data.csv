@@ -1,0 +1,17 @@
+﻿"study_id","participant","age_in_years","sex","role","participant_2","sex_2","role_2","species","dyad","rearing_history","first_condition","percent_correct_nonsocial_pretest","percent_correct_nonsocial_training","percent_smaller_looking_stick_nonsocial_test","percent_correct_social_pretest","percent_correct_social_training","percent_smaller_looking_stick_social_test","percent_smaller_looking_stick_first_condition","percent_smaller_looking_stick_first_session","percent_smaller_looking_stick_nonsocial_session_1","percent_smaller_looking_stick_social_session_1"
+"karg2016differing","fraukje",35,"f","focal_participant","kara","f","competitor","chimpanzee","fraukje_kara","nursery","nonsocial",100,75,41.67,81.25,12.5,50,41.67,50,50,50
+"karg2016differing","lome",10,"m","focal_participant","kara","f","competitor","chimpanzee","lome_kara","mother","nonsocial",100,87.5,37.5,100,75,54.17,37.5,41.67,41.67,58.33
+"karg2016differing","tai",9,"f","focal_participant","kara","f","competitor","chimpanzee","tai_kara","mother","nonsocial",100,81.25,50,100,31.25,58.33,50,41.67,41.67,50
+"karg2016differing","riet",34,"f","focal_participant","kara","f","competitor","chimpanzee","riet_kara","nursery","nonsocial",100,100,37.5,100,6.25,37.5,37.5,41.67,41.67,33.33
+"karg2016differing","frodo",18,"m","focal_participant","kara","f","competitor","chimpanzee","frodo_kara","mother","nonsocial",100,75,20.83,100,37.5,41.67,20.83,25,25,50
+"karg2016differing","dorien",34,"f","focal_participant","kara","f","competitor","chimpanzee","dorien_kara","nursery","nonsocial",100,81.25,50,100,37.5,50,50,50,50,50
+"karg2016differing","jahaga",18,"f","focal_participant","gertrudia","f","competitor","chimpanzee","jahaga_gertrudia","mother","nonsocial",100,100,45.83,100,18.75,58.33,45.83,41.67,41.67,66.67
+"karg2016differing","natascha",31,"f","focal_participant","kara","f","competitor","chimpanzee","natascha_kara","nursery","social",100,100,41.67,93.75,50,41.67,41.67,50,50,50
+"karg2016differing","ulla",34,"f","focal_participant","kara","f","competitor","chimpanzee","ulla_kara","nursery","social",100,68.75,45.83,100,31.25,50,50,50,50,50
+"karg2016differing","lobo",7,"m","focal_participant","kara","f","competitor","chimpanzee","lobo_kara","mother","social",100,100,37.5,100,25,50,50,50,33.33,50
+"karg2016differing","robert",36,"m","focal_participant","kara","f","competitor","chimpanzee","robert_kara","nursery","social",100,93.75,41.67,100,50,62.5,62.5,75,50,75
+"karg2016differing","sandra",18,"f","focal_participant","kara","f","competitor","chimpanzee","sandra_kara","mother","social",100,100,58.33,100,50,54.17,54.17,41.67,50,41.67
+"karg2016differing","pia",12,"f","focal_participant","kara","f","competitor","chimpanzee","pia_kara","mother","social",93.75,100,25,100,50,50,50,58.33,41.67,58.33
+"karg2016differing","alex",11,"m","focal_participant","gertrudia","f","competitor","chimpanzee","alex_gertrudia","nursery","nonsocial",93.75,87.5,54.17,100,50,70.83,54.17,58.33,58.33,75
+"karg2016differing","alexandra",12,"f","focal_participant","gertrudia","f","competitor","chimpanzee","alexandra_gertrudia","nursery","social",100,87.5,58.33,100,50,45.83,45.83,50,50,50
+"karg2016differing","fifi",18,"f","focal_participant","gertrudia","f","competitor","chimpanzee","fifi_gertrudia","mother","social",100,100,50,93.75,43.75,54.17,54.17,58.33,41.67,58.33

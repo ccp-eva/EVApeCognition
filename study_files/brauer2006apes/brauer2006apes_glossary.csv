@@ -1,0 +1,23 @@
+column_name,description
+study_id,personal study ID composed by the first authors’ first surname_year of publication_first title word 
+participant,name of the participant 
+sex,sex of the participant 
+role,role of the participant –  focal_participant
+participant_2,name of the participant_2
+sex_2,sex of the participant_2
+role_2,role of the participant_2 – competitor
+species,species of individuals participating in the study -bonobo/chimpanzee/gorilla/orangutan 
+dyad,name of the two participants that compose the dyad 
+condition,four conditions social-different/social-same/non-social-different/non-social-same – soc-dif/ soc-sam/ nosoc-dif/ nosoc-sam/ 
+point,begging behavior pointing - the number of times the participant pointed on the food
+latency,latency in seconds
+away,whether the  participant is away or not – if there is latency in lat column away is 1
+scratch,whether the participant scratch themselves or not
+rock_lip_bang,the number of times the participant showed begging behavior rocking or begging with lips or banging
+eat,the number of times the participant ate food immediately (8 times max).
+touch,the number of times the participant touched but did not eat the food.
+ignore,number of ignored food pieces
+time,total time of the trial
+latency_percentage,percentage the trial’s duration the participant was away – latency column divided by time column/ maximum is 1
+scratch_yes,whether the participant scratched or not – yes = 1/ no = 0
+point_yes,whether the participant pointed or not  – yes = 1/ no = 0

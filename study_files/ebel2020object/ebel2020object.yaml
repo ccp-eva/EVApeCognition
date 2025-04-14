@@ -1,0 +1,48 @@
+study_id: ebel2020object
+year: 2020
+reference: 'Ebel, S. J., Kopp, K. S., & Liebal, K. (2020). Object preferences in captive
+  Sumatran orang-utans (Pongo abelii). Behavioural Processes, 170: 103993. doi:10.1016/j.beproc.2019.103993.'
+abstract: While preferences for perceptual features of objects are well studied in
+  humans, little is known about this trait in other great apes. We therefore presented
+  captive Sumatran orang-utans (Pongo abelii) with objects that differed in shape
+  (spherical, cuboid), colour (red, green), or texture (hard, soft). Overall, orang-utans
+  preferred spherical over cuboid and red over green objects. Soft objects were preferred
+  over hard ones. However, this preference might be confounded by the decomposable
+  characteristic of soft objects since the orang-utans often unwrapped them. This
+  study shows object preferences in orang-utans similar to those in humans, suggesting
+  that perceptual preferences for basic object features such as shape and colour may
+  be shared across primate species
+keywords: Colour preference, Object exploration, Primates, Sex differences, Shape
+  preference
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Sonja Ebel
+  corr_author: true
+- author_no: 2
+  name: Kathrin S. Kopp
+  corr_author: false
+- author_no: 3
+  name: Katja Liebal
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan, dortmund_orangutan, berlin_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: features_and_categories
+  specific_domain: natural_categories
+cognitive_domain:
+  social: false
+  physical: true
