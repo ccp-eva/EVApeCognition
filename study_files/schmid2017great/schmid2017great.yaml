@@ -1,0 +1,56 @@
+study_id: schmid2017great
+year: 2017
+reference: 'Schmid, B., Karg, K., Perner, J., & Tomasello, M. (2017). Great apes are
+  sensitive to prior reliability of an informant in a gaze following task. PLoS One,
+  12(11): e0187451. doi:10.1371/journal.pone.0187451.'
+abstract: Social animals frequently rely on information from other individuals. This
+  can be costly in case the other individual is mistaken or even deceptive. Human
+  infants below 4 years of age show proficiency in their reliance on differently reliable
+  informants. They can infer the reliability of an informant from few interactions
+  and use that assessment in later interactions with the same informant in a different
+  context. To explore whether great apes share that ability, in our study we confronted
+  great apes with a reliable or unreliable informant in an object choice task, to
+  see whether that would in a subsequent task affect their gaze following behaviour
+  in response to the same informant. In our study, prior reliability of the informant
+  and habituation during the gaze following task affected both great apes’ automatic
+  gaze following response and their more deliberate response of gaze following behind
+  barriers. As habituation is very context specific, it is unlikely that habituation
+  in the reliability task affected the gaze following task. Rather it seems that apes
+  employ a reliability tracking strategy that results in a general avoidance of additional
+  information from an unreliable informant.
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Benjamin Schmid
+  corr_author: true
+- author_no: 2
+  name: Katja Karg
+  corr_author: false
+- author_no: 3
+  name: Josef Perner
+  corr_author: false
+- author_no: 4
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: theory_of_mind_and_metacognition
+  specific_domain: understanding_perception_knowledge_and_beliefs
+cognitive_domain:
+  social: true
+  physical: false

@@ -1,0 +1,481 @@
+﻿study_id,year,month,day,experiment,participant,age_in_years,sex,species,trial,trial_type,lc_or_lt_trial,1st_amount_chosen,2nd_amount_chosen,2nd_choice_container
+suda2005piagetian,2003,06,05,2,joey,20.0,m,bonobo,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,05,2,joey,20.0,m,bonobo,2,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,05,2,joey,20.0,m,bonobo,3,liquid_opaque-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,05,2,joey,20.0,m,bonobo,4,liquid_opaque-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,05,2,joey,20.0,m,bonobo,5,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,05,2,joey,20.0,m,bonobo,6,discrete_opaque-different,lt_trial,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,05,2,joey,20.0,m,bonobo,7,liquid_opaque-different,lt_trial,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,05,2,joey,20.0,m,bonobo,8,discrete_opqaue-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,05,2,joey,20.0,m,bonobo,9,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,05,2,joey,20.0,m,bonobo,10,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,06,2,joey,20.0,m,bonobo,1,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,06,2,joey,20.0,m,bonobo,2,discrete_opaque-different,lt_trial,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,06,2,joey,20.0,m,bonobo,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,06,2,joey,20.0,m,bonobo,4,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,06,2,joey,20.0,m,bonobo,5,discrete_opqaue-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,06,2,joey,20.0,m,bonobo,6,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,06,2,joey,20.0,m,bonobo,7,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,06,2,joey,20.0,m,bonobo,8,liquid_opaque-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,06,2,joey,20.0,m,bonobo,9,liquid_opaque-different,lt_trial,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,06,2,joey,20.0,m,bonobo,10,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,joey,20.0,m,bonobo,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,30,2,joey,20.0,m,bonobo,2,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,joey,20.0,m,bonobo,3,liquid_opaque-different,lt_trial,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,30,2,joey,20.0,m,bonobo,4,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,joey,20.0,m,bonobo,5,discrete_opaque-different,lt_trial,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,30,2,joey,20.0,m,bonobo,6,liquid_opaque-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,30,2,joey,20.0,m,bonobo,7,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,joey,20.0,m,bonobo,8,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,joey,20.0,m,bonobo,9,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,joey,20.0,m,bonobo,10,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,02,2,joey,20.0,m,bonobo,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,02,2,joey,20.0,m,bonobo,2,liquid_opaque-different,lt_trial,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,02,2,joey,20.0,m,bonobo,3,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,02,2,joey,20.0,m,bonobo,4,discrete_opaque-different,lt_trial,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,02,2,joey,20.0,m,bonobo,5,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,02,2,joey,20.0,m,bonobo,6,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,02,2,joey,20.0,m,bonobo,7,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,02,2,joey,20.0,m,bonobo,8,liquid_opaque-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,02,2,joey,20.0,m,bonobo,9,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,02,2,joey,20.0,m,bonobo,10,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,05,2,kuno,6.0,m,bonobo,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,05,2,kuno,6.0,m,bonobo,2,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,05,2,kuno,6.0,m,bonobo,3,liquid_opaque-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,05,2,kuno,6.0,m,bonobo,4,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,05,2,kuno,6.0,m,bonobo,5,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,05,2,kuno,6.0,m,bonobo,6,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,06,05,2,kuno,6.0,m,bonobo,7,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,06,05,2,kuno,6.0,m,bonobo,8,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,05,2,kuno,6.0,m,bonobo,9,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,05,2,kuno,6.0,m,bonobo,10,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,06,2,kuno,6.0,m,bonobo,1,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,06,2,kuno,6.0,m,bonobo,2,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,06,06,2,kuno,6.0,m,bonobo,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,06,2,kuno,6.0,m,bonobo,4,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,06,2,kuno,6.0,m,bonobo,5,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,06,2,kuno,6.0,m,bonobo,6,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,06,2,kuno,6.0,m,bonobo,7,discrete_opaque-different,lc_trial,smaller_quantity,smaller_quantity,tube
+suda2005piagetian,2003,06,06,2,kuno,6.0,m,bonobo,8,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,06,2,kuno,6.0,m,bonobo,9,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,06,06,2,kuno,6.0,m,bonobo,10,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,kuno,6.0,m,bonobo,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,30,2,kuno,6.0,m,bonobo,2,discrete_opqaue-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,30,2,kuno,6.0,m,bonobo,3,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,06,30,2,kuno,6.0,m,bonobo,4,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,kuno,6.0,m,bonobo,5,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,06,30,2,kuno,6.0,m,bonobo,6,liquid_opaque-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,30,2,kuno,6.0,m,bonobo,7,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,kuno,6.0,m,bonobo,8,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,kuno,6.0,m,bonobo,9,liquid_opaque-different,lc_trial,larger_quantity,smaller_quantity,tube
+suda2005piagetian,2003,06,30,2,kuno,6.0,m,bonobo,10,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,02,2,kuno,6.0,m,bonobo,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,02,2,kuno,6.0,m,bonobo,2,liquid_opaque-different,lt_trial,smaller_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,02,2,kuno,6.0,m,bonobo,3,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,02,2,kuno,6.0,m,bonobo,4,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,02,2,kuno,6.0,m,bonobo,5,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,02,2,kuno,6.0,m,bonobo,6,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,02,2,kuno,6.0,m,bonobo,7,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,02,2,kuno,6.0,m,bonobo,8,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,02,2,kuno,6.0,m,bonobo,9,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,02,2,kuno,6.0,m,bonobo,10,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,10,2,limbuko,7.0,m,bonobo,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,10,2,limbuko,7.0,m,bonobo,2,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,10,2,limbuko,7.0,m,bonobo,3,liquid_opaque-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,10,2,limbuko,7.0,m,bonobo,4,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,10,2,limbuko,7.0,m,bonobo,5,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,10,2,limbuko,7.0,m,bonobo,6,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,06,10,2,limbuko,7.0,m,bonobo,7,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,06,10,2,limbuko,7.0,m,bonobo,8,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,10,2,limbuko,7.0,m,bonobo,9,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,10,2,limbuko,7.0,m,bonobo,10,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,11,2,limbuko,7.0,m,bonobo,1,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,11,2,limbuko,7.0,m,bonobo,2,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,06,11,2,limbuko,7.0,m,bonobo,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,11,2,limbuko,7.0,m,bonobo,4,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,11,2,limbuko,7.0,m,bonobo,5,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,11,2,limbuko,7.0,m,bonobo,6,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,11,2,limbuko,7.0,m,bonobo,7,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,11,2,limbuko,7.0,m,bonobo,8,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,11,2,limbuko,7.0,m,bonobo,9,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,06,11,2,limbuko,7.0,m,bonobo,10,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,limbuko,7.0,m,bonobo,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,30,2,limbuko,7.0,m,bonobo,2,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,limbuko,7.0,m,bonobo,3,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,06,30,2,limbuko,7.0,m,bonobo,4,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,limbuko,7.0,m,bonobo,5,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,06,30,2,limbuko,7.0,m,bonobo,6,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,limbuko,7.0,m,bonobo,7,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,limbuko,7.0,m,bonobo,8,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,limbuko,7.0,m,bonobo,9,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,limbuko,7.0,m,bonobo,10,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,02,2,limbuko,7.0,m,bonobo,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,02,2,limbuko,7.0,m,bonobo,2,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,02,2,limbuko,7.0,m,bonobo,3,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,02,2,limbuko,7.0,m,bonobo,4,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,02,2,limbuko,7.0,m,bonobo,5,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,02,2,limbuko,7.0,m,bonobo,6,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,02,2,limbuko,7.0,m,bonobo,7,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,02,2,limbuko,7.0,m,bonobo,8,liquid_opaque-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,02,2,limbuko,7.0,m,bonobo,9,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,02,2,limbuko,7.0,m,bonobo,10,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,05,2,ulindi,9.0,f,bonobo,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,05,2,ulindi,9.0,f,bonobo,2,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,05,2,ulindi,9.0,f,bonobo,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,05,2,ulindi,9.0,f,bonobo,4,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,05,2,ulindi,9.0,f,bonobo,5,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,05,2,ulindi,9.0,f,bonobo,6,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,06,05,2,ulindi,9.0,f,bonobo,7,liquid_opaque-different,lt_trial,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,05,2,ulindi,9.0,f,bonobo,8,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,05,2,ulindi,9.0,f,bonobo,9,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,05,2,ulindi,9.0,f,bonobo,10,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,09,2,ulindi,9.0,f,bonobo,1,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,09,2,ulindi,9.0,f,bonobo,2,discrete_opaque-different,lt_trial,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,09,2,ulindi,9.0,f,bonobo,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,09,2,ulindi,9.0,f,bonobo,4,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,09,2,ulindi,9.0,f,bonobo,5,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,09,2,ulindi,9.0,f,bonobo,6,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,09,2,ulindi,9.0,f,bonobo,7,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,09,2,ulindi,9.0,f,bonobo,8,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,09,2,ulindi,9.0,f,bonobo,9,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,06,09,2,ulindi,9.0,f,bonobo,10,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,ulindi,9.0,f,bonobo,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,30,2,ulindi,9.0,f,bonobo,2,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,ulindi,9.0,f,bonobo,3,liquid_opaque-different,lt_trial,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,30,2,ulindi,9.0,f,bonobo,4,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,ulindi,9.0,f,bonobo,5,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,06,30,2,ulindi,9.0,f,bonobo,6,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,ulindi,9.0,f,bonobo,7,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,ulindi,9.0,f,bonobo,8,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,ulindi,9.0,f,bonobo,9,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,30,2,ulindi,9.0,f,bonobo,10,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,02,2,ulindi,9.0,f,bonobo,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,02,2,ulindi,9.0,f,bonobo,2,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,02,2,ulindi,9.0,f,bonobo,3,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,02,2,ulindi,9.0,f,bonobo,4,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,02,2,ulindi,9.0,f,bonobo,5,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,02,2,ulindi,9.0,f,bonobo,6,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,02,2,ulindi,9.0,f,bonobo,7,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,02,2,ulindi,9.0,f,bonobo,8,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,02,2,ulindi,9.0,f,bonobo,9,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,02,2,ulindi,9.0,f,bonobo,10,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,26,2,fifi,10.0,f,chimpanzee,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,26,2,fifi,10.0,f,chimpanzee,2,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,26,2,fifi,10.0,f,chimpanzee,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,26,2,fifi,10.0,f,chimpanzee,4,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,26,2,fifi,10.0,f,chimpanzee,5,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,26,2,fifi,10.0,f,chimpanzee,6,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,06,26,2,fifi,10.0,f,chimpanzee,7,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,06,26,2,fifi,10.0,f,chimpanzee,8,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,26,2,fifi,10.0,f,chimpanzee,9,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,26,2,fifi,10.0,f,chimpanzee,10,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,11,2,fifi,10.0,f,chimpanzee,1,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,11,2,fifi,10.0,f,chimpanzee,2,discrete_opaque-different,lt_trial,smaller_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,11,2,fifi,10.0,f,chimpanzee,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,11,2,fifi,10.0,f,chimpanzee,4,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,11,2,fifi,10.0,f,chimpanzee,5,discrete_opqaue-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,11,2,fifi,10.0,f,chimpanzee,6,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,11,2,fifi,10.0,f,chimpanzee,7,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,11,2,fifi,10.0,f,chimpanzee,8,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,11,2,fifi,10.0,f,chimpanzee,9,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,13,2,fifi,10.0,f,chimpanzee,1,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,13,2,fifi,10.0,f,chimpanzee,2,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,13,2,fifi,10.0,f,chimpanzee,3,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,13,2,fifi,10.0,f,chimpanzee,4,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,13,2,fifi,10.0,f,chimpanzee,5,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,13,2,fifi,10.0,f,chimpanzee,6,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,13,2,fifi,10.0,f,chimpanzee,7,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,13,2,fifi,10.0,f,chimpanzee,8,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,15,2,fifi,10.0,f,chimpanzee,1,discrete_opaque-different,lc_trial,larger_quantity,smaller_quantity,tube
+suda2005piagetian,2003,07,15,2,fifi,10.0,f,chimpanzee,2,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,15,2,fifi,10.0,f,chimpanzee,3,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,15,2,fifi,10.0,f,chimpanzee,4,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,15,2,fifi,10.0,f,chimpanzee,5,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,15,2,fifi,10.0,f,chimpanzee,6,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,15,2,fifi,10.0,f,chimpanzee,7,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,15,2,fifi,10.0,f,chimpanzee,8,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,15,2,fifi,10.0,f,chimpanzee,9,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,15,2,fifi,10.0,f,chimpanzee,10,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,15,2,fifi,10.0,f,chimpanzee,11,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,15,2,fifi,10.0,f,chimpanzee,12,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,15,2,fifi,10.0,f,chimpanzee,13,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,26,2,fraukje,27.0,f,chimpanzee,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,26,2,fraukje,27.0,f,chimpanzee,2,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,26,2,fraukje,27.0,f,chimpanzee,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,26,2,fraukje,27.0,f,chimpanzee,4,liquid_opaque-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,26,2,fraukje,27.0,f,chimpanzee,5,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,26,2,fraukje,27.0,f,chimpanzee,6,discrete_opaque-different,lt_trial,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,26,2,fraukje,27.0,f,chimpanzee,7,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,06,26,2,fraukje,27.0,f,chimpanzee,8,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,26,2,fraukje,27.0,f,chimpanzee,9,discrete_opqaue-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,06,26,2,fraukje,27.0,f,chimpanzee,10,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,09,2,fraukje,27.0,f,chimpanzee,1,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,09,2,fraukje,27.0,f,chimpanzee,2,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,09,2,fraukje,27.0,f,chimpanzee,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,09,2,fraukje,27.0,f,chimpanzee,4,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,09,2,fraukje,27.0,f,chimpanzee,5,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,09,2,fraukje,27.0,f,chimpanzee,6,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,09,2,fraukje,27.0,f,chimpanzee,7,discrete_opaque-different,lc_trial,larger_quantity,smaller_quantity,tube
+suda2005piagetian,2003,07,09,2,fraukje,27.0,f,chimpanzee,8,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,09,2,fraukje,27.0,f,chimpanzee,9,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,09,2,fraukje,27.0,f,chimpanzee,10,discrete_opqaue-same,no_trial_type,smaller_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,11,2,fraukje,27.0,f,chimpanzee,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,11,2,fraukje,27.0,f,chimpanzee,2,discrete_opqaue-same,no_trial_type,smaller_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,11,2,fraukje,27.0,f,chimpanzee,3,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,11,2,fraukje,27.0,f,chimpanzee,4,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,11,2,fraukje,27.0,f,chimpanzee,5,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,11,2,fraukje,27.0,f,chimpanzee,6,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,11,2,fraukje,27.0,f,chimpanzee,7,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,11,2,fraukje,27.0,f,chimpanzee,8,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,11,2,fraukje,27.0,f,chimpanzee,9,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,11,2,fraukje,27.0,f,chimpanzee,10,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,13,2,fraukje,27.0,f,chimpanzee,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,13,2,fraukje,27.0,f,chimpanzee,2,liquid_opaque-different,lt_trial,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,13,2,fraukje,27.0,f,chimpanzee,3,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,13,2,fraukje,27.0,f,chimpanzee,4,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,13,2,fraukje,27.0,f,chimpanzee,5,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,13,2,fraukje,27.0,f,chimpanzee,6,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,13,2,fraukje,27.0,f,chimpanzee,7,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,13,2,fraukje,27.0,f,chimpanzee,8,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,13,2,fraukje,27.0,f,chimpanzee,9,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,13,2,fraukje,27.0,f,chimpanzee,10,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,26,2,jahaga,10.0,f,chimpanzee,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,09,2,jahaga,10.0,f,chimpanzee,1,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,09,2,jahaga,10.0,f,chimpanzee,2,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,09,2,jahaga,10.0,f,chimpanzee,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,09,2,jahaga,10.0,f,chimpanzee,4,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,09,2,jahaga,10.0,f,chimpanzee,5,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,09,2,jahaga,10.0,f,chimpanzee,6,liquid_opaque-different,lt_trial,smaller_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,09,2,jahaga,10.0,f,chimpanzee,7,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,09,2,jahaga,10.0,f,chimpanzee,8,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,09,2,jahaga,10.0,f,chimpanzee,9,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,11,2,jahaga,10.0,f,chimpanzee,1,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,11,2,jahaga,10.0,f,chimpanzee,2,discrete_opaque-different,lt_trial,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,11,2,jahaga,10.0,f,chimpanzee,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,11,2,jahaga,10.0,f,chimpanzee,4,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,11,2,jahaga,10.0,f,chimpanzee,5,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,11,2,jahaga,10.0,f,chimpanzee,6,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,11,2,jahaga,10.0,f,chimpanzee,7,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,11,2,jahaga,10.0,f,chimpanzee,8,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,11,2,jahaga,10.0,f,chimpanzee,9,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,11,2,jahaga,10.0,f,chimpanzee,10,discrete_opqaue-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,13,2,jahaga,10.0,f,chimpanzee,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,13,2,jahaga,10.0,f,chimpanzee,2,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,13,2,jahaga,10.0,f,chimpanzee,3,liquid_opaque-different,lt_trial,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,13,2,jahaga,10.0,f,chimpanzee,4,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,13,2,jahaga,10.0,f,chimpanzee,5,discrete_opaque-different,lt_trial,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,13,2,jahaga,10.0,f,chimpanzee,6,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,13,2,jahaga,10.0,f,chimpanzee,7,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,15,2,jahaga,10.0,f,chimpanzee,1,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,15,2,jahaga,10.0,f,chimpanzee,2,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,15,2,jahaga,10.0,f,chimpanzee,3,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,15,2,jahaga,10.0,f,chimpanzee,4,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,15,2,jahaga,10.0,f,chimpanzee,5,liquid_opaque-different,lt_trial,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,15,2,jahaga,10.0,f,chimpanzee,6,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,15,2,jahaga,10.0,f,chimpanzee,7,discrete_opaque-different,lt_trial,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,15,2,jahaga,10.0,f,chimpanzee,8,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,15,2,jahaga,10.0,f,chimpanzee,9,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,15,2,jahaga,10.0,f,chimpanzee,10,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,15,2,jahaga,10.0,f,chimpanzee,11,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,15,2,jahaga,10.0,f,chimpanzee,12,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,15,2,jahaga,10.0,f,chimpanzee,13,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,bimbo,22.0,m,orangutan,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,05,23,2,bimbo,22.0,m,orangutan,2,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,bimbo,22.0,m,orangutan,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,bimbo,22.0,m,orangutan,4,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,bimbo,22.0,m,orangutan,5,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,05,23,2,bimbo,22.0,m,orangutan,6,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,05,23,2,bimbo,22.0,m,orangutan,7,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,05,23,2,bimbo,22.0,m,orangutan,8,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,bimbo,22.0,m,orangutan,9,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,bimbo,22.0,m,orangutan,10,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,bimbo,22.0,m,orangutan,1,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,bimbo,22.0,m,orangutan,2,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,05,27,2,bimbo,22.0,m,orangutan,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,bimbo,22.0,m,orangutan,4,discrete_no testing trial,no_trial_type,smaller_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,05,27,2,bimbo,22.0,m,orangutan,5,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,bimbo,22.0,m,orangutan,6,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,05,27,2,bimbo,22.0,m,orangutan,7,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,bimbo,22.0,m,orangutan,8,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,bimbo,22.0,m,orangutan,9,liquid_opaque-different,lt_trial,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,05,27,2,bimbo,22.0,m,orangutan,10,discrete_opqaue-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,10,2,bimbo,22.0,m,orangutan,1,liquid_no testing trial,no_trial_type,smaller_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,10,2,bimbo,22.0,m,orangutan,2,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,10,2,bimbo,22.0,m,orangutan,3,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,10,2,bimbo,22.0,m,orangutan,4,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,10,2,bimbo,22.0,m,orangutan,5,discrete_opaque-different,lt_trial,smaller_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,10,2,bimbo,22.0,m,orangutan,6,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,10,2,bimbo,22.0,m,orangutan,7,discrete_opqaue-same,no_trial_type,smaller_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,10,2,bimbo,22.0,m,orangutan,8,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,10,2,bimbo,22.0,m,orangutan,9,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,10,2,bimbo,22.0,m,orangutan,10,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,14,2,bimbo,22.0,m,orangutan,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,14,2,bimbo,22.0,m,orangutan,2,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,14,2,bimbo,22.0,m,orangutan,3,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,14,2,bimbo,22.0,m,orangutan,4,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,14,2,bimbo,22.0,m,orangutan,5,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,14,2,bimbo,22.0,m,orangutan,6,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,14,2,bimbo,22.0,m,orangutan,7,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,14,2,bimbo,22.0,m,orangutan,8,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,14,2,bimbo,22.0,m,orangutan,9,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,14,2,bimbo,22.0,m,orangutan,10,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,dunja,30.0,f,orangutan,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,05,23,2,dunja,30.0,f,orangutan,2,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,dunja,30.0,f,orangutan,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,dunja,30.0,f,orangutan,4,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,dunja,30.0,f,orangutan,5,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,05,23,2,dunja,30.0,f,orangutan,6,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,05,23,2,dunja,30.0,f,orangutan,7,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,05,23,2,dunja,30.0,f,orangutan,8,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,dunja,30.0,f,orangutan,9,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,dunja,30.0,f,orangutan,10,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,dunja,30.0,f,orangutan,1,liquid_opaque-different,lc_trial,larger_quantity,smaller_quantity,tube
+suda2005piagetian,2003,05,27,2,dunja,30.0,f,orangutan,2,discrete_opaque-different,lt_trial,smaller_quantity,larger_quantity,tube
+suda2005piagetian,2003,05,27,2,dunja,30.0,f,orangutan,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,dunja,30.0,f,orangutan,4,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,05,27,2,dunja,30.0,f,orangutan,5,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,dunja,30.0,f,orangutan,6,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,05,27,2,dunja,30.0,f,orangutan,7,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,dunja,30.0,f,orangutan,8,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,dunja,30.0,f,orangutan,9,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,05,27,2,dunja,30.0,f,orangutan,10,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,07,2,dunja,30.0,f,orangutan,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,07,2,dunja,30.0,f,orangutan,2,discrete_opqaue-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,07,2,dunja,30.0,f,orangutan,3,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,07,2,dunja,30.0,f,orangutan,4,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,07,2,dunja,30.0,f,orangutan,5,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,07,2,dunja,30.0,f,orangutan,6,liquid_opaque-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,07,2,dunja,30.0,f,orangutan,7,discrete_opqaue-same,no_trial_type,smaller_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,07,2,dunja,30.0,f,orangutan,8,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,07,2,dunja,30.0,f,orangutan,9,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,07,2,dunja,30.0,f,orangutan,10,discrete_no testing trial,no_trial_type,smaller_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,14,2,dunja,30.0,f,orangutan,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,14,2,dunja,30.0,f,orangutan,2,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,14,2,dunja,30.0,f,orangutan,3,discrete_opqaue-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,14,2,dunja,30.0,f,orangutan,4,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,14,2,dunja,30.0,f,orangutan,5,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,14,2,dunja,30.0,f,orangutan,6,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,14,2,dunja,30.0,f,orangutan,7,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,14,2,dunja,30.0,f,orangutan,8,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,14,2,dunja,30.0,f,orangutan,9,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,14,2,dunja,30.0,f,orangutan,10,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,pini,14.0,f,orangutan,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,05,23,2,pini,14.0,f,orangutan,2,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,pini,14.0,f,orangutan,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,pini,14.0,f,orangutan,4,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,pini,14.0,f,orangutan,5,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,05,23,2,pini,14.0,f,orangutan,6,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,05,23,2,pini,14.0,f,orangutan,7,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,05,23,2,pini,14.0,f,orangutan,8,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,pini,14.0,f,orangutan,9,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,pini,14.0,f,orangutan,10,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,pini,14.0,f,orangutan,1,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,pini,14.0,f,orangutan,2,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,05,27,2,pini,14.0,f,orangutan,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,pini,14.0,f,orangutan,4,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,05,27,2,pini,14.0,f,orangutan,5,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,pini,14.0,f,orangutan,6,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,05,27,2,pini,14.0,f,orangutan,7,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,pini,14.0,f,orangutan,8,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,pini,14.0,f,orangutan,9,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,05,27,2,pini,14.0,f,orangutan,10,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,07,2,pini,15.0,f,orangutan,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,07,2,pini,15.0,f,orangutan,2,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,07,2,pini,15.0,f,orangutan,3,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,07,2,pini,15.0,f,orangutan,4,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,07,2,pini,15.0,f,orangutan,5,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,07,2,pini,15.0,f,orangutan,6,liquid_opaque-same,no_trial_type,smaller_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,07,2,pini,15.0,f,orangutan,7,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,07,2,pini,15.0,f,orangutan,8,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,07,2,pini,15.0,f,orangutan,9,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,07,2,pini,15.0,f,orangutan,10,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,10,2,pini,15.0,f,orangutan,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,10,2,pini,15.0,f,orangutan,2,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,10,2,pini,15.0,f,orangutan,3,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,10,2,pini,15.0,f,orangutan,4,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,10,2,pini,15.0,f,orangutan,5,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,10,2,pini,15.0,f,orangutan,6,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,10,2,pini,15.0,f,orangutan,7,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,10,2,pini,15.0,f,orangutan,8,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,10,2,pini,15.0,f,orangutan,9,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,10,2,pini,15.0,f,orangutan,10,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,toba,9.0,f,orangutan,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,05,23,2,toba,9.0,f,orangutan,2,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,toba,9.0,f,orangutan,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,toba,9.0,f,orangutan,4,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,toba,9.0,f,orangutan,5,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,05,23,2,toba,9.0,f,orangutan,6,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,05,23,2,toba,9.0,f,orangutan,7,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,05,23,2,toba,9.0,f,orangutan,8,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,toba,9.0,f,orangutan,9,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,toba,9.0,f,orangutan,10,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,toba,9.0,f,orangutan,1,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,toba,9.0,f,orangutan,2,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,05,27,2,toba,9.0,f,orangutan,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,toba,9.0,f,orangutan,4,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,05,27,2,toba,9.0,f,orangutan,5,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,toba,9.0,f,orangutan,6,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,05,27,2,toba,9.0,f,orangutan,7,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,toba,9.0,f,orangutan,8,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,toba,9.0,f,orangutan,9,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,05,27,2,toba,9.0,f,orangutan,10,discrete_opqaue-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,07,07,2,toba,9.0,f,orangutan,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,07,2,toba,9.0,f,orangutan,2,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,07,2,toba,9.0,f,orangutan,3,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,07,2,toba,9.0,f,orangutan,4,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,07,2,toba,9.0,f,orangutan,5,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,07,2,toba,9.0,f,orangutan,6,liquid_opaque-same,no_trial_type,smaller_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,07,2,toba,9.0,f,orangutan,7,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,07,2,toba,9.0,f,orangutan,8,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,07,2,toba,9.0,f,orangutan,9,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,07,2,toba,9.0,f,orangutan,10,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,10,2,toba,9.0,f,orangutan,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,10,2,toba,9.0,f,orangutan,2,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,10,2,toba,9.0,f,orangutan,3,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,10,2,toba,9.0,f,orangutan,4,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,10,2,toba,9.0,f,orangutan,5,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,10,2,toba,9.0,f,orangutan,6,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,10,2,toba,9.0,f,orangutan,7,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,10,2,toba,9.0,f,orangutan,8,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,10,2,toba,9.0,f,orangutan,9,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,10,2,toba,9.0,f,orangutan,10,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,walter,14.0,m,orangutan,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,05,23,2,walter,14.0,m,orangutan,2,discrete_opaque-different,lc_trial,larger_quantity,smaller_quantity,tube
+suda2005piagetian,2003,05,23,2,walter,14.0,m,orangutan,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,walter,14.0,m,orangutan,4,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,walter,14.0,m,orangutan,5,discrete_no testing trial,no_trial_type,smaller_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,05,23,2,walter,14.0,m,orangutan,6,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,05,23,2,walter,14.0,m,orangutan,7,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,05,23,2,walter,14.0,m,orangutan,8,discrete_opqaue-same,no_trial_type,larger_quantity,smaller_quantity,cup
+suda2005piagetian,2003,05,23,2,walter,14.0,m,orangutan,9,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,23,2,walter,14.0,m,orangutan,10,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,walter,14.0,m,orangutan,1,liquid_opaque-different,lc_trial,larger_quantity,smaller_quantity,tube
+suda2005piagetian,2003,05,27,2,walter,14.0,m,orangutan,2,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,05,27,2,walter,14.0,m,orangutan,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,05,27,2,walter,14.0,m,orangutan,4,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,02,2,walter,14.0,m,orangutan,1,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,02,2,walter,14.0,m,orangutan,2,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,06,02,2,walter,14.0,m,orangutan,3,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,02,2,walter,14.0,m,orangutan,4,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,06,02,2,walter,14.0,m,orangutan,5,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,06,02,2,walter,14.0,m,orangutan,6,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,07,2,walter,14.0,m,orangutan,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,10,2,walter,14.0,m,orangutan,1,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,10,2,walter,14.0,m,orangutan,2,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,10,2,walter,14.0,m,orangutan,3,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,10,2,walter,14.0,m,orangutan,4,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,10,2,walter,14.0,m,orangutan,5,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,10,2,walter,14.0,m,orangutan,6,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,10,2,walter,14.0,m,orangutan,7,discrete_opaque-different,lc_trial,larger_quantity,smaller_quantity,tube
+suda2005piagetian,2003,07,10,2,walter,14.0,m,orangutan,8,liquid_opaque-different,lc_trial,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,10,2,walter,14.0,m,orangutan,9,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,14,2,walter,14.0,m,orangutan,1,liquid_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,14,2,walter,14.0,m,orangutan,2,liquid_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,14,2,walter,14.0,m,orangutan,3,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,14,2,walter,14.0,m,orangutan,4,discrete_opaque-different,lt_trial,larger_quantity,larger_quantity,tube
+suda2005piagetian,2003,07,14,2,walter,14.0,m,orangutan,5,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,14,2,walter,14.0,m,orangutan,6,liquid_opaque-different,lc_trial,larger_quantity,smaller_quantity,tube
+suda2005piagetian,2003,07,14,2,walter,14.0,m,orangutan,7,discrete_no testing trial,no_trial_type,larger_quantity,no_testing_trial,no_testing_trial
+suda2005piagetian,2003,07,14,2,walter,14.0,m,orangutan,8,liquid_opaque-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,14,2,walter,14.0,m,orangutan,9,discrete_opqaue-same,no_trial_type,larger_quantity,larger_quantity,cup
+suda2005piagetian,2003,07,14,2,walter,14.0,m,orangutan,10,discrete_opaque-different,lc_trial,larger_quantity,larger_quantity,cup

@@ -1,0 +1,96 @@
+study_id: munar2015common
+year: 2015
+reference: 'Munar, E., Gómez-Puerto, G., Call, J., & Nadal, M. (2015). Common visual
+  preference for curved contours in humans and great apes. PLoS One, 10(11): e0141106.
+  doi:10.1371/journal.pone.0141106.'
+abstract: Among the visual preferences that guide many everyday activities and decisions,
+  from consumer choices to social judgment, preference for curved over sharp-angled
+  contours is commonly thought to have played an adaptive role throughout human evolution,
+  favoring the avoidance of potentially harmful objects. However, because nonhuman
+  primates also exhibit preferences for certain visual qualities, it is conceivable
+  that humans' preference for curved contours is grounded on perceptual and cognitive
+  mechanisms shared with extant nonhuman primate species. Here we aimed to determine
+  whether nonhuman great apes and humans share a visual preference for curved over
+  sharp-angled contours using a 2-alternative forced choice experimental paradigm
+  under comparable conditions. Our results revealed that the human group and the great
+  ape group indeed share a common preference for curved over sharp-angled contours,
+  but that they differ in the manner and magnitude with which this preference is expressed
+  behaviorally. These results suggest that humans' visual preference for curved objects
+  evolved from earlier primate species' visual preferences, and that during this process
+  it became stronger, but also more susceptible to the influence of higher cognitive
+  processes and preference for other visual features.
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Enric Munar
+  corr_author: true
+- author_no: 2
+  name: Gerardo Gómez-Puerto
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+- author_no: 4
+  name: Marcos Nadal
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2013'
+  data_collection_date_comments: 2013/06/9 to 2013/09/10
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 4
+  data_provided: partial
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2013'
+  data_collection_date_comments: 2013/06/14 to 2013/09/15
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: features_and_categories
+  specific_domain: discrimination_learning
+cognitive_domain:
+  social: false
+  physical: true

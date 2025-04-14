@@ -1,0 +1,29 @@
+column_name,description
+study_id,personal study ID composed by the first authors’ first surname_year of publication_first title word 
+experiment,number of experiment from publication 
+year, year the data point was obtained  
+month, month the data point was obtained 
+day, day the data point was obtained 
+participant,name of the participant 
+age_in_years,age presented in years – see metadata for source of age
+sex,sex of the participant 
+role,role of the participant – receiver  
+participant_2,name of the participant_2 
+age_in_years_2,age presented in years of the participant_2 – see metadata for source of age
+sex_2,sex of the participant_2 
+role_2,role of the participant_2 – helper
+species,species of individuals participating in the study -bonobo/chimpanzee
+dyad,name of the two participants that compose the dyad 
+condition,control (both partners receive tools)/ Same (both partners need the same tool and only helper has access)/ Different (partners need different tool and only helper has access)   
+session,set of trials - mostly occurring on the same day - usually numerical / 1-12 per condition 
+study,cooperation/Helping1/Helping2 (chronological order tested is Helping1/ Cooperation/ Helping2/ so ABA design) –bonobos participated in two helping tests. They gained more insight into the study design while participating in the cooperation task. This result in an increased transfer rate from helping1 to helping2
+time_in_seconds,1-180 per session (in seconds – so three minutes per session)   
+banging, whether receiver banged against the mesh separating the two within the specified second: 1 = yes/ 0 = no
+scratching,whether receiver scratched him/herself within the specified second: 1 = yes/ 0 = no 
+reaching,whether receiver reached fingers through the mesh separating the two within the specified second: 1 = yes/ 0 = no  
+close_proximity,whether receiver stayed within maximum distance of 50cm to the mesh separating the two: 1 = yes/ 0= no  
+app_operated,helper/ receiver denoting when each partner operated the own (side of the) apparatus    
+tool_transfer,stick/ block denoting when each type of tool was transferred from the helper to the receiver   
+session_transferred,yes denoting when the first tool was transferred per session from the helper to the receiver   
+tool_receiver,stick/ block denoting tool that the receiver needed to operate the own (side) of the apparatus 
+tool_helper,stick/ block denoting tool that the helper needed to operate the own (side) of the apparatus 

@@ -1,0 +1,73 @@
+study_id: sanchez2017chimpanzees
+year: 2017
+reference: 'Sanchez-Amaro, A., Duguid, S., Call, J., & Tomasello, M. (2017). Chimpanzees,
+  bonobos and children successfully coordinate in conflict situations. Proceedings
+  of the Royal Society B: Biological Sciences, 284(1856): 20170259. doi:10.1098/rspb.2017.0259.'
+abstract: Social animals need to coordinate with others to reap the benefits of groupliving
+  even when individuals’ interests are misaligned. We compare how chimpanzees, bonobos
+  and children coordinate their actions with a conspecific in a Snowdrift game, which
+  provides a model for understanding how organisms coordinate and make decisions under
+  conflict. In study 1, we presented pairs of chimpanzees, bonobos and children with
+  an unequal reward distribution. In the critical condition, the preferred reward
+  could only be obtained by waiting for the partner to act, with the risk that if
+  no one acted, both would lose the rewards. Apes and children successfully coordinated
+  to obtain the rewards. Children used a ‘both-partner-pull’ strategy and communicated
+  during the task, while some apes relied on an ‘only-one-partner-pulls’ strategy
+  to solve the task, although therewere also signs of strategic behaviour as they
+  waited for their partner to pull when that strategy led to the preferred reward.
+  In study 2, we presented pairs of chimpanzees and bonobos with the same set-up as
+  in study 1 with the addition of a non-social option that provided them with a secure
+  reward. In this situation, apes had to actively decide between the unequal distribution
+  and the alternative. In this set-up, apes maximized their rewards by taking their
+  partners’ potential actions into account. In conclusion, children and apes showed
+  clear instances of strategic decision-making to maximize their own rewards while
+  maintaining successful coordination.
+keywords: coordination, conflict, Snowdrift, chimpanzees,bonobos, children
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Alejandro Sanchez-Amaro
+  corr_author: true
+- author_no: 2
+  name: Shona Duguid
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+- author_no: 4
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: partial
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a
+  group_id_excluded: leipzig_children
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2014 - 2015
+  data_collection_date_comments: ''
+  age_source: calculated
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2015 - 2016
+  data_collection_date_comments: ''
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: collaboration
+cognitive_domain:
+  social: true
+  physical: false

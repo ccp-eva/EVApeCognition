@@ -1,0 +1,55 @@
+study_id: sanchez2019disentangling
+year: 2019
+reference: Sanchez-Amaro, A., Altinok, N., Heintz, C., & Call, J. (2019). Disentangling
+  great apes’ decoy-effect bias in a food choice task. Animal Behaviour and Cognition,
+  6 (3), 213-222. doi:10.26451/abc.06.03.05.2019.
+abstract: The decoy effect is a violation of rationality that occurs when the relative
+  preference between two target options changes with the addition of a third option,
+  called the decoy, that is no better than the target options but worse than one of
+  the options on one attribute. The presence of the decoy increases the chance that
+  the option that dominates it on this attribute is chosen over the other target option.
+  The current study tested decoy effects with great apes’ food preferences. We presented
+  apes with two target items, grape and banana, and a third item, the decoy, which
+  was either a smaller grape or a smaller piece of banana. We found that apes’ decisions
+  were not influenced by the presence of a decoy. In general, apes did not increase
+  their choices in favor of the target item that dominated the decoy. This would indicate
+  that great apes are not vulnerable to the cognitive biases that cause decoy effects
+  in humans, at least in cases where choice is between two different types of food.
+  We discuss what can be concluded about the psychological causes of human irrational
+  choices and their evolutionary origin.
+keywords: Decoy-effect, Rationality, Great apes, Food preferences
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Alejandro Sánchez-Amaro
+  corr_author: true
+- author_no: 2
+  name: Nazlı Altınok
+  corr_author: false
+- author_no: 3
+  name: Christophe Heintz
+  corr_author: false
+- author_no: 4
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: Lexi, Kofi, Padana, Bimbo
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2016,2017
+  data_collection_date_comments: 2016/07/5 to 2017/09/30
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: quantities_and_time
+  specific_domain: estimating_numerousness
+cognitive_domain:
+  social: false
+  physical: true

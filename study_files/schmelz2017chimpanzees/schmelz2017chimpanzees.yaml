@@ -1,0 +1,87 @@
+study_id: schmelz2017chimpanzees
+year: 2017
+reference: Schmelz, M. *., Grueneisen, S. *., Kabalak, A., Jost, J., & Tomasello,
+  M. (2017). Chimpanzees return favors at a personal cost. Proceedings of the National
+  Academy of Sciences of the United States of America, 114(28), 7462-7467. doi:10.1073/pnas.1700351114.
+abstract: Humans regularly provide others with resources at a personal cost to themselves.
+  Chimpanzees engage in some cooperative behaviors in the wild as well, but their
+  motivational underpinnings are unclear. In three experiments, chimpanzees (Pan troglodytes)
+  always chose between an option delivering food both to themselves and a partner
+  and one delivering food only to themselves. In one condition, a conspecific partner
+  had just previously taken a personal risk to make this choice available. In another
+  condition, no assistance from the partner preceded the subject's decision. Chimpanzees
+  made significantly more prosocial choices after receiving their partner's assistance
+  than when no assistance was given (experiment 1) and, crucially, this was the case
+  even when choosing the prosocial option was materially costly for the subject (experiment
+  2). Moreover, subjects appeared sensitive to the risk of their partner's assistance
+  and chose prosocially more often when their partner risked losing food by helping
+  (experiment 3). These findings demonstrate experimentally that chimpanzees are willing
+  to incur a material cost to deliver rewards to a conspecific, but only if that conspecific
+  previously assisted them, and particularly when this assistance was risky. Some
+  key motivations involved in human cooperation thus may have deeper phylogenetic
+  roots than previously suspected.
+keywords: cooperation, prosociality, chimpanzees, reciprocity
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Martin Schmelz
+  corr_author: true
+- author_no: 2
+  name: Sebastian Gruneisen
+  corr_author: true
+- author_no: 3
+  name: Alihan Kabalak
+  corr_author: false
+- author_no: 4
+  name: Jürgen Jost
+  corr_author: false
+- author_no: 5
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: dyads
+  droupouts_no: 6
+  dropout_names: Natascha, Fraukje, Riet, Robert, Ulla, Swela
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication_calculated
+  age_source_comments: Age at start of data collection – partner age calculated
+- experiment_no: 2
+  data_provided: true
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication_calculated
+  age_source_comments: Age at start of data collection – partner age calculated
+- experiment_no: 3
+  data_provided: true
+  grouping: dyds
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication_calculated
+  age_source_comments: Age at start of data collection – partner age calculated
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: prosocial_behavior
+cognitive_domain:
+  social: true
+  physical: false

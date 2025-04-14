@@ -1,0 +1,50 @@
+study_id: sanchez2021chimpanzees
+year: 2021
+reference: 'Sanchez-Amaro, A., & Rossano, F. (2021). Chimpanzees and bonobos use social
+  leverage in an ultimatum Game. Proceedings of the Royal Society B: Biological Sciences,
+  288 (1962): 20211937. doi:10.1098/rspb.2021.1937.'
+abstract: The ultimatum game (UG) is widely used to investigate our sense of fairness,
+  a key characteristic that differentiates us from our closest living relatives, bonobos
+  and chimpanzees. Previous studies found that, in general, great apes behave as rational
+  maximizers in the UG. Proposers tend to choose self-maximizing offers, while responders
+  accept most non-zero offers. These studies do not rule out the possibility that
+  apes can behave prosocially to improve the returns for themselves and others. However,
+  this has never been well studied. In this study, we offer chimpanzee and bonobo
+  proposers the possibility of taking into account the leverage of responders over
+  the offers they receive. This leverage takes the form of access to alternatives
+  for responders. We find that proposers tend to propose fairer offers when responders
+  have the option to access alternatives. Furthermore, we find that both species use
+  their leverage to reject unequal offers. Our results suggest that great apes mostly
+  act as rational maximizers in an UG, yet access to alternatives can lead them to
+  change their strategies such as not choosing the self-maximizing offer as proposers
+  and not accepting every offer higher than zero as responders.
+keywords: ultimatum game, leverage, prosociality, chimpanzee, bonobo
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Alex Sanchez Amaro
+  corr_author: true
+- author_no: 2
+  name: Federico Rossano
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: dyads
+  droupouts_no: 15
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: prosocial_behavior
+cognitive_domain:
+  social: true
+  physical: false

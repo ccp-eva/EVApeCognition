@@ -1,0 +1,49 @@
+study_id: schmelz2013chimpanzees
+year: 2013
+reference: 'Schmelz, M., Call, J., & Tomasello, M. (2013). Chimpanzees predict that
+  a competitor’s preference will match their own. Biology Letters, 9(1): 20120829.
+  doi:10.1098/rsbl.2012.0829.'
+abstract: The ability to predict how another individual will behave is useful in social
+  competition. Chimpanzees can predict the behaviour of another based on what they
+  observe her to see, hear, know and infer. Here we show that chimpanzees act on the
+  assumption that others have preferences that match their own. All subjects began
+  with a preference for a box with a picture of food over one with a picture of nothing,
+  even though the pictures had no causal relation to the contents. In a back-and-forth
+  food competition, chimpanzees then avoided the box with the picture of food when
+  their competitor had chosen one of the boxes before them-presumably on the assumption
+  that the competitor shared their own preference for it and had already chosen it.
+  Chimpanzees predicted that their competitor's preference would match their own and
+  adjusted their behavioural strategies accordingly.
+keywords: theory of mind, competition, preference, social cognition, chimpanzee
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Martin Schmelz
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: indiviuals, dyads
+  droupouts_no: 7
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: theory_of_mind_and_metacognition
+  specific_domain: understanding_perception_knowledge_and_beliefs
+cognitive_domain:
+  social: true
+  physical: false

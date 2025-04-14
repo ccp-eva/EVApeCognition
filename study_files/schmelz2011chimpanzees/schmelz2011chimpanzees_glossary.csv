@@ -1,0 +1,15 @@
+"column_name","description"
+"study_id","personal study ID composed by the first authors’ first surname_year of publication_first title word ",
+"participant","name of the participant"
+"sex","sex of the participant ",
+"role","role of the participant – focal_participant  ",
+"participant_2","name of the participant_2 ",
+"sex_2","sex of the participant_2 ",
+"role_2","role of the participant_2 – competitor",
+"species","species of individuals participating in the study -chimpanzee",
+"dyad","name of the two participants that compose the dyad ",
+"group_original","social = the competitor is present on the other side / nonsocial = there is no competitor present- that cage is empty. Half of the focal_participants started in the social group- the other half in the nonsocial group.",
+"session","set of trials - mostly occurring on the same day - usually numerical ",
+"trial","presentation of the experiment to the participants - usually numerical ",
+"condition","focal_participant first = the focal_participant chooses one side before the platform goes to the other cage. Competitor first = the focal_participant chooses one side after the platform has been on the other side (whether or not a competitor is present (social) or not (nonsocial) -  see above)",
+"choice","inference side = the side of the platform where the board is slanted against the piece of food- secret side: the side of the platform where the food is in a small hole- covered flat by the board (Note: this was not always the same side (right/left) but randomized and counterbalanced. Also note: the focal_participant did not see the boards when choosing but had to remember the respective sides and moved a sliding panel to one side- see figure 1 in the paper)",

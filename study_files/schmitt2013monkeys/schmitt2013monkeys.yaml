@@ -1,0 +1,77 @@
+study_id: schmitt2013monkeys
+year: 2013
+reference: Schmitt, V., Kroeger, I., Zinner, D., Call, J., & Fischer, J. (2013). Monkeys
+  perform as well as apes and humans in a size discrimination task. Animal Cognition,
+  16(5), 829-838. doi:10.1007/s10071-013-0616-0.
+abstract: Whether the cognitive competences of monkeys and apes are rather similar
+  or whether the larger-brained apes outperform monkeys in cognitive experiments is
+  a highly debated topic. Direct comparative analyses are therefore essential to examine
+  similarities and differences among species. We here compared six primate species,
+  including humans, chimpanzees, bonobos, gorillas (great apes), olive baboons, and
+  long-tailed macaques (Old World monkeys) in a task on fine-grained size discrimination.
+  Except for gorillas, subjects of all taxa (i.e. humans, apes, and monkeys) were
+  able to discriminate three-dimensional cubes with a volume difference of only 10
+  % (i.e. cubes of 50 and 48 mm side length) and performed only slightly worse when
+  the cubes were presented successively. The minimal size discriminated declined further
+  with increasing time delay between presentations of the cubes, highlighting the
+  difficulty to memorize exact size differences. The results suggest that differences
+  in brain size, as a proxy for general cognitive abilities, did not account for variation
+  in performance, but that differential socio-ecological pressures may better explain
+  species differences. Our study highlights the fact that differences in cognitive
+  abilities do not always map neatly onto phylogenetic relationships and that in a
+  number of cognitive experiments monkeys do not fare significantly worse than apes,
+  casting doubt on the assumption that larger brains per se confer an advantage in
+  such kinds of tests.
+keywords: Great apes, Baboons, Macaques, Humans, Cognition, Brain size
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Vanesa Schmitt
+  corr_author: true
+- author_no: 2
+  name: Iris Kröger
+  corr_author: false
+- author_no: 3
+  name: Dietmar Zinner
+  corr_author: false
+- author_no: 4
+  name: Josep Call
+  corr_author: false
+- author_no: 5
+  name: Julia Fischer
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: Nase
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, nuremberg_gorilla, göttingen_longtailedmacaque,
+    göttingen_baboon
+  group_id_excluded: leipzig_adults
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, nuremberg_gorilla, göttingen_longtailedmacaque
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: quantities_and_time
+  specific_domain: conservation_of_quantities
+cognitive_domain:
+  social: false
+  physical: true

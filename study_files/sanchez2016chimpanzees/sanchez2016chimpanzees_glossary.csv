@@ -1,0 +1,39 @@
+column_name,description
+study_id,personal study ID composed by the first authors’ first surname_year of publication_first title word 
+year,year the data point was obtained  
+month,month the data point was obtained 
+day,day of the month the data point was obtained 
+participant,name of the participant 
+age_in_years,age presented in years – see metadata for source of age
+sex,sex of the participant 
+role,role of the participant – focal_participant_right 
+participant_2,name of the participant_2 
+age_in_years_2,age presented in years – see metadata for source of age
+sex_2,sex of the participant_2
+role_2,role of the participant_2 – focal_participant_left  
+species,species of individuals participating in the study -chimpanzee
+dyad,name of the two participants that compose the dyad 
+dyad_sex,sex of the participants
+phase,phases in which participants were paired – 1 / 2 
+session,set of trials - mostly occurring on the same day - usually numerical 
+trial,presentation of the experiment to the participants - usually numerical 
+type_trial,duration the food remained -  short/long
+weight_kg,weight of the tray participants had to pull in the experiment – low/high
+success,whether dyads coordinated and obtained food – yes/ no
+aver_r_kg,average weight in kg shown on the scales while the participants were pulling – right
+aver_l_kg,average weight in kg shown on the scales while the participants were pulling – left
+max_r_kg,maximum weight achieved in kilos on the right side
+max_l_kg,maximum weight achieved in kilos on the left side
+total_time_reach,total time in seconds until participants can reach the rewards
+first_pull,name of the participant that pulled first 
+start_pull1_sec,time in seconds until the first participant started to pull
+diff_pull1_pull2_sec,difference in seconds between the first pull of the first participant and the first pull of the second participant
+totaltime_untilbothpull,total time in seconds until both participants pulled 
+weight_ratio,ratio of pulling depending of the weight 
+weight_ratio_pos,ratio of pulling depending of the weight converted into positive numbers
+time_pull,total time participants spent pulling -  numerical 
+both_one,whether both participant or only one pulled the rope
+dif_weights,difference in weight the participant moved when paired with different partners
+dif_weights_abs,difference in weight the participant moved when paired with different partners –absolute value 
+weight_ratio_pos_1,ratio of pulling depending of the weight converted into positive numbers
+binom_weight_res,response transformed into a binomial response – 1 = both / 0 = only one participant pulled

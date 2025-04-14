@@ -1,0 +1,72 @@
+study_id: sanchez2016differences
+year: 2016
+reference: Sanchez-Amaro, A., Pereto, M., & Call, J. (2016). Differences in between-reinforcer
+  value modulate the selective-value effect in great apes (Pan Troglodyes, P. Paniscus,
+  Gorilla Gorilla, Pongo Abelii). Journal of Comparative Psychology, 130(1), 1-12.
+  doi:10.1037/com0000014.
+abstract: 'We investigated how apes allocated their choices between 2 food options
+  that varied in terms of their quantity and quality. Experiment 1 tested whether
+  subjects preferred an AB option over an A option, where the A item is preferred
+  to the B item (e.g., apple + carrot vs. apple). Additionally, we tested whether
+  the length of the intertrial interval (ITI) affected subjects’ choices. Five orangutans,
+  4 gorillas, 7 bonobos, and 10 chimpanzees received 3 types of trials: preference
+  (A vs. B), quantity (AA vs. A), and mixed (AB vs. A where A is the preferred food).
+  We used 3 food items that substantially differed in terms of preference (carrots,
+  apples, and pellets). Subjects showed no overall preference for the mixed option
+  (AB) compared with the single option (A), even though they showed clear preferences
+  during both the preference and quantity trials. The intertrial length had no effect
+  on choice behavior. Experiment 2 further explored apes’ choices by using 3 highly
+  preferred food items (bananas, grapes, and pellets) in 6 orangutans, 4 gorillas,
+  8 bonobos, and 18 chimpanzees. Unlike the results of Experiment 1, apes generally
+  chose the mixed option. Our results indicated that apes did not show a general “selective-value”
+  effect but chose depending on the relative value of the food items involved. Subjects
+  were more likely to select the mixed over the single option when (a) the mixed option
+  was composed of items that were closer in value and (b) they were compared against
+  the less valuable item forming the mixed option.'
+keywords: decision-making, food preference, quantity discrimination, experimental
+  economics
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Alejandro Sánchez-Amaro
+  corr_author: true
+- author_no: 2
+  name: Mar Peretó
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: Joey
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2012-2013
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: Loto, Bangolo, Ulla, Tana
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2013-2013
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: quantities_and_time
+  specific_domain: counting_summation_and_proportions
+cognitive_domain:
+  social: false
+  physical: true

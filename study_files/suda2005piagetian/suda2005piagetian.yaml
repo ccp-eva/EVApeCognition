@@ -1,0 +1,60 @@
+study_id: suda2005piagetian
+year: 2005
+reference: 'Suda, C., & Call, J. (2005). Piagetian conservation of discrete quantities
+  in bonobos (Pan paniscus), chimpanzees (Pan troglodytes), and orangutans (Pongo
+  pygmaeus). Animal Cognition, 8(4), 220-235. doi:10.1007/s10071-004-0247-6. '
+abstract: This study investigated whether physical discreteness helps apes to understand
+  the concept of Piagetian conservation (i.e. the invariance of quantities). Subjects
+  were four bonobos, three chimpanzees, and five orangutans. Apes were tested on their
+  ability to conserve discrete/continuous quantities in an over-conservation procedure
+  in which two unequal quantities of edible rewards underwent various transformations
+  in front of subjects. Subjects were examined to determine whether they could track
+  the larger quantity of reward after the transformation. Comparison between the two
+  types of conservation revealed that tests with bonobos supported the discreteness
+  hypothesis. Bonobos, but neither chimpanzees nor orangutans, performed significantly
+  better with discrete quantities than with continuous ones. The results suggest that
+  at least bonobos could benefit from the discreteness of stimuli in their acquisition
+  of conservation skills.
+keywords: Piagetian conservation, Apes, Discreteness of stimuli
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Chikako Suda
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_orangutan, wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: coding sheets
+  data_collection_date: 2002-2003
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: experiment separation unclear
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_orangutan, wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: data file
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: calculated
+  age_source_comments: experiment separation unclear
+domains:
+- domain_no: 1
+  general_domain: quantities_and_time
+  specific_domain: conservation_of_quantities
+cognitive_domain:
+  social: false
+  physical: true

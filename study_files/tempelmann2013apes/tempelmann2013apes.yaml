@@ -1,0 +1,52 @@
+study_id: tempelmann2013apes
+year: 2013
+reference: 'Tempelmann, S., Kaminski, J., & Liebal, K. (2013). When apes point the
+  finger: Three great ape species fail to use a conspecific’s imperative pointing
+  gesture. Interaction studies, 14(1), 7-23. doi:10.1075/is.14.1.02tem.'
+abstract: In contrast to apes' seemingly sophisticated skill at producing pointing
+  gestures referentially, the comprehension of other individual's pointing gestures
+  as a source of indexical information seems to be less pronounced.One reason for
+  apes' difficulty at comprehending pointing gestures might be that in former studies
+  they were mainly confronted with human declarative pointing gestures, whereas apes
+  have largely been shown to point imperatively and towards humans. In the present
+  study bonobos, chimpanzees and orangutans were confronted with a conspecific's imperative
+  pointing gesture in a competitive context, therefore mirroring former studies that
+  have investigated apes' skills at producing these gestures.However, apes in the
+  present study did not use their conspecific's pointing gestures. Apes have been
+  shown to use indexical information when provided noncommunicatively and to interpret
+  other individuals' actions in terms of motives. Thus, it is discussed whether apes
+  treat a pointing gesture as intentional act of indexical reference.
+keywords: pointing, referential communication, great apes, triadic communication,
+  indexical reference, evolution of communication
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Sebastian Tempelmann
+  corr_author: true
+- author_no: 2
+  name: Juliane Kaminski
+  corr_author: false
+- author_no: 3
+  name: Katja Liebal
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_b, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: social_strategies_and_communication
+  specific_domain: communication_with_humans
+cognitive_domain:
+  social: true
+  physical: false

@@ -1,0 +1,64 @@
+study_id: wolf2020human
+year: 2020
+reference: 'Wolf, W., & Tomasello, M. (2020). Human children, but not great apes,
+  become socially closer by sharing an experience in common ground. Journal of Experimental
+  Child Psychology, 199: 104930. doi:10.1016/j.jecp.2020.104930.'
+abstract: To create social closeness, humans engage in a variety of social activities
+  centered around shared experiences. Even simply watching the same video side by
+  side creates social closeness in adults and children. However, perhaps surprisingly,
+  a similar psychological mechanism was recently shown in great apes. Here we asked
+  whether the process by which this social closeness is created is the same for children
+  and great apes. Each participant entered a room to see an experimenter (E1) watching
+  a video. In one condition, E1 looked to the participant at the start of the video
+  to establish common ground that they were watching the video together. In another
+  condition, E1 did not look to the participant in this way so that the participant
+  knew they were watching the same video, but the participant did not know whether
+  E1 was aware of this as well, so there was no common ground (E1 looked to the participant
+  later in the procedure). Children, but not great apes, approached the experimenter
+  faster after the common ground condition, suggesting that although both humans and
+  great apes create social closeness by co-attending to something in close proximity,
+  creating social closeness by sharing experiences in common ground may be a uniquely
+  human social-cognitive process.
+keywords: Shared attention, Shared cognition, Common ground, Social closeness, Social
+  interactions, Mutual gaze
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Wouter Wolf
+  corr_author: true
+- author_no: 2
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: false
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: the_social_economy
+cognitive_domain:
+  social: true
+  physical: false

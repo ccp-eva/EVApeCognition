@@ -1,0 +1,62 @@
+study_id: wolf2019visually
+year: 2019
+reference: 'Wolf, W., & Tomasello, M. (2019). Visually attending to a video together
+  facilitates great ape social closeness. Proceedings of the Royal Society B: Biological
+  Sciences, 286(1907): 20190488. doi:10.1098/rspb.2019.0488.'
+abstract: Humans create social closeness with one another through a variety of shared
+  social activities in which they align their emotions or mental states towards an
+  external stimulus such as dancing to music together, playing board games together
+  or even engaging in minimal shared experiences such as watching a movie together.
+  Although these specific behaviours would seem to be uniquely human, it is unclear
+  whether the underlying psychology is unique to the species, or if other species
+  might possess some form of this psychological mechanism as well. Here we show that
+  great apes who have visually attended to a video together with a human (study 1)
+  and a conspecific (study 2) subsequently approach that individual faster (study
+  1) or spend more time in their proximity (study 2) than when they had attended to
+  something different. Our results suggest that one of the most basic mechanisms of
+  human social bonding—feeling closer to those with whom we act or attend together—is
+  present in both humans and great apes, and thus has deeper evolutionary roots than
+  previously suspected.
+keywords: great ape social behaviour, shared cognition, social closeness, joint attention
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Wouter Wolf
+  corr_author: true
+- author_no: 2
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 0
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: not
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: natascha and fraukje age not provided
+- experiment_no: 2
+  data_provided: false
+  grouping: dyads
+  droupouts_no: 0
+  dropout_names: null
+  group_id: ngamba_chimpanzee
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: the_social_economy
+cognitive_domain:
+  social: true
+  physical: false

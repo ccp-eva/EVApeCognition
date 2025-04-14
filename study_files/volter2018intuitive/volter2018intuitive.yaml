@@ -1,0 +1,107 @@
+study_id: volter2018intuitive
+year: 2018
+reference: 'Völter, C. J., & Call, J. (2018). Intuitive optics: What great apes infer
+  from mirrors and shadows. Animal Cognition, 21(4), 493-512. doi:10.1007/s10071-018-1184-0.'
+abstract: There is ongoing debate about the extent to which nonhuman animals, like
+  humans, can go beyond first-order perceptual information to abstract structural
+  information from their environment. To provide more empirical evidence regarding
+  this question, we examined what type of information great apes (chimpanzees, bonobos,
+  and orangutans) gain from optical effects such as shadows and mirror images. In
+  an initial experiment, we investigated whether apes would use mirror images and
+  shadows to locate hidden food. We found that all examined ape species used these
+  cues to find the food. Follow-up experiments showed that apes neither confused these
+  optical effects with the food rewards nor did they merely associate cues with food.
+  First, naïve chimpanzees used the shadow of the hidden food to locate it but they
+  did not learn within the same number of trials to use a perceptually similar rubber
+  patch as indicator of the hidden food reward. Second, apes made use of the mirror
+  images to estimate the distance of the hidden food from their own body. Depending
+  on the distance, apes either pointed into the direction of the food or tried to
+  access the hidden food directly. Third, apes showed some sensitivity to the geometrical
+  relation between mirror orientation and mirrored objects when searching hidden food.
+  Fourth, apes tended to interpret mirror images and pictures of these mirror images
+  differently depending on their prior knowledge. Together, these findings suggest
+  that apes are sensitive to the optical relation between mirror images and shadows
+  and their physical referents.
+keywords: Primate cognition, Causal cognition, Intuitive physics, Problem solving,
+  Appearance-reality discrimination, Secondary representations
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Christoph Volter
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 2
+  dropout_names: Jeudi, Frodo
+  group_id: wkprc_bonobo, wkprc_orangutan, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: Corrie
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_orangutan, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 4
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: Dokana
+  group_id: wkprc_bonobo, wkprc_orangutan, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 5
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: causal_inferences
+cognitive_domain:
+  social: false
+  physical: true

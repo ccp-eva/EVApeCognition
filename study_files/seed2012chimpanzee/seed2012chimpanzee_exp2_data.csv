@@ -1,0 +1,12 @@
+﻿study_id,experiment,participant,age_in_years,sex,species,visible,aligned,no_occlusion,no_occlusion_no_delay
+seed2012chimpanzee,2,lobo,6.0,m,chimpanzee,8.0,5.0,8.0,5.0
+seed2012chimpanzee,2,dorien,30.0,f,chimpanzee,10.0,6.0,9.0,7.0
+seed2012chimpanzee,2,natascha,30.0,f,chimpanzee,7.0,5.0,8.0,7.0
+seed2012chimpanzee,2,riet,33.0,f,chimpanzee,11.0,6.0,8.0,7.0
+seed2012chimpanzee,2,corry,34.0,f,chimpanzee,5.0,7.0,8.0,5.0
+seed2012chimpanzee,2,fraukje,34.0,f,chimpanzee,11.0,8.0,10.0,10.0
+seed2012chimpanzee,2,robert,35.0,m,chimpanzee,8.0,5.0,5.0,5.0
+seed2012chimpanzee,2,kara,5.0,f,chimpanzee,11.0,9.0,10.0,10.0
+seed2012chimpanzee,2,kofi,5.0,m,chimpanzee,9.0,9.0,7.0,4.0
+seed2012chimpanzee,2,tai,8.0,f,chimpanzee,12.0,9.0,8.0,11.0
+seed2012chimpanzee,2,lome,9.0,m,chimpanzee,12.0,10.0,6.0,8.0

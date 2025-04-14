@@ -1,0 +1,77 @@
+study_id: tennie2006push
+year: 2006
+reference: 'Tennie, C., & Call, J. (2006). Push or pull: emulation versus imitation
+  in great apes and human children. Ethology, 112(12), 1159-1169. doi:10.1111/j.1439-0310.2006.01269.x.'
+abstract: 'All four species of great apes and young human children (12–24 mo of age)
+  were administered an imitation task designed to distinguish between results learning
+  (emulation) and action learning (imitation). Some subjects were exposed to a demonstrator
+  either pushing or pulling a door to open a box, whereas others simply saw the door
+  of the box opening itself in one of the two directions (the ghost control). Most
+  of the apes successfully opened the box in both experimental conditions, as well
+  as in a baseline condition, but without being influenced either by the demonstrator''s
+  actions or by the door''s motions. In contrast, human children over 12 mo of age
+  were influenced by the demonstration: the 18-mo-olds were influenced by the demonstrator''s
+  actions, and the 24-mo-olds were influenced both by the demonstrator''s actions
+  and by the door''s motions in the ghost control. These results provide support for
+  the hypothesis that human children have a greater propensity than great apes for
+  focusing either on a demonstrator''s action or on the result of their action, as
+  needed, in social learning situations.'
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Claudio Tennie
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: false
+  grouping: individuals, dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: lawrenceville_chimpanzee
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: partial
+  grouping: individuals, dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: social_learning_and_culture
+  specific_domain: social_learning_of_actions
+cognitive_domain:
+  social: true
+  physical: false

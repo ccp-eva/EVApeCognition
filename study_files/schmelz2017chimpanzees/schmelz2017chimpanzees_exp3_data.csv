@@ -1,0 +1,433 @@
+﻿study_id,experiment,participant,age_in_years,sex,role,participant_2,age_in_years_2,sex_2,role_2,dyad,species,session,trial,condition,prosocial_option,focal_participant_choice,prosocial_choice
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,1,1,na ,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,1,2,na ,b,c,0
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,1,3,na ,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,1,4,na ,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,1,5,na ,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,1,6,na ,b,c,0
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,1,7,na ,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,1,8,na ,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,1,9,na ,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,1,10,na ,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,1,11,na ,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,1,12,na ,b,c,0
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,2,13,na ,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,2,14,na ,c,b,0
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,2,15,na ,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,2,16,na ,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,2,17,na ,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,2,18,na ,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,2,19,na ,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,2,20,na ,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,2,21,na ,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,2,22,na ,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,2,23,na ,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,2,24,na ,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,3,25,ra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,3,26,ra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,3,27,ra,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,3,28,ra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,3,29,ra,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,3,30,ra,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,3,31,ra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,3,32,ra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,3,33,ra,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,3,34,ra,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,3,35,ra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,3,36,ra,b,c,0
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,4,37,ra,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,4,38,ra,b,c,0
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,4,39,ra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,4,40,ra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,4,41,ra,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,4,42,ra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,4,43,ra,b,c,0
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,4,44,ra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,4,45,ra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,4,46,ra,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,4,47,ra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,4,48,ra,b,c,0
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,5,49,nra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,5,50,nra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,5,51,nra,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,5,52,nra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,5,53,nra,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,5,54,nra,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,5,55,nra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,5,56,nra,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,5,57,nra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,5,58,nra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,5,59,nra,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,5,60,nra,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,6,61,nra,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,6,62,nra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,6,63,nra,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,6,64,nra,b,c,0
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,6,65,nra,c,b,0
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,6,66,nra,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,6,67,nra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,6,68,nra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,6,69,nra,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,6,70,nra,b,b,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,6,71,nra,c,c,1
+schmelz2017chimpanzees,3,frodo,20,m,focal_participant,tai,12,f,partner,frodo_tai,chimpanzee,6,72,nra,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,1,1,ra,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,1,2,ra,b,b,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,1,3,ra,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,1,4,ra,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,1,5,ra,b,b,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,1,6,ra,b,c,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,1,7,ra,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,1,8,ra,b,b,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,1,9,ra,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,1,10,ra,b,c,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,1,11,ra,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,1,12,ra,b,b,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,2,13,ra,b,b,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,2,14,ra,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,2,15,ra,b,b,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,2,16,ra,b,b,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,2,17,ra,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,2,18,ra,b,b,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,2,19,ra,b,c,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,2,20,ra,c,b,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,2,21,ra,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,2,22,ra,b,b,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,2,23,ra,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,2,24,ra,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,3,25,na ,c,b,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,3,26,na ,c,b,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,3,27,na ,b,c,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,3,28,na ,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,3,29,na ,b,b,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,3,30,na ,b,c,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,3,31,na ,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,3,32,na ,c,b,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,3,33,na ,b,c,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,3,34,na ,b,c,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,3,35,na ,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,3,36,na ,b,c,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,4,37,na ,b,c,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,4,38,na ,b,b,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,4,39,na ,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,4,40,na ,c,b,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,4,41,na ,b,c,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,4,42,na ,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,4,43,na ,b,c,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,4,44,na ,c,b,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,4,45,na ,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,4,46,na ,b,b,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,4,47,na ,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,4,48,na ,b,c,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,5,49,nra,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,5,50,nra,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,5,51,nra,b,c,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,5,52,nra,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,5,53,nra,b,c,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,5,54,nra,b,b,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,5,55,nra,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,5,56,nra,b,b,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,5,57,nra,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,5,58,nra,c,b,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,5,59,nra,b,c,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,5,60,nra,b,b,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,6,61,nra,b,c,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,6,62,nra,c,b,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,6,63,nra,b,b,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,6,64,nra,b,b,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,6,65,nra,c,b,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,6,66,nra,b,b,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,6,67,nra,c,b,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,6,68,nra,c,c,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,6,69,nra,b,b,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,6,70,nra,b,b,1
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,6,71,nra,c,b,0
+schmelz2017chimpanzees,3,kara,8,f,focal_participant,tai,12,f,partner,kara_tai,chimpanzee,6,72,nra,c,c,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,1,1,nra,c,c,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,1,2,nra,b,c,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,1,3,nra,c,c,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,1,4,nra,c,b,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,1,5,nra,b,c,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,1,6,nra,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,1,7,nra,c,c,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,1,8,nra,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,1,9,nra,c,c,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,1,10,nra,b,c,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,1,11,nra,c,c,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,1,12,nra,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,2,13,nra,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,2,14,nra,c,c,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,2,15,nra,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,2,16,nra,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,2,17,nra,c,b,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,2,18,nra,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,2,19,nra,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,2,20,nra,c,b,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,2,21,nra,c,b,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,2,22,nra,b,c,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,2,23,nra,c,c,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,2,24,nra,c,c,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,3,25,na ,c,b,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,3,26,na ,c,c,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,3,27,na ,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,3,28,na ,c,b,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,3,29,na ,b,c,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,3,30,na ,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,3,31,na ,c,b,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,3,32,na ,c,b,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,3,33,na ,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,3,34,na ,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,3,35,na ,c,c,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,3,36,na ,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,4,37,na ,b,c,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,4,38,na ,b,c,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,4,39,na ,c,c,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,4,40,na ,c,b,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,4,41,na ,b,c,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,4,42,na ,c,b,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,4,43,na ,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,4,44,na ,c,c,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,4,45,na ,c,b,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,4,46,na ,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,4,47,na ,c,b,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,4,48,na ,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,5,49,ra,c,c,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,5,50,ra,c,c,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,5,51,ra,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,5,52,ra,c,b,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,5,53,ra,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,5,54,ra,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,5,55,ra,c,b,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,5,56,ra,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,5,57,ra,c,c,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,5,58,ra,c,b,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,5,59,ra,b,c,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,5,60,ra,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,6,61,ra,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,6,62,ra,c,c,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,6,63,ra,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,6,64,ra,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,6,65,ra,c,b,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,6,66,ra,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,6,67,ra,c,c,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,6,68,ra,c,c,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,6,69,ra,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,6,70,ra,b,b,1
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,6,71,ra,c,b,0
+schmelz2017chimpanzees,3,kofi,9,m,focal_participant,tai,12,f,partner,kofi_tai,chimpanzee,6,72,ra,c,b,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,1,1,na ,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,1,2,na ,c,b,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,1,3,na ,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,1,4,na ,b,c,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,1,5,na ,c,c,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,1,6,na ,c,b,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,1,7,na ,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,1,8,na ,c,b,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,1,9,na ,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,1,10,na ,c,c,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,1,11,na ,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,1,12,na ,c,b,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,2,13,na ,c,b,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,2,14,na ,b,c,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,2,15,na ,c,c,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,2,16,na ,c,c,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,2,17,na ,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,2,18,na ,c,b,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,2,19,na ,c,b,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,2,20,na ,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,2,21,na ,b,c,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,2,22,na ,c,c,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,2,23,na ,b,c,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,2,24,na ,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,3,25,nra,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,3,26,nra,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,3,27,nra,c,b,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,3,28,nra,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,3,29,nra,c,b,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,3,30,nra,c,b,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,3,31,nra,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,3,32,nra,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,3,33,nra,c,c,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,3,34,nra,c,b,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,3,35,nra,b,c,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,3,36,nra,c,c,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,4,37,nra,c,c,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,4,38,nra,c,b,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,4,39,nra,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,4,40,nra,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,4,41,nra,c,c,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,4,42,nra,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,4,43,nra,c,c,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,4,44,nra,b,c,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,4,45,nra,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,4,46,nra,c,b,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,4,47,nra,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,4,48,nra,c,b,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,5,49,ra,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,5,50,ra,b,c,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,5,51,ra,c,c,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,5,52,ra,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,5,53,ra,c,c,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,5,54,ra,c,c,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,5,55,ra,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,5,56,ra,c,c,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,5,57,ra,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,5,58,ra,b,c,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,5,59,ra,c,c,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,5,60,ra,c,c,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,6,61,ra,c,c,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,6,62,ra,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,6,63,ra,c,c,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,6,64,ra,c,c,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,6,65,ra,b,c,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,6,66,ra,c,b,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,6,67,ra,b,c,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,6,68,ra,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,6,69,ra,c,c,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,6,70,ra,c,b,0
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,6,71,ra,b,b,1
+schmelz2017chimpanzees,3,lobo,10,m,focal_participant,tai,12,f,partner,lobo_tai,chimpanzee,6,72,ra,b,b,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,1,1,ra,b,b,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,1,2,ra,c,b,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,1,3,ra,b,b,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,1,4,ra,b,b,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,1,5,ra,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,1,6,ra,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,1,7,ra,b,b,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,1,8,ra,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,1,9,ra,b,b,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,1,10,ra,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,1,11,ra,b,c,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,1,12,ra,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,2,13,ra,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,2,14,ra,b,c,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,2,15,ra,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,2,16,ra,c,b,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,2,17,ra,b,b,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,2,18,ra,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,2,19,ra,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,2,20,ra,b,b,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,2,21,ra,b,c,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,2,22,ra,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,2,23,ra,b,b,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,2,24,ra,b,b,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,3,25,nra,b,b,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,3,26,nra,b,b,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,3,27,nra,c,b,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,3,28,nra,b,c,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,3,29,nra,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,3,30,nra,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,3,31,nra,b,b,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,3,32,nra,b,c,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,3,33,nra,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,3,34,nra,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,3,35,nra,b,c,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,3,36,nra,c,b,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,4,37,nra,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,4,38,nra,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,4,39,nra,b,c,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,4,40,nra,b,b,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,4,41,nra,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,4,42,nra,b,c,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,4,43,nra,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,4,44,nra,b,c,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,4,45,nra,b,b,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,4,46,nra,c,b,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,4,47,nra,b,c,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,4,48,nra,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,5,49,na ,b,c,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,5,50,na ,b,c,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,5,51,na ,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,5,52,na ,b,b,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,5,53,na ,c,b,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,5,54,na ,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,5,55,na ,b,c,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,5,56,na ,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,5,57,na ,b,c,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,5,58,na ,b,b,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,5,59,na ,c,b,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,5,60,na ,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,6,61,na ,c,b,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,6,62,na ,b,c,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,6,63,na ,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,6,64,na ,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,6,65,na ,b,c,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,6,66,na ,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,6,67,na ,b,c,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,6,68,na ,b,b,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,6,69,na ,c,b,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,6,70,na ,c,c,1
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,6,71,na ,b,c,0
+schmelz2017chimpanzees,3,lome,12,m,focal_participant,tai,12,f,partner,lome_tai,chimpanzee,6,72,na ,b,c,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,1,1,nra,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,1,2,nra,c,b,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,1,3,nra,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,1,4,nra,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,1,5,nra,c,b,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,1,6,nra,c,b,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,1,7,nra,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,1,8,nra,c,b,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,1,9,nra,b,c,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,1,10,nra,c,c,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,1,11,nra,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,1,12,nra,c,c,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,2,13,nra,c,b,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,2,14,nra,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,2,15,nra,c,b,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,2,16,nra,c,b,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,2,17,nra,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,2,18,nra,c,b,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,2,19,nra,c,c,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,2,20,nra,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,2,21,nra,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,2,22,nra,c,c,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,2,23,nra,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,2,24,nra,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,3,25,ra,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,3,26,ra,b,c,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,3,27,ra,c,c,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,3,28,ra,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,3,29,ra,c,c,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,3,30,ra,c,c,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,3,31,ra,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,3,32,ra,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,3,33,ra,c,c,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,3,34,ra,c,b,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,3,35,ra,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,3,36,ra,c,c,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,4,37,ra,c,c,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,4,38,ra,c,b,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,4,39,ra,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,4,40,ra,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,4,41,ra,c,b,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,4,42,ra,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,4,43,ra,c,c,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,4,44,ra,b,c,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,4,45,ra,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,4,46,ra,c,c,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,4,47,ra,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,4,48,ra,c,b,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,5,49,na ,b,c,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,5,50,na ,b,c,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,5,51,na ,c,b,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,5,52,na ,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,5,53,na ,c,c,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,5,54,na ,c,c,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,5,55,na ,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,5,56,na ,c,b,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,5,57,na ,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,5,58,na ,b,c,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,5,59,na ,c,b,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,5,60,na ,c,b,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,6,61,na ,c,b,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,6,62,na ,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,6,63,na ,c,b,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,6,64,na ,c,b,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,6,65,na ,b,c,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,6,66,na ,c,c,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,6,67,na ,b,b,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,6,68,na ,b,c,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,6,69,na ,c,c,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,6,70,na ,c,c,1
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,6,71,na ,b,c,0
+schmelz2017chimpanzees,3,sandra,21,f,focal_participant,tai,12,f,partner,sandra_tai,chimpanzee,6,72,na ,b,b,1

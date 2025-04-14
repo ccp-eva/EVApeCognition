@@ -1,0 +1,51 @@
+study_id: uher2008great
+year: 2008
+reference: 'Uher, J., & Call, J. (2008). How the Great Apes (Pan troglodytes, Pongo
+  pygmaeus, Pan paniscus, Gorilla gorilla) Perform on the Reversed Reward Contingency
+  Task II: Transfer to New Quantities, Long-Term Retention, and the Impact of Quantity
+  Ratios. Journal of Comparative Psychology, 122(2), 204-212. doi:10.1037/0735-7036.122.2.204.'
+abstract: We tested 6 chimpanzees (Pan troglodytes), 3 orangutans (Pongo pygmaeus),
+  4 bonobos (Pan paniscus), and 2 gorillas (Gorilla gorilla) in the reversed reward
+  contingency task. Individuals were presented with pairs of quantities ranging between
+  0 and 6 food items. Prior to testing, some experienced apes had solved this task
+  using 2 quantities while others were totally naive. Experienced apes transferred
+  their ability to multiple-novel pairs after 6 to 19 months had elapsed since their
+  initial testing. Two out of 6 naive apes (1 chimpanzee, 1 bonobo) solved the task—a
+  proportion comparable to that of a previous study using 2 pairs of quantities. Their
+  acquisition speed was also comparable to the successful subjects from that study.
+  The ratio between quantities explained a large portion of the variance but affected
+  naive and experienced individuals differently. For smaller ratios, naive individuals
+  were well below 50% correct and experienced ones were well above 50%, yet both groups
+  tended to converge toward 50% for larger ratios. Thus, some apes require no procedural
+  modifications to overcome their strong bias for selecting the larger of 2 quantities.
+keywords: inhibition, perseveration, quantity discrimination, relative numerousness,
+  reversal learning
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Jana Uher
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_gorilla, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2004,2005
+  data_collection_date_comments: '13-05-2004 to 20-05-2005 '
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: quantities_and_time
+  specific_domain: estimating_numerousness
+cognitive_domain:
+  social: false
+  physical: true

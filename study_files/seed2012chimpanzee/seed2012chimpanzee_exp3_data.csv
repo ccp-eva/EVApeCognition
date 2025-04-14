@@ -1,0 +1,9 @@
+﻿study_id,experiment,participant,age_in_years,sex,species,aligned,negative,inductive,positive
+seed2012chimpanzee,3,kara,5.0,f,chimpanzee,12.0,5.0,8.0,10.0
+seed2012chimpanzee,3,kofi,5.0,m,chimpanzee,7.0,5.0,7.0,7.0
+seed2012chimpanzee,3,tai,8.0,f,chimpanzee,8.0,7.0,5.0,10.0
+seed2012chimpanzee,3,lome,9.0,m,chimpanzee,10.0,6.0,4.0,9.0
+seed2012chimpanzee,3,pia,11.0,f,chimpanzee,12.0,7.0,8.0,10.0
+seed2012chimpanzee,3,patrick,13.0,m,chimpanzee,8.0,10.0,10.0,8.0
+seed2012chimpanzee,3,frodo,17.0,m,chimpanzee,9.0,7.0,6.0,10.0
+seed2012chimpanzee,3,sandra,17.0,f,chimpanzee,10.0,6.0,7.0,8.0

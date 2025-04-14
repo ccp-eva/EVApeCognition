@@ -1,0 +1,220 @@
+study_id: uher2008coherence
+year: 2008
+reference: 'Uher, J., Asendorpf, J. B., & Call, J. (2008). Personality in the behaviour
+  of great apes: temporal stability, cross-situational consistency and coherence in
+  response. Animal Behaviour, 75(1), 99-112. doi:10.1016/j.anbehav.2007.04.018.'
+abstract: Using a multidisciplinary approach, the present study complements ethological
+  behaviour measurements with basic theoretical concepts, methods, and approaches
+  of the personality psychological trait paradigm. Its adoptability and usefulness
+  for animal studies is tested exemplarily on a sample of 20 zoo-housed great apes
+  (five of each species), bonobos (Pan paniscus), chimpanzees (Pan troglodytes verus),
+  gorillas (Gorilla gorilla gorilla), and orangutans (Pongo pygmaeus abelii). Data
+  on 76 single trait-relevant behaviours were recorded in a series of 14 laboratory
+  based situations and in two different free behaviour situations. Data collection
+  was repeated completely after a timeout of two weeks within a 60-day period. All
+  behaviour records were sufficiently reliable. Individual- and variable-oriented
+  analyses showed high/substantial temporal stability on different levels of aggregation.
+  Distinctive and stable individual situational and response profiles clarified the
+  importance of situations and of multiple trait-relevant behaviours. The present
+  study calls for a closer collaboration between personality psychologists and behavioural
+  biologists to tap the full potential of animal personality research.
+keywords: behaviour prediction, bonobo, bottom-up approach, chimpanzee, gorilla, individual
+  differences, orang-utan, personality, traits
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Jana Uher
+  corr_author: true
+- author_no: 2
+  name: Jens B. Asendorpf
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 0
+  data_provided: true
+  grouping: null
+  droupouts_no: null
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  data_collection_date_provided: true
+  data_collection_date_source: null
+  data_collection_date: '2005'
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: ulindi, dorien, gorgo, bimbo
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  data_collection_date_provided: true
+  data_collection_date_source: null
+  data_collection_date: '2005'
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: ulindi, dorien, gorgo, bimbo
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  data_collection_date_provided: true
+  data_collection_date_source: null
+  data_collection_date: '2005'
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: ulindi, dorien, gorgo, bimbo
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  data_collection_date_provided: true
+  data_collection_date_source: null
+  data_collection_date: '2005'
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 4
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: ulindi, dorien, gorgo, bimbo
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  data_collection_date_provided: true
+  data_collection_date_source: null
+  data_collection_date: '2005'
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 5
+  data_provided: true
+  grouping: dyads
+  droupouts_no: 4
+  dropout_names: ulindi, dorien, gorgo, bimbo
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  data_collection_date_provided: true
+  data_collection_date_source: null
+  data_collection_date: '2005'
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 6
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: ulindi, dorien, gorgo, bimbo
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  data_collection_date_provided: true
+  data_collection_date_source: null
+  data_collection_date: '2005'
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 7
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: ulindi, dorien, gorgo, bimbo
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  data_collection_date_provided: true
+  data_collection_date_source: null
+  data_collection_date: '2005'
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 8
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: ulindi, dorien, gorgo, bimbo
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  data_collection_date_provided: true
+  data_collection_date_source: null
+  data_collection_date: '2005'
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 9
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: ulindi, dorien, gorgo, bimbo
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  data_collection_date_provided: true
+  data_collection_date_source: null
+  data_collection_date: '2005'
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 10
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: ulindi, dorien, gorgo, bimbo
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  data_collection_date_provided: true
+  data_collection_date_source: null
+  data_collection_date: '2005'
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 11
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: ulindi, dorien, gorgo, bimbo
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  data_collection_date_provided: true
+  data_collection_date_source: null
+  data_collection_date: '2005'
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 12
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: ulindi, dorien, gorgo, bimbo
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  data_collection_date_provided: true
+  data_collection_date_source: null
+  data_collection_date: '2005'
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 13
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: ulindi, dorien, gorgo, bimbo
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  data_collection_date_provided: true
+  data_collection_date_source: null
+  data_collection_date: '2005'
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+- experiment_no: 14
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: ulindi, dorien, gorgo, bimbo
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  data_collection_date_provided: true
+  data_collection_date_source: null
+  data_collection_date: '2005'
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: temperament_and_personality
+  specific_domain: .nan
+cognitive_domain:
+  social: false
+  physical: false

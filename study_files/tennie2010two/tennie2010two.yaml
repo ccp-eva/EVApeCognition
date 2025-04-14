@@ -1,0 +1,51 @@
+study_id: tennie2010two
+year: 2010
+reference: Tennie, C., Greve, K., Gretscher, H., & Call, J. (2010). Two-year-old children
+  copy more reliably and more often than nonhuman great apes in multiple observational
+  learning tasks. Primates, 51(4), 337-351. doi:10.1007/s10329-010-0208-4.
+abstract: 'Individuals observing a proficient model can potentially benefit by copying
+  at least one of the following three elements: motor movements (i.e., actions), goals,
+  and results. Although several studies have investigated this issue in human infants,
+  there are still very few studies that have systematically examined great apes’ ability
+  to spontaneously copy each of these three elements (particularly in comparison with
+  human infants). We tested great apes and human children with eight two-target puzzle
+  boxes—with varying levels of difficulty—to isolate the aspects that the various
+  species may be more prone to copying. We found first trial evidence for observational
+  learning of actions, goals, and results in children. Some copying was found for
+  apes as well, but only if their performance was averaged across trials.'
+keywords: Imitation, Emulation, Observational learning, Two-action task
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Claudio Tennie
+  corr_author: true
+- author_no: 2
+  name: Kathrin Greve
+  corr_author: false
+- author_no: 3
+  name: Heinz Gretscher
+  corr_author: false
+- author_no: 4
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: dyads
+  droupouts_no: 15
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_orangutan
+  group_id_excluded: leipzig_children
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: social_learning_and_culture
+  specific_domain: social_learning_of_actions
+cognitive_domain:
+  social: true
+  physical: false

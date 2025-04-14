@@ -1,0 +1,48 @@
+study_id: uher2008personality
+year: 2008
+reference: 'Uher, J., & Asendorpf, J. B. (2008). Personality assessment in the Great
+  Apes: Comparing ecologically valid behavior measures, behavior ratings, and adjective
+  ratings. Journal of Research in Personality, 42(4), 821-838. doi:10.1016/j.jrp.2007.10.004.'
+abstract: 'Three methods of personality assessment (behavior measures, behavior ratings,
+  adjective ratings) were compared in 20 zoo-housed Great Apes: bonobos (Pan paniscus),
+  chimpanzees (Pan troglodytes verus), gorillas (Gorilla gorilla gorilla), and orangutans
+  (Pongo pygmaeus abelii). To test a new bottom-up approach, the studied trait constructs
+  were systematically generated from the species’ behavioral repertoires. The assessments
+  were reliable, temporally stable, and showed substantial cross-method coherence.
+  In most traits, behavior ratings mediated the relations between adjective ratings
+  and behavior measures. Results suggest that high predictability of manifest behavior
+  is best achieved by behavior ratings, not by adjectives. Empirical evidence for
+  trait constructs beyond current personality models points to the necessity of broad
+  and systematic approaches for valid inferences on a species’ personality structure.'
+keywords: Behavior prediction, Bonobo, Bottom-up approach, Chimpanzee, Construct validation,
+  Gorilla, Orangutan, Personality, Rating, Traits
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Jana Uher
+  corr_author: true
+- author_no: 2
+  name: Jens B. Asendorpf
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: partial
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 2005
+  data_collection_date_comments: '... were studied at the Wolfgang Köhler Primate
+    Research Center (WKPRC) in the Leipzig Zoo, Germany, from January to March 2005.'
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: temperament_and_personality
+  specific_domain: .nan
+cognitive_domain:
+  social: false
+  physical: false

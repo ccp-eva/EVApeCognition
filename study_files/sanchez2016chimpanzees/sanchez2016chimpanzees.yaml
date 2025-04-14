@@ -1,0 +1,54 @@
+study_id: sanchez2016chimpanzees
+year: 2016
+reference: Sanchez-Amaro, A., Duguid, S., Call, J., & Tomasello, M. (2016). Chimpanzees
+  coordinate in a snowdrift game. Animal Behaviour, 116, 61-74. doi:10.1016/j.anbehav.2016.03.030.
+abstract: 'The snowdrift game is a model for studying social coordination in the context
+  of competing interests. We presented pairs of chimpanzees, Pan troglodytes, with
+  a situation in which they could either pull a weighted tray together or pull alone
+  to obtain food. Ultimately chimpanzees should coordinate their actions because if
+  no one pulled, they would both lose the reward. There were two experimental manipulations:
+  the tray''s weight (low or high weight condition) and the time to solve the dilemma
+  before the rewards became inaccessible (40 s or 10 s). When the costs were high
+  (i.e. high weight condition), chimpanzees waited longer to act. Cooperation tended
+  to increase in frequency across sessions. The pulling effort invested in the task
+  also became more skewed between subjects. The subjects also adjusted their behaviour
+  by changing their pulling effort for different partners. These results demonstrate
+  that chimpanzees can coordinate their actions in situations where there is a conflict
+  of interest.'
+keywords: chimpanzees, conflict, cooperation, coordination, decision making, snowdrift
+  game
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Alex Sanchez Amaro
+  corr_author: true
+- author_no: 2
+  name: Shona Duguid
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+- author_no: 4
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2014'
+  data_collection_date_comments: 2014/02/5 to 2014/06/30
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: collaboration
+cognitive_domain:
+  social: true
+  physical: false

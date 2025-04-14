@@ -1,0 +1,65 @@
+study_id: nolte2021targeted
+year: 2021
+reference: 'Nolte, S., & Call, J. (2021). Targeted helping and cooperation in zoo-living
+  chimpanzees and bonobos. Royal Society Open Science, 8: 201688. doi:10.1098/rsos.201688.'
+abstract: Directly comparing the prosocial behaviour of our two closest living relatives,
+  bonobos and chimpanzees, is essential to deepening our understanding of the evolution
+  of human prosociality. We examined whether helpers of six dyads of chimpanzees and
+  bonobos transferred tools to a conspecific. In the experiment ‘Helping’, transferring
+  a tool did not benefit the helper, while in the experiment ‘Cooperation’, the helper
+  only obtained a reward by transferring the correct tool. Chimpanzees did not share
+  tools with conspecifics in either experiment, except for a mother–daughter pair,
+  where the mother shared a tool twice in the experiment ‘Helping’. By contrast, all
+  female–female bonobo dyads sometimes transferred a tool even without benefit. When
+  helpers received an incentive, we found consistent transfers in all female–female
+  bonobo dyads but none in male–female dyads. Even though reaching by the bonobo receivers
+  increased the likelihood that a transfer occurred, we found no significant species
+  difference in whether receivers reached to obtain tools. Thus, receivers' behaviour
+  did not explain the lack of transfers from chimpanzee helpers. This study supports
+  the notion that bonobos might have a greater ability to understand social problems
+  and the collaborative nature of such tasks.
+keywords: cooperation, instrumental helping, altruism, chimpanzees, bonobos
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Suska Nolte
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2014,2015
+  data_collection_date_comments: it is partial data only specifying when the experiment
+    started
+  age_source: calculated
+  age_source_comments: age at start of data collection
+- experiment_no: 2
+  data_provided: true
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2015'
+  data_collection_date_comments: it is partial data only specifying when the experiment
+    started
+  age_source: calculated
+  age_source_comments: age at start of data collection
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: collaboration
+cognitive_domain:
+  social: true
+  physical: false

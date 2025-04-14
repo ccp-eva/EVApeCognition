@@ -1,0 +1,50 @@
+study_id: vlamings2006great
+year: 2006
+reference: 'Vlamings, P., Uher, J., & Call, J. (2006). How the Great apes (Pan troglodytes
+  Pongo pygmaeus, Pan paniscus and Gorilla gorilla) perform on the reversed contingency
+  task: the effects of food quantity and food visibility. Journal of Experimental
+  Psychology: Animal Behavior Processes, 32(1), 60-70. doi:10.1037/0097-7403.32.1.60.'
+abstract: S. T. Boysen and G. G. Berntson (1995) found that chimpanzees performed
+  poorly on a reversed contingency task in which they had to point to the smaller
+  of 2 food quantities to acquire the larger quantity. The authors compared the performance
+  of 4 great ape species (Pan troglodytes, Pongo pygmaeus, Pan paniscus, and Gorilla
+  gorilla) on the reversed contingency task while manipulating food quantity (0-4
+  or 1-4) and food visibility (visible pairs or covered pairs). Results showed no
+  systematic species differences but large individual differences. Some individuals
+  of each species were able to solve the reversed contingency task. Both quantity
+  and visibility of the food items had a significant effect on performance. Subjects
+  performed better when the disparity between quantities was smaller and the quantities
+  were not directly visible.
+keywords: inhibition, perseveration, problem solving
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Petra Vlamings
+  corr_author: false
+- author_no: 2
+  name: Jana Uher
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: true
+experiments:
+- experiment_no: 1
+  data_provided: partial
+  grouping: individuals
+  droupouts_no: 2
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_orangutan, wkprc_gorilla, wkprc_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 1993,2003
+  data_collection_date_comments: ''
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: quantities_and_time
+  specific_domain: estimating_numerousness
+cognitive_domain:
+  social: false
+  physical: true

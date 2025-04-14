@@ -1,0 +1,79 @@
+study_id: volter2012problem
+year: 2012
+reference: 'Völter, C., & Call, J. (2012). Problem solving in great apes (Pan paniscus,
+  Pan troglodytes, Gorilla gorilla, and Pongo abelii): the effect of visual feedback.
+  Animal Cognition, 15(5), 923-936. doi:10.1007/s10071-012-0519-5.'
+abstract: What kind of information animals use when solving problems is a controversial
+  topic. Previous research suggests that, in some situations, great apes prefer to
+  use causally relevant cues over arbitrary ones. To further examine to what extent
+  great apes are able to use information about causal relations, we presented three
+  different puzzle box problems to the four nonhuman great ape species. Of primary
+  interest here was a comparison between one group of apes that received visual access
+  to the functional mechanisms of the puzzle boxes and one group that did not. Apes’
+  performance in the first two, less complex puzzle boxes revealed that they are able
+  to solve such problems by means of trial-and-error learning, requiring no information
+  about the causal structure of the problem. However, visual inspection of the functional
+  mechanisms of the puzzle boxes reduced the amount of time needed to solve the problems.
+  In the case of the most complex problem, which required the use of a crank, visual
+  feedback about what happened when the handle of the crank was turned was necessary
+  for the apes to solve the task. Once the solution was acquired, however, visual
+  feedback was no longer required. We conclude that visual feedback about the consequences
+  of their actions helps great apes to solve complex problems. As the crank task matches
+  the basic requirements of vertical string pulling in birds, the present results
+  are discussed in light of recent findings with corvids.
+keywords: Problem solving, Causal cognition, Puzzle box, Perceptual-motor feedback
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Christoph Volter
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 2
+  dropout_names: Annett, Gorgo
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: Jahaga
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: causal_inferences
+cognitive_domain:
+  social: false
+  physical: true

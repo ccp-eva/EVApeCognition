@@ -1,0 +1,135 @@
+study_id: rakoczy2014apes
+year: 2014
+reference: Rakoczy, H., Clüver, A., Saucke, L., Stoffregen, N., Gräbener, A., Migura,
+  J., & Call, J. (2014). Apes are intuitive statisticians. Cognition, 131(1), 60-68.
+  doi:10.1016/j.cognition.2013.12.011.
+abstract: 'Inductive learning and reasoning, as we use it both in everyday life and
+  in science, is characterized by flexible inferences based on statistical information:
+  inferences from populations to samples and vice versa. Many forms of such statistical
+  reasoning have been found to develop late in human ontogeny, depending on formal
+  education and language, and to be fragile even in adults. New revolutionary research,
+  however, suggests that even preverbal human infants make use of intuitive statistics.
+  Here, we conducted the first investigation of such intuitive statistical reasoning
+  with non-human primates. In a series of 7 experiments, Bonobos, Chimpanzees, Gorillas
+  and Orangutans drew flexible statistical inferences from populations to samples.
+  These inferences, furthermore, were truly based on statistical information regarding
+  the relative frequency distributions in a population, and not on absolute frequencies.
+  Intuitive statistics in its most basic form is thus an evolutionarily more ancient
+  rather than a uniquely human capacity.'
+keywords: Comparative psychology, Primate cognition, Intuitive statistics, Numerical
+  cognition
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Hannes Rakoczy
+  corr_author: true
+- author_no: 2
+  name: Annette Clüver
+  corr_author: false
+- author_no: 3
+  name: Liane Saucke
+  corr_author: false
+- author_no: 4
+  name: Nicole Stoffregen
+  corr_author: false
+- author_no: 5
+  name: Alice Gräbener
+  corr_author: false
+- author_no: 6
+  name: Judith Migura
+  corr_author: false
+- author_no: 7
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_gorilla, wkprc_orangutan, wkprc_bonobo
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: maia age not provided/age_original in months
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_gorilla, wkprc_orangutan, wkprc_bonobo
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: maia age not provided/age_original in months
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_gorilla, wkprc_orangutan, wkprc_bonobo
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: maia age not provided/age_original in months
+- experiment_no: 4
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_gorilla, wkprc_orangutan, wkprc_bonobo
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: maia age not provided/age_original in months
+- experiment_no: 5
+  data_provided: false
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee, wkprc_gorilla, wkprc_orangutan, wkprc_bonobo
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 6
+  data_provided: false
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee, wkprc_gorilla, wkprc_orangutan, wkprc_bonobo
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+- experiment_no: 7
+  data_provided: false
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee, wkprc_gorilla, wkprc_orangutan, wkprc_bonobo
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: quantities_and_time
+  specific_domain: counting_summation_and_proportions
+cognitive_domain:
+  social: false
+  physical: true

@@ -1,0 +1,913 @@
+﻿study_id,experiment,participant,sex,species,session,trial,condition,experimenter,food_position_center,lateral_point
+tauzin2020context,3,alex,m,chimpanzee,1,1,mesh,different,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,1,2,mesh,different,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,1,3,mesh,different,lq,0.0
+tauzin2020context,3,alex,m,chimpanzee,1,4,mesh,different,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,1,5,mesh,different,lq,0.0
+tauzin2020context,3,alex,m,chimpanzee,1,6,mesh,different,lq,1.0
+tauzin2020context,3,alex,m,chimpanzee,1,7,mesh,same,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,1,8,mesh,same,lq,0.0
+tauzin2020context,3,alex,m,chimpanzee,1,9,mesh,same,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,1,10,mesh,same,lq,0.0
+tauzin2020context,3,alex,m,chimpanzee,1,11,mesh,same,lq,1.0
+tauzin2020context,3,alex,m,chimpanzee,1,12,mesh,same,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,2,1,3 hole,same,lq,1.0
+tauzin2020context,3,alex,m,chimpanzee,2,2,3 hole,same,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,2,3,3 hole,same,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,2,4,3 hole,different,lq,1.0
+tauzin2020context,3,alex,m,chimpanzee,2,5,3 hole,different,lq,1.0
+tauzin2020context,3,alex,m,chimpanzee,2,6,3 hole,different,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,2,7,3 hole,same,lq,1.0
+tauzin2020context,3,alex,m,chimpanzee,2,8,3 hole,same,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,2,9,3 hole,same,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,2,10,3 hole,different,lq,0.0
+tauzin2020context,3,alex,m,chimpanzee,2,11,3 hole,different,lq,1.0
+tauzin2020context,3,alex,m,chimpanzee,2,12,3 hole,different,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,3,1,mesh,different,lq,1.0
+tauzin2020context,3,alex,m,chimpanzee,3,2,mesh,different,lq,0.0
+tauzin2020context,3,alex,m,chimpanzee,3,3,mesh,different,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,3,4,mesh,same,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,3,5,mesh,same,lq,0.0
+tauzin2020context,3,alex,m,chimpanzee,3,6,mesh,same,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,3,7,mesh,same,lq,0.0
+tauzin2020context,3,alex,m,chimpanzee,3,8,mesh,same,lq,0.0
+tauzin2020context,3,alex,m,chimpanzee,3,9,mesh,same,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,3,10,mesh,different,lq,0.0
+tauzin2020context,3,alex,m,chimpanzee,3,11,mesh,different,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,3,12,mesh,different,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,4,1,3 hole,different,lq,0.0
+tauzin2020context,3,alex,m,chimpanzee,4,2,3 hole,different,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,4,3,3 hole,different,lq,0.0
+tauzin2020context,3,alex,m,chimpanzee,4,4,3 hole,same,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,4,5,3 hole,same,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,4,6,3 hole,same,lq,0.0
+tauzin2020context,3,alex,m,chimpanzee,4,7,3 hole,different,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,4,8,3 hole,different,hq,0.0
+tauzin2020context,3,alex,m,chimpanzee,4,9,3 hole,different,lq,0.0
+tauzin2020context,3,alex,m,chimpanzee,4,10,3 hole,same,lq,0.0
+tauzin2020context,3,alex,m,chimpanzee,4,11,3 hole,same,lq,0.0
+tauzin2020context,3,alex,m,chimpanzee,4,12,3 hole,same,hq,0.0
+tauzin2020context,3,batak,m,orangutan,1,1,mesh,different,lq,1.0
+tauzin2020context,3,batak,m,orangutan,1,2,mesh,different,hq,0.0
+tauzin2020context,3,batak,m,orangutan,1,3,mesh,different,lq,0.0
+tauzin2020context,3,batak,m,orangutan,1,4,mesh,same,lq,1.0
+tauzin2020context,3,batak,m,orangutan,1,5,mesh,same,hq,0.0
+tauzin2020context,3,batak,m,orangutan,1,6,mesh,same,lq,1.0
+tauzin2020context,3,batak,m,orangutan,1,7,mesh,different,hq,0.0
+tauzin2020context,3,batak,m,orangutan,1,8,mesh,different,hq,0.0
+tauzin2020context,3,batak,m,orangutan,1,9,mesh,different,lq,0.0
+tauzin2020context,3,batak,m,orangutan,1,10,mesh,same,lq,0.0
+tauzin2020context,3,batak,m,orangutan,1,11,mesh,same,hq,0.0
+tauzin2020context,3,batak,m,orangutan,1,12,mesh,same,hq,0.0
+tauzin2020context,3,batak,m,orangutan,2,1,3 hole,same,hq,0.0
+tauzin2020context,3,batak,m,orangutan,2,2,3 hole,same,lq,1.0
+tauzin2020context,3,batak,m,orangutan,2,3,3 hole,same,hq,0.0
+tauzin2020context,3,batak,m,orangutan,2,4,3 hole,same,hq,0.0
+tauzin2020context,3,batak,m,orangutan,2,5,3 hole,same,lq,0.0
+tauzin2020context,3,batak,m,orangutan,2,6,3 hole,same,hq,0.0
+tauzin2020context,3,batak,m,orangutan,2,7,3 hole,different,hq,0.0
+tauzin2020context,3,batak,m,orangutan,2,8,3 hole,different,lq,0.0
+tauzin2020context,3,batak,m,orangutan,2,9,3 hole,different,hq,0.0
+tauzin2020context,3,batak,m,orangutan,2,10,3 hole,different,lq,1.0
+tauzin2020context,3,batak,m,orangutan,2,11,3 hole,different,lq,0.0
+tauzin2020context,3,batak,m,orangutan,2,12,3 hole,different,hq,0.0
+tauzin2020context,3,batak,m,orangutan,3,1,mesh,same,hq,0.0
+tauzin2020context,3,batak,m,orangutan,3,2,mesh,same,hq,0.0
+tauzin2020context,3,batak,m,orangutan,3,3,mesh,same,lq,0.0
+tauzin2020context,3,batak,m,orangutan,3,4,mesh,same,hq,0.0
+tauzin2020context,3,batak,m,orangutan,3,5,mesh,same,lq,0.0
+tauzin2020context,3,batak,m,orangutan,3,6,mesh,same,hq,0.0
+tauzin2020context,3,batak,m,orangutan,3,7,mesh,different,lq,0.0
+tauzin2020context,3,batak,m,orangutan,3,8,mesh,different,lq,0.0
+tauzin2020context,3,batak,m,orangutan,3,9,mesh,different,hq,0.0
+tauzin2020context,3,batak,m,orangutan,3,10,mesh,different,lq,0.0
+tauzin2020context,3,batak,m,orangutan,3,11,mesh,different,lq,0.0
+tauzin2020context,3,batak,m,orangutan,3,12,mesh,different,hq,0.0
+tauzin2020context,3,batak,m,orangutan,4,1,3 hole,same,lq,0.0
+tauzin2020context,3,batak,m,orangutan,4,2,3 hole,same,hq,0.0
+tauzin2020context,3,batak,m,orangutan,4,3,3 hole,same,lq,0.0
+tauzin2020context,3,batak,m,orangutan,4,4,3 hole,different,lq,0.0
+tauzin2020context,3,batak,m,orangutan,4,5,3 hole,different,hq,0.0
+tauzin2020context,3,batak,m,orangutan,4,6,3 hole,different,lq,0.0
+tauzin2020context,3,batak,m,orangutan,4,7,3 hole,same,hq,0.0
+tauzin2020context,3,batak,m,orangutan,4,8,3 hole,same,hq,0.0
+tauzin2020context,3,batak,m,orangutan,4,9,3 hole,same,lq,0.0
+tauzin2020context,3,batak,m,orangutan,4,10,3 hole,different,lq,0.0
+tauzin2020context,3,batak,m,orangutan,4,11,3 hole,different,hq,0.0
+tauzin2020context,3,batak,m,orangutan,4,12,3 hole,different,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,1,1,3 hole,same,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,1,2,3 hole,same,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,1,3,3 hole,same,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,1,4,3 hole,same,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,1,5,3 hole,same,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,1,6,3 hole,same,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,1,7,3 hole,different,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,1,8,3 hole,different,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,1,9,3 hole,different,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,1,10,3 hole,different,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,1,11,3 hole,different,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,1,12,3 hole,different,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,2,1,mesh,same,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,2,2,mesh,same,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,2,3,mesh,same,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,2,4,mesh,different,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,2,5,mesh,different,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,2,6,mesh,different,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,2,7,mesh,same,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,2,8,mesh,same,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,2,9,mesh,same,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,2,10,mesh,different,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,2,11,mesh,different,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,2,12,mesh,different,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,3,1,mesh,different,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,3,2,mesh,different,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,3,3,mesh,different,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,3,4,mesh,same,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,3,5,mesh,same,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,3,6,mesh,same,lq,1.0
+tauzin2020context,3,dokana,f,orangutan,3,7,mesh,different,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,3,8,mesh,different,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,3,9,mesh,different,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,3,10,mesh,same,lq,1.0
+tauzin2020context,3,dokana,f,orangutan,3,11,mesh,same,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,3,12,mesh,same,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,4,1,3 hole,same,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,4,2,3 hole,same,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,4,3,3 hole,same,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,4,4,3 hole,same,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,4,5,3 hole,same,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,4,6,3 hole,same,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,4,7,3 hole,different,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,4,8,3 hole,different,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,4,9,3 hole,different,hq,0.0
+tauzin2020context,3,dokana,f,orangutan,4,10,3 hole,different,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,4,11,3 hole,different,lq,0.0
+tauzin2020context,3,dokana,f,orangutan,4,12,3 hole,different,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,1,1,3 hole,different,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,1,2,3 hole,different,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,1,3,3 hole,different,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,1,4,3 hole,different,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,1,5,3 hole,different,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,1,6,3 hole,different,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,1,7,3 hole,same,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,1,8,3 hole,same,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,1,9,3 hole,same,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,1,10,3 hole,same,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,1,11,3 hole,same,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,1,12,3 hole,same,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,2,1,mesh,different,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,2,2,mesh,different,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,2,3,mesh,different,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,2,4,mesh,different,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,2,5,mesh,different,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,2,6,mesh,different,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,2,7,mesh,same,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,2,8,mesh,same,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,2,9,mesh,same,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,2,10,mesh,same,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,2,11,mesh,same,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,2,12,mesh,same,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,3,1,3 hole,different,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,3,2,3 hole,different,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,3,3,3 hole,different,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,3,4,3 hole,same,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,3,5,3 hole,same,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,3,6,3 hole,same,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,3,7,3 hole,same,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,3,8,3 hole,same,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,3,9,3 hole,same,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,3,10,3 hole,different,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,3,11,3 hole,different,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,3,12,3 hole,different,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,4,1,mesh,different,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,4,2,mesh,different,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,4,3,mesh,different,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,4,4,mesh,same,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,4,5,mesh,same,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,4,6,mesh,same,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,4,7,mesh,same,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,4,8,mesh,same,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,4,9,mesh,same,hq,0.0
+tauzin2020context,3,fimi,f,bonobo,4,10,mesh,different,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,4,11,mesh,different,lq,0.0
+tauzin2020context,3,fimi,f,bonobo,4,12,mesh,different,hq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,1,1,mesh,same,lq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,1,2,mesh,same,hq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,1,3,mesh,same,lq,1.0
+tauzin2020context,3,frederike,f,chimpanzee,1,4,mesh,same,hq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,1,5,mesh,same,lq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,1,6,mesh,same,hq,1.0
+tauzin2020context,3,frederike,f,chimpanzee,1,7,mesh,different,lq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,1,8,mesh,different,hq,1.0
+tauzin2020context,3,frederike,f,chimpanzee,1,9,mesh,different,hq,1.0
+tauzin2020context,3,frederike,f,chimpanzee,1,10,mesh,different,lq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,1,11,mesh,different,hq,1.0
+tauzin2020context,3,frederike,f,chimpanzee,1,12,mesh,different,lq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,2,1,3 hole,same,hq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,2,2,3 hole,same,hq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,2,3,3 hole,same,lq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,2,4,3 hole,same,hq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,2,5,3 hole,same,hq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,2,6,3 hole,same,lq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,2,7,3 hole,different,lq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,2,8,3 hole,different,hq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,2,9,3 hole,different,lq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,2,10,3 hole,different,lq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,2,11,3 hole,different,lq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,2,12,3 hole,different,hq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,3,1,mesh,same,hq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,3,2,mesh,same,lq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,3,3,mesh,same,hq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,3,4,mesh,same,lq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,3,5,mesh,same,hq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,3,6,mesh,same,lq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,3,7,mesh,different,hq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,3,8,mesh,different,lq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,3,9,mesh,different,hq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,3,10,mesh,different,hq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,3,11,mesh,different,lq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,3,12,mesh,different,lq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,4,1,3 hole,different,hq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,4,2,3 hole,different,lq,1.0
+tauzin2020context,3,frederike,f,chimpanzee,4,3,3 hole,different,lq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,4,4,3 hole,same,hq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,4,5,3 hole,same,hq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,4,6,3 hole,same,lq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,4,7,3 hole,different,lq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,4,8,3 hole,different,hq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,4,9,3 hole,different,hq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,4,10,3 hole,same,lq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,4,11,3 hole,same,hq,0.0
+tauzin2020context,3,frederike,f,chimpanzee,4,12,3 hole,same,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,1,1,mesh,same,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,1,2,mesh,same,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,1,3,mesh,same,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,1,4,mesh,same,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,1,5,mesh,same,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,1,6,mesh,same,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,1,7,mesh,different,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,1,8,mesh,different,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,1,9,mesh,different,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,1,10,mesh,different,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,1,11,mesh,different,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,1,12,mesh,different,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,2,1,3 hole,same,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,2,2,3 hole,same,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,2,3,3 hole,same,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,2,4,3 hole,same,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,2,5,3 hole,same,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,2,6,3 hole,same,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,2,7,3 hole,different,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,2,8,3 hole,different,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,2,9,3 hole,different,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,2,10,3 hole,different,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,2,11,3 hole,different,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,2,12,3 hole,different,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,3,1,3 hole,same,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,3,2,3 hole,same,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,3,3,3 hole,same,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,3,4,3 hole,same,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,3,5,3 hole,same,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,3,6,3 hole,same,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,3,7,3 hole,different,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,3,8,3 hole,different,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,3,9,3 hole,different,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,3,10,3 hole,different,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,3,11,3 hole,different,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,3,12,3 hole,different,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,4,1,mesh,same,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,4,2,mesh,same,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,4,3,mesh,same,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,4,4,mesh,same,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,4,5,mesh,same,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,4,6,mesh,same,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,4,7,mesh,different,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,4,8,mesh,different,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,4,9,mesh,different,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,4,10,mesh,different,hq,0.0
+tauzin2020context,3,gemena,f,bonobo,4,11,mesh,different,lq,0.0
+tauzin2020context,3,gemena,f,bonobo,4,12,mesh,different,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,1,1,3 hole,different,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,1,2,3 hole,different,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,1,3,3 hole,different,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,1,4,3 hole,different,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,1,5,3 hole,different,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,1,6,3 hole,different,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,1,7,3 hole,same,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,1,8,3 hole,same,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,1,9,3 hole,same,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,1,10,3 hole,same,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,1,11,3 hole,same,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,1,12,3 hole,same,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,2,1,mesh,same,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,2,2,mesh,same,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,2,3,mesh,same,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,2,4,mesh,different,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,2,5,mesh,different,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,2,6,mesh,different,lq,1.0
+tauzin2020context,3,hope,f,chimpanzee,2,7,mesh,same,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,2,8,mesh,same,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,2,9,mesh,same,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,2,10,mesh,different,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,2,11,mesh,different,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,2,12,mesh,different,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,3,1,3 hole,different,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,3,2,3 hole,different,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,3,3,3 hole,different,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,3,4,3 hole,same,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,3,5,3 hole,same,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,3,6,3 hole,same,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,3,7,3 hole,same,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,3,8,3 hole,same,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,3,9,3 hole,same,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,3,10,3 hole,different,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,3,11,3 hole,different,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,3,12,3 hole,different,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,4,1,mesh,different,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,4,2,mesh,different,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,4,3,mesh,different,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,4,4,mesh,same,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,4,5,mesh,same,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,4,6,mesh,same,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,4,7,mesh,different,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,4,8,mesh,different,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,4,9,mesh,different,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,4,10,mesh,same,lq,0.0
+tauzin2020context,3,hope,f,chimpanzee,4,11,mesh,same,hq,0.0
+tauzin2020context,3,hope,f,chimpanzee,4,12,mesh,same,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,1,1,3 hole,same,lq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,1,2,3 hole,same,lq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,1,3,3 hole,same,lq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,1,4,3 hole,same,lq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,1,5,3 hole,same,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,1,6,3 hole,same,lq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,1,7,3 hole,different,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,1,8,3 hole,different,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,1,9,3 hole,different,lq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,1,10,3 hole,different,lq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,1,11,3 hole,different,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,1,12,3 hole,different,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,2,1,mesh,same,hq,1.0
+tauzin2020context,3,jeudi,f,chimpanzee,2,2,mesh,same,lq,1.0
+tauzin2020context,3,jeudi,f,chimpanzee,2,3,mesh,same,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,2,4,mesh,different,lq,1.0
+tauzin2020context,3,jeudi,f,chimpanzee,2,5,mesh,different,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,2,6,mesh,different,lq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,2,7,mesh,same,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,2,8,mesh,same,lq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,2,9,mesh,same,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,2,10,mesh,different,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,2,11,mesh,different,lq,1.0
+tauzin2020context,3,jeudi,f,chimpanzee,2,12,mesh,different,lq,1.0
+tauzin2020context,3,jeudi,f,chimpanzee,3,1,3 hole,same,lq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,3,2,3 hole,same,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,3,3,3 hole,same,lq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,3,4,3 hole,same,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,3,5,3 hole,same,lq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,3,6,3 hole,same,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,3,7,3 hole,different,lq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,3,8,3 hole,different,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,3,9,3 hole,different,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,3,10,3 hole,different,lq,1.0
+tauzin2020context,3,jeudi,f,chimpanzee,3,11,3 hole,different,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,3,12,3 hole,different,lq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,4,1,mesh,different,lq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,4,2,mesh,different,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,4,3,mesh,different,lq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,4,4,mesh,same,lq,1.0
+tauzin2020context,3,jeudi,f,chimpanzee,4,5,mesh,same,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,4,6,mesh,same,lq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,4,7,mesh,different,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,4,8,mesh,different,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,4,9,mesh,different,lq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,4,10,mesh,same,lq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,4,11,mesh,same,hq,0.0
+tauzin2020context,3,jeudi,f,chimpanzee,4,12,mesh,same,hq,0.0
+tauzin2020context,3,joey,m,bonobo,1,1,3 hole,same,hq,0.0
+tauzin2020context,3,joey,m,bonobo,1,2,3 hole,same,hq,0.0
+tauzin2020context,3,joey,m,bonobo,1,3,3 hole,same,lq,0.0
+tauzin2020context,3,joey,m,bonobo,1,4,3 hole,same,hq,0.0
+tauzin2020context,3,joey,m,bonobo,1,5,3 hole,same,lq,0.0
+tauzin2020context,3,joey,m,bonobo,1,6,3 hole,same,lq,0.0
+tauzin2020context,3,joey,m,bonobo,1,7,3 hole,different,hq,0.0
+tauzin2020context,3,joey,m,bonobo,1,8,3 hole,different,hq,0.0
+tauzin2020context,3,joey,m,bonobo,1,9,3 hole,different,lq,0.0
+tauzin2020context,3,joey,m,bonobo,1,10,3 hole,different,lq,0.0
+tauzin2020context,3,joey,m,bonobo,1,11,3 hole,different,hq,0.0
+tauzin2020context,3,joey,m,bonobo,1,12,3 hole,different,hq,0.0
+tauzin2020context,3,joey,m,bonobo,2,1,mesh,same,lq,0.0
+tauzin2020context,3,joey,m,bonobo,2,2,mesh,same,hq,0.0
+tauzin2020context,3,joey,m,bonobo,2,3,mesh,same,lq,0.0
+tauzin2020context,3,joey,m,bonobo,2,4,mesh,same,hq,0.0
+tauzin2020context,3,joey,m,bonobo,2,5,mesh,same,lq,0.0
+tauzin2020context,3,joey,m,bonobo,2,6,mesh,same,hq,0.0
+tauzin2020context,3,joey,m,bonobo,2,7,mesh,different,lq,0.0
+tauzin2020context,3,joey,m,bonobo,2,8,mesh,different,hq,1.0
+tauzin2020context,3,joey,m,bonobo,2,9,mesh,different,hq,0.0
+tauzin2020context,3,joey,m,bonobo,2,10,mesh,different,lq,0.0
+tauzin2020context,3,joey,m,bonobo,2,11,mesh,different,hq,0.0
+tauzin2020context,3,joey,m,bonobo,2,12,mesh,different,lq,0.0
+tauzin2020context,3,joey,m,bonobo,3,1,3 hole,same,hq,0.0
+tauzin2020context,3,joey,m,bonobo,3,2,3 hole,same,hq,0.0
+tauzin2020context,3,joey,m,bonobo,3,3,3 hole,same,lq,0.0
+tauzin2020context,3,joey,m,bonobo,3,4,3 hole,same,hq,0.0
+tauzin2020context,3,joey,m,bonobo,3,5,3 hole,same,hq,0.0
+tauzin2020context,3,joey,m,bonobo,3,6,3 hole,same,lq,0.0
+tauzin2020context,3,joey,m,bonobo,3,7,3 hole,different,hq,0.0
+tauzin2020context,3,joey,m,bonobo,3,8,3 hole,different,lq,0.0
+tauzin2020context,3,joey,m,bonobo,3,9,3 hole,different,lq,0.0
+tauzin2020context,3,joey,m,bonobo,3,10,3 hole,same,lq,0.0
+tauzin2020context,3,joey,m,bonobo,3,11,3 hole,same,lq,0.0
+tauzin2020context,3,joey,m,bonobo,3,12,3 hole,same,hq,0.0
+tauzin2020context,3,joey,m,bonobo,4,1,mesh,same,hq,0.0
+tauzin2020context,3,joey,m,bonobo,4,2,mesh,same,hq,0.0
+tauzin2020context,3,joey,m,bonobo,4,3,mesh,same,lq,0.0
+tauzin2020context,3,joey,m,bonobo,4,4,mesh,same,lq,0.0
+tauzin2020context,3,joey,m,bonobo,4,5,mesh,same,hq,0.0
+tauzin2020context,3,joey,m,bonobo,4,6,mesh,same,lq,0.0
+tauzin2020context,3,joey,m,bonobo,4,7,mesh,different,hq,0.0
+tauzin2020context,3,joey,m,bonobo,4,8,mesh,different,lq,0.0
+tauzin2020context,3,joey,m,bonobo,4,9,mesh,different,lq,0.0
+tauzin2020context,3,joey,m,bonobo,4,10,mesh,different,lq,1.0
+tauzin2020context,3,joey,m,bonobo,4,11,mesh,different,hq,0.0
+tauzin2020context,3,joey,m,bonobo,4,12,mesh,different,hq,1.0
+tauzin2020context,3,lexi,f,bonobo,1,1,3 hole,different,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,1,2,3 hole,different,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,1,3,3 hole,different,lq,0.0
+tauzin2020context,3,lexi,f,bonobo,1,4,3 hole,different,lq,0.0
+tauzin2020context,3,lexi,f,bonobo,1,5,3 hole,different,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,1,6,3 hole,different,lq,0.0
+tauzin2020context,3,lexi,f,bonobo,1,7,3 hole,same,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,1,8,3 hole,same,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,1,9,3 hole,same,lq,0.0
+tauzin2020context,3,lexi,f,bonobo,1,10,3 hole,same,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,1,11,3 hole,same,lq,0.0
+tauzin2020context,3,lexi,f,bonobo,1,12,3 hole,same,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,2,1,mesh,different,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,2,2,mesh,different,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,2,3,mesh,different,lq,0.0
+tauzin2020context,3,lexi,f,bonobo,2,4,mesh,different,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,2,5,mesh,different,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,2,6,mesh,different,lq,0.0
+tauzin2020context,3,lexi,f,bonobo,2,7,mesh,same,lq,0.0
+tauzin2020context,3,lexi,f,bonobo,2,8,mesh,same,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,2,9,mesh,same,lq,0.0
+tauzin2020context,3,lexi,f,bonobo,2,10,mesh,same,lq,0.0
+tauzin2020context,3,lexi,f,bonobo,2,11,mesh,same,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,2,12,mesh,same,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,3,1,3 hole,different,lq,0.0
+tauzin2020context,3,lexi,f,bonobo,3,2,3 hole,different,lq,0.0
+tauzin2020context,3,lexi,f,bonobo,3,3,3 hole,different,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,3,4,3 hole,same,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,3,5,3 hole,same,lq,0.0
+tauzin2020context,3,lexi,f,bonobo,3,6,3 hole,same,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,3,7,3 hole,same,lq,0.0
+tauzin2020context,3,lexi,f,bonobo,3,8,3 hole,same,lq,0.0
+tauzin2020context,3,lexi,f,bonobo,3,9,3 hole,same,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,3,10,3 hole,different,lq,0.0
+tauzin2020context,3,lexi,f,bonobo,3,11,3 hole,different,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,3,12,3 hole,different,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,4,1,mesh,different,lq,1.0
+tauzin2020context,3,lexi,f,bonobo,4,2,mesh,different,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,4,3,mesh,different,lq,0.0
+tauzin2020context,3,lexi,f,bonobo,4,4,mesh,same,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,4,5,mesh,same,lq,0.0
+tauzin2020context,3,lexi,f,bonobo,4,6,mesh,same,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,4,7,mesh,same,lq,0.0
+tauzin2020context,3,lexi,f,bonobo,4,8,mesh,same,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,4,9,mesh,same,hq,1.0
+tauzin2020context,3,lexi,f,bonobo,4,10,mesh,different,lq,0.0
+tauzin2020context,3,lexi,f,bonobo,4,11,mesh,different,hq,0.0
+tauzin2020context,3,lexi,f,bonobo,4,12,mesh,different,lq,1.0
+tauzin2020context,3,luiza,f,bonobo,1,1,mesh,different,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,1,2,mesh,different,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,1,3,mesh,different,lq,0.0
+tauzin2020context,3,luiza,f,bonobo,1,4,mesh,different,hq,1.0
+tauzin2020context,3,luiza,f,bonobo,1,5,mesh,different,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,1,6,mesh,different,lq,0.0
+tauzin2020context,3,luiza,f,bonobo,1,7,mesh,same,lq,0.0
+tauzin2020context,3,luiza,f,bonobo,1,8,mesh,same,lq,0.0
+tauzin2020context,3,luiza,f,bonobo,1,9,mesh,same,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,1,10,mesh,same,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,1,11,mesh,same,lq,0.0
+tauzin2020context,3,luiza,f,bonobo,1,12,mesh,same,lq,0.0
+tauzin2020context,3,luiza,f,bonobo,2,1,3 hole,different,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,2,2,3 hole,different,lq,0.0
+tauzin2020context,3,luiza,f,bonobo,2,3,3 hole,different,lq,0.0
+tauzin2020context,3,luiza,f,bonobo,2,4,3 hole,different,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,2,5,3 hole,different,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,2,6,3 hole,different,lq,0.0
+tauzin2020context,3,luiza,f,bonobo,2,7,3 hole,same,lq,0.0
+tauzin2020context,3,luiza,f,bonobo,2,8,3 hole,same,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,2,9,3 hole,same,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,2,10,3 hole,same,lq,0.0
+tauzin2020context,3,luiza,f,bonobo,2,11,3 hole,same,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,2,12,3 hole,same,lq,0.0
+tauzin2020context,3,luiza,f,bonobo,3,1,mesh,different,lq,0.0
+tauzin2020context,3,luiza,f,bonobo,3,2,mesh,different,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,3,3,mesh,different,hq,1.0
+tauzin2020context,3,luiza,f,bonobo,3,4,mesh,same,lq,1.0
+tauzin2020context,3,luiza,f,bonobo,3,5,mesh,same,lq,1.0
+tauzin2020context,3,luiza,f,bonobo,3,6,mesh,same,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,3,7,mesh,same,lq,0.0
+tauzin2020context,3,luiza,f,bonobo,3,8,mesh,same,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,3,9,mesh,same,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,3,10,mesh,different,lq,0.0
+tauzin2020context,3,luiza,f,bonobo,3,11,mesh,different,lq,0.0
+tauzin2020context,3,luiza,f,bonobo,3,12,mesh,different,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,4,1,3 hole,different,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,4,2,3 hole,different,lq,0.0
+tauzin2020context,3,luiza,f,bonobo,4,3,3 hole,different,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,4,4,3 hole,same,lq,0.0
+tauzin2020context,3,luiza,f,bonobo,4,5,3 hole,same,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,4,6,3 hole,same,lq,0.0
+tauzin2020context,3,luiza,f,bonobo,4,7,3 hole,same,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,4,8,3 hole,same,lq,0.0
+tauzin2020context,3,luiza,f,bonobo,4,9,3 hole,same,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,4,10,3 hole,different,hq,0.0
+tauzin2020context,3,luiza,f,bonobo,4,11,3 hole,different,lq,0.0
+tauzin2020context,3,luiza,f,bonobo,4,12,3 hole,different,lq,0.0
+tauzin2020context,3,padana,f,orangutan,1,1,mesh,different,hq,0.0
+tauzin2020context,3,padana,f,orangutan,1,2,mesh,different,hq,0.0
+tauzin2020context,3,padana,f,orangutan,1,3,mesh,different,lq,1.0
+tauzin2020context,3,padana,f,orangutan,1,4,mesh,different,lq,0.0
+tauzin2020context,3,padana,f,orangutan,1,5,mesh,different,lq,0.0
+tauzin2020context,3,padana,f,orangutan,1,6,mesh,different,hq,0.0
+tauzin2020context,3,padana,f,orangutan,1,7,mesh,same,lq,0.0
+tauzin2020context,3,padana,f,orangutan,1,8,mesh,same,hq,0.0
+tauzin2020context,3,padana,f,orangutan,1,9,mesh,same,hq,0.0
+tauzin2020context,3,padana,f,orangutan,1,10,mesh,same,lq,0.0
+tauzin2020context,3,padana,f,orangutan,1,11,mesh,same,lq,0.0
+tauzin2020context,3,padana,f,orangutan,1,12,mesh,same,hq,0.0
+tauzin2020context,3,padana,f,orangutan,2,1,3 hole,same,lq,1.0
+tauzin2020context,3,padana,f,orangutan,2,2,3 hole,same,hq,0.0
+tauzin2020context,3,padana,f,orangutan,2,3,3 hole,same,lq,1.0
+tauzin2020context,3,padana,f,orangutan,2,4,3 hole,different,lq,1.0
+tauzin2020context,3,padana,f,orangutan,2,5,3 hole,different,hq,0.0
+tauzin2020context,3,padana,f,orangutan,2,6,3 hole,different,lq,1.0
+tauzin2020context,3,padana,f,orangutan,2,7,3 hole,same,hq,0.0
+tauzin2020context,3,padana,f,orangutan,2,8,3 hole,same,hq,0.0
+tauzin2020context,3,padana,f,orangutan,2,9,3 hole,same,lq,1.0
+tauzin2020context,3,padana,f,orangutan,2,10,3 hole,different,lq,1.0
+tauzin2020context,3,padana,f,orangutan,2,11,3 hole,different,hq,0.0
+tauzin2020context,3,padana,f,orangutan,2,12,3 hole,different,hq,0.0
+tauzin2020context,3,padana,f,orangutan,3,1,mesh,different,hq,0.0
+tauzin2020context,3,padana,f,orangutan,3,2,mesh,different,lq,0.0
+tauzin2020context,3,padana,f,orangutan,3,3,mesh,different,lq,1.0
+tauzin2020context,3,padana,f,orangutan,3,4,mesh,same,hq,0.0
+tauzin2020context,3,padana,f,orangutan,3,5,mesh,same,lq,1.0
+tauzin2020context,3,padana,f,orangutan,3,6,mesh,same,lq,1.0
+tauzin2020context,3,padana,f,orangutan,3,7,mesh,same,hq,0.0
+tauzin2020context,3,padana,f,orangutan,3,8,mesh,same,lq,1.0
+tauzin2020context,3,padana,f,orangutan,3,9,mesh,same,hq,0.0
+tauzin2020context,3,padana,f,orangutan,3,10,mesh,different,hq,0.0
+tauzin2020context,3,padana,f,orangutan,3,11,mesh,different,lq,0.0
+tauzin2020context,3,padana,f,orangutan,3,12,mesh,different,hq,0.0
+tauzin2020context,3,padana,f,orangutan,4,1,3 hole,different,lq,0.0
+tauzin2020context,3,padana,f,orangutan,4,2,3 hole,different,hq,0.0
+tauzin2020context,3,padana,f,orangutan,4,3,3 hole,different,lq,0.0
+tauzin2020context,3,padana,f,orangutan,4,4,3 hole,same,lq,0.0
+tauzin2020context,3,padana,f,orangutan,4,5,3 hole,same,hq,0.0
+tauzin2020context,3,padana,f,orangutan,4,6,3 hole,same,lq,1.0
+tauzin2020context,3,padana,f,orangutan,4,7,3 hole,different,hq,0.0
+tauzin2020context,3,padana,f,orangutan,4,8,3 hole,different,hq,0.0
+tauzin2020context,3,padana,f,orangutan,4,9,3 hole,different,lq,0.0
+tauzin2020context,3,padana,f,orangutan,4,10,3 hole,same,lq,0.0
+tauzin2020context,3,padana,f,orangutan,4,11,3 hole,same,hq,0.0
+tauzin2020context,3,padana,f,orangutan,4,12,3 hole,same,hq,0.0
+tauzin2020context,3,pini,f,orangutan,1,1,mesh,same,hq,1.0
+tauzin2020context,3,pini,f,orangutan,1,2,mesh,same,hq,1.0
+tauzin2020context,3,pini,f,orangutan,1,3,mesh,same,lq,0.0
+tauzin2020context,3,pini,f,orangutan,1,4,mesh,same,hq,0.0
+tauzin2020context,3,pini,f,orangutan,1,5,mesh,same,lq,0.0
+tauzin2020context,3,pini,f,orangutan,1,6,mesh,same,hq,0.0
+tauzin2020context,3,pini,f,orangutan,1,7,mesh,different,lq,0.0
+tauzin2020context,3,pini,f,orangutan,1,8,mesh,different,lq,1.0
+tauzin2020context,3,pini,f,orangutan,1,9,mesh,different,hq,0.0
+tauzin2020context,3,pini,f,orangutan,1,10,mesh,different,lq,0.0
+tauzin2020context,3,pini,f,orangutan,1,11,mesh,different,lq,0.0
+tauzin2020context,3,pini,f,orangutan,1,12,mesh,different,hq,0.0
+tauzin2020context,3,pini,f,orangutan,2,1,3 hole,same,lq,0.0
+tauzin2020context,3,pini,f,orangutan,2,2,3 hole,same,hq,0.0
+tauzin2020context,3,pini,f,orangutan,2,3,3 hole,same,lq,0.0
+tauzin2020context,3,pini,f,orangutan,2,4,3 hole,different,lq,0.0
+tauzin2020context,3,pini,f,orangutan,2,5,3 hole,different,hq,0.0
+tauzin2020context,3,pini,f,orangutan,2,6,3 hole,different,lq,0.0
+tauzin2020context,3,pini,f,orangutan,2,7,3 hole,same,hq,0.0
+tauzin2020context,3,pini,f,orangutan,2,8,3 hole,same,hq,0.0
+tauzin2020context,3,pini,f,orangutan,2,9,3 hole,same,lq,0.0
+tauzin2020context,3,pini,f,orangutan,2,10,3 hole,different,lq,0.0
+tauzin2020context,3,pini,f,orangutan,2,11,3 hole,different,hq,0.0
+tauzin2020context,3,pini,f,orangutan,2,12,3 hole,different,hq,0.0
+tauzin2020context,3,pini,f,orangutan,3,1,mesh,same,hq,0.0
+tauzin2020context,3,pini,f,orangutan,3,2,mesh,same,lq,0.0
+tauzin2020context,3,pini,f,orangutan,3,3,mesh,same,lq,0.0
+tauzin2020context,3,pini,f,orangutan,3,4,mesh,same,hq,0.0
+tauzin2020context,3,pini,f,orangutan,3,5,mesh,same,lq,0.0
+tauzin2020context,3,pini,f,orangutan,3,6,mesh,same,hq,0.0
+tauzin2020context,3,pini,f,orangutan,3,7,mesh,different,hq,0.0
+tauzin2020context,3,pini,f,orangutan,3,8,mesh,different,lq,0.0
+tauzin2020context,3,pini,f,orangutan,3,9,mesh,different,hq,0.0
+tauzin2020context,3,pini,f,orangutan,3,10,mesh,different,lq,0.0
+tauzin2020context,3,pini,f,orangutan,3,11,mesh,different,lq,0.0
+tauzin2020context,3,pini,f,orangutan,3,12,mesh,different,hq,0.0
+tauzin2020context,3,pini,f,orangutan,4,1,3 hole,different,lq,0.0
+tauzin2020context,3,pini,f,orangutan,4,2,3 hole,different,hq,0.0
+tauzin2020context,3,pini,f,orangutan,4,3,3 hole,different,lq,0.0
+tauzin2020context,3,pini,f,orangutan,4,4,3 hole,same,lq,0.0
+tauzin2020context,3,pini,f,orangutan,4,5,3 hole,same,hq,0.0
+tauzin2020context,3,pini,f,orangutan,4,6,3 hole,same,lq,0.0
+tauzin2020context,3,pini,f,orangutan,4,7,3 hole,different,hq,0.0
+tauzin2020context,3,pini,f,orangutan,4,8,3 hole,different,hq,0.0
+tauzin2020context,3,pini,f,orangutan,4,9,3 hole,different,lq,0.0
+tauzin2020context,3,pini,f,orangutan,4,10,3 hole,same,lq,0.0
+tauzin2020context,3,pini,f,orangutan,4,11,3 hole,same,hq,0.0
+tauzin2020context,3,pini,f,orangutan,4,12,3 hole,same,hq,0.0
+tauzin2020context,3,raja,f,orangutan,1,1,3 hole,different,hq,0.0
+tauzin2020context,3,raja,f,orangutan,1,2,3 hole,different,hq,0.0
+tauzin2020context,3,raja,f,orangutan,1,3,3 hole,different,lq,0.0
+tauzin2020context,3,raja,f,orangutan,1,4,3 hole,different,lq,0.0
+tauzin2020context,3,raja,f,orangutan,1,5,3 hole,different,lq,0.0
+tauzin2020context,3,raja,f,orangutan,1,6,3 hole,different,hq,0.0
+tauzin2020context,3,raja,f,orangutan,1,7,3 hole,same,lq,0.0
+tauzin2020context,3,raja,f,orangutan,1,8,3 hole,same,hq,0.0
+tauzin2020context,3,raja,f,orangutan,1,9,3 hole,same,hq,0.0
+tauzin2020context,3,raja,f,orangutan,1,10,3 hole,same,lq,0.0
+tauzin2020context,3,raja,f,orangutan,1,11,3 hole,same,lq,0.0
+tauzin2020context,3,raja,f,orangutan,1,12,3 hole,same,hq,0.0
+tauzin2020context,3,raja,f,orangutan,2,1,mesh,same,lq,0.0
+tauzin2020context,3,raja,f,orangutan,2,2,mesh,same,hq,0.0
+tauzin2020context,3,raja,f,orangutan,2,3,mesh,same,lq,1.0
+tauzin2020context,3,raja,f,orangutan,2,4,mesh,different,lq,0.0
+tauzin2020context,3,raja,f,orangutan,2,5,mesh,different,hq,0.0
+tauzin2020context,3,raja,f,orangutan,2,6,mesh,different,lq,0.0
+tauzin2020context,3,raja,f,orangutan,2,7,mesh,same,hq,0.0
+tauzin2020context,3,raja,f,orangutan,2,8,mesh,same,hq,0.0
+tauzin2020context,3,raja,f,orangutan,2,9,mesh,same,lq,0.0
+tauzin2020context,3,raja,f,orangutan,2,10,mesh,different,lq,0.0
+tauzin2020context,3,raja,f,orangutan,2,11,mesh,different,hq,0.0
+tauzin2020context,3,raja,f,orangutan,2,12,mesh,different,hq,0.0
+tauzin2020context,3,raja,f,orangutan,3,1,3 hole,different,hq,0.0
+tauzin2020context,3,raja,f,orangutan,3,2,3 hole,different,lq,0.0
+tauzin2020context,3,raja,f,orangutan,3,3,3 hole,different,lq,0.0
+tauzin2020context,3,raja,f,orangutan,3,4,3 hole,same,hq,0.0
+tauzin2020context,3,raja,f,orangutan,3,5,3 hole,same,lq,0.0
+tauzin2020context,3,raja,f,orangutan,3,6,3 hole,same,hq,0.0
+tauzin2020context,3,raja,f,orangutan,3,7,3 hole,same,hq,0.0
+tauzin2020context,3,raja,f,orangutan,3,8,3 hole,same,lq,0.0
+tauzin2020context,3,raja,f,orangutan,3,9,3 hole,same,hq,0.0
+tauzin2020context,3,raja,f,orangutan,3,10,3 hole,different,hq,0.0
+tauzin2020context,3,raja,f,orangutan,3,11,3 hole,different,lq,0.0
+tauzin2020context,3,raja,f,orangutan,3,12,3 hole,different,hq,0.0
+tauzin2020context,3,raja,f,orangutan,4,1,mesh,different,lq,0.0
+tauzin2020context,3,raja,f,orangutan,4,2,mesh,different,hq,0.0
+tauzin2020context,3,raja,f,orangutan,4,3,mesh,different,lq,0.0
+tauzin2020context,3,raja,f,orangutan,4,4,mesh,same,lq,0.0
+tauzin2020context,3,raja,f,orangutan,4,5,mesh,same,hq,0.0
+tauzin2020context,3,raja,f,orangutan,4,6,mesh,same,lq,0.0
+tauzin2020context,3,raja,f,orangutan,4,7,mesh,different,hq,0.0
+tauzin2020context,3,raja,f,orangutan,4,8,mesh,different,hq,0.0
+tauzin2020context,3,raja,f,orangutan,4,9,mesh,different,lq,1.0
+tauzin2020context,3,raja,f,orangutan,4,10,mesh,same,lq,1.0
+tauzin2020context,3,raja,f,orangutan,4,11,mesh,same,hq,0.0
+tauzin2020context,3,raja,f,orangutan,4,12,mesh,same,hq,1.0
+tauzin2020context,3,suaq,m,orangutan,1,1,3 hole,different,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,1,2,3 hole,different,hq,1.0
+tauzin2020context,3,suaq,m,orangutan,1,3,3 hole,different,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,1,4,3 hole,different,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,1,5,3 hole,different,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,1,6,3 hole,different,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,1,7,3 hole,same,lq,1.0
+tauzin2020context,3,suaq,m,orangutan,1,8,3 hole,same,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,1,9,3 hole,same,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,1,10,3 hole,same,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,1,11,3 hole,same,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,1,12,3 hole,same,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,2,1,mesh,same,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,2,2,mesh,same,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,2,3,mesh,same,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,2,4,mesh,different,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,2,5,mesh,different,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,2,6,mesh,different,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,2,7,mesh,same,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,2,8,mesh,same,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,2,9,mesh,same,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,2,10,mesh,different,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,2,11,mesh,different,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,2,12,mesh,different,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,3,1,3 hole,different,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,3,2,3 hole,different,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,3,3,3 hole,different,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,3,4,3 hole,same,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,3,5,3 hole,same,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,3,6,3 hole,same,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,3,7,3 hole,same,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,3,8,3 hole,same,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,3,9,3 hole,same,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,3,10,3 hole,different,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,3,11,3 hole,different,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,3,12,3 hole,different,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,4,1,mesh,different,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,4,2,mesh,different,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,4,3,mesh,different,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,4,4,mesh,same,lq,1.0
+tauzin2020context,3,suaq,m,orangutan,4,5,mesh,same,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,4,6,mesh,same,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,4,7,mesh,different,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,4,8,mesh,different,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,4,9,mesh,different,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,4,10,mesh,same,lq,0.0
+tauzin2020context,3,suaq,m,orangutan,4,11,mesh,same,hq,0.0
+tauzin2020context,3,suaq,m,orangutan,4,12,mesh,same,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,1,1,3 hole,same,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,1,2,3 hole,same,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,1,3,3 hole,same,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,1,4,3 hole,different,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,1,5,3 hole,different,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,1,6,3 hole,different,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,1,7,3 hole,same,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,1,8,3 hole,same,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,1,9,3 hole,same,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,1,10,3 hole,different,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,1,11,3 hole,different,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,1,12,3 hole,different,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,2,1,mesh,different,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,2,2,mesh,different,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,2,3,mesh,different,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,2,4,mesh,different,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,2,5,mesh,different,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,2,6,mesh,different,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,2,7,mesh,same,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,2,8,mesh,same,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,2,9,mesh,same,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,2,10,mesh,same,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,2,11,mesh,same,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,2,12,mesh,same,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,3,1,3 hole,different,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,3,2,3 hole,different,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,3,3,3 hole,different,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,3,4,3 hole,same,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,3,5,3 hole,same,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,3,6,3 hole,same,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,3,7,3 hole,different,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,3,8,3 hole,different,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,3,9,3 hole,different,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,3,10,3 hole,same,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,3,11,3 hole,same,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,3,12,3 hole,same,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,4,1,mesh,different,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,4,2,mesh,different,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,4,3,mesh,different,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,4,4,mesh,same,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,4,5,mesh,same,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,4,6,mesh,same,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,4,7,mesh,same,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,4,8,mesh,same,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,4,9,mesh,same,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,4,10,mesh,different,hq,0.0
+tauzin2020context,3,tanah,f,orangutan,4,11,mesh,different,lq,0.0
+tauzin2020context,3,tanah,f,orangutan,4,12,mesh,different,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,1,1,mesh,same,lq,0.0
+tauzin2020context,3,yasa,f,bonobo,1,2,mesh,same,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,1,3,mesh,same,lq,0.0
+tauzin2020context,3,yasa,f,bonobo,1,4,mesh,same,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,1,5,mesh,same,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,1,6,mesh,same,lq,0.0
+tauzin2020context,3,yasa,f,bonobo,1,7,mesh,different,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,1,8,mesh,different,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,1,9,mesh,different,lq,0.0
+tauzin2020context,3,yasa,f,bonobo,1,10,mesh,different,lq,0.0
+tauzin2020context,3,yasa,f,bonobo,1,11,mesh,different,lq,0.0
+tauzin2020context,3,yasa,f,bonobo,1,12,mesh,different,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,2,1,3 hole,same,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,2,2,3 hole,same,lq,0.0
+tauzin2020context,3,yasa,f,bonobo,2,3,3 hole,same,lq,0.0
+tauzin2020context,3,yasa,f,bonobo,2,4,3 hole,same,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,2,5,3 hole,same,lq,0.0
+tauzin2020context,3,yasa,f,bonobo,2,6,3 hole,same,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,2,7,3 hole,same,lq,0.0
+tauzin2020context,3,yasa,f,bonobo,2,8,3 hole,different,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,2,9,3 hole,different,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,2,10,3 hole,different,lq,0.0
+tauzin2020context,3,yasa,f,bonobo,2,11,3 hole,different,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,2,12,3 hole,different,lq,0.0
+tauzin2020context,3,yasa,f,bonobo,3,1,mesh,same,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,3,2,mesh,same,lq,1.0
+tauzin2020context,3,yasa,f,bonobo,3,3,mesh,same,hq,1.0
+tauzin2020context,3,yasa,f,bonobo,3,4,mesh,same,lq,1.0
+tauzin2020context,3,yasa,f,bonobo,3,5,mesh,same,hq,1.0
+tauzin2020context,3,yasa,f,bonobo,3,6,mesh,same,lq,1.0
+tauzin2020context,3,yasa,f,bonobo,3,7,mesh,different,hq,1.0
+tauzin2020context,3,yasa,f,bonobo,3,8,mesh,different,lq,1.0
+tauzin2020context,3,yasa,f,bonobo,3,9,mesh,different,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,3,10,mesh,different,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,3,11,mesh,different,lq,1.0
+tauzin2020context,3,yasa,f,bonobo,3,12,mesh,different,lq,1.0
+tauzin2020context,3,yasa,f,bonobo,4,1,3 hole,same,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,4,2,3 hole,same,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,4,3,3 hole,same,lq,0.0
+tauzin2020context,3,yasa,f,bonobo,4,4,3 hole,same,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,4,5,3 hole,same,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,4,6,3 hole,same,lq,0.0
+tauzin2020context,3,yasa,f,bonobo,4,7,3 hole,different,lq,0.0
+tauzin2020context,3,yasa,f,bonobo,4,8,3 hole,different,lq,0.0
+tauzin2020context,3,yasa,f,bonobo,4,9,3 hole,different,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,4,10,3 hole,different,hq,0.0
+tauzin2020context,3,yasa,f,bonobo,4,11,3 hole,different,lq,0.0
+tauzin2020context,3,yasa,f,bonobo,4,12,3 hole,different,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,1,1,mesh,same,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,1,2,mesh,same,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,1,3,mesh,same,lq,1.0
+tauzin2020context,3,jasongo,m,bonobo,1,4,mesh,same,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,1,5,mesh,same,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,1,6,mesh,same,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,1,7,mesh,different,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,1,8,mesh,different,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,1,9,mesh,different,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,1,10,mesh,different,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,1,11,mesh,different,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,1,12,mesh,different,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,2,1,3 hole,same,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,2,2,3 hole,same,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,2,3,3 hole,same,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,2,4,3 hole,same,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,2,5,3 hole,same,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,2,6,3 hole,same,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,2,7,3 hole,different,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,2,8,3 hole,different,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,2,9,3 hole,different,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,2,10,3 hole,different,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,2,11,3 hole,different,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,2,12,3 hole,different,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,3,1,mesh,same,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,3,2,mesh,same,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,3,3,mesh,same,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,3,4,mesh,same,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,3,5,mesh,same,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,3,6,mesh,same,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,3,7,mesh,different,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,3,8,mesh,different,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,3,9,mesh,different,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,3,10,mesh,same,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,3,11,mesh,same,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,3,12,mesh,same,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,4,1,3 hole,same,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,4,2,3 hole,same,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,4,3,3 hole,same,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,4,4,3 hole,same,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,4,5,3 hole,same,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,4,6,3 hole,same,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,4,7,3 hole,different,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,4,8,3 hole,different,lq,1.0
+tauzin2020context,3,jasongo,m,bonobo,4,9,3 hole,different,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,4,10,3 hole,different,lq,0.0
+tauzin2020context,3,jasongo,m,bonobo,4,11,3 hole,different,hq,0.0
+tauzin2020context,3,jasongo,m,bonobo,4,12,3 hole,different,hq,0.0
+tauzin2020context,3,zira,f,chimpanzee,1,1,mesh,different,hq,0.0
+tauzin2020context,3,zira,f,chimpanzee,1,2,mesh,different,hq,0.0
+tauzin2020context,3,zira,f,chimpanzee,1,3,mesh,different,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,1,4,mesh,different,hq,1.0
+tauzin2020context,3,zira,f,chimpanzee,1,5,mesh,different,hq,0.0
+tauzin2020context,3,zira,f,chimpanzee,1,6,mesh,different,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,1,7,mesh,same,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,1,8,mesh,same,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,1,9,mesh,same,hq,0.0
+tauzin2020context,3,zira,f,chimpanzee,1,10,mesh,same,hq,0.0
+tauzin2020context,3,zira,f,chimpanzee,1,11,mesh,same,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,1,12,mesh,same,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,2,1,3 hole,same,lq,1.0
+tauzin2020context,3,zira,f,chimpanzee,2,2,3 hole,same,hq,0.0
+tauzin2020context,3,zira,f,chimpanzee,2,3,3 hole,same,lq,1.0
+tauzin2020context,3,zira,f,chimpanzee,2,4,3 hole,different,hq,0.0
+tauzin2020context,3,zira,f,chimpanzee,2,5,3 hole,different,hq,1.0
+tauzin2020context,3,zira,f,chimpanzee,2,6,3 hole,different,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,2,7,3 hole,same,hq,0.0
+tauzin2020context,3,zira,f,chimpanzee,2,8,3 hole,same,hq,0.0
+tauzin2020context,3,zira,f,chimpanzee,2,9,3 hole,same,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,2,10,3 hole,different,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,2,11,3 hole,different,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,2,12,3 hole,different,hq,0.0
+tauzin2020context,3,zira,f,chimpanzee,3,1,mesh,different,hq,0.0
+tauzin2020context,3,zira,f,chimpanzee,3,2,mesh,different,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,3,3,mesh,different,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,3,4,mesh,same,hq,0.0
+tauzin2020context,3,zira,f,chimpanzee,3,5,mesh,same,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,3,6,mesh,same,hq,1.0
+tauzin2020context,3,zira,f,chimpanzee,3,7,mesh,same,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,3,8,mesh,same,hq,0.0
+tauzin2020context,3,zira,f,chimpanzee,3,9,mesh,same,hq,0.0
+tauzin2020context,3,zira,f,chimpanzee,3,10,mesh,different,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,3,11,mesh,different,hq,0.0
+tauzin2020context,3,zira,f,chimpanzee,3,12,mesh,different,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,4,1,3 hole,different,hq,0.0
+tauzin2020context,3,zira,f,chimpanzee,4,2,3 hole,different,hq,0.0
+tauzin2020context,3,zira,f,chimpanzee,4,3,3 hole,different,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,4,4,3 hole,same,hq,0.0
+tauzin2020context,3,zira,f,chimpanzee,4,5,3 hole,same,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,4,6,3 hole,same,hq,0.0
+tauzin2020context,3,zira,f,chimpanzee,4,7,3 hole,different,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,4,8,3 hole,different,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,4,9,3 hole,different,hq,0.0
+tauzin2020context,3,zira,f,chimpanzee,4,10,3 hole,same,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,4,11,3 hole,same,lq,0.0
+tauzin2020context,3,zira,f,chimpanzee,4,12,3 hole,same,hq,0.0

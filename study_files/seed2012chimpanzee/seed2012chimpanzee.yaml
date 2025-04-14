@@ -1,0 +1,85 @@
+study_id: seed2012chimpanzee
+year: 2012
+reference: 'Seed, A., Seddon, E., Greene, B., & Call, J. (2012). Chimpanzee ''folk
+  physics'': bringing failures into focus. Philosophical Transactions of the Royal
+  Society of London. Series B, Biological Sciences, 367(1603), 2743-2752. doi:10.1098/rstb.2012.0222.'
+abstract: Differences between individuals are the raw material from which theories
+  of the evolution and ontogeny of cognition are built. For example, when 4-year-old
+  children pass a test requiring them to communicate the content of another's falsely
+  held belief, while 3-year-olds fail, we know that something must change over the
+  course of the third year of life. In the search for what develops or evolves, the
+  typical route is to probe the extents and limits of successful individuals' ability.
+  Another is to focus on those that failed, and find out what difference or lack prevented
+  them from passing the task. Recent research in developmental psychology has harnessed
+  individual differences to illuminate the cognitive mechanisms that emerge to enable
+  success. We apply this approach to explaining some of the failures made by chimpanzees
+  when using tools to solve problems. Twelve of 16 chimpanzees failed to discriminate
+  between a complete and a broken tool when, after being set down, the ends of the
+  broken one were aligned in front of them. There was a correlation between performance
+  on this aligned task and another in which after being set down, the centre of both
+  tools was covered, suggesting that the limiting factor was not the representation
+  of connection, but memory or attention. Some chimpanzees that passed the aligned
+  task passed a task in which the location of the broken tool was never visible but
+  had to be inferred.
+keywords: chimpanzees, tool-use, representation, executive function
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Amanda Seed
+  corr_author: true
+- author_no: 2
+  name: Eleanor Seddon
+  corr_author: false
+- author_no: 3
+  name: Blathnaid Greene
+  corr_author: false
+- author_no: 4
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: tool_features_and_functions
+cognitive_domain:
+  social: false
+  physical: true

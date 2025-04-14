@@ -1,0 +1,15 @@
+column_name,description
+study_id,personal study ID composed by the first authors’ first surname_year of publication_first title word 
+experiment,number of experiment from publication 
+participant,name of the participant 
+sex,sex of the participant 
+species,species of individuals participating in the study -bonobo/chimpanzee/gorilla/orangutan 
+session,set of trials - mostly occurring on the same day - usually numerical 
+trial,presentation of the experiment to the participants - usually numerical 
+condition,lq blocked = low quality food item (carrot) is behind the intact part of plexiglas panel (i.e. not behind a hole)/hq blocked = high quality food item (grape) is behind the intact part of plexiglas panel (i.e. not behind a hole)
+position_hole,the location of the hole( left right or middle)
+hq_food,side of high quality food item (grape)/ left or right
+indicated,did the participant indicate the high quality food item or the low quality food item( High quality = 1/ low quality = 0)
+bent,did the participant perform a bent pointing (inserting the finger in a pointing hole and bending the finger to point at a a food item which is not directly behind the pointing hole) 1 = yes/ 0 = no
+plexi,did the participant point from behind the plexiglas panel (instead of using one of the pointing holes) 1 = yes/ 0 = no
+modified_point,did the participant produce a modified point (bent of from behind the plexiglas panel) 1 = yes/ 0 = no

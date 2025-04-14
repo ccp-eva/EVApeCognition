@@ -1,0 +1,79 @@
+study_id: volter2014younger
+year: 2014
+reference: Völter, C. J., & Call, J. (2014). Younger apes and human children plan
+  their moves in a maze task. Cognition, 130(2), 186-203. doi:10.1016/j.cognition.2013.10.007.
+abstract: Planning defined as the predetermination of a sequence of actions towards
+  some goal is crucial for complex problem solving. To shed light on the evolution
+  of executive functions, we investigated the ontogenetic and phylogenetic origins
+  of planning. Therefore, we presented all four great apes species (N = 12) as well
+  as 4- and 5-year-old human preschoolers (N = 24) with a vertical maze task. To gain
+  a reward placed on the uppermost level of the maze, subjects had to move the reward
+  to the bottom through open gaps situated at each level of the maze. In total, there
+  were ten gaps located over three of the maze’s levels, and free passage through
+  these gaps could be flexibly blocked using multiple traps. Due to the decision tree
+  design of the maze, the subjects had to plan their actions depending on the trap
+  configuration up to two steps ahead to successfully retrieve the reward. We found
+  that (1) our measure of planning was negatively correlated with age in nonhuman
+  apes, (2) younger apes as well as 5-year-old children planned their moves up to
+  two steps ahead whereas 4-year-olds were limited to plan one step ahead, and (3)
+  similar performance but different underlying limitations between apes and children.
+  Namely, while all species of nonhuman apes were limited by a lack of motor control,
+  human children exhibited a shortage in shifting their attention across a sequence
+  of subgoals.
+keywords: Primates, Planning, Problem solving, Executive functions, Aging, Inhibitory
+  control
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Christoph Volter
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: false
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: space_and_objects
+  specific_domain: manual_detours_mazes_and_virtual_navigation
+cognitive_domain:
+  social: false
+  physical: true

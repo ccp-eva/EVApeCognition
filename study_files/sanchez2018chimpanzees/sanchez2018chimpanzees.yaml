@@ -1,0 +1,58 @@
+study_id: sanchez2018chimpanzees
+year: 2018
+reference: 'Sanchez-Amaro, A., Duguid, S., Call, J., & Tomasello, M. (2018). Chimpanzees’
+  understanding of social leverage. PLoS One, 13(12): e0207868. doi:10.1371/journal.pone.0207868.'
+abstract: 'Social primates can influence others through the control of resources.
+  For instance, dominant male chimpanzees might allow subordinates access to mate
+  with females in exchange for social support. However, little is known about how
+  chimpanzees strategically use a position of leverage to maximize their own benefits.
+  We address this question by presenting dyads of captive chimpanzee (N = 6) with
+  a task resulting in an unequal reward distribution. To gain the higher reward each
+  individual should wait for their partner to act. In addition, one participant had
+  leverage: access to an alternative secure reward. By varying the presence and value
+  of the leverage we tested whether individuals used it strategically (e.g. by waiting
+  longer for partners to act when they had leverage in the form of alternatives).
+  Additionally, non-social controls served to show if chimpanzees understood the social
+  dilemma. We measured the likelihood to choose the leverage and their latencies to
+  act. The final decision made by the chimpanzees did not differ as a function of
+  condition (test versus non-social control) or the value of the leverage, but they
+  did wait longer to act when the leverage was smaller—particularly in test (versus
+  non-social control) trials suggesting that they understood the conflict of interest
+  involved. The chimpanzees thus recognized the existence of social leverage, but
+  did not use it strategically to maximize their rewards.'
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Alejandro Sanchez-Amaro
+  corr_author: true
+- author_no: 2
+  name: Shona Duguid
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+- author_no: 4
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: dyads
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2017'
+  data_collection_date_comments: 2017/05/29 to 2017/10/18
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: collaboration
+cognitive_domain:
+  social: true
+  physical: false

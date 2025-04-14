@@ -1,0 +1,61 @@
+study_id: tennie2019chimpanzees
+year: 2019
+reference: Tennie, C., Völter, C. J., Vonau, V., Hanus, D., Call, J., & Tomasello,
+  M. (2019). Chimpanzees use observed temporal directionality to learn novel causal
+  relations (advance online). Primates. doi:10.1007/s10329-019-00754-9.
+abstract: We investigated whether chimpanzees use the temporal sequence of external
+  events to determine causation. Seventeen chimpanzees (Pan troglodytes) witnessed
+  a human experimenter press a button in two different conditions. When she pressed
+  the “causal button” the delivery of juice and a sound immediately followed (cause-then-effect).
+  In contrast, she pressed the “non-causal button” only after the delivery of juice
+  and sound (effect-then-cause). When given the opportunity to produce the desired
+  juice delivery themselves, the chimpanzees preferentially pressed the causal button,
+  i.e., the one that preceded the effect. Importantly, they did so in their first
+  test trial and even though both buttons were equally associated with juice delivery.
+  This outcome suggests that chimpanzees, like human children, do not rely solely
+  on their own actions to make use of novel causal relations, but they can learn causal
+  sequences based on observation alone. We discuss these findings in relation to the
+  literature on causal inferences as well as associative learning.
+keywords: Causal cognition, Social learning, Chimpanzees, Action representation, Simultaneous
+  conditioning, Primate cognition
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Claudio Tennie
+  corr_author: true
+- author_no: 2
+  name: Christoph J. Völter
+  corr_author: false
+- author_no: 3
+  name: Victoria Vonau
+  corr_author: false
+- author_no: 4
+  name: Daniel Hanus
+  corr_author: false
+- author_no: 5
+  name: Josep Call
+  corr_author: false
+- author_no: 6
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 5
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: causal_inferences
+cognitive_domain:
+  social: false
+  physical: true

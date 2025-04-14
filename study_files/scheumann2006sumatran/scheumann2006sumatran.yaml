@@ -1,0 +1,68 @@
+study_id: scheumann2006sumatran
+year: 2006
+reference: Scheumann, M., & Call, J. (2006). Sumatran orangutans (Pongo abelii) and
+  a yellow-cheeked crested gibbon (Nomascus gabriellae) know what is where. International
+  Journal of Primatology, 27(2), 575-602. doi:10.1007/s10764-006-9024-5.
+abstract: In their natural habitats orangutans and gibbons have to solve spatial problems
+  to find enough food, which is distributed over large areas and available at different
+  times of the year. Therefore both species should evolve spatial memory skills to
+  remember spatial locations and their content. We conducted 2 studies in a 1900-m2
+  naturalistic outdoor enclosure. In the 1st study, we hid kiwi pieces in 10 different
+  locations and placed kiwi pieces in a visible location. Individuals of both species
+  approached significantly more food locations in the test condition than in the control
+  condition in which no food was hidden. In the 2nd study, we hid 2 types of food
+  in 10 different locations so that individuals had to remember which food type was
+  where. We hid bananas on trees (banana condition) and grapes under bamboo shrubs
+  (grape condition). We also placed oranges in full view (control condition) to rule
+  out the possibility that finding food may automatically trigger an indiscriminate
+  search. Individuals approached the banana locations more often in the banana than
+  in the other 2 conditions. Some orangutans, but not the gibbon, also approached
+  the grape locations more often in the grape than in the other 2 conditions. Individuals
+  often returned to locations in which they previously found food and rarely revisited
+  locations in the same session. We detected little influence of the food quantity
+  and no influence of the distance to each location on the subjects' foraging behavior.
+keywords: foraging, gibbon, orangutan, spatial memory
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Martina Scheumann
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: groups
+  droupouts_no: 2
+  dropout_names: null
+  group_id: wkprc_orangutan, wkprc_gibbon
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 2002
+  data_collection_date_comments: We conducted the experiment from June 5, 2002 until
+    August 7, 2002
+  age_source: publication
+  age_source_comments: mini age is approximation
+- experiment_no: 2
+  data_provided: true
+  grouping: groups
+  droupouts_no: 2
+  dropout_names: Dunja,
+  group_id: wkprc_orangutan, wkprc_gibbon
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 2002
+  data_collection_date_comments: The experiment took place in the same outdoor area
+    as the previous experiment from August 19, 2002 until October 18, 2002
+  age_source: publication
+  age_source_comments: mini age is approximation
+domains:
+- domain_no: 1
+  general_domain: space_and_objects
+  specific_domain: travel_and_spatial_memory
+cognitive_domain:
+  social: false
+  physical: true

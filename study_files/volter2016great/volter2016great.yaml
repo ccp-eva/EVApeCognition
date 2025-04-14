@@ -1,0 +1,100 @@
+study_id: volter2016great
+year: 2016
+reference: Völter, C. J., Sentís, I., & Call, J. (2016). Great apes and children infer
+  causal relations from patterns of variation and covariation. Cognition, 155, 30-43.
+  doi:10.1016/j.cognition.2016.06.009.
+abstract: We investigated whether nonhuman great apes (N = 23), 2.5-year-old (N =
+  20), and 3-year-old children (N = 40) infer causal relations from patterns of variation
+  and covariation by adapting the blicket detector paradigm for apes. We presented
+  chimpanzees (Pan troglodytes), bonobos (Pan paniscus), orangutans (Pongo abelii),
+  gorillas (Gorilla gorilla), and children (Homo sapiens) with a novel reward dispenser,
+  the blicket detector. The detector was activated by inserting specific (yet randomly
+  determined) objects, the so-called blickets. Once activated a reward was released,
+  accompanied by lights and a short tone. Participants were shown different patterns
+  of variation and covariation between two different objects and the activation of
+  the detector. When subsequently choosing between one of the two objects to activate
+  the detector on their own all species, except gorillas (who failed the training),
+  took these patterns of correlation into account. In particular, apes and 2.5-year-old
+  children ignored objects whose effect on the detector completely depended on the
+  presence of another object. Follow-up experiments explored whether the apes and
+  children were also able to re-evaluate evidence retrospectively. Only children (3-year-olds
+  in particular) were able to make such retrospective inferences about causal structures
+  from observing the effects of the experimenter’s actions. Apes succeeded here only
+  when they observed the effects of their own interventions. Together, this study
+  provides evidence that apes, like young children, accurately infer causal structures
+  from patterns of (co)variation and that they use this information to inform their
+  own interventions.
+keywords: Primate cognition, Observational causal learning, Problem solving, Blicket
+  detector, Comparative cognition
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Christoph Volter
+  corr_author: true
+- author_no: 2
+  name: Inés Sentís
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: partial
+  grouping: null
+  droupouts_no: 15
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b wkprc_orangutan,
+    wkprc_gorilla
+  group_id_excluded: leipzig_children
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: partial
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_orangutan,
+  group_id_excluded: leipzig_children
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: true
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_orangutan,
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 4
+  data_provided: true
+  grouping: null
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_orangutan,
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: causal_inferences
+cognitive_domain:
+  social: false
+  physical: true

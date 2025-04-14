@@ -1,0 +1,77 @@
+study_id: volter2019chimpanzees
+year: 2019
+reference: 'Völter, C. J., Mundry, R., Call, J., & Seed, A. M. (2019). Chimpanzees
+  flexibly update working memory contents and show susceptibility to distraction in
+  the self-ordered search task. Proceedings of the Royal Society B: Biological Sciences,
+  286(1907): 20190715. doi:10.1098/rspb.2019.0715.'
+abstract: 'Working memory (WM) is a core executive function that allows individuals
+  to hold, process and manipulate information. WM capacity has been repeatedly nominated
+  as a key factor in human cognitive evolution; nevertheless, little is known about
+  the WM abilities of our closest primate relatives. In this study, we examined signatures
+  of WM ability in chimpanzees (Pan troglodytes). Standard WM tasks for humans (Homo
+  sapiens) often require participants to continuously update their WM. In Experiment
+  1, we implemented this updating requirement in a foraging situation: zoo-housed
+  chimpanzees (n = 13) searched for food in an array of containers. To avoid redundant
+  searches, they needed to continuously update which containers they had already visited
+  (similar to WM paradigms for human children) with 15 s retention intervals in between
+  each choice. We examined chimpanzees'' WM capacity and to what extent they used
+  spatial cues and object features to memorize their previous choices. In Experiment
+  2, we investigated how susceptible their WM was to attentional interference, an
+  important signature, setting WM in humans apart from long-term memory. We found
+  large individual differences with some individuals remembering at least their last
+  four choices. Chimpanzees used a combination of spatial cues and object features
+  to remember which boxes they had chosen already. Moreover, their performance decreased
+  specifically when competing memory information was introduced. Finally, we found
+  that individual differences in task performance were highly reliable over time.
+  Together, these findings show remarkable similarities between human and chimpanzee
+  WM abilities despite evolutionary and life-history differences.'
+keywords: short-term memory, working memory, chimpanzees, executive functions, primate
+  cognition, cognitive control
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Christoph Volter
+  corr_author: true
+- author_no: 2
+  name: Roger Mundry
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+- author_no: 4
+  name: Amanda M. Seed
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 4
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: null
+  droupouts_no: 1
+  dropout_names: Robert
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: space_and_objects
+  specific_domain: search_in_manipulative_space
+cognitive_domain:
+  social: false
+  physical: true

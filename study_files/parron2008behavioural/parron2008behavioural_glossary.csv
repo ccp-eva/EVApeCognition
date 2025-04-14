@@ -1,0 +1,15 @@
+column_name,description
+study_id,personal study ID composed by the first authors’ first surname_year of publication_first title word 
+year,year the data point was obtained  
+month,month the data point was obtained 
+day,day of the month the data point was obtained 
+participant,name of the participant 
+age_in_years,age presented in years – see metadata for source of age
+sex,sex of the participant 
+species,species of individuals participating in the study – chimpanzee / gorilla 
+trial,presentation of the experiment to the participants – 1 /2/3/4/ training (for gorilla participants)
+left,the object or picture  on the left side - banana  / photo_banana /pebble/  photo_pebble / (p or b in the training session)
+right,the object or picture  on the right side -banana  / photo_banana /pebble/  photo_pebble / (p or b in the training session)
+choice,choice participants made - banana/ photo_banana /pebble/  photo_pebble / ( / =  did not point)
+notes,notes on the choices participant made e.g. did_not_point/ did_not_take_it
+comment, author provided notes

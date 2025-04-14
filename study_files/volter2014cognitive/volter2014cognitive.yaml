@@ -1,0 +1,94 @@
+study_id: volter2014cognitive
+year: 2014
+reference: 'Völter, C. J., & Call, J. (2014). The cognitive underpinnings of flexible
+  tool use in great apes. Journal of Experimental Psychology: Animal Learning and
+  Cognition, 40(3), 287-302. doi:10.1037/xan0000025.'
+abstract: Nonhuman primates perform poorly in trap tasks, a benchmark test of causal
+  knowledge in nonhuman animals. However, recent evidence suggests that when the confound
+  of tool use is avoided, great apes’ performance improves dramatically. In the present
+  study, we examined the cognitive underpinnings of tool use that contribute to apes’
+  poor performance in trap tasks. We presented chimpanzees (Pan troglodytes), bonobos
+  (Pan paniscus), and orangutans (Pongo abelii) with different versions of a maze-like
+  multilevel trap task. We manipulated whether the apes had to use their fingers or
+  a stick to negotiate a reward through the maze. Furthermore, we varied whether the
+  apes obtained visual information about the functionality of the traps (i.e., blockage
+  of free passage) or only arbitrary color stimuli indicating the location of the
+  traps. We found that (a) apes in the finger-maze task outperformed apes in the tool-use-maze
+  task (and partially planned their moves multiple steps ahead), and (b) tool-using
+  apes failed to learn to avoid the traps and performed similar to apes that did not
+  obtain functional information about the traps. Follow-up experiments with apes that
+  already learned to avoid the traps showed that tool use or the color cues per se
+  did not pose a problem for experienced apes. These results suggest that simultaneously
+  monitoring 2 spatial relations (the tool-reward and reward-surface relation) might
+  overstrain apes’ cognitive system. Thus, trap tasks involving tool use might constitute
+  a dual task loading on the same cognitive resources; a candidate for these shared
+  resources is the attentional system.
+keywords: primate cognition, tool use, dual task, causality, planning
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Christoph Volter
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 4
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: tool_features_and_functions
+cognitive_domain:
+  social: false
+  physical: true

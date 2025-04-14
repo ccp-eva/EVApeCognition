@@ -1,0 +1,756 @@
+﻿study_id,experiment,participant,sex,species,session,trial,condition,food_position_center,lateral_point
+tauzin2020context,2,abeeku,m,gorilla,1,1,mesh,hq_front,1.0
+tauzin2020context,2,abeeku,m,gorilla,1,2,mesh,lq_front,1.0
+tauzin2020context,2,abeeku,m,gorilla,1,3,mesh,lq_front,1.0
+tauzin2020context,2,abeeku,m,gorilla,1,4,mesh,nothing_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,1,5,mesh,nothing_front,1.0
+tauzin2020context,2,abeeku,m,gorilla,1,6,mesh,hq_front,1.0
+tauzin2020context,2,abeeku,m,gorilla,1,7,mesh,lq_front,1.0
+tauzin2020context,2,abeeku,m,gorilla,1,8,mesh,nothing_front,1.0
+tauzin2020context,2,abeeku,m,gorilla,1,9,mesh,hq_front,1.0
+tauzin2020context,2,abeeku,m,gorilla,1,10,mesh,lq_front,1.0
+tauzin2020context,2,abeeku,m,gorilla,1,11,mesh,nothing_front,1.0
+tauzin2020context,2,abeeku,m,gorilla,1,12,mesh,hq_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,2,1,intact,nothing_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,2,2,intact,lq_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,2,3,intact,lq_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,2,4,intact,hq_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,2,5,intact,nothing_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,2,6,intact,hq_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,2,7,intact,hq_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,2,8,intact,nothing_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,2,9,intact,lq_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,2,10,intact,lq_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,2,11,intact,nothing_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,2,12,intact,hq_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,3,1,3 hole,lq_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,3,2,3 hole,hq_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,3,3,3 hole,nothing_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,3,4,3 hole,hq_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,3,5,3 hole,nothing_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,3,6,3 hole,lq_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,3,7,3 hole,hq_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,3,8,3 hole,nothing_front,1.0
+tauzin2020context,2,abeeku,m,gorilla,3,9,3 hole,nothing_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,3,10,3 hole,lq_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,3,11,3 hole,hq_front,0.0
+tauzin2020context,2,abeeku,m,gorilla,3,12,3 hole,lq_front,0.0
+tauzin2020context,2,alex,m,chimpanzee,1,1,mesh,hq_front,0.0
+tauzin2020context,2,alex,m,chimpanzee,1,2,mesh,lq_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,1,3,mesh,nothing_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,1,4,mesh,nothing_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,1,5,mesh,hq_front,0.0
+tauzin2020context,2,alex,m,chimpanzee,1,6,mesh,lq_front,0.0
+tauzin2020context,2,alex,m,chimpanzee,1,7,mesh,lq_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,1,8,mesh,hq_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,1,9,mesh,hq_front,0.0
+tauzin2020context,2,alex,m,chimpanzee,1,10,mesh,lq_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,1,11,mesh,nothing_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,1,12,mesh,nothing_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,2,1,intact,lq_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,2,2,intact,nothing_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,2,3,intact,hq_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,2,4,intact,hq_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,2,5,intact,lq_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,2,6,intact,nothing_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,2,7,intact,hq_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,2,8,intact,nothing_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,2,9,intact,nothing_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,2,10,intact,lq_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,2,11,intact,hq_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,2,12,intact,lq_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,3,1,3 hole,nothing_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,3,2,3 hole,nothing_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,3,3,3 hole,lq_front,1.0
+tauzin2020context,2,alex,m,chimpanzee,3,4,3 hole,hq_front,0.0
+tauzin2020context,2,alex,m,chimpanzee,3,5,3 hole,hq_front,0.0
+tauzin2020context,2,alex,m,chimpanzee,3,6,3 hole,lq_front,0.0
+tauzin2020context,2,alex,m,chimpanzee,3,7,3 hole,lq_front,0.0
+tauzin2020context,2,alex,m,chimpanzee,3,8,3 hole,nothing_front,0.0
+tauzin2020context,2,alex,m,chimpanzee,3,9,3 hole,hq_front,0.0
+tauzin2020context,2,alex,m,chimpanzee,3,10,3 hole,hq_front,0.0
+tauzin2020context,2,alex,m,chimpanzee,3,11,3 hole,nothing_front,0.0
+tauzin2020context,2,alex,m,chimpanzee,3,12,3 hole,lq_front,1.0
+tauzin2020context,2,bimbo,m,orangutan,1,1,mesh,hq_front,1.0
+tauzin2020context,2,bimbo,m,orangutan,1,2,mesh,nothing_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,1,3,mesh,nothing_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,1,4,mesh,lq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,1,5,mesh,hq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,1,6,mesh,lq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,1,7,mesh,lq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,1,8,mesh,nothing_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,1,9,mesh,hq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,1,10,mesh,lq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,1,11,mesh,nothing_front,1.0
+tauzin2020context,2,bimbo,m,orangutan,1,12,mesh,hq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,2,1,intact,hq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,2,2,intact,lq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,2,3,intact,hq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,2,4,intact,nothing_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,2,5,intact,lq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,2,6,intact,nothing_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,2,7,intact,hq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,2,8,intact,hq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,2,9,intact,nothing_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,2,10,intact,nothing_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,2,11,intact,lq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,2,12,intact,lq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,3,1,3 hole,lq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,3,2,3 hole,hq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,3,3,3 hole,hq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,3,4,3 hole,nothing_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,3,5,3 hole,lq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,3,6,3 hole,nothing_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,3,7,3 hole,hq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,3,8,3 hole,lq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,3,9,3 hole,nothing_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,3,10,3 hole,lq_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,3,11,3 hole,nothing_front,0.0
+tauzin2020context,2,bimbo,m,orangutan,3,12,3 hole,hq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,1,1,mesh,hq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,1,2,mesh,nothing_front,0.0
+tauzin2020context,2,dokana,f,orangutan,1,3,mesh,hq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,1,4,mesh,nothing_front,0.0
+tauzin2020context,2,dokana,f,orangutan,1,5,mesh,lq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,1,6,mesh,lq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,1,7,mesh,hq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,1,8,mesh,lq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,1,9,mesh,nothing_front,0.0
+tauzin2020context,2,dokana,f,orangutan,1,10,mesh,hq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,1,11,mesh,lq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,1,12,mesh,nothing_front,0.0
+tauzin2020context,2,dokana,f,orangutan,2,1,intact,lq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,2,2,intact,lq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,2,3,intact,nothing_front,0.0
+tauzin2020context,2,dokana,f,orangutan,2,4,intact,hq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,2,5,intact,nothing_front,0.0
+tauzin2020context,2,dokana,f,orangutan,2,6,intact,hq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,2,7,intact,hq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,2,8,intact,lq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,2,9,intact,hq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,2,10,intact,lq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,2,11,intact,nothing_front,0.0
+tauzin2020context,2,dokana,f,orangutan,2,12,intact,nothing_front,0.0
+tauzin2020context,2,dokana,f,orangutan,3,1,3 hole,hq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,3,2,3 hole,hq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,3,3,3 hole,lq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,3,4,3 hole,nothing_front,0.0
+tauzin2020context,2,dokana,f,orangutan,3,5,3 hole,lq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,3,6,3 hole,nothing_front,0.0
+tauzin2020context,2,dokana,f,orangutan,3,7,3 hole,lq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,3,8,3 hole,hq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,3,9,3 hole,lq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,3,10,3 hole,nothing_front,0.0
+tauzin2020context,2,dokana,f,orangutan,3,11,3 hole,hq_front,0.0
+tauzin2020context,2,dokana,f,orangutan,3,12,3 hole,nothing_front,0.0
+tauzin2020context,2,fimi,f,bonobo,1,1,mesh,lq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,1,2,mesh,nothing_front,1.0
+tauzin2020context,2,fimi,f,bonobo,1,3,mesh,nothing_front,0.0
+tauzin2020context,2,fimi,f,bonobo,1,4,mesh,hq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,1,5,mesh,lq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,1,6,mesh,hq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,1,7,mesh,hq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,1,8,mesh,nothing_front,0.0
+tauzin2020context,2,fimi,f,bonobo,1,9,mesh,lq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,1,10,mesh,lq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,1,11,mesh,nothing_front,0.0
+tauzin2020context,2,fimi,f,bonobo,1,12,mesh,hq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,2,1,intact,hq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,2,2,intact,lq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,2,3,intact,nothing_front,0.0
+tauzin2020context,2,fimi,f,bonobo,2,4,intact,nothing_front,0.0
+tauzin2020context,2,fimi,f,bonobo,2,5,intact,lq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,2,6,intact,hq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,2,7,intact,lq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,2,8,intact,lq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,2,9,intact,nothing_front,0.0
+tauzin2020context,2,fimi,f,bonobo,2,10,intact,hq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,2,11,intact,nothing_front,0.0
+tauzin2020context,2,fimi,f,bonobo,2,12,intact,hq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,3,1,3 hole,nothing_front,0.0
+tauzin2020context,2,fimi,f,bonobo,3,2,3 hole,lq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,3,3,3 hole,hq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,3,4,3 hole,hq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,3,5,3 hole,lq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,3,6,3 hole,nothing_front,0.0
+tauzin2020context,2,fimi,f,bonobo,3,7,3 hole,hq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,3,8,3 hole,hq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,3,9,3 hole,lq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,3,10,3 hole,nothing_front,0.0
+tauzin2020context,2,fimi,f,bonobo,3,11,3 hole,lq_front,0.0
+tauzin2020context,2,fimi,f,bonobo,3,12,3 hole,nothing_front,0.0
+tauzin2020context,2,frederike,f,chimpanzee,1,1,mesh,lq_front,1.0
+tauzin2020context,2,frederike,f,chimpanzee,1,2,mesh,hq_front,1.0
+tauzin2020context,2,frederike,f,chimpanzee,1,3,mesh,nothing_front,1.0
+tauzin2020context,2,frederike,f,chimpanzee,1,4,mesh,nothing_front,1.0
+tauzin2020context,2,frederike,f,chimpanzee,1,5,mesh,hq_front,1.0
+tauzin2020context,2,frederike,f,chimpanzee,1,6,mesh,lq_front,1.0
+tauzin2020context,2,frederike,f,chimpanzee,1,7,mesh,hq_front,1.0
+tauzin2020context,2,frederike,f,chimpanzee,1,8,mesh,lq_front,1.0
+tauzin2020context,2,frederike,f,chimpanzee,1,9,mesh,lq_front,1.0
+tauzin2020context,2,frederike,f,chimpanzee,1,10,mesh,nothing_front,1.0
+tauzin2020context,2,frederike,f,chimpanzee,1,11,mesh,nothing_front,1.0
+tauzin2020context,2,frederike,f,chimpanzee,1,12,mesh,hq_front,1.0
+tauzin2020context,2,frederike,f,chimpanzee,2,1,intact,hq_front,0.0
+tauzin2020context,2,frederike,f,chimpanzee,2,2,intact,nothing_front,1.0
+tauzin2020context,2,frederike,f,chimpanzee,2,3,intact,hq_front,0.0
+tauzin2020context,2,frederike,f,chimpanzee,2,4,intact,lq_front,0.0
+tauzin2020context,2,frederike,f,chimpanzee,2,5,intact,nothing_front,0.0
+tauzin2020context,2,frederike,f,chimpanzee,2,6,intact,lq_front,0.0
+tauzin2020context,2,frederike,f,chimpanzee,2,7,intact,hq_front,1.0
+tauzin2020context,2,frederike,f,chimpanzee,2,8,intact,nothing_front,1.0
+tauzin2020context,2,frederike,f,chimpanzee,2,9,intact,nothing_front,0.0
+tauzin2020context,2,frederike,f,chimpanzee,2,10,intact,lq_front,0.0
+tauzin2020context,2,frederike,f,chimpanzee,2,11,intact,hq_front,0.0
+tauzin2020context,2,frederike,f,chimpanzee,2,12,intact,lq_front,0.0
+tauzin2020context,2,frederike,f,chimpanzee,3,1,3 hole,nothing_front,1.0
+tauzin2020context,2,frederike,f,chimpanzee,3,2,3 hole,lq_front,0.0
+tauzin2020context,2,frederike,f,chimpanzee,3,3,3 hole,hq_front,0.0
+tauzin2020context,2,frederike,f,chimpanzee,3,4,3 hole,hq_front,0.0
+tauzin2020context,2,frederike,f,chimpanzee,3,5,3 hole,nothing_front,0.0
+tauzin2020context,2,frederike,f,chimpanzee,3,6,3 hole,lq_front,0.0
+tauzin2020context,2,frederike,f,chimpanzee,3,7,3 hole,hq_front,0.0
+tauzin2020context,2,frederike,f,chimpanzee,3,8,3 hole,hq_front,0.0
+tauzin2020context,2,frederike,f,chimpanzee,3,9,3 hole,lq_front,0.0
+tauzin2020context,2,frederike,f,chimpanzee,3,10,3 hole,lq_front,0.0
+tauzin2020context,2,frederike,f,chimpanzee,3,11,3 hole,nothing_front,0.0
+tauzin2020context,2,frederike,f,chimpanzee,3,12,3 hole,nothing_front,0.0
+tauzin2020context,2,gemena,f,bonobo,1,1,mesh,hq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,1,2,mesh,lq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,1,3,mesh,nothing_front,0.0
+tauzin2020context,2,gemena,f,bonobo,1,4,mesh,lq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,1,5,mesh,nothing_front,0.0
+tauzin2020context,2,gemena,f,bonobo,1,6,mesh,hq_front,1.0
+tauzin2020context,2,gemena,f,bonobo,1,7,mesh,lq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,1,8,mesh,lq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,1,9,mesh,nothing_front,0.0
+tauzin2020context,2,gemena,f,bonobo,1,10,mesh,hq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,1,11,mesh,nothing_front,1.0
+tauzin2020context,2,gemena,f,bonobo,1,12,mesh,hq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,2,1,intact,lq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,2,2,intact,nothing_front,0.0
+tauzin2020context,2,gemena,f,bonobo,2,3,intact,lq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,2,4,intact,nothing_front,0.0
+tauzin2020context,2,gemena,f,bonobo,2,5,intact,hq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,2,6,intact,hq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,2,7,intact,nothing_front,0.0
+tauzin2020context,2,gemena,f,bonobo,2,8,intact,nothing_front,0.0
+tauzin2020context,2,gemena,f,bonobo,2,9,intact,hq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,2,10,intact,lq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,2,11,intact,hq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,2,12,intact,lq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,3,1,3 hole,nothing_front,0.0
+tauzin2020context,2,gemena,f,bonobo,3,2,3 hole,hq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,3,3,3 hole,lq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,3,4,3 hole,nothing_front,0.0
+tauzin2020context,2,gemena,f,bonobo,3,5,3 hole,hq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,3,6,3 hole,lq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,3,7,3 hole,hq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,3,8,3 hole,hq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,3,9,3 hole,nothing_front,0.0
+tauzin2020context,2,gemena,f,bonobo,3,10,3 hole,lq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,3,11,3 hole,lq_front,0.0
+tauzin2020context,2,gemena,f,bonobo,3,12,3 hole,nothing_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,1,1,mesh,lq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,1,2,mesh,hq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,1,3,mesh,lq_front,1.0
+tauzin2020context,2,hope,f,chimpanzee,1,4,mesh,hq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,1,5,mesh,nothing_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,1,6,mesh,nothing_front,1.0
+tauzin2020context,2,hope,f,chimpanzee,1,7,mesh,hq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,1,8,mesh,lq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,1,9,mesh,hq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,1,10,mesh,nothing_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,1,11,mesh,lq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,1,12,mesh,nothing_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,2,1,intact,hq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,2,2,intact,lq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,2,3,intact,nothing_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,2,4,intact,hq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,2,5,intact,nothing_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,2,6,intact,lq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,2,7,intact,nothing_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,2,8,intact,nothing_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,2,9,intact,lq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,2,10,intact,hq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,2,11,intact,lq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,2,12,intact,hq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,3,1,3 hole,nothing_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,3,2,3 hole,hq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,3,3,3 hole,lq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,3,4,3 hole,lq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,3,5,3 hole,hq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,3,6,3 hole,nothing_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,3,7,3 hole,hq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,3,8,3 hole,nothing_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,3,9,3 hole,lq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,3,10,3 hole,hq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,3,11,3 hole,lq_front,0.0
+tauzin2020context,2,hope,f,chimpanzee,3,12,3 hole,nothing_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,1,1,mesh,nothing_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,1,2,mesh,hq_front,1.0
+tauzin2020context,2,jeudi,f,chimpanzee,1,3,mesh,nothing_front,1.0
+tauzin2020context,2,jeudi,f,chimpanzee,1,4,mesh,lq_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,1,5,mesh,lq_front,1.0
+tauzin2020context,2,jeudi,f,chimpanzee,1,6,mesh,hq_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,1,7,mesh,hq_front,1.0
+tauzin2020context,2,jeudi,f,chimpanzee,1,8,mesh,nothing_front,1.0
+tauzin2020context,2,jeudi,f,chimpanzee,1,9,mesh,nothing_front,1.0
+tauzin2020context,2,jeudi,f,chimpanzee,1,10,mesh,lq_front,1.0
+tauzin2020context,2,jeudi,f,chimpanzee,1,11,mesh,lq_front,1.0
+tauzin2020context,2,jeudi,f,chimpanzee,1,12,mesh,hq_front,1.0
+tauzin2020context,2,jeudi,f,chimpanzee,2,1,intact,hq_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,2,2,intact,lq_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,2,3,intact,nothing_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,2,4,intact,hq_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,2,5,intact,nothing_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,2,6,intact,lq_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,2,7,intact,hq_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,2,8,intact,nothing_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,2,9,intact,nothing_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,2,10,intact,lq_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,2,11,intact,hq_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,3,1,3 hole,lq_front,1.0
+tauzin2020context,2,jeudi,f,chimpanzee,3,2,3 hole,hq_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,3,3,3 hole,hq_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,3,4,3 hole,nothing_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,3,5,3 hole,lq_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,3,6,3 hole,nothing_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,3,7,3 hole,hq_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,3,8,3 hole,lq_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,3,9,3 hole,nothing_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,3,10,3 hole,lq_front,1.0
+tauzin2020context,2,jeudi,f,chimpanzee,3,11,3 hole,hq_front,0.0
+tauzin2020context,2,jeudi,f,chimpanzee,3,12,3 hole,nothing_front,0.0
+tauzin2020context,2,joey,m,bonobo,1,1,mesh,hq_front,0.0
+tauzin2020context,2,joey,m,bonobo,1,2,mesh,hq_front,0.0
+tauzin2020context,2,joey,m,bonobo,1,3,mesh,lq_front,1.0
+tauzin2020context,2,joey,m,bonobo,1,4,mesh,nothing_front,1.0
+tauzin2020context,2,joey,m,bonobo,1,5,mesh,nothing_front,1.0
+tauzin2020context,2,joey,m,bonobo,1,6,mesh,lq_front,1.0
+tauzin2020context,2,joey,m,bonobo,1,7,mesh,lq_front,1.0
+tauzin2020context,2,joey,m,bonobo,1,8,mesh,hq_front,0.0
+tauzin2020context,2,joey,m,bonobo,1,9,mesh,nothing_front,1.0
+tauzin2020context,2,joey,m,bonobo,1,10,mesh,nothing_front,1.0
+tauzin2020context,2,joey,m,bonobo,1,11,mesh,lq_front,1.0
+tauzin2020context,2,joey,m,bonobo,1,12,mesh,hq_front,0.0
+tauzin2020context,2,joey,m,bonobo,2,1,intact,lq_front,0.0
+tauzin2020context,2,joey,m,bonobo,2,2,intact,hq_front,0.0
+tauzin2020context,2,joey,m,bonobo,2,3,intact,hq_front,0.0
+tauzin2020context,2,joey,m,bonobo,2,4,intact,nothing_front,0.0
+tauzin2020context,2,joey,m,bonobo,2,5,intact,lq_front,0.0
+tauzin2020context,2,joey,m,bonobo,2,6,intact,nothing_front,0.0
+tauzin2020context,2,joey,m,bonobo,2,7,intact,nothing_front,0.0
+tauzin2020context,2,joey,m,bonobo,2,8,intact,lq_front,0.0
+tauzin2020context,2,joey,m,bonobo,2,9,intact,hq_front,0.0
+tauzin2020context,2,joey,m,bonobo,2,10,intact,hq_front,0.0
+tauzin2020context,2,joey,m,bonobo,2,11,intact,lq_front,0.0
+tauzin2020context,2,joey,m,bonobo,2,12,intact,hq_front,0.0
+tauzin2020context,2,joey,m,bonobo,3,1,3 hole,nothing_front,0.0
+tauzin2020context,2,joey,m,bonobo,3,2,3 hole,lq_front,0.0
+tauzin2020context,2,joey,m,bonobo,3,3,3 hole,hq_front,0.0
+tauzin2020context,2,joey,m,bonobo,3,4,3 hole,hq_front,0.0
+tauzin2020context,2,joey,m,bonobo,3,5,3 hole,lq_front,0.0
+tauzin2020context,2,joey,m,bonobo,3,6,3 hole,nothing_front,0.0
+tauzin2020context,2,joey,m,bonobo,3,7,3 hole,nothing_front,0.0
+tauzin2020context,2,joey,m,bonobo,3,8,3 hole,hq_front,0.0
+tauzin2020context,2,joey,m,bonobo,3,9,3 hole,hq_front,0.0
+tauzin2020context,2,joey,m,bonobo,3,10,3 hole,lq_front,0.0
+tauzin2020context,2,joey,m,bonobo,3,11,3 hole,nothing_front,0.0
+tauzin2020context,2,joey,m,bonobo,3,12,3 hole,lq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,1,1,mesh,hq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,1,2,mesh,lq_front,1.0
+tauzin2020context,2,kibara,f,gorilla,1,3,mesh,nothing_front,0.0
+tauzin2020context,2,kibara,f,gorilla,1,4,mesh,lq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,1,5,mesh,hq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,1,6,mesh,nothing_front,1.0
+tauzin2020context,2,kibara,f,gorilla,1,7,mesh,hq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,1,8,mesh,lq_front,1.0
+tauzin2020context,2,kibara,f,gorilla,1,9,mesh,nothing_front,0.0
+tauzin2020context,2,kibara,f,gorilla,1,10,mesh,nothing_front,1.0
+tauzin2020context,2,kibara,f,gorilla,1,11,mesh,lq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,1,12,mesh,hq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,2,1,intact,nothing_front,0.0
+tauzin2020context,2,kibara,f,gorilla,2,2,intact,lq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,2,3,intact,hq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,2,4,intact,lq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,2,5,intact,nothing_front,0.0
+tauzin2020context,2,kibara,f,gorilla,2,6,intact,hq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,2,7,intact,nothing_front,0.0
+tauzin2020context,2,kibara,f,gorilla,2,8,intact,nothing_front,0.0
+tauzin2020context,2,kibara,f,gorilla,2,9,intact,hq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,2,10,intact,lq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,2,11,intact,hq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,2,12,intact,lq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,3,1,3 hole,lq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,3,2,3 hole,nothing_front,0.0
+tauzin2020context,2,kibara,f,gorilla,3,3,3 hole,hq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,3,4,3 hole,hq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,3,5,3 hole,lq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,3,6,3 hole,nothing_front,0.0
+tauzin2020context,2,kibara,f,gorilla,3,7,3 hole,hq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,3,8,3 hole,nothing_front,0.0
+tauzin2020context,2,kibara,f,gorilla,3,9,3 hole,lq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,3,10,3 hole,lq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,3,11,3 hole,hq_front,0.0
+tauzin2020context,2,kibara,f,gorilla,3,12,3 hole,nothing_front,0.0
+tauzin2020context,2,kumili,f,gorilla,1,1,mesh,hq_front,0.0
+tauzin2020context,2,kumili,f,gorilla,1,2,mesh,lq_front,0.0
+tauzin2020context,2,kumili,f,gorilla,1,3,mesh,hq_front,0.0
+tauzin2020context,2,kumili,f,gorilla,1,4,mesh,nothing_front,0.0
+tauzin2020context,2,kumili,f,gorilla,1,5,mesh,nothing_front,0.0
+tauzin2020context,2,kumili,f,gorilla,1,6,mesh,lq_front,0.0
+tauzin2020context,2,kumili,f,gorilla,1,7,mesh,lq_front,0.0
+tauzin2020context,2,kumili,f,gorilla,1,8,mesh,hq_front,0.0
+tauzin2020context,2,kumili,f,gorilla,1,9,mesh,nothing_front,0.0
+tauzin2020context,2,kumili,f,gorilla,1,10,mesh,lq_front,0.0
+tauzin2020context,2,kumili,f,gorilla,1,11,mesh,hq_front,0.0
+tauzin2020context,2,kumili,f,gorilla,1,12,mesh,nothing_front,0.0
+tauzin2020context,2,kumili,f,gorilla,2,1,intact,lq_front,0.0
+tauzin2020context,2,kumili,f,gorilla,2,2,intact,nothing_front,0.0
+tauzin2020context,2,kumili,f,gorilla,2,3,intact,hq_front,0.0
+tauzin2020context,2,kumili,f,gorilla,2,4,intact,nothing_front,0.0
+tauzin2020context,2,kumili,f,gorilla,2,5,intact,lq_front,0.0
+tauzin2020context,2,kumili,f,gorilla,2,6,intact,hq_front,0.0
+tauzin2020context,2,kumili,f,gorilla,2,7,intact,lq_front,0.0
+tauzin2020context,2,kumili,f,gorilla,2,8,intact,lq_front,0.0
+tauzin2020context,2,kumili,f,gorilla,2,9,intact,hq_front,0.0
+tauzin2020context,2,kumili,f,gorilla,2,10,intact,nothing_front,0.0
+tauzin2020context,2,kumili,f,gorilla,2,11,intact,hq_front,0.0
+tauzin2020context,2,kumili,f,gorilla,2,12,intact,nothing_front,0.0
+tauzin2020context,2,kumili,f,gorilla,3,1,3 hole,nothing_front,0.0
+tauzin2020context,2,kumili,f,gorilla,3,2,3 hole,lq_front,1.0
+tauzin2020context,2,kumili,f,gorilla,3,3,3 hole,hq_front,0.0
+tauzin2020context,2,kumili,f,gorilla,3,4,3 hole,nothing_front,1.0
+tauzin2020context,2,kumili,f,gorilla,3,5,3 hole,hq_front,0.0
+tauzin2020context,2,kumili,f,gorilla,3,6,3 hole,lq_front,1.0
+tauzin2020context,2,kumili,f,gorilla,3,7,3 hole,lq_front,0.0
+tauzin2020context,2,kumili,f,gorilla,3,8,3 hole,nothing_front,0.0
+tauzin2020context,2,kumili,f,gorilla,3,9,3 hole,nothing_front,0.0
+tauzin2020context,2,kumili,f,gorilla,3,10,3 hole,hq_front,0.0
+tauzin2020context,2,kumili,f,gorilla,3,11,3 hole,lq_front,0.0
+tauzin2020context,2,kumili,f,gorilla,3,12,3 hole,hq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,1,1,mesh,nothing_front,0.0
+tauzin2020context,2,lexi,f,bonobo,1,2,mesh,hq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,1,3,mesh,lq_front,1.0
+tauzin2020context,2,lexi,f,bonobo,1,4,mesh,lq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,1,5,mesh,hq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,1,6,mesh,nothing_front,1.0
+tauzin2020context,2,lexi,f,bonobo,1,7,mesh,hq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,1,8,mesh,hq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,1,9,mesh,nothing_front,1.0
+tauzin2020context,2,lexi,f,bonobo,1,10,mesh,lq_front,1.0
+tauzin2020context,2,lexi,f,bonobo,1,11,mesh,nothing_front,0.0
+tauzin2020context,2,lexi,f,bonobo,1,12,mesh,lq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,2,1,intact,hq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,2,2,intact,lq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,2,3,intact,nothing_front,0.0
+tauzin2020context,2,lexi,f,bonobo,2,4,intact,hq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,2,5,intact,nothing_front,0.0
+tauzin2020context,2,lexi,f,bonobo,2,6,intact,lq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,2,7,intact,hq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,2,8,intact,hq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,2,9,intact,nothing_front,0.0
+tauzin2020context,2,lexi,f,bonobo,2,10,intact,lq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,2,11,intact,lq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,2,12,intact,nothing_front,0.0
+tauzin2020context,2,lexi,f,bonobo,3,1,3 hole,lq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,3,2,3 hole,nothing_front,0.0
+tauzin2020context,2,lexi,f,bonobo,3,3,3 hole,hq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,3,4,3 hole,lq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,3,5,3 hole,nothing_front,0.0
+tauzin2020context,2,lexi,f,bonobo,3,6,3 hole,hq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,3,7,3 hole,hq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,3,8,3 hole,lq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,3,9,3 hole,nothing_front,0.0
+tauzin2020context,2,lexi,f,bonobo,3,10,3 hole,hq_front,0.0
+tauzin2020context,2,lexi,f,bonobo,3,11,3 hole,nothing_front,0.0
+tauzin2020context,2,lexi,f,bonobo,3,12,3 hole,lq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,1,1,mesh,lq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,1,2,mesh,nothing_front,0.0
+tauzin2020context,2,luiza,f,bonobo,1,3,mesh,nothing_front,0.0
+tauzin2020context,2,luiza,f,bonobo,1,4,mesh,hq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,1,5,mesh,lq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,1,6,mesh,hq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,1,7,mesh,lq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,1,8,mesh,lq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,1,9,mesh,hq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,1,10,mesh,hq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,1,11,mesh,nothing_front,0.0
+tauzin2020context,2,luiza,f,bonobo,1,12,mesh,nothing_front,0.0
+tauzin2020context,2,luiza,f,bonobo,2,1,intact,hq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,2,2,intact,nothing_front,0.0
+tauzin2020context,2,luiza,f,bonobo,2,3,intact,lq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,2,4,intact,lq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,2,5,intact,nothing_front,0.0
+tauzin2020context,2,luiza,f,bonobo,2,6,intact,hq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,2,7,intact,hq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,2,8,intact,lq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,2,9,intact,lq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,2,10,intact,nothing_front,0.0
+tauzin2020context,2,luiza,f,bonobo,2,11,intact,nothing_front,0.0
+tauzin2020context,2,luiza,f,bonobo,2,12,intact,hq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,3,1,3 hole,nothing_front,0.0
+tauzin2020context,2,luiza,f,bonobo,3,2,3 hole,nothing_front,0.0
+tauzin2020context,2,luiza,f,bonobo,3,3,3 hole,hq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,3,4,3 hole,lq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,3,5,3 hole,hq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,3,6,3 hole,lq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,3,7,3 hole,hq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,3,8,3 hole,nothing_front,0.0
+tauzin2020context,2,luiza,f,bonobo,3,9,3 hole,hq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,3,10,3 hole,nothing_front,0.0
+tauzin2020context,2,luiza,f,bonobo,3,11,3 hole,lq_front,0.0
+tauzin2020context,2,luiza,f,bonobo,3,12,3 hole,lq_front,0.0
+tauzin2020context,2,padana,f,orangutan,1,1,mesh,hq_front,0.0
+tauzin2020context,2,padana,f,orangutan,1,2,mesh,nothing_front,0.0
+tauzin2020context,2,padana,f,orangutan,1,3,mesh,lq_front,0.0
+tauzin2020context,2,padana,f,orangutan,1,4,mesh,lq_front,0.0
+tauzin2020context,2,padana,f,orangutan,1,5,mesh,nothing_front,1.0
+tauzin2020context,2,padana,f,orangutan,1,6,mesh,hq_front,0.0
+tauzin2020context,2,padana,f,orangutan,1,7,mesh,lq_front,0.0
+tauzin2020context,2,padana,f,orangutan,1,8,mesh,lq_front,0.0
+tauzin2020context,2,padana,f,orangutan,1,9,mesh,nothing_front,0.0
+tauzin2020context,2,padana,f,orangutan,1,10,mesh,hq_front,0.0
+tauzin2020context,2,padana,f,orangutan,1,11,mesh,nothing_front,0.0
+tauzin2020context,2,padana,f,orangutan,1,12,mesh,hq_front,0.0
+tauzin2020context,2,padana,f,orangutan,2,1,intact,hq_front,0.0
+tauzin2020context,2,padana,f,orangutan,2,2,intact,lq_front,0.0
+tauzin2020context,2,padana,f,orangutan,2,3,intact,nothing_front,0.0
+tauzin2020context,2,padana,f,orangutan,2,4,intact,nothing_front,0.0
+tauzin2020context,2,padana,f,orangutan,2,5,intact,hq_front,0.0
+tauzin2020context,2,padana,f,orangutan,2,6,intact,lq_front,0.0
+tauzin2020context,2,padana,f,orangutan,2,7,intact,hq_front,0.0
+tauzin2020context,2,padana,f,orangutan,2,8,intact,hq_front,0.0
+tauzin2020context,2,padana,f,orangutan,2,9,intact,nothing_front,0.0
+tauzin2020context,2,padana,f,orangutan,2,10,intact,lq_front,0.0
+tauzin2020context,2,padana,f,orangutan,2,11,intact,lq_front,0.0
+tauzin2020context,2,padana,f,orangutan,2,12,intact,nothing_front,0.0
+tauzin2020context,2,padana,f,orangutan,3,1,3 hole,hq_front,0.0
+tauzin2020context,2,padana,f,orangutan,3,2,3 hole,lq_front,0.0
+tauzin2020context,2,padana,f,orangutan,3,3,3 hole,nothing_front,0.0
+tauzin2020context,2,padana,f,orangutan,3,4,3 hole,lq_front,0.0
+tauzin2020context,2,padana,f,orangutan,3,5,3 hole,nothing_front,0.0
+tauzin2020context,2,padana,f,orangutan,3,6,3 hole,hq_front,0.0
+tauzin2020context,2,padana,f,orangutan,3,7,3 hole,lq_front,0.0
+tauzin2020context,2,padana,f,orangutan,3,8,3 hole,lq_front,0.0
+tauzin2020context,2,padana,f,orangutan,3,9,3 hole,hq_front,0.0
+tauzin2020context,2,padana,f,orangutan,3,10,3 hole,nothing_front,0.0
+tauzin2020context,2,padana,f,orangutan,3,11,3 hole,hq_front,0.0
+tauzin2020context,2,padana,f,orangutan,3,12,3 hole,nothing_front,1.0
+tauzin2020context,2,pini,f,orangutan,1,1,mesh,nothing_front,0.0
+tauzin2020context,2,pini,f,orangutan,1,2,mesh,nothing_front,0.0
+tauzin2020context,2,pini,f,orangutan,1,3,mesh,hq_front,0.0
+tauzin2020context,2,pini,f,orangutan,1,4,mesh,lq_front,0.0
+tauzin2020context,2,pini,f,orangutan,1,5,mesh,hq_front,0.0
+tauzin2020context,2,pini,f,orangutan,1,6,mesh,lq_front,0.0
+tauzin2020context,2,pini,f,orangutan,1,7,mesh,lq_front,0.0
+tauzin2020context,2,pini,f,orangutan,1,8,mesh,hq_front,0.0
+tauzin2020context,2,pini,f,orangutan,1,9,mesh,nothing_front,0.0
+tauzin2020context,2,pini,f,orangutan,1,10,mesh,nothing_front,0.0
+tauzin2020context,2,pini,f,orangutan,1,11,mesh,hq_front,0.0
+tauzin2020context,2,pini,f,orangutan,1,12,mesh,hq_front,0.0
+tauzin2020context,2,pini,f,orangutan,2,1,intact,hq_front,0.0
+tauzin2020context,2,pini,f,orangutan,2,2,intact,lq_front,0.0
+tauzin2020context,2,pini,f,orangutan,2,3,intact,lq_front,0.0
+tauzin2020context,2,pini,f,orangutan,2,4,intact,nothing_front,0.0
+tauzin2020context,2,pini,f,orangutan,2,5,intact,nothing_front,0.0
+tauzin2020context,2,pini,f,orangutan,2,6,intact,hq_front,0.0
+tauzin2020context,2,pini,f,orangutan,2,7,intact,hq_front,0.0
+tauzin2020context,2,pini,f,orangutan,2,8,intact,lq_front,0.0
+tauzin2020context,2,pini,f,orangutan,2,9,intact,nothing_front,0.0
+tauzin2020context,2,pini,f,orangutan,2,10,intact,nothing_front,0.0
+tauzin2020context,2,pini,f,orangutan,2,11,intact,lq_front,0.0
+tauzin2020context,2,pini,f,orangutan,2,12,intact,hq_front,0.0
+tauzin2020context,2,pini,f,orangutan,3,1,3 hole,hq_front,0.0
+tauzin2020context,2,pini,f,orangutan,3,2,3 hole,lq_front,0.0
+tauzin2020context,2,pini,f,orangutan,3,3,3 hole,nothing_front,0.0
+tauzin2020context,2,pini,f,orangutan,3,4,3 hole,nothing_front,0.0
+tauzin2020context,2,pini,f,orangutan,3,5,3 hole,hq_front,0.0
+tauzin2020context,2,pini,f,orangutan,3,6,3 hole,lq_front,0.0
+tauzin2020context,2,pini,f,orangutan,3,7,3 hole,nothing_front,0.0
+tauzin2020context,2,pini,f,orangutan,3,8,3 hole,hq_front,0.0
+tauzin2020context,2,pini,f,orangutan,3,9,3 hole,hq_front,0.0
+tauzin2020context,2,pini,f,orangutan,3,10,3 hole,lq_front,0.0
+tauzin2020context,2,pini,f,orangutan,3,11,3 hole,lq_front,0.0
+tauzin2020context,2,pini,f,orangutan,3,12,3 hole,nothing_front,0.0
+tauzin2020context,2,raja,f,orangutan,1,1,mesh,hq_front,0.0
+tauzin2020context,2,raja,f,orangutan,1,2,mesh,lq_front,0.0
+tauzin2020context,2,raja,f,orangutan,1,3,mesh,lq_front,0.0
+tauzin2020context,2,raja,f,orangutan,1,4,mesh,hq_front,0.0
+tauzin2020context,2,raja,f,orangutan,1,5,mesh,nothing_front,0.0
+tauzin2020context,2,raja,f,orangutan,1,6,mesh,nothing_front,0.0
+tauzin2020context,2,raja,f,orangutan,1,7,mesh,lq_front,0.0
+tauzin2020context,2,raja,f,orangutan,1,8,mesh,hq_front,0.0
+tauzin2020context,2,raja,f,orangutan,1,9,mesh,nothing_front,0.0
+tauzin2020context,2,raja,f,orangutan,1,10,mesh,hq_front,0.0
+tauzin2020context,2,raja,f,orangutan,1,11,mesh,nothing_front,0.0
+tauzin2020context,2,raja,f,orangutan,1,12,mesh,lq_front,0.0
+tauzin2020context,2,raja,f,orangutan,2,1,intact,nothing_front,0.0
+tauzin2020context,2,raja,f,orangutan,2,2,intact,lq_front,0.0
+tauzin2020context,2,raja,f,orangutan,2,3,intact,lq_front,0.0
+tauzin2020context,2,raja,f,orangutan,2,4,intact,hq_front,0.0
+tauzin2020context,2,raja,f,orangutan,2,5,intact,nothing_front,0.0
+tauzin2020context,2,raja,f,orangutan,2,6,intact,hq_front,0.0
+tauzin2020context,2,raja,f,orangutan,2,7,intact,hq_front,0.0
+tauzin2020context,2,raja,f,orangutan,2,8,intact,lq_front,0.0
+tauzin2020context,2,raja,f,orangutan,2,9,intact,hq_front,0.0
+tauzin2020context,2,raja,f,orangutan,2,10,intact,lq_front,0.0
+tauzin2020context,2,raja,f,orangutan,2,11,intact,nothing_front,0.0
+tauzin2020context,2,raja,f,orangutan,2,12,intact,nothing_front,0.0
+tauzin2020context,2,raja,f,orangutan,3,1,3 hole,lq_front,0.0
+tauzin2020context,2,raja,f,orangutan,3,2,3 hole,hq_front,0.0
+tauzin2020context,2,raja,f,orangutan,3,3,3 hole,nothing_front,0.0
+tauzin2020context,2,raja,f,orangutan,3,4,3 hole,nothing_front,1.0
+tauzin2020context,2,raja,f,orangutan,3,5,3 hole,hq_front,0.0
+tauzin2020context,2,raja,f,orangutan,3,6,3 hole,lq_front,1.0
+tauzin2020context,2,raja,f,orangutan,3,7,3 hole,lq_front,1.0
+tauzin2020context,2,raja,f,orangutan,3,8,3 hole,nothing_front,1.0
+tauzin2020context,2,raja,f,orangutan,3,9,3 hole,hq_front,1.0
+tauzin2020context,2,raja,f,orangutan,3,10,3 hole,nothing_front,1.0
+tauzin2020context,2,raja,f,orangutan,3,11,3 hole,hq_front,0.0
+tauzin2020context,2,raja,f,orangutan,3,12,3 hole,lq_front,1.0
+tauzin2020context,2,suaq,m,orangutan,1,1,mesh,hq_front,0.0
+tauzin2020context,2,suaq,m,orangutan,1,2,mesh,lq_front,0.0
+tauzin2020context,2,suaq,m,orangutan,1,3,mesh,nothing_front,0.0
+tauzin2020context,2,suaq,m,orangutan,1,4,mesh,lq_front,0.0
+tauzin2020context,2,suaq,m,orangutan,1,5,mesh,hq_front,0.0
+tauzin2020context,2,suaq,m,orangutan,1,6,mesh,nothing_front,0.0
+tauzin2020context,2,suaq,m,orangutan,1,7,mesh,hq_front,0.0
+tauzin2020context,2,suaq,m,orangutan,1,8,mesh,nothing_front,1.0
+tauzin2020context,2,suaq,m,orangutan,1,9,mesh,lq_front,1.0
+tauzin2020context,2,suaq,m,orangutan,1,10,mesh,nothing_front,0.0
+tauzin2020context,2,suaq,m,orangutan,1,11,mesh,lq_front,1.0
+tauzin2020context,2,suaq,m,orangutan,1,12,mesh,hq_front,0.0
+tauzin2020context,2,suaq,m,orangutan,2,1,intact,hq_front,0.0
+tauzin2020context,2,suaq,m,orangutan,2,2,intact,lq_front,0.0
+tauzin2020context,2,suaq,m,orangutan,2,3,intact,hq_front,0.0
+tauzin2020context,2,suaq,m,orangutan,2,4,intact,nothing_front,0.0
+tauzin2020context,2,suaq,m,orangutan,2,5,intact,nothing_front,0.0
+tauzin2020context,2,suaq,m,orangutan,2,6,intact,lq_front,0.0
+tauzin2020context,2,suaq,m,orangutan,2,7,intact,hq_front,0.0
+tauzin2020context,2,suaq,m,orangutan,2,8,intact,nothing_front,0.0
+tauzin2020context,2,suaq,m,orangutan,2,9,intact,lq_front,0.0
+tauzin2020context,2,suaq,m,orangutan,2,10,intact,lq_front,0.0
+tauzin2020context,2,suaq,m,orangutan,2,11,intact,nothing_front,0.0
+tauzin2020context,2,suaq,m,orangutan,2,12,intact,lq_front,0.0
+tauzin2020context,2,suaq,m,orangutan,3,1,3 hole,nothing_front,0.0
+tauzin2020context,2,suaq,m,orangutan,3,2,3 hole,lq_front,0.0
+tauzin2020context,2,suaq,m,orangutan,3,3,3 hole,lq_front,0.0
+tauzin2020context,2,suaq,m,orangutan,3,4,3 hole,nothing_front,0.0
+tauzin2020context,2,suaq,m,orangutan,3,5,3 hole,hq_front,0.0
+tauzin2020context,2,suaq,m,orangutan,3,6,3 hole,hq_front,0.0
+tauzin2020context,2,suaq,m,orangutan,3,7,3 hole,nothing_front,1.0
+tauzin2020context,2,suaq,m,orangutan,3,8,3 hole,nothing_front,1.0
+tauzin2020context,2,suaq,m,orangutan,3,9,3 hole,hq_front,0.0
+tauzin2020context,2,suaq,m,orangutan,3,10,3 hole,hq_front,1.0
+tauzin2020context,2,suaq,m,orangutan,3,11,3 hole,nothing_front,0.0
+tauzin2020context,2,suaq,m,orangutan,3,12,3 hole,lq_front,1.0
+tauzin2020context,2,yasa,f,bonobo,1,1,mesh,nothing_front,0.0
+tauzin2020context,2,yasa,f,bonobo,1,2,mesh,lq_front,1.0
+tauzin2020context,2,yasa,f,bonobo,1,3,mesh,hq_front,0.0
+tauzin2020context,2,yasa,f,bonobo,1,4,mesh,lq_front,1.0
+tauzin2020context,2,yasa,f,bonobo,1,5,mesh,nothing_front,1.0
+tauzin2020context,2,yasa,f,bonobo,1,6,mesh,hq_front,0.0
+tauzin2020context,2,yasa,f,bonobo,1,7,mesh,hq_front,0.0
+tauzin2020context,2,yasa,f,bonobo,1,8,mesh,lq_front,1.0
+tauzin2020context,2,yasa,f,bonobo,1,9,mesh,lq_front,1.0
+tauzin2020context,2,yasa,f,bonobo,1,10,mesh,hq_front,0.0
+tauzin2020context,2,yasa,f,bonobo,1,11,mesh,nothing_front,1.0
+tauzin2020context,2,yasa,f,bonobo,1,12,mesh,nothing_front,1.0
+tauzin2020context,2,yasa,f,bonobo,2,1,intact,hq_front,0.0
+tauzin2020context,2,yasa,f,bonobo,2,2,intact,lq_front,0.0
+tauzin2020context,2,yasa,f,bonobo,2,3,intact,hq_front,0.0
+tauzin2020context,2,yasa,f,bonobo,2,4,intact,lq_front,0.0
+tauzin2020context,2,yasa,f,bonobo,2,5,intact,nothing_front,0.0
+tauzin2020context,2,yasa,f,bonobo,2,6,intact,hq_front,0.0
+tauzin2020context,2,yasa,f,bonobo,2,7,intact,nothing_front,0.0
+tauzin2020context,2,yasa,f,bonobo,2,8,intact,lq_front,0.0
+tauzin2020context,2,yasa,f,bonobo,2,9,intact,lq_front,0.0
+tauzin2020context,2,yasa,f,bonobo,2,10,intact,hq_front,0.0
+tauzin2020context,2,yasa,f,bonobo,2,11,intact,nothing_front,0.0
+tauzin2020context,2,yasa,f,bonobo,2,12,intact,hq_front,0.0
+tauzin2020context,2,yasa,f,bonobo,3,1,3 hole,lq_front,0.0
+tauzin2020context,2,yasa,f,bonobo,3,2,3 hole,lq_front,0.0
+tauzin2020context,2,yasa,f,bonobo,3,3,3 hole,hq_front,0.0
+tauzin2020context,2,yasa,f,bonobo,3,4,3 hole,nothing_front,0.0
+tauzin2020context,2,yasa,f,bonobo,3,5,3 hole,hq_front,0.0
+tauzin2020context,2,yasa,f,bonobo,3,6,3 hole,nothing_front,0.0
+tauzin2020context,2,yasa,f,bonobo,3,7,3 hole,hq_front,0.0
+tauzin2020context,2,yasa,f,bonobo,3,8,3 hole,nothing_front,0.0
+tauzin2020context,2,yasa,f,bonobo,3,9,3 hole,lq_front,0.0
+tauzin2020context,2,yasa,f,bonobo,3,10,3 hole,nothing_front,0.0
+tauzin2020context,2,yasa,f,bonobo,3,11,3 hole,lq_front,0.0
+tauzin2020context,2,yasa,f,bonobo,3,12,3 hole,hq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,1,1,mesh,hq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,1,2,mesh,lq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,1,3,mesh,nothing_front,1.0
+tauzin2020context,2,jasongo,m,bonobo,1,4,mesh,lq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,1,5,mesh,nothing_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,1,6,mesh,hq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,1,7,mesh,hq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,1,8,mesh,nothing_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,1,9,mesh,hq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,1,10,mesh,lq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,1,11,mesh,nothing_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,1,12,mesh,lq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,2,1,intact,nothing_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,2,2,intact,lq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,2,3,intact,hq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,2,4,intact,nothing_front,1.0
+tauzin2020context,2,jasongo,m,bonobo,2,5,intact,hq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,2,6,intact,lq_front,1.0
+tauzin2020context,2,jasongo,m,bonobo,2,7,intact,lq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,2,8,intact,nothing_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,2,9,intact,hq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,2,10,intact,lq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,2,11,intact,nothing_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,2,12,intact,hq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,3,1,3 hole,lq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,3,2,3 hole,nothing_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,3,3,3 hole,lq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,3,4,3 hole,hq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,3,5,3 hole,hq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,3,6,3 hole,nothing_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,3,7,3 hole,lq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,3,8,3 hole,hq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,3,9,3 hole,nothing_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,3,10,3 hole,hq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,3,11,3 hole,lq_front,0.0
+tauzin2020context,2,jasongo,m,bonobo,3,12,3 hole,nothing_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,1,1,mesh,hq_front,1.0
+tauzin2020context,2,zira,f,chimpanzee,1,2,mesh,lq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,1,3,mesh,nothing_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,1,4,mesh,lq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,1,5,mesh,nothing_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,1,6,mesh,hq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,1,7,mesh,hq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,1,8,mesh,lq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,1,9,mesh,nothing_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,1,10,mesh,lq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,1,11,mesh,hq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,1,12,mesh,nothing_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,2,1,intact,lq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,2,2,intact,nothing_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,2,3,intact,hq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,2,4,intact,lq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,2,5,intact,nothing_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,2,6,intact,hq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,2,7,intact,hq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,2,8,intact,nothing_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,2,9,intact,nothing_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,2,10,intact,hq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,2,11,intact,lq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,2,12,intact,lq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,3,1,3 hole,nothing_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,3,2,3 hole,hq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,3,3,3 hole,hq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,3,4,3 hole,lq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,3,5,3 hole,nothing_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,3,6,3 hole,lq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,3,7,3 hole,lq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,3,8,3 hole,nothing_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,3,9,3 hole,hq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,3,10,3 hole,lq_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,3,11,3 hole,nothing_front,0.0
+tauzin2020context,2,zira,f,chimpanzee,3,12,3 hole,hq_front,0.0

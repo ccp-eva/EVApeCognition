@@ -1,0 +1,209 @@
+﻿study_id,experiment,participant,age_in_years,sex,species,phase,session,trial,condition,order_condition,demonstration,blicket_side,first_response_side,blicket_object,first_response_correct,second_response,second_response_side
+volter2016great,4,fimi,6,f,bonobo,test ,1.0,1,causal,causal_first,observation,right,left,1,0.0,1.0,right
+volter2016great,4,fimi,6,f,bonobo,test,1.0,2,causal,causal_first,observation,left,left,3,1.0,,
+volter2016great,4,fimi,6,f,bonobo,test,2.0,3,causal,causal_first,observation,left,right,5,0.0,0.0,right
+volter2016great,4,fimi,6,f,bonobo,test,2.0,4,causal,causal_first,observation,right,right,8,1.0,,
+volter2016great,4,fimi,6,f,bonobo,test ,3.0,5,association,causal_first,observation,right,right,9,1.0,,
+volter2016great,4,fimi,6,f,bonobo,test,3.0,6,association,causal_first,observation,left,right,11,0.0,0.0,right
+volter2016great,4,fimi,6,f,bonobo,test,4.0,7,association,causal_first,observation,left,right,14,0.0,1.0,left
+volter2016great,4,fimi,6,f,bonobo,test,4.0,8,association,causal_first,observation,right,right,16,1.0,,
+volter2016great,4,gemena,9,f,bonobo,test ,1.0,1,association,association_first,observation,right,right,1,1.0,,
+volter2016great,4,gemena,9,f,bonobo,test,1.0,2,association,association_first,observation,left,right,4,0.0,0.0,right
+volter2016great,4,gemena,9,f,bonobo,test,2.0,3,association,association_first,observation,right,right,5,1.0,,
+volter2016great,4,gemena,9,f,bonobo,test,2.0,4,association,association_first,observation,left,right,8,0.0,0.0,right
+volter2016great,4,gemena,9,f,bonobo,test ,3.0,5,causal,association_first,observation,left,left,10,1.0,,
+volter2016great,4,gemena,9,f,bonobo,test,3.0,6,causal,association_first,observation,right,right,12,1.0,,
+volter2016great,4,gemena,9,f,bonobo,test,4.0,7,causal,association_first,observation,left,right,13,0.0,1.0,left
+volter2016great,4,gemena,9,f,bonobo,test,4.0,8,causal,association_first,observation,right,right,16,1.0,,
+volter2016great,4,jasongo,24,m,bonobo,test ,1.0,1,association,association_first,observation,right,left,1,0.0,1.0,right
+volter2016great,4,jasongo,24,m,bonobo,test,1.0,2,association,association_first,observation,left,left,3,1.0,,
+volter2016great,4,jasongo,24,m,bonobo,test,2.0,3,association,association_first,observation,right,right,6,1.0,,
+volter2016great,4,jasongo,24,m,bonobo,test,2.0,4,association,association_first,observation,left,left,8,1.0,,
+volter2016great,4,jasongo,24,m,bonobo,test ,3.0,5,causal,association_first,observation,right,right,9,1.0,,
+volter2016great,4,jasongo,24,m,bonobo,test,3.0,6,causal,association_first,observation,left,right,11,0.0,1.0,left
+volter2016great,4,jasongo,24,m,bonobo,test,4.0,7,causal,association_first,observation,left,right,13,0.0,0.0,right
+volter2016great,4,jasongo,24,m,bonobo,test,4.0,8,causal,association_first,observation,right,right,15,1.0,,
+volter2016great,4,joey,32,m,bonobo,test ,1.0,1,causal,causal_first,observation,right,left,1,0.0,0.0,left
+volter2016great,4,joey,32,m,bonobo,test,1.0,2,causal,causal_first,observation,left,left,4,1.0,,
+volter2016great,4,joey,32,m,bonobo,test,2.0,3,causal,causal_first,observation,left,right,6,0.0,0.0,right
+volter2016great,4,joey,32,m,bonobo,test,2.0,4,causal,causal_first,observation,right,right,7,1.0,,
+volter2016great,4,joey,32,m,bonobo,test ,3.0,5,association,causal_first,observation,left,right,9,0.0,0.0,right
+volter2016great,4,joey,32,m,bonobo,test,3.0,6,association,causal_first,observation,right,right,12,1.0,,
+volter2016great,4,joey,32,m,bonobo,test,4.0,7,association,causal_first,observation,right,right,14,1.0,,
+volter2016great,4,joey,32,m,bonobo,test,4.0,8,association,causal_first,observation,left,right,15,0.0,1.0,left
+volter2016great,4,kuno,18,m,bonobo,test ,1.0,1,association,association_first,observation,left,right,2,0.0,1.0,left
+volter2016great,4,kuno,18,m,bonobo,test,1.0,2,association,association_first,observation,right,right,4,1.0,,
+volter2016great,4,kuno,18,m,bonobo,test,2.0,3,association,association_first,observation,left,left,5,1.0,,
+volter2016great,4,kuno,18,m,bonobo,test,2.0,4,association,association_first,observation,right,right,7,1.0,,
+volter2016great,4,kuno,18,m,bonobo,test ,3.0,5,causal,association_first,observation,right,right,10,1.0,,
+volter2016great,4,kuno,18,m,bonobo,test,3.0,6,causal,association_first,observation,left,left,11,1.0,,
+volter2016great,4,kuno,18,m,bonobo,test,4.0,7,causal,association_first,observation,right,right,14,1.0,,
+volter2016great,4,kuno,18,m,bonobo,test,4.0,8,causal,association_first,observation,left,left,16,1.0,,
+volter2016great,4,lexi,15,f,bonobo,test ,1.0,1,causal,causal_first,observation,right,left,2,0.0,1.0,right
+volter2016great,4,lexi,15,f,bonobo,test,1.0,2,causal,causal_first,observation,left,left,3,1.0,,
+volter2016great,4,lexi,15,f,bonobo,test,2.0,3,causal,causal_first,observation,left,right,5,0.0,1.0,left
+volter2016great,4,lexi,15,f,bonobo,test,2.0,4,causal,causal_first,observation,right,right,7,1.0,,
+volter2016great,4,lexi,15,f,bonobo,test ,3.0,5,association,causal_first,observation,left,left,10,1.0,,
+volter2016great,4,lexi,15,f,bonobo,test,3.0,6,association,causal_first,observation,right,right,12,1.0,,
+volter2016great,4,lexi,15,f,bonobo,test,4.0,7,association,causal_first,observation,left,left,13,1.0,,
+volter2016great,4,lexi,15,f,bonobo,test,4.0,8,association,causal_first,observation,right,right,15,1.0,,
+volter2016great,4,luiza,10,f,bonobo,test ,1.0,1,association,association_first,observation,left,left,1,1.0,,
+volter2016great,4,luiza,10,f,bonobo,test,1.0,2,association,association_first,observation,right,left,4,0.0,0.0,left
+volter2016great,4,luiza,10,f,bonobo,test,2.0,3,association,association_first,observation,left,left,6,1.0,,
+volter2016great,4,luiza,10,f,bonobo,test,2.0,4,association,association_first,observation,right,right,8,1.0,,
+volter2016great,4,luiza,10,f,bonobo,test ,3.0,5,causal,association_first,observation,right,left,10,0.0,0.0,left
+volter2016great,4,luiza,10,f,bonobo,test,3.0,6,causal,association_first,observation,left,left,12,1.0,,
+volter2016great,4,luiza,10,f,bonobo,test,4.0,7,causal,association_first,observation,left,left,14,1.0,,
+volter2016great,4,luiza,10,f,bonobo,test,4.0,8,causal,association_first,observation,right,left,15,0.0,1.0,right
+volter2016great,4,yasa,17,f,bonobo,test ,1.0,1,causal,causal_first,observation,right,left,1,0.0,1.0,right
+volter2016great,4,yasa,17,f,bonobo,test,1.0,2,causal,causal_first,observation,left,left,4,1.0,,
+volter2016great,4,yasa,17,f,bonobo,test,2.0,3,causal,causal_first,observation,right,right,5,1.0,,
+volter2016great,4,yasa,17,f,bonobo,test,2.0,4,causal,causal_first,observation,left,right,7,0.0,1.0,left
+volter2016great,4,yasa,17,f,bonobo,test ,3.0,5,association,causal_first,observation,left,left,9,1.0,,
+volter2016great,4,yasa,17,f,bonobo,test,3.0,6,association,causal_first,observation,right,right,11,1.0,,
+volter2016great,4,yasa,17,f,bonobo,test,4.0,7,association,causal_first,observation,right,right,13,1.0,,
+volter2016great,4,yasa,17,f,bonobo,test,4.0,8,association,causal_first,observation,left,left,16,1.0,,
+volter2016great,4,alex,13,m,chimpanzee,test,1.0,1,causal,causal_first,observation,right,right,2,1.0,,
+volter2016great,4,alex,13,m,chimpanzee,test,1.0,2,causal,causal_first,observation,left,left,3,1.0,,
+volter2016great,4,alex,13,m,chimpanzee,test,2.0,3,causal,causal_first,observation,right,right,5,1.0,,
+volter2016great,4,alex,13,m,chimpanzee,test ,2.0,4,causal,causal_first,observation,left,right,7,0.0,1.0,left
+volter2016great,4,alex,13,m,chimpanzee,test,3.0,5,association,causal_first,observation,left,left,10,1.0,,
+volter2016great,4,alex,13,m,chimpanzee,test,3.0,6,association,causal_first,observation,right,right,11,1.0,,
+volter2016great,4,alex,13,m,chimpanzee,test,4.0,7,association,causal_first,observation,right,left,14,0.0,0.0,left
+volter2016great,4,alex,13,m,chimpanzee,test ,4.0,8,association,causal_first,observation,left,left,16,1.0,,
+volter2016great,4,alexandra,15,f,chimpanzee,test ,1.0,1,association,association_first,observation,left,right,2,0.0,1.0,left
+volter2016great,4,alexandra,15,f,chimpanzee,test,1.0,2,association,association_first,observation,right,right,3,1.0,,
+volter2016great,4,alexandra,15,f,chimpanzee,test,2.0,3,association,association_first,observation,left,left,5,1.0,,
+volter2016great,4,alexandra,15,f,chimpanzee,test,2.0,4,association,association_first,observation,right,left,7,0.0,0.0,left
+volter2016great,4,alexandra,15,f,chimpanzee,test ,3.0,5,causal,association_first,observation,right,left,10,0.0,0.0,left
+volter2016great,4,alexandra,15,f,chimpanzee,test,3.0,6,causal,association_first,observation,left,left,12,1.0,,
+volter2016great,4,alexandra,15,f,chimpanzee,test,4.0,7,causal,association_first,observation,right,right,14,1.0,,
+volter2016great,4,alexandra,15,f,chimpanzee,test,4.0,8,causal,association_first,observation,left,left,15,1.0,,
+volter2016great,4,dorien,34,f,chimpanzee,test,1.0,1,causal,causal_first,observation,right,left,1,0.0,0.0,left
+volter2016great,4,dorien,34,f,chimpanzee,test,1.0,2,causal,causal_first,observation,left,left,4,1.0,,
+volter2016great,4,dorien,34,f,chimpanzee,test,2.0,3,causal,causal_first,observation,right,left,6,0.0,1.0,right
+volter2016great,4,dorien,34,f,chimpanzee,test ,2.0,4,causal,causal_first,observation,left,left,8,1.0,,
+volter2016great,4,dorien,34,f,chimpanzee,test,3.0,5,association,causal_first,observation,left,left,10,1.0,,
+volter2016great,4,dorien,34,f,chimpanzee,test,3.0,6,association,causal_first,observation,right,right,12,1.0,,
+volter2016great,4,dorien,34,f,chimpanzee,test,4.0,7,association,causal_first,observation,left,left,13,1.0,,
+volter2016great,4,dorien,34,f,chimpanzee,test ,4.0,8,association,causal_first,observation,right,right,15,1.0,,
+volter2016great,4,fraukje,38,f,chimpanzee,test,1.0,1,causal,causal_first,observation,right,left,1,0.0,1.0,right
+volter2016great,4,fraukje,38,f,chimpanzee,test,1.0,2,causal,causal_first,observation,left,left,3,1.0,,
+volter2016great,4,fraukje,38,f,chimpanzee,test,2.0,3,causal,causal_first,observation,right,left,6,0.0,0.0,left
+volter2016great,4,fraukje,38,f,chimpanzee,test ,2.0,4,causal,causal_first,observation,left,left,8,1.0,,
+volter2016great,4,fraukje,38,f,chimpanzee,test,3.0,5,association,causal_first,observation,right,left,9,0.0,0.0,left
+volter2016great,4,fraukje,38,f,chimpanzee,test,3.0,6,association,causal_first,observation,left,left,11,1.0,,
+volter2016great,4,fraukje,38,f,chimpanzee,test,4.0,7,association,causal_first,observation,right,left,14,0.0,0.0,left
+volter2016great,4,fraukje,38,f,chimpanzee,test ,4.0,8,association,causal_first,observation,left,left,15,1.0,,
+volter2016great,4,jahaga,22,f,chimpanzee,test,1.0,1,causal,causal_first,observation,right,right,2,1.0,,
+volter2016great,4,jahaga,22,f,chimpanzee,test,1.0,2,causal,causal_first,observation,left,left,4,1.0,,
+volter2016great,4,jahaga,22,f,chimpanzee,test,2.0,3,causal,causal_first,observation,right,left,6,0.0,0.0,left
+volter2016great,4,jahaga,22,f,chimpanzee,test ,2.0,4,causal,causal_first,observation,left,right,7,0.0,0.0,right
+volter2016great,4,jahaga,22,f,chimpanzee,test,3.0,5,association,causal_first,observation,right,right,10,1.0,,
+volter2016great,4,jahaga,22,f,chimpanzee,test,3.0,6,association,causal_first,observation,left,right,11,0.0,0.0,right
+volter2016great,4,jahaga,22,f,chimpanzee,test,4.0,7,association,causal_first,observation,left,right,14,0.0,0.0,right
+volter2016great,4,jahaga,22,f,chimpanzee,test ,4.0,8,association,causal_first,observation,right,right,16,1.0,,
+volter2016great,4,kara,9,f,chimpanzee,test,1.0,1,causal,causal_first,observation,right,right,1,1.0,,
+volter2016great,4,kara,9,f,chimpanzee,test,1.0,2,causal,causal_first,observation,left,left,4,1.0,,
+volter2016great,4,kara,9,f,chimpanzee,test,2.0,3,causal,causal_first,observation,left,left,5,1.0,,
+volter2016great,4,kara,9,f,chimpanzee,test ,2.0,4,causal,causal_first,observation,right,left,7,0.0,1.0,right
+volter2016great,4,kara,9,f,chimpanzee,test,3.0,5,association,causal_first,observation,right,left,9,0.0,0.0,left
+volter2016great,4,kara,9,f,chimpanzee,test,3.0,6,association,causal_first,observation,left,left,12,1.0,,
+volter2016great,4,kara,9,f,chimpanzee,test,4.0,7,association,causal_first,observation,left,left,13,1.0,,
+volter2016great,4,kara,9,f,chimpanzee,test ,4.0,8,association,causal_first,observation,right,left,15,0.0,0.0,left
+volter2016great,4,kofi,9,m,chimpanzee,test ,1.0,1,association,association_first,observation,right,right,1,1.0,,
+volter2016great,4,kofi,9,m,chimpanzee,test,1.0,2,association,association_first,observation,left,left,4,1.0,,
+volter2016great,4,kofi,9,m,chimpanzee,test,2.0,3,association,association_first,observation,right,left,6,0.0,0.0,left
+volter2016great,4,kofi,9,m,chimpanzee,test,2.0,4,association,association_first,observation,left,right,8,0.0,1.0,left
+volter2016great,4,kofi,9,m,chimpanzee,test ,3.0,5,causal,association_first,observation,left,left,9,1.0,,
+volter2016great,4,kofi,9,m,chimpanzee,test,3.0,6,causal,association_first,observation,right,right,12,1.0,,
+volter2016great,4,kofi,9,m,chimpanzee,test,4.0,7,causal,association_first,observation,right,right,14,1.0,,
+volter2016great,4,kofi,9,m,chimpanzee,test,4.0,8,causal,association_first,observation,left,left,16,1.0,,
+volter2016great,4,lobo,10,m,chimpanzee,test ,1.0,1,causal,causal_first,observation,right,right,2,1.0,,
+volter2016great,4,lobo,10,m,chimpanzee,test,1.0,2,causal,causal_first,observation,left,left,4,1.0,,
+volter2016great,4,lobo,10,m,chimpanzee,test,2.0,3,causal,causal_first,observation,right,right,5,1.0,,
+volter2016great,4,lobo,10,m,chimpanzee,test,3.0,4,causal,causal_first,observation,left,right,7,0.0,0.0,right
+volter2016great,4,lobo,10,m,chimpanzee,test ,4.0,5,association,causal_first,observation,right,right,10,1.0,,
+volter2016great,4,lobo,10,m,chimpanzee,test,4.0,6,association,causal_first,observation,left,right,11,0.0,0.0,right
+volter2016great,4,lobo,10,m,chimpanzee,test,5.0,7,association,causal_first,observation,right,left,14,0.0,1.0,right
+volter2016great,4,lobo,10,m,chimpanzee,test,5.0,8,association,causal_first,observation,left,right,15,0.0,1.0,left
+volter2016great,4,lome,13,m,chimpanzee,test,1.0,1,association,association_first,observation,left,left,2,1.0,,
+volter2016great,4,lome,13,m,chimpanzee,test,1.0,2,association,association_first,observation,right,right,3,1.0,,
+volter2016great,4,lome,13,m,chimpanzee,test,2.0,3,association,association_first,observation,right,left,6,0.0,1.0,right
+volter2016great,4,lome,13,m,chimpanzee,test ,2.0,4,association,association_first,observation,left,left,7,0.0,0.0,left
+volter2016great,4,lome,13,m,chimpanzee,test,3.0,5,causal,association_first,observation,left,left,10,1.0,,
+volter2016great,4,lome,13,m,chimpanzee,test,3.0,6,causal,association_first,observation,right,left,11,0.0,0.0,left
+volter2016great,4,lome,13,m,chimpanzee,test,4.0,7,causal,association_first,observation,left,right,14,0.0,1.0,left
+volter2016great,4,lome,13,m,chimpanzee,test ,4.0,8,causal,association_first,observation,right,right,16,1.0,,
+volter2016great,4,natascha,34,f,chimpanzee,test ,1.0,1,association,association_first,observation,right,right,1,1.0,,
+volter2016great,4,natascha,34,f,chimpanzee,test,1.0,2,association,association_first,observation,left,left,4,1.0,,
+volter2016great,4,natascha,34,f,chimpanzee,test,3.0,3,association,association_first,observation,left,left,6,1.0,,
+volter2016great,4,natascha,34,f,chimpanzee,test,3.0,4,association,association_first,observation,right,left,8,0.0,0.0,left
+volter2016great,4,natascha,34,f,chimpanzee,test ,4.0,5,causal,association_first,observation,right,left,9,0.0,0.0,left
+volter2016great,4,natascha,34,f,chimpanzee,test,4.0,6,causal,association_first,observation,left,left,12,1.0,,
+volter2016great,4,natascha,34,f,chimpanzee,test,5.0,7,causal,association_first,observation,left,left,14,1.0,,
+volter2016great,4,natascha,34,f,chimpanzee,test,5.0,8,causal,association_first,observation,right,left,15,0.0,0.0,left
+volter2016great,4,riet,37,f,chimpanzee,test,1.0,1,association,association_first,observation,left,right,2,0.0,0.0,right
+volter2016great,4,riet,37,f,chimpanzee,test,1.0,2,association,association_first,observation,right,right,3,1.0,,
+volter2016great,4,riet,37,f,chimpanzee,test,2.0,3,association,association_first,observation,left,right,5,0.0,0.0,right
+volter2016great,4,riet,37,f,chimpanzee,test ,2.0,4,association,association_first,observation,right,right,7,1.0,,
+volter2016great,4,riet,37,f,chimpanzee,test,3.0,5,causal,association_first,observation,left,right,10,0.0,0.0,right
+volter2016great,4,riet,37,f,chimpanzee,test,3.0,6,causal,association_first,observation,right,right,12,1.0,,
+volter2016great,4,riet,37,f,chimpanzee,test,4.0,7,causal,association_first,observation,right,right,13,1.0,,
+volter2016great,4,riet,37,f,chimpanzee,test ,4.0,8,causal,association_first,observation,left,left,16,1.0,,
+volter2016great,4,sandra,21,f,chimpanzee,test ,1.0,1,association,association_first,observation,right,right,2,1.0,,
+volter2016great,4,sandra,21,f,chimpanzee,test,1.0,2,association,association_first,observation,left,right,4,0.0,0.0,right
+volter2016great,4,sandra,21,f,chimpanzee,test,2.0,3,association,association_first,observation,right,left,5,0.0,0.0,left
+volter2016great,4,sandra,21,f,chimpanzee,test,2.0,4,association,association_first,observation,left,left,8,1.0,,
+volter2016great,4,sandra,21,f,chimpanzee,test ,3.0,5,causal,association_first,observation,left,left,9,1.0,,
+volter2016great,4,sandra,21,f,chimpanzee,test,3.0,6,causal,association_first,observation,right,left,11,0.0,0.0,left
+volter2016great,4,sandra,21,f,chimpanzee,test,4.0,7,causal,association_first,observation,left,left,13,1.0,,
+volter2016great,4,sandra,21,f,chimpanzee,test,4.0,8,causal,association_first,observation,right,right,15,1.0,,
+volter2016great,4,tai,12,f,chimpanzee,test ,1.0,1,association,association_first,observation,left,left,1,1.0,,
+volter2016great,4,tai,12,f,chimpanzee,test,1.0,2,association,association_first,observation,right,right,3,1.0,,
+volter2016great,4,tai,21,f,chimpanzee,test,2.0,3,association,association_first,observation,right,left,6,0.0,1.0,right
+volter2016great,4,tai,21,f,chimpanzee,test,2.0,4,association,association_first,observation,left,right,7,0.0,1.0,left
+volter2016great,4,tai,21,f,chimpanzee,test ,3.0,5,causal,association_first,observation,left,left,10,1.0,,
+volter2016great,4,tai,21,f,chimpanzee,test,3.0,6,causal,association_first,observation,right,right,11,1.0,,
+volter2016great,4,tai,21,f,chimpanzee,test,4.0,7,causal,association_first,observation,right,right,13,1.0,,
+volter2016great,4,tai,21,f,chimpanzee,test,4.0,8,causal,association_first,observation,left,right,15,0.0,0.0,right
+volter2016great,4,bimbo,34,m,orangutan,test,1.0,1,association,association_first,observation,left,right,2,0.0,0.0,right
+volter2016great,4,bimbo,34,m,orangutan,test,1.0,2,association,association_first,observation,right,left,3,0.0,0.0,left
+volter2016great,4,bimbo,34,m,orangutan,test,2.0,3,association,association_first,observation,right,left,6,0.0,1.0,right
+volter2016great,4,bimbo,34,m,orangutan,test ,2.0,4,association,association_first,observation,left,right,8,0.0,0.0,right
+volter2016great,4,bimbo,34,m,orangutan,test,3.0,5,causal,association_first,observation,right,right,10,1.0,,
+volter2016great,4,bimbo,34,m,orangutan,test,3.0,6,causal,association_first,observation,left,right,11,0.0,0.0,right
+volter2016great,4,bimbo,34,m,orangutan,test,4.0,7,causal,association_first,observation,left,right,14,0.0,0.0,right
+volter2016great,4,bimbo,34,m,orangutan,test ,4.0,8,causal,association_first,observation,right,right,16,1.0,,
+volter2016great,4,dokana,26,f,orangutan,test,1.0,1,causal,causal_first,observation,left,right,1,0.0,1.0,left
+volter2016great,4,dokana,26,f,orangutan,test,1.0,2,causal,causal_first,observation,right,right,3,1.0,,
+volter2016great,4,dokana,26,f,orangutan,test,2.0,3,causal,causal_first,observation,right,right,6,1.0,,
+volter2016great,4,dokana,26,f,orangutan,test ,2.0,4,causal,causal_first,observation,left,left,8,1.0,,
+volter2016great,4,dokana,26,f,orangutan,test,3.0,5,association,causal_first,observation,right,right,9,1.0,,
+volter2016great,4,dokana,26,f,orangutan,test,3.0,6,association,causal_first,observation,left,right,12,0.0,0.0,right
+volter2016great,4,dokana,26,f,orangutan,test,4.0,7,association,causal_first,observation,right,right,13,1.0,,
+volter2016great,4,dokana,26,f,orangutan,test ,4.0,8,association,causal_first,observation,left,right,16,0.0,0.0,right
+volter2016great,4,padana,17,f,orangutan,test,1.0,1,causal,causal_first,observation,right,right,2,1.0,,
+volter2016great,4,padana,17,f,orangutan,test,1.0,2,causal,causal_first,observation,left,left,3,1.0,,
+volter2016great,4,padana,17,f,orangutan,test,2.0,3,causal,causal_first,observation,left,left,5,1.0,,
+volter2016great,4,padana,17,f,orangutan,test ,2.0,4,causal,causal_first,observation,right,right,8,1.0,,
+volter2016great,4,padana,17,f,orangutan,test,3.0,5,association,causal_first,observation,left,right,10,0.0,1.0,left
+volter2016great,4,padana,17,f,orangutan,test,3.0,6,association,causal_first,observation,right,right,12,1.0,,
+volter2016great,4,padana,17,f,orangutan,test,4.0,7,association,causal_first,observation,left,right,14,0.0,0.0,right
+volter2016great,4,padana,17,f,orangutan,test ,4.0,8,association,causal_first,observation,right,right,15,1.0,,
+volter2016great,4,pini,26,f,orangutan,test,1.0,1,association,association_first,observation,left,left,1,1.0,,
+volter2016great,4,pini,26,f,orangutan,test,1.0,2,association,association_first,observation,right,left,3,0.0,0.0,left
+volter2016great,4,pini,26,f,orangutan,test,2.0,3,association,association_first,observation,right,right,5,1.0,,
+volter2016great,4,pini,26,f,orangutan,test ,2.0,4,association,association_first,observation,left,left,7,1.0,,
+volter2016great,4,pini,26,f,orangutan,test,3.0,5,causal,association_first,observation,right,right,9,1.0,,
+volter2016great,4,pini,26,f,orangutan,test,3.0,6,causal,association_first,observation,left,left,12,1.0,,
+volter2016great,4,pini,26,f,orangutan,test,4.0,7,causal,association_first,observation,left,left,13,1.0,,
+volter2016great,4,pini,26,f,orangutan,test ,4.0,8,causal,association_first,observation,right,left,15,0.0,1.0,right
+volter2016great,4,raja,11,f,orangutan,test,1.0,1,association,association_first,observation,right,left,2,0.0,1.0,right
+volter2016great,4,raja,11,f,orangutan,test,1.0,2,association,association_first,observation,left,left,4,1.0,,
+volter2016great,4,raja,11,f,orangutan,test,3.0,3,association,association_first,observation,left,right,6,0.0,0.0,right
+volter2016great,4,raja,11,f,orangutan,test ,3.0,4,association,association_first,observation,right,left,8,0.0,1.0,right
+volter2016great,4,raja,11,f,orangutan,test,4.0,5,causal,association_first,observation,right,right,9,1.0,,
+volter2016great,4,raja,11,f,orangutan,test,4.0,6,causal,association_first,observation,left,right,11,0.0,0.0,right
+volter2016great,4,raja,11,f,orangutan,test,5.0,7,causal,association_first,observation,left,left,13,1.0,,
+volter2016great,4,raja,11,f,orangutan,test ,5.0,8,causal,association_first,observation,right,left,16,0.0,1.0,right

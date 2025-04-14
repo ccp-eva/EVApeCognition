@@ -1,0 +1,61 @@
+study_id: tennie2010evidence
+year: 2010
+reference: 'Tennie, C., Call, J., & Tomasello, M. (2010). Evidence for emulation in
+  chimpanzees in social settings using the floating peanut task. PLoS ONE, 5(5): e10544.
+  doi:10.1371/journal.pone.0010544.'
+abstract: 'Background: It is still unclear which observational learning mechanisms
+  underlie the transmission of difficult problem-solving skills in chimpanzees. In
+  particular, two different mechanisms have been proposed: imitation and emulation.
+  Previous studies have largely failed to control for social factors when these mechanisms
+  were targeted., Methods: In an attempt to resolve the existing discrepancies, we
+  adopted the ''floating peanut task'', in which subjects need to spit water into
+  a tube until it is sufficiently full for floating peanuts to be grasped. In a previous
+  study only a few chimpanzees were able to invent the necessary solution (and they
+  either did so in their first trials or never). Here we compared success levels in
+  baseline tests with two experimental conditions that followed: 1) A full model condition
+  to test whether social demonstrations would be effective, and 2) A social emulation
+  control condition, in which a human experimenter poured water from a bottle into
+  the tube, to test whether results information alone (present in both experimental
+  conditions) would also induce successes. Crucially, we controlled for social factors
+  in both experimental conditions. Both types of demonstrations significantly increased
+  successful spitting, with no differences between demonstration types. We also found
+  that younger subjects were more likely to succeed than older ones. Our analysis
+  showed that mere order effects could not explain our results., Conclusion: The full
+  demonstration condition (which potentially offers additional information to observers,
+  in the form of actions), induced no more successes than the emulation condition.
+  Hence, emulation learning could explain the success in both conditions. This finding
+  has broad implications for the interpretation of chimpanzee traditions, for which
+  emulation learning may perhaps suffice.'
+keywords: ''
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Claudio Tennie
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: dyads
+  droupouts_no: 1
+  dropout_names: Sophie
+  group_id: ngamba_chimpanzee, wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: social_learning_and_culture
+  specific_domain: social_learning_of_actions
+cognitive_domain:
+  social: true
+  physical: false

@@ -1,0 +1,19 @@
+﻿study_id,participant,age_original,sex,species,condition,trial,trial_length_seconds,spit_y_n,spit_number,1st_spit_time,success_y_n,success_time,use_drinker_y_n,1st_use_drinker_time,number_times_used_drinker,comment
+tennie2010evidence,pia,8,f,chimpanzee,full demo,1,600,n,0,,n,,y,13,5,none
+tennie2010evidence,pia,8,f,chimpanzee,full demo,2,604,y,1,62,n,,y,58,3,none
+tennie2010evidence,fraukje,31,f,chimpanzee,full demo,1,604,n,0,,n,,y,93,5,none
+tennie2010evidence,fraukje,31,f,chimpanzee,full demo,2,634,n,0,,n,,y,191,9,none
+tennie2010evidence,patrick,10,m,chimpanzee,full demo,1,622,y,4,33,n,,y,172,5,none
+tennie2010evidence,patrick,10,m,chimpanzee,full demo,2,602,y,2,245,n,,y,81,2,none
+tennie2010evidence,swela,12,f,chimpanzee,full demo,1,600,n,0,,n,,y,144,1,none
+tennie2010evidence,swela,12,f,chimpanzee,full demo,2,601,n,0,,n,,n,,0,none
+tennie2010evidence,sandra,14,f,chimpanzee,water bottle,1,1204,y,2,435,n,,y,214,10,none
+tennie2010evidence,sandra,14,f,chimpanzee,water bottle,2,1238,y,14,258,y,1300,y,170,17,none
+tennie2010evidence,unyoro,10,m,chimpanzee,water bottle,1,604,n,0,,n,,y,107,5,none
+tennie2010evidence,unyoro,10,m,chimpanzee,water bottle,2,904,n,0,,n,,y,91,3,none
+tennie2010evidence,alex,6,m,chimpanzee,water bottle,1,602,n,0,,n,,n,,0,none
+tennie2010evidence,alex,6,m,chimpanzee,water bottle,2,604,n,0,,n,,n,,0,none
+tennie2010evidence,gertrudia,14,f,chimpanzee,water bottle,1,911,y,2,47,n,,y,46,8,none
+tennie2010evidence,gertrudia,14,f,chimpanzee,water bottle,2,603,n,0,,n,,y,138,3,none
+tennie2010evidence,annett,8,f,chimpanzee,water bottle,1,607,n,0,,n,,y,20,5,none
+tennie2010evidence,annett,8,f,chimpanzee,water bottle,2,613,n,0,,n,,y,103,1,none

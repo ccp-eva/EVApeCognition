@@ -1,0 +1,52 @@
+study_id: parron2008behavioural
+year: 2008
+reference: Parron, C., Call, J., & Fagot, J. (2008). Behavioural responses to photographs
+  by pictorially naïve baboons (Papio anubis), gorillas (Gorilla gorilla) and chimpanzees
+  (Pan troglodytes). Behavioural Processes, 78(3), 351-357. doi:10.1016/j.beproc.2008.01.019.
+abstract: 'This study assessed how pictorially naïve nonhuman primates understand
+  pictures. Fifty-five baboons with no prior exposure to pictures were trained to
+  grasp a slice of banana presented against a pebble in a two alternative forced choice
+  task. Post-training testing involved three stimulus pairs: (1) real banana slice
+  vs. its picture, (2) the banana picture vs. a real pebble and (3) banana picture
+  vs. a pebble picture which were presented twice. Preliminary data were also collected
+  on naïve gorillas (n=4) and chimpanzees (n=7) using the same procedure. Baboons
+  revealed a preference for the food picture in (2) and (3) and often ate this stimulus,
+  but the food item and its picture were accurately discriminated in (1). These results
+  suggest that baboons mistook the pictorial stimulus and its referent, but processed
+  the banana pictures as poor exemplars of the real banana category. Among apes, only
+  gorillas ate the banana pictures, suggesting that picture-object confusion may also
+  occur in this species. Findings are discussed as pertaining to the general issue
+  of representational abilities in nonhuman primates, and its evolution.'
+keywords: Apes, Monkeys, Picture, Referential cognition
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Carole Parron
+  corr_author: false
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Joel Fagot
+  corr_author: true
+experiments:
+- experiment_no: 1
+  data_provided: partial
+  grouping: individuals, groups
+  droupouts_no: null
+  dropout_names: null
+  group_id: nuremberg_gorillas, wkprc_gorilla, wkprc_chimpanzee_a
+  group_id_excluded: rousset_baboons
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2006'
+  data_collection_date_comments: ''
+  age_source: calculated
+  age_source_comments: age for bianca hakuna and lena estimated
+domains:
+- domain_no: 1
+  general_domain: features_and_categories
+  specific_domain: picture_perception
+cognitive_domain:
+  social: false
+  physical: true

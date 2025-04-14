@@ -1,0 +1,63 @@
+study_id: schmelz2020psychological
+year: 2020
+reference: Schmelz, M., Grüneisen, S., & Tomasello, M. (2020). The psychological mechanisms
+  underlying reciprocal prosociality in chimpanzees (Pan troglodytes). Journal of
+  Comparative Psychology, 134(2), 149-157. doi:10.1037/com0000200.
+abstract: In both the wild and captivity, chimpanzees engage in reciprocal patterns
+  of prosocial behavior. However, the proximate mechanisms underlying these patterns
+  are unclear. In the current study, we investigated whether chimpanzees prefer to
+  act prosocially toward conspecifics who have directly benefited them (perhaps based
+  on an affective bond) or whether they simply observe the prosocial behavior of others
+  in general (including indirectly to third parties) and preferentially interact with
+  and behave prosocially toward the most prosocial individuals. We found good evidence
+  for direct reciprocity but little evidence for a general (indirect) preference for
+  prosocial individuals. These results suggest that cooperative reciprocity in chimpanzees
+  may be based mostly on social-affective processes and direct interactions.
+keywords: cooperation, prosocial behavior, chimpanzees, reciprocity, proximate
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Martin Schmelz
+  corr_author: true
+- author_no: 2
+  name: Sebastian Grueneisen
+  corr_author: false
+- author_no: 3
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: groups
+  droupouts_no: 7
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication_calculated
+  age_source_comments: Age at start of data collection, only focal_participant age
+    provided, others calculated
+- experiment_no: 2
+  data_provided: true
+  grouping: groups
+  droupouts_no: 7
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication_calculated
+  age_source_comments: Age at start of data collection, only focal_participant age
+    provided, others calculated
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: prosocial_behavior
+cognitive_domain:
+  social: true
+  physical: false

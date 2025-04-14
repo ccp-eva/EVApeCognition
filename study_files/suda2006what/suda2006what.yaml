@@ -1,0 +1,52 @@
+study_id: suda2006what
+year: 2006
+reference: 'Suda, C., & Call, J. (2006). What does an intermediate success rate mean?
+  An analysis of a Piagetian liquid conservation task in the great apes. Cognition,
+  99(1), 53-71. doi:10.1016/j.cognition.2005.01.005. '
+abstract: 'The study investigates what an intermediate success rate means in bonobos,
+  chimpanzees, and orangutans. Apes participated in liquid conservation experiments
+  where they had to track the larger of two different quantities of juice after various
+  kinds of transformations [Suda, C., & Call, J. (2004). Piagetian liquid conservation
+  in the great apes (Pan paniscus, Pan troglodytes, and Pongo pygmaeus). Journal of
+  Comparative Psychology, 118, 265-279). When making a decision, apes sometimes demonstrated
+  hesitant behavior, concurrently pointing to both alternatives or successively changing
+  their choice. Moderately successful apes showed more hesitation than highly successful
+  or unsuccessful apes. The results are consistent with the cognitive conflict model:
+  The experiments created a higher degree of cognitive conflict on moderately successful
+  apes than on very successful or unsuccessful apes. This indicates that an intermediate
+  performance reflects the joint operation and potential conflict between two different
+  cognitive strategies (identity and appearance) inherent to the Piagetian conservation
+  task.'
+keywords: Hesitation, Cognitive conflict, Intermediate success
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Chikako Suda
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 1
+  dropout_names: Sandra
+  group_id: wkprc_bonobo, wkprc_orangutan, wkprc_chimpanzee_a
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: author
+  data_collection_date: 2001-2003
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: data from 3 experiments contributed – suda2004piagetian
+domains:
+- domain_no: 1
+  general_domain: quantities_and_time
+  specific_domain: conservation_of_quantities
+- domain_no: 2
+  general_domain: theory_of_mind_and_metacognition
+  specific_domain: .nan
+cognitive_domain:
+  social: true
+  physical: true

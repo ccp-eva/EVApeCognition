@@ -1,0 +1,53 @@
+study_id: russell2008image
+year: 2008
+reference: Russell, Y., Call, J., & Dunbar, R. I. M. (2008). Image scoring in great
+  apes. Behavioural Processes, 78(1), 108-111. doi:10.1016/j.beproc.2007.10.009.
+abstract: '''Image scoring'' occurs when person A monitors the giving behaviour of
+  person B towards person C. We tested for ''image scoring'' in chimpanzees, bonobos,
+  gorillas, and orangutans. Subjects passively observed two types of incident: (i)
+  a ''nice'' person gave grapes to a human beggar, and (ii) a ''nasty'' person refused
+  to give. The subject witnessed both incidents in succession (but was unable to obtain
+  the grapes). Shortly after, the ape had an opportunity to approach one or both human
+  actors (nice/nasty), both of whom were now sitting side-by-side holding grapes.
+  However, neither human offered their grapes if approached. The subject''s expectation
+  of which human was more likely to offer food was measured by comparing the proportion
+  of time that subjects spent near each person. Chimpanzees (n=17) spent significantly
+  more time at the ''nice'' window compared to ''nasty''. Also, preference for ''nasty''
+  declined as trials progressed. Results for other apes were not significant.'
+keywords: Reputation, Image scoring, Chimpanzees, Orangutans, Bonobos, Gorillas
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Yvan Russell
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+- author_no: 3
+  name: Robin I.M. Dunbar
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_orangutan,
+    wkprc_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2004'
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: the_social_economy
+- domain_no: 2
+  general_domain: theory_of_mind_and_metacognition
+  specific_domain: understanding_goals_and_intentions
+cognitive_domain:
+  social: true
+  physical: false

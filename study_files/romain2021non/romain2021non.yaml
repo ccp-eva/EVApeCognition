@@ -1,0 +1,75 @@
+study_id: romain2021non
+year: 2021
+reference: 'Romain, A., Broihanne, M.-H., De Marco, A., Ngoubangoye, B., Call, J.,
+  Rebout, N., & Dufour, V. (2021). Non-human primates use combined rules when deciding
+  under ambiguity. Philosophical Transactions of the Royal Society B: Biological Sciences,
+  376(1819): 20190672. doi:10.1098/rstb.2019.0672.'
+abstract: Decision outcomes in unpredictable environments may not have exact known
+  probabilities. Yet the predictability level of outcomes matters in decisions, and
+  animals, including humans, generally avoid ambiguous options. Managing ambiguity
+  may be more challenging and requires stronger cognitive skills than decision-making
+  under risk, where decisions involve known probabilities. Here we compare decision-making
+  in capuchins, macaques, orangutans, gorillas, chimpanzees and bonobos in risky and
+  ambiguous contexts. Subjects were shown lotteries (a tray of potential rewards,
+  some large, some small) and could gamble a medium-sized food item to obtain one
+  of the displayed rewards. The odds of winning and losing varied and were accessible
+  in the risky context (all rewards were visible) or partially available in the ambiguous
+  context (some rewards were covered). In the latter case, the level of information
+  varied from fully ambiguous (individuals could not guess what was under the covers)
+  to predictable (individuals could guess). None of the species avoided gambling in
+  ambiguous lotteries and gambling rates were high if at least two large rewards were
+  visible. Capuchins and bonobos ignored the covered items and gorillas and macaques
+  took the presence of potential rewards into account, but only chimpanzees and orangutans
+  could consistently build correct expectations about the size of the covered rewards.
+  Chimpanzees and orangutans combined decision rules according to the number of large
+  visible rewards and the level of predictability, a process resembling conditional
+  probabilities assessment in humans. Despite a low sample size, this is the first
+  evidence in non-human primates that a combination of several rules can underlie
+  choices made in an unpredictable environment. Our finding that non-human primates
+  can deal with the uncertainty of an outcome when exchanging one food item for another
+  is a key element to the understanding of the evolutionary origins of economic behaviour.
+keywords: gambling, risk, conditional probability, decision-making, monkeys, apes
+any_data_provided: true
+authors:
+- author_no: 1
+  name: A. Romain
+  corr_author: false
+- author_no: 2
+  name: M-H. Broihanne
+  corr_author: false
+- author_no: 3
+  name: A. De Marco
+  corr_author: false
+- author_no: 4
+  name: B. Ngoubangoye
+  corr_author: false
+- author_no: 5
+  name: J. Call
+  corr_author: false
+- author_no: 6
+  name: N. Rebout
+  corr_author: false
+- author_no: 7
+  name: V. Dufour
+  corr_author: true
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_gorilla, wkprc_orangutan, cirmf_chimpanzee
+  group_id_excluded: gfpa_browncapuchinmonkey, gfpa_tonkeanmacaque
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: quantities_and_time
+  specific_domain: risk_value_and_choice
+cognitive_domain:
+  social: false
+  physical: true

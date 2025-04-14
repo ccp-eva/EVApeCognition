@@ -1,0 +1,99 @@
+study_id: volter2014great
+year: 2014
+reference: Völter, C. J., & Call, J. (2014). Great apes (Pan paniscus, Pan troglodytes,
+  Gorilla gorilla, Pongo abelii) follow visual trails to locate hidden food. Journal
+  of Comparative Psychology, 128(2), 199-208. doi:10.1037/a0035434.
+abstract: Whether nonhuman primates understand causal relations beyond mere associations
+  is still a matter of debate. We presented all four species of nonhuman great apes
+  (N = 36) with a choice between 2 opaque, upside down cups after displacing them
+  out of sight from their starting positions. Crucially, 1 of them had left a yogurt
+  trail behind it. Great apes spontaneously used the trail to select the yogurt baited
+  cup. Follow-up experiments demonstrated that chimpanzees distinguished trails based
+  on the temporal order of cause and effect by ignoring trails that were already present
+  before the reward was hidden. Additionally, chimpanzees did not select cups based
+  on the amount of yogurt near them but instead preferred cups that signaled the endpoint
+  of the trail. We conclude that apes’ choices reveal sensitivity to a causal relation
+  between cause (reward) and effect (trail) including their temporal order. (PsycINFO
+  Database Record (c) 2016 APA, all rights reserved)
+keywords: primates, cognition, causality, diagnostic reasoning
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Christoph Volter
+  corr_author: true
+- author_no: 2
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: 2
+  dropout_names: null
+  group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_gorilla, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  dropout_names: null
+  group_id: null
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 4
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+- experiment_no: 5
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
+  group_id_excluded: null
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: causal_inferences
+cognitive_domain:
+  social: false
+  physical: true

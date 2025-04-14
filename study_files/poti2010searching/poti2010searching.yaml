@@ -1,0 +1,100 @@
+study_id: poti2010searching
+year: 2010
+reference: 'Potì, P., Kanngiesser, P., Saporiti, M., Amiconi, A., Bläsing, B., & Call,
+  J. (2010). Searching in the Middle—Capuchins'' (Cebus apella) and Bonobos'' (Pan
+  paniscus) Behavior During a Spatial Search Task. Journal of Experimental Psychology:
+  Animal Behavior Processes, 36(1), 92-109. doi:10.1037/a0015970.'
+abstract: 'In this study we show that bonobos and capuchin monkeys can learn to search
+  in the middle of a landmark configuration in a small-scale space. Five bonobos (Pan
+  paniscus) and 2 capuchin monkeys (Cebus apella) were tested in a series of experiments
+  with the expansion test paradigm. The primates were trained to search in the middle
+  of a 4- or 2-landmark configuration, and were then tested with the same configuration
+  expanded. Neither species searched in the middle of the expanded 4-landmark configuration.
+  When presented with a 2-landmark configuration and a constant or variable inter-landmark
+  training distance, the subjects sometimes searched preferentially in the middle
+  of the expanded configuration. We discuss 2 alternative explanations of the results:
+  extracting a middle rule or averaging between different goal-landmark vectors. In
+  any case, compared to adult humans, primates appear highly constrained in their
+  abilities to search in the middle of a configuration of detached landmarks. We discuss
+  some of the factors that may influence the primates'' behavior in this task.'
+keywords: bonobos, capuchins, landmark configuration, middle rule, vector averaging
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Patrizia Potı
+  corr_author: true
+- author_no: 2
+  name: Patricia Kanngiesser
+  corr_author: false
+- author_no: 3
+  name: Martina Saporiti
+  corr_author: false
+- author_no: 4
+  name: Alessandra Amiconi
+  corr_author: false
+- author_no: 5
+  name: Bettina Bläsing
+  corr_author: false
+- author_no: 6
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1b
+  data_provided: partial
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo
+  group_id_excluded: istccnr_capuchinmonkey
+  data_collection_date_provided: true
+  data_collection_date_source: datset
+  data_collection_date: 2007
+  data_collection_date_comments: 2007/02/9 to 2007/02/16
+  age_source: calculated
+  age_source_comments: 1b raw
+- experiment_no: 2b
+  data_provided: partial
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo
+  group_id_excluded: istccnr_capuchinmonkey
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2007
+  data_collection_date_comments: 2007/03/03 to 2007/04/26
+  age_source: calculated
+  age_source_comments: 2b raw and 2c raw
+- experiment_no: 2c
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2007
+  data_collection_date_comments: 2007/06/04 to 2007/06/07
+  age_source: calculated
+  age_source_comments: 3b raw
+- experiment_no: 3b
+  data_provided: partial
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_bonobo
+  group_id_excluded: istccnr_capuchinmonkey
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: 2008
+  data_collection_date_comments: 2008/02/12 to 2008/12/22
+  age_source: not_provided
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: space_and_objects
+  specific_domain: space_landamarks_and_relations
+cognitive_domain:
+  social: false
+  physical: true

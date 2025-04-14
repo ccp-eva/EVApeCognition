@@ -1,0 +1,11 @@
+column_name,description
+study_id,personal study ID composed by the first authors’ first surname_year of publication_first title word 
+experiment,number of experiment from publication 
+participant,name of the participant 
+sex,sex of the participant 
+species,species of individuals participating in the study -bonobo/chimpanzee/gorilla/orangutan 
+session,set of trials - mostly occurring on the same day - usually numerical 
+trial,presentation of the experiment to the participants - usually numerical 
+condition, the type of panel between the food items and the particiapant= 3 hole/ intact/ mesh
+food_position_center, hq_front= high quality food item (grape) closer to the participant/ low quality food item (carrot) further behind the high quality food item further away from the participant/ lq_front = low quality food item closer to the participant  high quality food item further behind the high quality food item further away from the participant / nothing_front
+lateral_point, whether the participant produced a pointing gesture from the sides (the low quality and high quality food item was in the middle  lateral point could unambiguously indicate the food item in the back) 1 = yes/ 0=no

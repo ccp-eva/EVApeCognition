@@ -1,0 +1,12 @@
+column_name,description
+study_id,personal study ID composed by the first authors’ first surname_year of publication_first title word 
+experiment,number of experiment from publication 
+experiment_name,name of data subset – button_box_test
+year,year the data point was obtained  
+participant,name of the participant 
+age_in_years,age presented in years – see metadata for source of age 
+sex,sex of the participant 
+species,species of individuals participating in the study -bonobo/chimpanzee/gorilla/orangutan 
+session,set of trials - mostly occurring on the same day - usually numerical 
+period,test period containing different test sessions and which was repeated within 60 days
+duration_occupied,duration the participant was occupied with investigating the box

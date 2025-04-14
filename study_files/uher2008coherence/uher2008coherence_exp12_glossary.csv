@@ -1,0 +1,20 @@
+column_name,description
+study_id,personal study ID composed by the first authors’ first surname_year of publication_first title word 
+experiment,number of experiment from publication 
+experiment_name,name of data subset – pile_of_food_test
+year,year the data point was obtained  
+participant,name of the participant 
+age_in_years,age presented in years – see metadata for source of age 
+sex,sex of the participant 
+species,species of individuals participating in the study -bonobo/chimpanzee/gorilla/orangutan 
+session,set of trials - mostly occurring on the same day - usually numerical 
+period,test period containing different test sessions and which was repeated within 60 days
+rocking,duration in seconds participant spent rocking
+scratching,frequency of scratching behavior
+grinning,duration in seconds participant spent grinning
+vocalizing,frequency of vocalizing behavior
+pacing,duration in seconds participant spent pacing
+wrist_shaking,duration in seconds participant spent shaking their wrist
+changing_location,frequency of participants changing their location
+reaching,frequency of participants reaching the item
+frequency_of_knocking,frequency of participants knocking walls/window/floor

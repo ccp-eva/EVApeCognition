@@ -1,0 +1,16 @@
+column_name,description
+study_id,personal study ID composed by the first authors’ first surname_year of publication_first title word 
+experiment,number of experiment from publication 
+participant,name of the participant 
+age_in_years,age presented in years – see metadata for source of age
+sex,sex of the participant 
+species,species of individuals participating in the study -bonobo/chimpanzee/orangutan 
+phase,test phase = participants were presented three conditions of two trials each
+trial,presentation of the experiment to the participants - usually numerical 
+condition, within-participant experimental manipulation - baseline / two_cause/ one_cause 
+order_condition,refers to the block number -  blocks consist of three trials each one trial per condition
+instruction,type of instruction presented to the participant - demo_alone
+blicket, ID number of the functional object
+blicket_side,side on which the functional object was presented - left / right 
+first_response,whether the participant's first response was directed to the functional object (1) or to the other object (0)
+first_response_side,refers to first choice of the participant - left / right 

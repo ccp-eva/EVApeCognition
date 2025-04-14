@@ -1,0 +1,66 @@
+study_id: sabbatini2012understanding
+year: 2012
+reference: 'Sabbatini, G., Truppa, V., Hribar, A., Gambetta, B., Call, J., & Visalberghi,
+  E. (2012). Understanding the functional properties of tools: chimpanzees (Pan troglodytes)
+  and capuchin monkeys (Cebus apella) attend to tool features differently. Animal
+  Cognition, 15(4), 577-590. doi:10.1007/s10071-012-0486-x.'
+abstract: We examined whether eight capuchins and eight chimpanzees were able to retrieve
+  a reward placed inside a tube, of varying length, by selecting the correct stick
+  from different sets of three sticks differing in length (functional feature) and
+  handle (non-functional feature). Moreover, to investigate whether seeing the stick
+  inside the tube (visual feedback) improves performance, half of the subjects were
+  tested with a transparent apparatus and the other half with an opaque apparatus.
+  Phase 1 included (a) Training 1 in which each stick had a different handle and (b)
+  Transfer 1 in which the handles were switched among sticks, so that the functional
+  tool had the same length but a different handle than before. The seven chimpanzees
+  and one capuchin that passed Transfer 1 received Transfer 2. The other subjects
+  received (a) Training 2, which used the same sticks from Phase 1 with handles switched
+  in every trial, and (b) Transfer 2 in which the tube was longer, all sticks had
+  the same new handle, and the formerly longest tool became intermediate in length.
+  Eight chimpanzees and three capuchins passed Transfer 2. Results showed that (1)
+  chimpanzees applied relational structures in tool using tasks more quickly than
+  capuchins and (2) capuchins required more varied experience to attend to the functional
+  feature of the tool. Interestingly, visual feedback did not improve performance
+  in either species.
+keywords: Tool use, Functional features, Relational rules, Visual feedback, Primates
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Gloria Sabbatini
+  corr_author: true
+- author_no: 2
+  name: Valentina Truppa
+  corr_author: false
+- author_no: 3
+  name: Alenka Hribar
+  corr_author: false
+- author_no: 4
+  name: Barbara Gambetta
+  corr_author: false
+- author_no: 5
+  name: Josep Call
+  corr_author: false
+- author_no: 6
+  name: Elisabetta Visalberghi
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, istccnr_capuchinmonkey
+  group_id_excluded: null
+  data_collection_date_provided: true
+  data_collection_date_source: publication
+  data_collection_date: 2009
+  data_collection_date_comments: 2009/03 to 2009/06
+  age_source: publication
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: tools_and_causality
+  specific_domain: tool_features_and_functions
+cognitive_domain:
+  social: false
+  physical: true

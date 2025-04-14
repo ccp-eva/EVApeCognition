@@ -1,0 +1,80 @@
+study_id: tauzin2020context
+year: 2020
+reference: 'Tauzin, T., Bohn, M., Gergely, G., & Call, J. (2020). Context-sensitive
+  adjustment of pointing in great apes. Scientific Reports, 10: 1048. doi:10.1038/s41598-019-56183-7.'
+abstract: Great apes are able to request objects from humans by pointing. It is unclear,
+  however, whether this is an associated response to a certain set of cues (e.g. the
+  presence and attention of a human addressee) or a communicative signal which can
+  be adjusted to relevant aspects of the spatial and social context. In three experiments,
+  we tested captive great apes' flexible use of pointing gestures. We manipulated
+  the communicative context so that the default pointing response of apes would have
+  indicated an undesired object, either due to 1) the spatial arrangements of the
+  target objects, 2) the perspective of the addressee or 3) the knowledge of the addressee
+  about the target objects' location. The results of the three experiments indicate
+  that great apes can successfully adjust their pointing to the spatial configuration
+  of the referent environment such as distance and location of food. However, we found
+  no evidence that they take the perspective or the knowledge of the addressee into
+  account when doing so. This implies that pointing in great apes is a context-sensitive,
+  but maybe less versatile, communicative signal compared to human pointing.
+keywords: null
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Tibor Tauzin
+  corr_author: true
+- author_no: 2
+  name: Manuel Bohn
+  corr_author: false
+- author_no: 3
+  name: György Gergely
+  corr_author: false
+- author_no: 4
+  name: Josep Call
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_bonobo, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: only range
+- experiment_no: 2
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_bonobo, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: only range
+- experiment_no: 3
+  data_provided: true
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_bonobo, wkprc_orangutan
+  group_id_excluded: null
+  data_collection_date_provided: false
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: not_provided
+  age_source_comments: only range
+domains:
+- domain_no: 1
+  general_domain: social_strategies_and_communication
+  specific_domain: communication_with_humans
+cognitive_domain:
+  social: true
+  physical: false

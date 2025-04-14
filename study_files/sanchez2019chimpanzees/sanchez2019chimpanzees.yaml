@@ -1,0 +1,58 @@
+study_id: sanchez2019chimpanzees
+year: 2019
+reference: Sanchez-Amaro, A., Duguid, S., Call, J., & Tomasello, M. (2019). Chimpanzees
+  and children avoid mutual defection in a social dilemma. Evolution and Human Behavior,
+  40(1), 46-54. doi:10.1016/j.evolhumbehav.2018.07.004.
+abstract: Cooperation often comes with the temptation to defect and benefit at the
+  cost of others. This tension between cooperation and defection is best captured
+  in social dilemmas like the Prisoner's Dilemma. Adult humans have specific strategies
+  to maintain cooperation during Prisoner's Dilemma interactions. Yet, little is known
+  about the ontogenetic and phylogenetic origins of human decision-making strategies
+  in conflict scenarios. To shed light on this question, we compared the strategies
+  used by chimpanzees and 5-year old children to overcome a social dilemma. In our
+  task, waiting for the partner to act first produced the best results for the subject.
+  Alternatively, they could mutually cooperate and divide the rewards. Our findings
+  indicate that the two species differed substantially in their strategies to solve
+  the task. Chimpanzees became more strategic across the study period by waiting longer
+  to act in the social dilemma. Children developed a more efficient strategy of taking
+  turns to reciprocate their rewards. Moreover, children used specific types of communication
+  to coordinate with their partners. These results suggest that while both species
+  behaved strategically to overcome a conflict situation, only children engaged in
+  active cooperation to solve a social dilemma.
+keywords: Social dilemma, Prisoner's Dilemma, cooperation, coordination, chimpanzees,
+  children.
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Alejandro Sanchez-Amaro
+  corr_author: true
+- author_no: 2
+  name: Shona Duguid
+  corr_author: false
+- author_no: 3
+  name: Josep Call
+  corr_author: false
+- author_no: 4
+  name: Michael Tomasello
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: true
+  grouping: dyads
+  droupouts_no: 4
+  dropout_names: null
+  group_id: wkprc_chimpanzee_a,  wkprc_chimpanzee_b
+  group_id_excluded: leipzig_children
+  data_collection_date_provided: true
+  data_collection_date_source: dataset
+  data_collection_date: '2016'
+  data_collection_date_comments: 2016/07/27 to 2016/12/11
+  age_source: calculated
+  age_source_comments: ' '
+domains:
+- domain_no: 1
+  general_domain: competition_and_cooperation
+  specific_domain: collaboration
+cognitive_domain:
+  social: true
+  physical: false

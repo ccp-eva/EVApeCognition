@@ -1,0 +1,12 @@
+column_name,description
+study_id,personal study ID composed by the first authors’ first surname_year of publication_first title word 
+experiment,number of experiment from publication 
+participant,name of the participant 
+sex,sex of the participant 
+species,species of individuals participating in the study -bonobo/chimpanzee/gorilla/orangutan 
+session,set of trials - mostly occurring on the same day - usually numerical 
+trial,presentation of the experiment to the participants - usually numerical 
+condition,"the type of panel between the food items and the participant/ mesh 3 hole = plexiglas panel with 3 pointing holes at the bottom on the left and right side and in the middle"""
+experimenter,two experimenters were involved in the study. Experimenter 1  who hid the food items under opaque cups (Experimenter 1 left the testing room after hiding)/  Experimenter 2 gave the food item to the participant/  which the participant pointed at (Experimenter 2 entered the testing room after the food items were covered with opaque cups). Same = Experimenter 1 and Experimenter 2 were the same person. Different = Experimenter 1 and Experimenter 2 were different persons.
+food_position_center,hq front = high quality food item (grape) closer to the participant/ low quality food item (carrot) further behind the high quality food item further away from the participant/ lq front = low quality food item closer to the participant  high quality food item further behind the high quality food item further away from the participant
+lateral_point,whether the participant produced a pointing gesture from the sides (the low quality and high quality food item was in the middle  lateral point could unambiguously indicate the food item in the back) 1 = yes/ 0=no
