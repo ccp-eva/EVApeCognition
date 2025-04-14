@@ -1,0 +1,62 @@
+study_id: muhlenbeck2016differences
+year: 2016
+reference: 'Mühlenbeck, C., Liebal, K., Pritsch, C., & Jacobsen, T. (2016). Differences
+  in the visual perception of symmetric patterns in orangutans (Pongo pygmaeus abelii)
+  and two human cultural groups: A comparative eye-tracking study. Frontiers in Psychology,
+  7, 408. '
+abstract: Symmetric structures are of importance in relation to aesthetic preference.
+  To investigate whether the preference for symmetric patterns is unique to humans,
+  independent of their cultural background, we compared two human populations with
+  distinct cultural backgrounds (Namibian hunter-gatherers and German town dwellers)
+  with one species of non-human great apes (Orangutans) in their viewing behavior
+  regarding symmetric and asymmetric patterns in two levels of complexity. In addition,
+  the human participants were asked to give their aesthetic evaluation of a subset
+  of the presented patterns. The results showed that humans of both cultural groups
+  fixated on symmetric patterns for a longer period of time, regardless of the pattern's
+  complexity. On the contrary, Orangutans did not clearly differentiate between symmetric
+  and asymmetric patterns, but were much faster in processing the presented stimuli
+  and scanned the complete screen, while both human groups rested on the symmetric
+  pattern after a short scanning time. The aesthetic evaluation test revealed that
+  the fixation preference for symmetric patterns did not match with the aesthetic
+  evaluation in the Hai//om group, whereas in the German group aesthetic evaluation
+  was in accordance with the fixation preference in 60 percent of the cases. It can
+  be concluded that humans prefer well-ordered structures in visual processing tasks,
+  most likely because of a positive processing bias for symmetry, which Orangutans
+  did not show in this task, and that, in humans, an aesthetic preference does not
+  necessarily accompany the fixation preference.
+keywords: orangutans, aesthetic preference, cultural comparison, eye tracking, symmetry
+any_data_provided: true
+authors:
+- author_no: 1
+  name: Cordelia Mühlenbeck
+  corr_author: true
+- author_no: 2
+  name: Katja Liebal
+  corr_author: false
+- author_no: 3
+  name: Carla Pritsch
+  corr_author: false
+- author_no: 4
+  name: Thomas Jacobsen
+  corr_author: false
+experiments:
+- experiment_no: 1
+  data_provided: partial
+  grouping: individuals
+  droupouts_no: null
+  dropout_names: null
+  group_id: wkprc_orangutan
+  group_id_excluded: hai_adolescents, berlin_adolescents, hamburg_adolescents
+  data_collection_date_provided: null
+  data_collection_date_source: null
+  data_collection_date: null
+  data_collection_date_comments: ''
+  age_source: data_file
+  age_source_comments: age_in_years provided by author in data file
+domains:
+- domain_no: 1
+  general_domain: features_and_categories
+  specific_domain: discrimination_learning
+cognitive_domain:
+  social: false
+  physical: true
