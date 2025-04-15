@@ -1,4 +1,4 @@
-# EVApeCognition
+# EVApeCognition Database
 
 The **EVApeCognition Database** is an open-access collection of datasets from published great ape cognition studies. All studies included in the EVApeCognition Database were conducted at the Wolfgang Köhler Primate Research Center (WKPRC) located at Leipzig Zoo (Germany). 
 
