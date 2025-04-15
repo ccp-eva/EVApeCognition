@@ -24,6 +24,6 @@ In addition to the study-specific files in each publication folder, the reposito
 
 The EVApeCognition database complies with the **FAIR Data Principles** (Wilkinson et al., 2016). The EvApeCognition is **open-access (CC-BY 4.0)** and can be accessed here FINAL LINK. 
 
-We do not take responsibility for the accuracy or completeness of the data provided by corresponding authors in the EVApeCognition Database. The corresponding authors of the publications are responsible for the accuracy and completeness of the contributed data from their publications as they accepted the final version for each dataset contained in the EVApeCognition Database by the time of publication.
+We do not take responsibility for the accuracy or completeness of the data provided by corresponding authors in the EVApeCognition Database. The corresponding authors of the publications are responsible for the accuracy and completeness of the contributed data from their publications as they accepted the final version for each dataset contained in the EVApeCognition Database by the time of publication. UTF-8 encoding is used for both the data files and their respective glossaries. 
 
 ![Picture3](https://github.com/user-attachments/assets/2e1504be-2197-4979-9413-a094062ed067)
