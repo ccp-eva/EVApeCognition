@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/cee0bb16-3166-4109-b489-e646159b40c3" alt="Logo-EVApeCognition" width="250">
-  <img src="https://github.com/user-attachments/assets/95ab6ca5-f04a-4c9e-a2c5-0467faba852d" alt="MPG Logo" width="600">
+  <img src="https://github.com/user-attachments/assets/cee0bb16-3166-4109-b489-e646159b40c3" alt="Logo-EVApeCognition" width="200">
+  <img src="https://github.com/user-attachments/assets/95ab6ca5-f04a-4c9e-a2c5-0467faba852d" alt="MPG Logo" width="400">
 </div>
 
 
