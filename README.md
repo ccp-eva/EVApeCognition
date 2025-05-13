@@ -22,7 +22,7 @@ In addition to the study-specific files in each publication folder, the reposito
   - A csv file which includes information regarding the domains explored within the list of contributed studies
   - README file with information on database usage.
 
-To facilitate navigation of the EVApeCognition database, feel free to use the EVApeCognition.db file located in the general_files/SQLite_database/ folder. 
+To facilitate navigation of the EVApeCognition database, feel free to use the EVApeCognition.db file located in the general_files/SQLite_database/ folder. This was created using SQLite (Hipp, 2000)
 
 The EVApeCognition database complies with the **FAIR Data Principles** (Wilkinson et al., 2016). The EVApeCognition is **open-access (CC-BY 4.0)** and can be accessed here FINAL LINK. 
 
