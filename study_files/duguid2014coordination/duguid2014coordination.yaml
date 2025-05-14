@@ -38,7 +38,7 @@ experiments:
 - experiment_no: 1
   data_provided: false
   grouping: null
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: null
   group_id_excluded: null
@@ -51,7 +51,7 @@ experiments:
 - experiment_no: 2
   data_provided: partial
   grouping: dyads
-  droupouts_no: 3
+  dropouts_no: 3
   dropout_names: Dorien, Riet, Swela
   group_id: wkprc_chimpanzee_a
   group_id_excluded: leipzig_children

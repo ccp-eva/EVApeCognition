@@ -30,7 +30,7 @@ experiments:
 - experiment_no: 1
   data_provided: true
   grouping: individuals
-  droupouts_no: 0
+  dropouts_no: 0
   dropout_names: null
   group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo
   group_id_excluded: null
@@ -43,7 +43,7 @@ experiments:
 - experiment_no: 2
   data_provided: false
   grouping: dyads
-  droupouts_no: 0
+  dropouts_no: 0
   dropout_names: null
   group_id: ngamba_chimpanzee
   group_id_excluded: null

@@ -38,7 +38,7 @@ experiments:
 - experiment_no: 1
   data_provided: true
   grouping: dyads
-  droupouts_no: 2
+  dropouts_no: 2
   dropout_names: Corrie, Annett
   group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
   group_id_excluded: leipzig_children
@@ -51,7 +51,7 @@ experiments:
 - experiment_no: 2
   data_provided: false
   grouping: dyads
-  droupouts_no: 5
+  dropouts_no: 5
   dropout_names: Pasa, Kalema, Kisembo, Nani, Sally
   group_id: ngamba_chimpanzee
   group_id_excluded: null

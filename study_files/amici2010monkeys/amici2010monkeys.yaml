@@ -37,7 +37,7 @@ experiments:
 - experiment_no: 1
   data_provided: partial
   grouping: individuals
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: wkprc_chimpanzee_a, wkprc_gorilla, wkprc_bonobo, wkrpc_orangutan
   group_id_excluded: centenario_spidermonkey, istccnr_capuchinmonkey, utrecht_longtailedmacaque

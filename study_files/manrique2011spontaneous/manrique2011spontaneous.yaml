@@ -34,7 +34,7 @@ experiments:
 - experiment_no: 1
   data_provided: true
   grouping: individuals
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: wkprc_chimpanzee_b, wkprc_bonobo, wkprc_orangutan
   group_id_excluded: null
@@ -47,7 +47,7 @@ experiments:
 - experiment_no: 2
   data_provided: true
   grouping: individuals
-  droupouts_no: 5
+  dropouts_no: 5
   dropout_names: Joey, Kuno, Ulindi, Limbuko, Yasa
   group_id: wkprc_chimpanzee_b, wkprc_bonobo, wkprc_orangutan
   group_id_excluded: null
@@ -60,7 +60,7 @@ experiments:
 - experiment_no: 3
   data_provided: true
   grouping: individuals
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: wkprc_chimpanzee_b, wkprc_orangutan
   group_id_excluded: null
@@ -73,7 +73,7 @@ experiments:
 - experiment_no: 4
   data_provided: true
   grouping: individuals
-  droupouts_no: 1
+  dropouts_no: 1
   dropout_names: Dunja
   group_id: wkprc_chimpanzee_b, wkprc_orangutan
   group_id_excluded: null

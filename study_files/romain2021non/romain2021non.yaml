@@ -56,7 +56,7 @@ experiments:
 - experiment_no: 1
   data_provided: true
   grouping: individuals
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: wkprc_bonobo, wkprc_gorilla, wkprc_orangutan, cirmf_chimpanzee
   group_id_excluded: gfpa_browncapuchinmonkey, gfpa_tonkeanmacaque

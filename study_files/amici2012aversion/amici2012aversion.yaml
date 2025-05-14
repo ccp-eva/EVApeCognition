@@ -47,7 +47,7 @@ experiments:
 - experiment_no: 1
   data_provided: partial
   grouping: dyads
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_bonobo, wkprc_orangutan
   group_id_excluded: centenario_spidermonkey, istccnr_capuchinmonkey, utrecht_longtailedmacaque
@@ -60,7 +60,7 @@ experiments:
 - experiment_no: 2
   data_provided: partial
   grouping: dyads
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_bonobo, wkprc_orangutan
   group_id_excluded: centenario_spidermonkey, istccnr_capuchinmonkey, utrecht_longtailedmacaque

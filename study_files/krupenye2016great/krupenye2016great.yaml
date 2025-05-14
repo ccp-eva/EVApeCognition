@@ -35,7 +35,7 @@ experiments:
 - experiment_no: 1
   data_provided: true
   grouping: individuals
-  droupouts_no: 1
+  dropouts_no: 1
   dropout_names: Yaro
   group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_orangutan, wkprc_bonobo,
     kumamoto_chimpanzee, kumamoto_bonobo
@@ -49,7 +49,7 @@ experiments:
 - experiment_no: 2
   data_provided: true
   grouping: individuals
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_orangutan, wkprc_bonobo,
     kumamoto_chimpanzee, kumamoto_bonobo

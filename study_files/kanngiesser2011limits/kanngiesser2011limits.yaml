@@ -41,7 +41,7 @@ experiments:
 - experiment_no: 1
   data_provided: true
   grouping: individuals
-  droupouts_no: 16
+  dropouts_no: 16
   dropout_names: fifi, gertrudia, riet, tai, unyoro, dokana, kila, padana
   group_id: null
   group_id_excluded: null
@@ -54,7 +54,7 @@ experiments:
 - experiment_no: 2
   data_provided: true
   grouping: individuals
-  droupouts_no: 13
+  dropouts_no: 13
   dropout_names: annett, lome, robert, svela, kila
   group_id: wkprc_chimpanzee_a,wkprc_chimpanzee_b, wkprc_gorilla, wkprc_orangutan,
     wkprc_bonobos
@@ -67,7 +67,7 @@ experiments:
 - experiment_no: 3
   data_provided: true
   grouping: individuals
-  droupouts_no: 1
+  dropouts_no: 1
   dropout_names: yasa
   group_id: wkprc_orangutan, wkprc_bonobo
   data_collection_date_provided: true

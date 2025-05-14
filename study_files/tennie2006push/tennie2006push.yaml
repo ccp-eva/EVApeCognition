@@ -32,7 +32,7 @@ experiments:
 - experiment_no: 1
   data_provided: false
   grouping: individuals, dyads
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: lawrenceville_chimpanzee
   group_id_excluded: null
@@ -45,7 +45,7 @@ experiments:
 - experiment_no: 2
   data_provided: partial
   grouping: individuals, dyads
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_gorilla, wkprc_orangutan
   group_id_excluded: null
@@ -58,7 +58,7 @@ experiments:
 - experiment_no: 3
   data_provided: false
   grouping: null
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: null
   group_id_excluded: null

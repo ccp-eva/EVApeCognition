@@ -43,7 +43,7 @@ experiments:
 - experiment_no: 1
   data_provided: partial
   grouping: dyads
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: wkprc_chimpanzee_a, wkrpc_gorilla, wkprc_orangutan, wkprc_bonobo
   group_id_excluded: animaya_spidermonkey, georgia_capuchinmonkey

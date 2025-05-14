@@ -30,7 +30,7 @@ experiments:
 - experiment_no: 1
   data_provided: true
   grouping: indiviuals, dyads
-  droupouts_no: 7
+  dropouts_no: 7
   dropout_names: null
   group_id: wkprc_chimpanzee_a
   group_id_excluded: null

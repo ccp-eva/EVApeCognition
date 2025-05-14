@@ -35,7 +35,7 @@ experiments:
 - experiment_no: 1
   data_provided: true
   grouping: dyads
-  droupouts_no: 4
+  dropouts_no: 4
   dropout_names: Natascha, Dorien, Ulla, Corrie
   group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
   group_id_excluded: null

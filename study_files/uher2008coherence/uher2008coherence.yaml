@@ -35,7 +35,7 @@ experiments:
 - experiment_no: 0
   data_provided: true
   grouping: null
-  droupouts_no: null
+  dropouts_no: null
   group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
   data_collection_date_provided: true
   data_collection_date_source: null
@@ -46,7 +46,7 @@ experiments:
 - experiment_no: 1
   data_provided: true
   grouping: individuals
-  droupouts_no: 4
+  dropouts_no: 4
   dropout_names: ulindi, dorien, gorgo, bimbo
   group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
   data_collection_date_provided: true
@@ -58,7 +58,7 @@ experiments:
 - experiment_no: 2
   data_provided: true
   grouping: individuals
-  droupouts_no: 4
+  dropouts_no: 4
   dropout_names: ulindi, dorien, gorgo, bimbo
   group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
   data_collection_date_provided: true
@@ -70,7 +70,7 @@ experiments:
 - experiment_no: 3
   data_provided: true
   grouping: individuals
-  droupouts_no: 4
+  dropouts_no: 4
   dropout_names: ulindi, dorien, gorgo, bimbo
   group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
   data_collection_date_provided: true
@@ -82,7 +82,7 @@ experiments:
 - experiment_no: 4
   data_provided: true
   grouping: individuals
-  droupouts_no: 4
+  dropouts_no: 4
   dropout_names: ulindi, dorien, gorgo, bimbo
   group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
   data_collection_date_provided: true
@@ -94,7 +94,7 @@ experiments:
 - experiment_no: 5
   data_provided: true
   grouping: dyads
-  droupouts_no: 4
+  dropouts_no: 4
   dropout_names: ulindi, dorien, gorgo, bimbo
   group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
   data_collection_date_provided: true
@@ -106,7 +106,7 @@ experiments:
 - experiment_no: 6
   data_provided: true
   grouping: individuals
-  droupouts_no: 4
+  dropouts_no: 4
   dropout_names: ulindi, dorien, gorgo, bimbo
   group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
   data_collection_date_provided: true
@@ -118,7 +118,7 @@ experiments:
 - experiment_no: 7
   data_provided: true
   grouping: individuals
-  droupouts_no: 4
+  dropouts_no: 4
   dropout_names: ulindi, dorien, gorgo, bimbo
   group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
   data_collection_date_provided: true
@@ -130,7 +130,7 @@ experiments:
 - experiment_no: 8
   data_provided: true
   grouping: individuals
-  droupouts_no: 4
+  dropouts_no: 4
   dropout_names: ulindi, dorien, gorgo, bimbo
   group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
   data_collection_date_provided: true
@@ -142,7 +142,7 @@ experiments:
 - experiment_no: 9
   data_provided: true
   grouping: individuals
-  droupouts_no: 4
+  dropouts_no: 4
   dropout_names: ulindi, dorien, gorgo, bimbo
   group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
   data_collection_date_provided: true
@@ -154,7 +154,7 @@ experiments:
 - experiment_no: 10
   data_provided: true
   grouping: individuals
-  droupouts_no: 4
+  dropouts_no: 4
   dropout_names: ulindi, dorien, gorgo, bimbo
   group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
   data_collection_date_provided: true
@@ -166,7 +166,7 @@ experiments:
 - experiment_no: 11
   data_provided: true
   grouping: individuals
-  droupouts_no: 4
+  dropouts_no: 4
   dropout_names: ulindi, dorien, gorgo, bimbo
   group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
   data_collection_date_provided: true
@@ -178,7 +178,7 @@ experiments:
 - experiment_no: 12
   data_provided: true
   grouping: individuals
-  droupouts_no: 4
+  dropouts_no: 4
   dropout_names: ulindi, dorien, gorgo, bimbo
   group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
   data_collection_date_provided: true
@@ -190,7 +190,7 @@ experiments:
 - experiment_no: 13
   data_provided: true
   grouping: individuals
-  droupouts_no: 4
+  dropouts_no: 4
   dropout_names: ulindi, dorien, gorgo, bimbo
   group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
   data_collection_date_provided: true
@@ -202,7 +202,7 @@ experiments:
 - experiment_no: 14
   data_provided: true
   grouping: individuals
-  droupouts_no: 4
+  dropouts_no: 4
   dropout_names: ulindi, dorien, gorgo, bimbo
   group_id: wkprc_chimpanzee_a, wkprc_bonobo, wkprc_gorilla, wkprc_orangutan
   data_collection_date_provided: true

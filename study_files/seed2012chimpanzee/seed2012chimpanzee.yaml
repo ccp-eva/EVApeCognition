@@ -40,7 +40,7 @@ experiments:
 - experiment_no: 1
   data_provided: true
   grouping: individuals
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: wkprc_chimpanzee_a
   group_id_excluded: null
@@ -53,7 +53,7 @@ experiments:
 - experiment_no: 2
   data_provided: true
   grouping: individuals
-  droupouts_no: 1
+  dropouts_no: 1
   dropout_names: null
   group_id: wkprc_chimpanzee_a
   group_id_excluded: null
@@ -66,7 +66,7 @@ experiments:
 - experiment_no: 3
   data_provided: true
   grouping: individuals
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: wkprc_chimpanzee_a
   group_id_excluded: null

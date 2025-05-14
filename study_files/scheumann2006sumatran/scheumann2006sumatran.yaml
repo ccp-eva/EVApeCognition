@@ -34,7 +34,7 @@ experiments:
 - experiment_no: 1
   data_provided: true
   grouping: groups
-  droupouts_no: 2
+  dropouts_no: 2
   dropout_names: null
   group_id: wkprc_orangutan, wkprc_gibbon
   group_id_excluded: null
@@ -48,7 +48,7 @@ experiments:
 - experiment_no: 2
   data_provided: true
   grouping: groups
-  droupouts_no: 2
+  dropouts_no: 2
   dropout_names: Dunja,
   group_id: wkprc_orangutan, wkprc_gibbon
   group_id_excluded: null

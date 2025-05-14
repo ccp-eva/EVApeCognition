@@ -29,7 +29,7 @@ experiments:
 - experiment_no: 1
   data_provided: true
   grouping: individuals
-  droupouts_no: 5
+  dropouts_no: 5
   dropout_names: Jasongo, Joey, Getrudia, Pini, Fifi
   group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_orangutan
   group_id_excluded: null

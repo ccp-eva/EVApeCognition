@@ -37,7 +37,7 @@ experiments:
 - experiment_no: 1
   data_provided: true
   grouping: individuals
-  droupouts_no: 1
+  dropouts_no: 1
   dropout_names: N’Diki
   group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo, wkprc_orangutan,
     wkprc_gorilla
@@ -54,7 +54,7 @@ experiments:
 - experiment_no: 2
   data_provided: true
   grouping: individuals
-  droupouts_no: 2
+  dropouts_no: 2
   dropout_names: Bimbo, Tai
   group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo, wkprc_orangutan
   group_id_excluded: null
@@ -69,7 +69,7 @@ experiments:
 - experiment_no: 3
   data_provided: true
   grouping: individuals
-  droupouts_no: 3
+  dropouts_no: 3
   dropout_names: Ulla, Frodo, Bimbo
   group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_bonobo, wkprc_orangutan,
     wkprc_gorilla

@@ -47,7 +47,7 @@ experiments:
 - experiment_no: 1
   data_provided: partial
   grouping: individuals
-  droupouts_no: 1
+  dropouts_no: 1
   dropout_names: null
   group_id: wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b, wkprc_orangutan,
     kumamoto_chimpanzee, kumamoto_bonobo, rockefeller_rhesusmacaque
@@ -61,7 +61,7 @@ experiments:
 - experiment_no: 2
   data_provided: partial
   grouping: individuals
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b, kumamoto_chimpanzee
   group_id_excluded: leipzig_children, european_adults, japan_adults

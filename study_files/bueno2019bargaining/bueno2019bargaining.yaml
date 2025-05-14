@@ -44,7 +44,7 @@ experiments:
 - experiment_no: 1
   data_provided: true
   grouping: individuals, dyads
-  droupouts_no: false
+  dropouts_no: false
   dropout_names: null
   group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
   group_id_excluded: null

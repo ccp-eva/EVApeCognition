@@ -35,7 +35,7 @@ experiments:
 - experiment_no: 1
   data_provided: true
   grouping: individual
-  droupouts_no: 2
+  dropouts_no: 2
   dropout_names: Sandra, Lome
   group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
   group_id_excluded: null

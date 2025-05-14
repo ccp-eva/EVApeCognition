@@ -42,7 +42,7 @@ experiments:
 - experiment_no: 1
   data_provided: true
   grouping: dyads
-  droupouts_no: 1
+  dropouts_no: 1
   dropout_names: Sophie
   group_id: ngamba_chimpanzee, wkprc_chimpanzee_a, wkprc_chimpanzee_b
   group_id_excluded: null

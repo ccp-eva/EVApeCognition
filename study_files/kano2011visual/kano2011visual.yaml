@@ -38,7 +38,7 @@ experiments:
 - experiment_no: 1
   data_provided: true
   grouping: individuals
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: wkprc_gorilla, wkprc_orangutan, gari_chimpanzee, kupri_chimpanzee
   group_id_excluded: okayama_adults, kyoto_adults, leipzig_adults

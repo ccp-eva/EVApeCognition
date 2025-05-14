@@ -122,7 +122,7 @@ experiments:
 - experiment_no: 1
   data_provided: partial
   grouping: individuals, group
-  droupouts_no: 16
+  dropouts_no: 16
   dropout_names: null
   group_id: wkprc_orangutan, wkprc_chimpanzee_a
   group_id_excluded: kristiansand_ringtailedlemur, kristiansand_blackfacedspidermonkey,

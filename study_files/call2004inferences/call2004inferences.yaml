@@ -27,7 +27,7 @@ experiments:
 - experiment_no: 1
   data_provided: true
   grouping: individuals
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: wkprc_orangutan, wkprc_gorilla, wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b
   group_id_excluded: null
@@ -40,7 +40,7 @@ experiments:
 - experiment_no: 2
   data_provided: true
   grouping: individuals
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: wkprc_gorilla, wkprc_bonobo, wkprc_chimpanzee_a
   group_id_excluded: null
@@ -53,7 +53,7 @@ experiments:
 - experiment_no: 3
   data_provided: true
   grouping: individuals
-  droupouts_no: 2
+  dropouts_no: 2
   dropout_names: Vimoto, Vizuri
   group_id: wkprc_gorilla, wkprc_bonobo, wkprc_chimpanzee_a
   group_id_excluded: null
@@ -66,7 +66,7 @@ experiments:
 - experiment_no: 4
   data_provided: true
   grouping: individuals
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: wkprc_gorilla, wkprc_bonobo
   group_id_excluded: null
@@ -79,7 +79,7 @@ experiments:
 - experiment_no: 5
   data_provided: true
   grouping: individuals
-  droupouts_no: 3
+  dropouts_no: 3
   dropout_names: Robert, Patrick, Ulindi
   group_id: wkprc_orangutan, wkprc_gorilla, wkprc_bonobo, wkprc_chimpanzee_a, wkprc_chimpanzee_b
   group_id_excluded: null
@@ -92,7 +92,7 @@ experiments:
 - experiment_no: 6
   data_provided: true
   grouping: individuals
-  droupouts_no: 2
+  dropouts_no: 2
   dropout_names: Vimoto, Vizuri
   group_id: wkprc_gorilla, wkprc_bonobo, wkprc_chimpanzee_a
   group_id_excluded: null

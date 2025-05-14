@@ -30,7 +30,7 @@ experiments:
 - experiment_no: 1
   data_provided: true
   grouping: individuals
-  droupouts_no: 1
+  dropouts_no: 1
   dropout_names: Sandra
   group_id: wkprc_bonobo, wkprc_orangutan, wkprc_chimpanzee_a
   group_id_excluded: null

@@ -42,7 +42,7 @@ experiments:
 - experiment_no: 1b
   data_provided: partial
   grouping: individuals
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: wkprc_bonobo
   group_id_excluded: istccnr_capuchinmonkey
@@ -55,7 +55,7 @@ experiments:
 - experiment_no: 2b
   data_provided: partial
   grouping: individuals
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: wkprc_bonobo
   group_id_excluded: istccnr_capuchinmonkey
@@ -68,7 +68,7 @@ experiments:
 - experiment_no: 2c
   data_provided: true
   grouping: individuals
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: wkprc_bonobo
   group_id_excluded: null
@@ -81,7 +81,7 @@ experiments:
 - experiment_no: 3b
   data_provided: partial
   grouping: individuals
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: wkprc_bonobo
   group_id_excluded: istccnr_capuchinmonkey

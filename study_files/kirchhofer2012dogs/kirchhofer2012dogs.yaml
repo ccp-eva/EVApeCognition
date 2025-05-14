@@ -38,7 +38,7 @@ experiments:
 - experiment_no: 1
   data_provided: true
   grouping: individuals
-  droupouts_no: 3
+  dropouts_no: 3
   dropout_names: null
   group_id: wkprc_chimpanzee_a
   group_id_excluded: leipzig_dog, ngamba_chimpanzee

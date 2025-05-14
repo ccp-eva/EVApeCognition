@@ -36,7 +36,7 @@ experiments:
 - experiment_no: 1
   data_provided: partial
   grouping: individuals
-  droupouts_no: null
+  dropouts_no: null
   dropout_names: null
   group_id: wkprc_chimpanzee_a, wkprc_bonobo
   group_id_excluded: leipzig_dog
