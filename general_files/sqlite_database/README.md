@@ -9,7 +9,7 @@ Representation of the database structure
 ![Diagram_data_final](https://github.com/user-attachments/assets/a12dbd69-3a5b-44e7-9aa1-7a61bf9f917c)
 
 
-Here are some keywords to facilitate the creation of SQLite queries in R
+Here are some general keywords to facilitate the creation of SQLite queries in R
 
 | SQL Term     | Meaning / Usage                                                                                          | R Example (inside `dbGetQuery()`)                                    |
 | ------------ | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
@@ -24,4 +24,5 @@ Here are some keywords to facilitate the creation of SQLite queries in R
 | **HAVING**   | Filter groups created by `GROUP BY` using conditions on aggregates.                                      | `"HAVING COUNT(*) > 5"`                                              |
 | **COUNT()**  | Aggregate function counting rows in each group or total.                                                 | `"SELECT species, COUNT(*) FROM participant GROUP BY species"`       |
 | **AS**       | Rename a column or expression in the result for clarity.                                                 | `"COUNT(*) AS num_participants"`                                     |
-
+| **COALESCE** | Returns the first non-NULL value from the list. Useful to replace NULLs with default values.             | `"SELECT COALESCE(year_of_birth, 'unknown') FROM participant"`       |
+| **CAST**     | Converts `expr` to a specified data type (`TEXT`, `INTEGER`, etc.)                                       | `"SELECT CAST(year_of_birth AS TEXT) FROM participant"`              |
