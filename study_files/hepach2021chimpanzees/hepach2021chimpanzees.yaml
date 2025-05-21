@@ -1,6 +1,6 @@
 study_id: hepach2021chimpanzees
 year: 2021
-reference: Hepach, R., Vaish, A., Kano, F., Benziad, L., Call, J., & Tomasello, M.
+reference: Hepach, R., Vaish, A., Kano, F., Benziad, L., Albiach-Serrano, A., Call, J., & Tomasello, M.
   (2021). Chimpanzees’ (Pan troglodytes) internal arousal remains elevated if they
   cannot themselves help a conspecific. Journal of Comparative Psychology, 135(2),
   196-207. doi:10.1037/com0000255.
@@ -44,7 +44,7 @@ experiments:
 - experiment_no: 1
   data_provided: true
   grouping: dyads
-  dropouts_no: 5
+  droupouts_no: 5
   dropout_names: null
   group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
   group_id_excluded: null
@@ -58,7 +58,7 @@ experiments:
 - experiment_no: 2
   data_provided: true
   grouping: dyads
-  dropouts_no: 7
+  droupouts_no: 7
   dropout_names: null
   group_id: wkprc_chimpanzee_a, wkprc_chimpanzee_b
   group_id_excluded: null
