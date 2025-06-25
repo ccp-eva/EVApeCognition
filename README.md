@@ -24,7 +24,7 @@ In addition to the study-specific files in each publication folder, the reposito
 
 To facilitate navigation of the EVApeCognition database, feel free to use the EVApeCognition.db file located in the general_files/SQLite_database/ folder. This was created using SQLite (Hipp, 2000)
 
-The EVApeCognition database complies with the **FAIR Data Principles** (Wilkinson et al., 2016). The EVApeCognition is **open-access (CC-BY 4.0)** and can be accessed here FINAL LINK. 
+The EVApeCognition database complies with the **FAIR Data Principles** (Wilkinson et al., 2016). The EVApeCognition is **open-access (CC-BY 4.0)**. 
 
 We do not take responsibility for the accuracy or completeness of the data provided by corresponding authors in the EVApeCognition Database. The corresponding authors of the publications are responsible for the accuracy and completeness of the contributed data from their publications as they accepted the final version for each dataset contained in the EVApeCognition Database by the time of publication. UTF-8 encoding is used for both the data files and their respective glossaries. 
 
