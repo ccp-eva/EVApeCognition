@@ -6,7 +6,7 @@ Database created with SQLite (Hipp, 2000). See Hipp, D. R. (2000). SQLite. http:
 
 Representation of the database structure
 
-![Diagram_data_final](https://github.com/user-attachments/assets/a12dbd69-3a5b-44e7-9aa1-7a61bf9f917c)
+![Diagram_data_finalv2](https://github.com/user-attachments/assets/bd9267a6-cbd8-4a3a-b4c8-f9cd65f00d58)
 
 
 Here are some general keywords to facilitate the creation of SQLite queries in R
