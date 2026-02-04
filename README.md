@@ -1,10 +1,10 @@
- # <img src="https://github.com/user-attachments/assets/cee0bb16-3166-4109-b489-e646159b40c3" alt="Logo-EVApeCognition" width="30"> EVApeCognition Database
+ # <img src="https://github.com/user-attachments/assets/cee0bb16-3166-4109-b489-e646159b40c3" alt="Logo-EVApeCognition" width="30"> EVApeCognition Dataset
 
-The **EVApeCognition Database** is an open-access collection of datasets from published great ape cognition studies. All studies included in the EVApeCognition Database were conducted at the Wolfgang Köhler Primate Research Center (WKPRC) located at Leipzig Zoo (Germany). The EVApeCognition Database is supported by the  **Max Planck Society for the advancement of Science**. 
+The **EVApeCognition Dataset** is an open-access collection of datasets from published great ape cognition studies. All studies included in the EVApeCognition Database were conducted at the Wolfgang Köhler Primate Research Center (WKPRC) located at Leipzig Zoo (Germany). The EVApeCognition Dataset is supported by the  **Max Planck Society for the advancement of Science**. 
 
-The EVApeCognition Database is organized by publication. Each publication folder is given a unique identification comprised of the last name of the first author, the year of publication, and the first word in the title of the publication. 
+The EVApeCognition Dataset is organized by publication. Each publication folder is given a unique identification comprised of the last name of the first author, the year of publication, and the first word in the title of the publication. 
 
-Each publication folder included in the EVApeCognition Database contains the following files:
+Each publication folder included in the EVApeCognition Dataset contains the following files:
   - A metadata file (file contents listed below; .yaml) 
   - Full reference
   - Author list
@@ -24,8 +24,8 @@ In addition to the study-specific files in each publication folder, the reposito
 
 To facilitate navigation of the EVApeCognition database, feel free to use the EVApeCognition.db file located in the general_files/SQLite_database/ folder. This was created using SQLite (Hipp, 2000)
 
-The EVApeCognition database complies with the **FAIR Data Principles** (Wilkinson et al., 2016). The EVApeCognition is **open-access (CC-BY 4.0)**. 
+The EVApeCognition Dataset complies with the **FAIR Data Principles** (Wilkinson et al., 2016). The EVApeCognition is **open-access (CC-BY 4.0)**. 
 
-We do not take responsibility for the accuracy or completeness of the data provided by corresponding authors in the EVApeCognition Database. The corresponding authors of the publications are responsible for the accuracy and completeness of the contributed data from their publications as they accepted the final version for each dataset contained in the EVApeCognition Database by the time of publication. UTF-8 encoding is used for both the data files and their respective glossaries. 
+We do not take responsibility for the accuracy or completeness of the data provided by corresponding authors in the EVApeCognition Dataset. The corresponding authors of the publications are responsible for the accuracy and completeness of the contributed data from their publications as they accepted the final version for each dataset contained in the EVApeCognition Database by the time of publication. UTF-8 encoding is used for both the data files and their respective glossaries. 
 
 ![Picture3](https://github.com/user-attachments/assets/2e1504be-2197-4979-9413-a094062ed067)
