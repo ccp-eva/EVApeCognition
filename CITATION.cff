@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: EVAoeCognition Dataset
+version: 1.0.1
+doi: 10.5281/zenodo.18846349
+authors:
+  - family-names: Sánchez-Amaro
+    given-names: Alejandro
+  - family-names: Molenaar
+    given-names: Carin
