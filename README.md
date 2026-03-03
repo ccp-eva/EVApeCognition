@@ -1,5 +1,5 @@
  # <img src="https://github.com/user-attachments/assets/cee0bb16-3166-4109-b489-e646159b40c3" alt="Logo-EVApeCognition" width="30"> EVApeCognition Dataset
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18846348-blue)](https://doi.org/10.5281/zenodo.18846348)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18847000-blue)](https://doi.org/10.5281/zenodo.18847000)
 
 The **EVApeCognition Dataset** is an open-access collection of datasets from published great ape cognition studies located in https://doi.org/10.5281/zenodo.18846348. All studies included in the EVApeCognition Dataset were conducted at the Wolfgang Köhler Primate Research Center (WKPRC) located at Leipzig Zoo (Germany). The EVApeCognition Dataset is supported by the  **Max Planck Society for the advancement of Science**. 
 
