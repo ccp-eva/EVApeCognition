@@ -1,9 +1,221 @@
 cff-version: 1.2.0
 title: EVApeCognition Dataset
 version: 1.0.3
-doi: 10.5281/zenodo.18847000
+doi: 10.5281/zenodo.
 authors:
   - family-names: Sánchez-Amaro
     given-names: Alejandro
+  - family-names: Ebel van Wijk
+    given-names: Sonja
   - family-names: Molenaar
     given-names: Carin
+  - family-names: Abuova
+    given-names: Akzira
+  - family-names: Mujica-Manrique
+    given-names: Lizbeth
+  - family-names: Leisterer-Peoples
+    given-names: Sarah M.
+  - family-names: Beheim
+    given-names: Bret
+  - family-names: Maurits
+    given-names: Luke
+  - family-names: Albiach-Serrano
+    given-names: Anna
+  - family-names: Allritz
+    given-names: Matthias
+  - family-names: Altınok
+    given-names: Nazli
+  - family-names: Amici
+    given-names: Federica
+  - family-names: Auersperg
+    given-names: Alice MI
+  - family-names: Aureli
+    given-names: Filippo
+  - family-names: Bandini
+    given-names: Elisa
+  - family-names: Barth
+    given-names: Jochen
+  - family-names: Benziad
+    given-names: Leïla
+  - family-names: Bläsing
+    given-names: Bettina E.
+  - family-names: Bohn
+    given-names: Manuel
+  - family-names: Bourjade
+    given-names: Marie
+  - family-names: Bräuer
+    given-names: Juliane
+  - family-names: Broihanne
+    given-names: Marie-Hélène
+  - family-names: Brosnan
+    given-names: Sarah F.
+  - family-names: Bueno-Guerra
+    given-names: Nereida
+  - family-names: Bugnyar
+    given-names: Thomas
+  - family-names: Buttelmann
+    given-names: David
+  - family-names: Buttelmann
+    given-names: Frances
+  - family-names: Cacchione
+    given-names: Trix
+  - family-names: Carpenter
+    given-names: Malinda
+  - family-names: Colmenares
+    given-names: Fernando
+  - family-names: Crockford
+    given-names: Catherine
+  - family-names: Cronin
+    given-names: Katherine A.
+  - family-names: de las Heras
+    given-names: África
+  - family-names: De Marco
+    given-names: Arianna
+  - family-names: DeTroy
+    given-names: Sarah E.
+  - family-names: Dufour
+    given-names: Valérie
+  - family-names: Duguid
+    given-names: Shona
+  - family-names: Dunbar
+    given-names: Robin I. M.
+  - family-names: Eckert
+    given-names: Johanna
+  - family-names: Engelmann
+    given-names: Jan M.
+  - family-names: Fagot
+    given-names: Joel
+  - family-names: Fischer
+    given-names: Julia
+  - family-names: Forss
+    given-names: Sofia Ingrid Fredrika
+  - family-names: Funk
+    given-names: Martina
+  - family-names: Gergely
+    given-names: György
+  - family-names: Greenberg
+    given-names: Julia R.
+  - family-names: Großmann
+    given-names: Johannes
+  - family-names: Grüneisen
+    given-names: Sebastian
+  - family-names: Halina
+    given-names: Marta
+  - family-names: Hanus
+    given-names: Daniel
+  - family-names: Heilbronner
+    given-names: Sarah R.
+  - family-names: Heintz
+    given-names: Christophe
+  - family-names: Hepach
+    given-names: Robert
+  - family-names: Herrmann
+    given-names: Esther
+  - family-names: Hirata
+    given-names: Satoshi
+  - family-names: Hribar
+    given-names: Alenka
+  - family-names: Janzen
+    given-names: Gabriele
+  - family-names: Kaminski
+    given-names: Juliane
+  - family-names: Kanngiesser
+    given-names: Patricia
+  - family-names: Kano
+    given-names: Fumihiro
+  - family-names: Kirchhofer
+    given-names: Katharina C.
+  - family-names: Knofe
+    given-names: Hagen
+  - family-names: Kopp
+    given-names: Kathrin S.
+  - family-names: Krupenye
+    given-names: Christopher
+  - family-names: Laumer
+    given-names: Isabelle Barbara
+  - family-names: Levinson
+    given-names: Stephen C.
+  - family-names: Liszkowski
+    given-names: Ulf
+  - family-names: Manrique
+    given-names: Héctor M.
+  - family-names: Martin-Ordas
+    given-names: Gema
+  - family-names: McEwen
+    given-names: Emma Suvi
+  - family-names: Moore
+    given-names: Richard T.
+  - family-names: Munar
+    given-names: Enric
+  - family-names: Nadal
+    given-names: Marcos
+  - family-names: Nawroth
+    given-names: Christian
+  - family-names: Nolte
+    given-names: Suska
+  - family-names: Pelé
+    given-names: Marie
+  - family-names: Potì
+    given-names: Patrizia
+  - family-names: Rakoczy
+    given-names: Hannes
+  - family-names: Riedel
+    given-names: Julia
+  - family-names: Romain
+    given-names: Amélie
+  - family-names: Rossano
+    given-names: Federico
+  - family-names: Russell
+    given-names: Yvan I.
+  - family-names: Sabbatini
+    given-names: Gloria
+  - family-names: Schäfer
+    given-names: Marie
+  - family-names: Scheumann
+    given-names: Marina
+  - family-names: Schmelz
+    given-names: Martin
+  - family-names: Schmid
+    given-names: Benjamin
+  - family-names: Schmitt
+    given-names: Vanesa
+  - family-names: Sebastián-Enesco
+    given-names: Carla
+  - family-names: Seed
+    given-names: Amanda Madeleine
+  - family-names: Suda-King
+    given-names: Chikako
+  - family-names: Tauzin
+    given-names: Tibor
+  - family-names: Tempelmann
+    given-names: Sebastian
+  - family-names: Tennie
+    given-names: Claudio
+  - family-names: Truppa
+    given-names: Valentina
+  - family-names: Uher
+    given-names: Jana
+  - family-names: Vaish
+    given-names: Amrisha
+  - family-names: van Leeuwen
+    given-names: Edwin
+  - family-names: Visalberghi
+    given-names: Elisabetta M.
+  - family-names: Völter
+    given-names: Christoph J.
+  - family-names: Vonau
+    given-names: Victoria
+  - family-names: Wascher
+    given-names: Claudia A.F.
+  - family-names: Wittig
+    given-names: Roman M.
+  - family-names: Wolf
+    given-names: Wouter
+  - family-names: Tomasello
+    given-names: Michael
+  - family-names: Liebal
+    given-names: Katja
+  - family-names: Call
+    given-names: Josep
+  - family-names: Haun
+    given-names: Daniel B. M.
